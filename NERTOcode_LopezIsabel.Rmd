@@ -19,22 +19,22 @@ library(sf)
 library(viridis)
 library(ggthemes)
 library(here)
+library(tictoc)
 
 #Set up API key in Environment
 
-census_api_key("7588f82efc1da358e08fa5ab1e4ad21fce8519c3", install = TRUE)
+#census_api_key("PUT_API_KEY", install = TRUE)
 # First time, reload your environment so you can use the key without restarting R.
 readRenviron("~/.Renviron")
 # You can check it with:
-Sys.getenv("7588f82efc1da358e08fa5ab1e4ad21fce8519c3")
+#Sys.getenv("PUT_API_KEY")
+
 
 ```
 ```{r define_download_constants}
 
 # Defining Constants for downloads
 # The code when commented out checks out on accuracy assembly, all tests come back as "TRUE" 
-
-target_year<- 1990
 
 base_URL <- "https://data.bls.gov/cew/data/files/"
 
@@ -170,6 +170,12 @@ naic_years <- c(1990:2020)
 
 # Define variable for extraction in SIC data
 vars_sic <- c("annual_avg_estabs_count","annual_avg_emplvl","total_annual_wages","avg_annual_pay")
+
+# Define extra variables needed
+extra_sic_vars <- c("area_fips", "year","agglvl_code", "own_title",
+                    "industry_title")
+
+outfile_base <- here("data","sic_extracted")
 
 ```
 QCEW Downloadable Files for SIC Data set
