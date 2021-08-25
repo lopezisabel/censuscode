@@ -235,38 +235,85 @@ total_iterations <- 0
 
 # Start the loop
 
-target_year<-1975
-fip<-01003
-for (target_year in years) {
-   print(paste("'Outer' loop with year =", target_year))
-  for (fip in fips){
-    print(paste("'Middle' loop with FIPS =",fip))
-    for (annual_avg_estabs_count in vars_sic) {
-   sic_filename <- paste0(sic_prefix, target_year, sic_body)
+test_years <- c(1975,1976) # years
+test_fips <- fips #[1:20]
+
+for (this_year in test_years) {
+  tic("Year loop")
+  print(paste("'Outer' loop with year =", this_year))
+  
+  outfile <- paste0(outfile_base, "_", this_year,".csv")
+  # write out a header row
+  write_lines(paste(c(extra_sic_vars, vars_sic), collapse = ","), outfile, append = FALSE)
+  
+  sic_filename <- paste0(sic_prefix, this_year, sic_body)
   sic_URL <-
     paste0(base_URL,
-           target_year,
+           this_year,
            sic_subdirs,
            sic_filename,
            sic_extension)
   sic_local <- here("data", paste0(sic_filename, sic_extension))
-   print(sic_URL)
+  print(sic_URL)
   if (! file.exists(sic_local)) {
+    tic("Download")
     download.file(sic_URL, sic_local)
+    toc() # Download
   }
   file_list <- unzip(sic_local, list = TRUE)
-  download_list <- file_list %>%
-    filter(grepl(fips, Name))
-  sfile <- unzip(
-    sic_local,
-    files = download_list$Name,
-    junkpaths = TRUE,
-    exdir = here("data", "tmp")
-  ) %>%
-    read_csv()
-  glimpse(sfile)
-      }  
-   }
+  
+  for (this_fips in test_fips){
+    tic("Fips loop")
+    print(paste("'Middle' loop with FIPS =",this_fips))
+    download_list <- file_list %>%
+      filter(grepl(this_fips, Name))
+    
+    if(length(download_list$Name) == 0) {
+      print(paste0("No data for FIPS = ", this_fips))
+      toc() #FIPS w/out data
+    } else {
+      
+      sfile <- unzip(
+        sic_local,
+        files = (download_list$Name),
+        junkpaths = TRUE,
+        overwrite = TRUE,
+        exdir = here("data", "tmp")
+      ) 
+      fips_df <- read_csv(sfile)
+      # glimpse(fips_df)
+      
+      # This next bit subsets out the data needed and keeps both the overall 
+      # county sum and the sums by each major industry level (Federal, State, 
+      # and Private.  The last three SHOULD sum up to the countywide total, but 
+      # that doesn't seem to be the case all the time.
+      # 
+      # Note that using subset() keeps you from having to do a third nested loop.
+      # for (this_variable in vars_sic) {
+      # }  
+
+      fips_vars <- subset(fips_df, select = c(extra_sic_vars, vars_sic)) %>% 
+        filter(agglvl_code == 26 | agglvl_code == 27)  # %>% 
+      # group_by(agglvl_code) %>% 
+      # mutate(across(c(annual_avg_estabs_count:avg_annual_pay), sum))
+      # 
+      # 
+      # The last 2 lines above would have summed the 3 sectors into a total
+      # to compare with the countywide total.  I suggest doing that  
+      # in another program once this one has extracted everything.  
+      
+      # Append the info for this FIPS onto the output file.
+      write_csv(fips_vars, outfile, append = TRUE)
+      
+      # Remove the unzipped file for this FIPS
+      unlink(sfile, force = TRUE) 
+      toc() # FIPS loops
+    }
+  }
+  
+  # Done with year, remove zip file for this year
+  unlink(sic_local, force = TRUE) 
+  toc() # Year loop
 }    
 
 ```
