@@ -1,0 +1,324 @@
+---
+title: "Example download of QCEW data by County"
+author: "Dave Eslinger"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      warning = FALSE, 
+                      cache = FALSE,
+                      message = FALSE)
+```
+
+
+```{r load_libraries, include = FALSE}
+library(tidyverse)
+library(lubridate)
+library(sf)
+library(viridis)
+library(ggthemes)
+library(here)
+```
+
+
+## Get some QCEW data
+
+Get Quarterly Census of Employment and Wages (QCEW) data from 
+https://www.bls.gov/cew/downloadable-data-files.htm, where there are data from 1975 - 2020.  There are two formats: SIC for 1975 - 2000, and NAIC for 1990 - 2020.  We will need to convert between them, but with the 10-year overlap, we should be able to do that and QA/QC the conversion.
+
+Note that I am initially using the **CSVs By Area** and **Annual Averages** for both data sets.  The zipped data archives are organized by year, where each year's archive has nationwide coverage, i.e., it contains individual CSV files for each state and county.  We'll have to pull out what we need from each file.
+
+## Define constants
+
+Fortunately, the QCEW zip files have a nice, consistent pattern to their names and URLs.  We'll define some variables for the constant parts of the pattern, then we can paste those together with the desired year to have a valid URL to retrieve.
+
+The below code includes example zip file links for 1990 for both SIC and NAIC data sets.  I've used the example links to define some character strings that can be pasted together with the year needed to generate correct URLs ot download the data.  The code currently commented out is a check on the accuracy of my assembly of all those bits.  When uncommented and run, all the tests should come back "TRUE", if not, something has gone awry.
+
+```{r define_download_constants}
+target_year  <-  1990
+
+base_URL <- "https://data.bls.gov/cew/data/files/"
+
+sic_subdirs <- "/sic/csv/"
+sic_prefix <- "sic_"
+sic_body <- "_annual_by_area"
+sic_extension <- ".zip"
+
+naic_subdirs <- "/csv/"
+naic_prefix <-  ""
+naic_body <- "_annual_by_area"
+naic_extension <- ".zip"
+
+# test_sic <- "https://data.bls.gov/cew/data/files/1990/sic/csv/sic_1990_annual_by_area.zip"
+# test_naic <- "https://data.bls.gov/cew/data/files/1990/csv/1990_annual_by_area.zip"
+# 
+# sic_filename <- paste0(sic_prefix,target_year, sic_body)
+# sic_URL <- paste0(base_URL,target_year,sic_subdirs, sic_filename, sic_extension)
+# sic_URL2 <- paste0(base_URL, target_year, sic_subdirs, sic_prefix, target_year, sic_body, sic_extension)
+# 
+# naic_filename <- paste0(naic_prefix, target_year, naic_body)
+# naic_URL <- paste0(base_URL,target_year,naic_subdirs, naic_filename, naic_extension)
+# naic_URL2 <- paste0(base_URL,target_year, naic_subdirs, target_year, naic_body, naic_extension)
+# 
+# test_sic == sic_URL
+# sic_URL == sic_URL2
+# remove(test_sic, sic_URL, sic_URL2)
+# 
+# test_naic == naic_URL
+# naic_URL == naic_URL2
+# remove(test_naic, naic_URL, naic_URL2)
+
+```
+
+
+In addition to the path and URL information, we need to specify the counties, given by FIPS codes, and the years over which we'll be looking.  For this initial test, I just picked Mobile Alabama and the year 1990, which exists in both data sets.
+
+
+```{r define_additional_contants}
+
+# Define FIPS codes for areas to be summarized
+fips <- c("01097") # Testing with FIPS = 01097,  Mobile County, AL
+
+# Define years for SIC data extraction
+sic_years <- c(1990)  # Testing with 1990
+
+# Define years for NAIC data extraction
+naic_years <- c(1990)  # Testing with 1990
+```
+
+## Download and process data
+
+Now that contants are defined, we can download the SIC data.  My initial idea for this is, since we need to get nationwide data each year, that an efficient process might be:
+
+ 1. Loop through the needed years.
+
+ 2. Download the yearly zip archive.
+
+ 3. Loop through the needed FIPS.
+
+ 4. Extract only the needed FIPS-specific CSV file and read it into a dataframe.
+
+ 5. Calculate the one (up to a handful) of summary statistics need for this location and year.
+
+ 6. Add the data to a summary dataframe.
+
+ 7. Delete the CSV file and go to the next FIPS loop step, until all FIPS are completed.
+
+ 8. Delete the zip archive and go to the next year loop step, until all years are completed.
+ 
+ 
+ This approach will need to be done independently for SIC and NAIC data, since they cover different yearly ranges.  However, it is essentially the same, although the summary statistics will be calculated differently.
+
+ 
+### SIC data processing
+
+I don't actually calculate anything below.  I just use the `glimpse()` function, which gives the  size of the data set (rows and columns), names of the different columns, their types (numeric, character, logical, date) and some of the first elements of each column. 
+
+The important bit at this point is the column information: what is in the data set.  Those are the values that need to be evaluated.  Some of them will be combined to get some consistent measure of **_Coastal Economy_**.  It will probably be a different subset for each SIC and NAIC.  
+
+Also, there is a lot of data here broken down by economic sector.  That is why there are so few columns; there are the same data for different sectors, which are given by the different combinations of `title` columns. 
+
+Keep in mind that there may be a reason to look at several measures, _e.g._, wages, employment numbers, total establishments.  That is something to talk about and probably will be something your literature review makes you think about.  I suspect Kate will have much more insight.  Just remember, you need to develop some measures that will be consistent between the SIC and NAIC data sets.
+
+
+```{r download_QCEW_for_SIC}
+
+for (target_year in sic_years) {
+  sic_filename <- paste0(sic_prefix, target_year, sic_body)
+  sic_URL <-
+    paste0(base_URL,
+           target_year,
+           sic_subdirs,
+           sic_filename,
+           sic_extension)
+  sic_local <- here("data", paste0(sic_filename, sic_extension))
+  # print(sic_URL)
+  if (! file.exists(sic_local)) {
+    download.file(sic_URL, sic_local)
+  }
+  file_list <- unzip(sic_local, list = TRUE)
+  for (fip in fips) {
+    needed_name <- file_list %>%
+      filter(grepl(fips, Name))
+    sfile <- unzip(
+      sic_local,
+      files = needed_name$Name,
+      junkpaths = TRUE,
+      exdir = here("data", "tmp")
+    ) %>%
+      read_csv()
+    glimpse(sfile)
+  }
+}
+
+
+```
+
+
+### NAIC data processing
+
+Again, don't be alarmed at the long bit of output.  There are just a lot more variables to describe in the NAIC data structure.
+
+```{r download_QCEW_for_NAIC}
+
+for (target_year in naic_years) {
+  naic_filename <- paste0(naic_prefix, target_year, naic_body)
+  naic_URL <-
+    paste0(base_URL,
+           target_year,
+           naic_subdirs,
+           naic_filename,
+           naic_extension)
+  naic_local <- here("data", paste0(naic_filename, naic_extension))
+  # print(naic_URL)
+  if (! file.exists(sic_local)) {
+    download.file(naic_URL, naic_local)
+  }
+  file_list <- unzip(naic_local, list = TRUE)
+  for (fip in fips) {
+    needed_name <- file_list %>%
+      filter(grepl(fips, Name))
+    nfile <- unzip(
+      naic_local,
+      files = needed_name$Name,
+      junkpaths = TRUE,
+      exdir = here("data", "tmp")
+    ) %>%
+      read_csv()
+    glimpse(nfile)
+  }
+}
+
+```
+
+
+```{r download_QCEW_for_NAICS}
+# Download and data process (loop through all variables)
+
+# Declare sequence outside of loop
+# Data starts same year but runs through presetn
+
+years=1990:2020
+
+vars_naic <- c("annual_avg_estabs_count","annual_avg_emplvl","total_annual_wages","avg_annual_pay")
+
+# Define extra variables needed
+extra_naic_vars <- c("area_fips", "year","agglvl_code", "own_title",
+                    "industry_title")
+
+outfile_base <- here("data","naics_extracted")
+
+# Calculate the maximum iterations
+
+max_iterations <-length (years)* length (fips)* length (vars_naic)
+
+# Initialize a variable to count total iterations
+
+total_iterations <- 0
+
+# Start the loop
+
+test_years <- c(1990) # years 1990:2020
+test_fips <- fips #[1:452]
+
+for (this_year in test_years) {
+  tic("Year loop")
+  print(paste("'Outer' loop with year =", this_year))
+  
+  outfile <- paste0(outfile_base, "_", this_year,".csv")
+  # write out a header row
+  write_lines(paste(c(extra_naic_vars, vars_naic), collapse = ","), outfile, append = FALSE)
+  
+  naic_filename <- paste0(naic_prefix, this_year, naic_body)
+  naic_URL <-
+    paste0(base_URL,
+           this_year,
+           naic_subdirs,
+           naic_filename,
+           naic_extension)
+  naic_local <- here("data", paste0(naic_filename, naic_extension))
+  print(naic_URL)
+  if (! file.exists(naic_local)) {
+    tic("Download")
+    download.file(naic_URL, naic_local)
+    toc() # Download
+  }
+  file_list <- unzip(naic_local, list = TRUE)
+  
+  for (this_fips in test_fips){
+    tic("Fips loop")
+    print(paste("'Middle' loop with FIPS =",this_fips))
+    download_list <- file_list %>%
+      filter(grepl(this_fips, Name))
+    
+    if(length(download_list$Name) == 0) {
+      print(paste0("No data for FIPS = ", this_fips))
+      toc() #FIPS w/out data
+    } else {
+      
+      sfile <- unzip(
+        naic_local,
+        files = (download_list$Name),
+        junkpaths = TRUE,
+        overwrite = TRUE,
+        exdir = here("data", "tmp")
+      ) 
+      fips_df_naic <- read_csv(sfile)
+      # glimpse(fips_df)
+      
+      # This next bit subsets out the data needed and keeps both the overall 
+      # county sum and the sums by each major industry level (Federal, State, 
+      # and Private.  The last three SHOULD sum up to the countywide total
+      # that doesn't seem to be the case all the time.
+      # Note that using subset() keeps you from having to do a third nested loop.
+     
+
+      fips_vars <- subset(fips_df_naic, select = c(extra_naic_vars, vars_naic)) %>% 
+        filter(agglvl_code == 26 | agglvl_code == 27)  # %>% 
+      # These are the codes used on summary records produced by the Quarterly Census of Employment and Wages (QCEW) program to indicate the aggregation level of the data summarized on the record. These aggregation level codes are for QCEW records coded to the North American Industry Classification System (NAICS)
+      # group_by(agglvl_code) %>% 
+      # mutate(across(c(annual_avg_estabs_count:avg_annual_pay), sum))
+      # 
+      # 
+      # The last 2 lines above would have summed the 3 sectors into a total
+      # to compare with the countywide total.  I suggest doing that  
+      # in another program once this one has extracted everything.  
+      
+      # Append the info for this FIPS onto the output file.
+      write_csv(fips_vars, outfile, append = TRUE)
+      
+      # Remove the unzipped file for this FIPS
+      unlink(sfile, force = TRUE) 
+      toc() # FIPS loops
+    
+    }
+  }
+  
+  # Done with year, remove zip file for this year
+  unlink(naic_local, force = TRUE) 
+  toc() # Year loop
+}    
+
+```
+
+
+## Combine and analyze data sets
+
+Once this Will need to combine the data now that they are structured identically.  Then we can do some sort of analysis (TBD).
+
+```{r combine_sic_and_naic}
+
+# Combine, should be as simple as an rbind()
+
+```
+
+```{r  analysis}
+
+# Some cool analysis
+
+```
+

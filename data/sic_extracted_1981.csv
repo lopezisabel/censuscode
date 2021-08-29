@@ -1,0 +1,1870 @@
+area_fips,year,agglvl_code,own_title,industry_title,annual_avg_estabs_count,annual_avg_emplvl,total_annual_wages,avg_annual_pay
+01003,1981,26,Total Covered,All Industries,1833,18536,199458812,10760
+01003,1981,27,Federal Government,All Industries,11,140,2612847,18663
+01003,1981,27,State Government,All Industries,19,529,7150578,13517
+01003,1981,27,Local Government,All Industries,28,2880,30967841,10752
+01003,1981,27,Private,All Industries,1775,14987,158727546,10591
+01097,1981,26,Total Covered,All Industries,7499,130451,1927625110,14776
+01097,1981,27,Federal Government,All Industries,24,2370,54408322,22957
+01097,1981,27,State Government,All Industries,33,6607,95143565,14400
+01097,1981,27,Local Government,All Industries,46,12864,147405262,11458
+01097,1981,27,Private,All Industries,7396,108610,1630667961,15013
+02020,1981,26,Total Covered,All Industries,5205,85161,2128899283,24998
+02020,1981,27,Federal Government,All Industries,59,9574,231713153,24202
+02020,1981,27,State Government,All Industries,24,5392,153368032,28443
+02020,1981,27,Local Government,All Industries,5,7222,207595297,28744
+02020,1981,27,Private,All Industries,5117,62973,1536222801,24394
+02050,1981,26,Total Covered,All Industries,228,3085,54567650,17688
+02050,1981,27,Federal Government,All Industries,18,394,7735015,19632
+02050,1981,27,State Government,All Industries,14,210,6065227,28882
+02050,1981,27,Local Government,All Industries,29,832,14757200,17737
+02050,1981,27,Private,All Industries,167,1649,26010208,15773
+02060,1981,26,Total Covered,All Industries,61,758,19010672,25080
+02060,1981,27,Federal Government,All Industries,9,83,2164348,26076
+02060,1981,27,State Government,All Industries,5,21,776950,36997
+02060,1981,27,Local Government,All Industries,6,238,5097604,21418
+02060,1981,27,Private,All Industries,41,416,10971770,26374
+02070,1981,26,Total Covered,All Industries,135,1603,34209159,21340
+02070,1981,27,Federal Government,All Industries,8,91,1892621,20798
+02070,1981,27,State Government,All Industries,10,61,1849577,30320
+02070,1981,27,Local Government,All Industries,10,306,6615205,21618
+02070,1981,27,Private,All Industries,107,1145,23851756,20831
+02100,1981,26,Total Covered,All Industries,87,532,10227827,19225
+02100,1981,27,Federal Government,All Industries,5,8,195624,24453
+02100,1981,27,State Government,All Industries,7,40,1199315,29982
+02100,1981,27,Local Government,All Industries,3,104,2483232,23877
+02100,1981,27,Private,All Industries,72,380,6349656,16709
+02110,1981,26,Total Covered,All Industries,723,11296,284237946,25162
+02110,1981,27,Federal Government,All Industries,25,1011,26723599,26432
+02110,1981,27,State Government,All Industries,40,4006,118789375,29652
+02110,1981,27,Local Government,All Industries,4,1037,25449973,24541
+02110,1981,27,Private,All Industries,654,5242,113274999,21609
+02130,1981,26,Total Covered,All Industries,464,6330,133608216,21107
+02130,1981,27,Federal Government,All Industries,12,321,7863774,24497
+02130,1981,27,State Government,All Industries,16,438,13631895,31123
+02130,1981,27,Local Government,All Industries,8,742,17618451,23744
+02130,1981,27,Private,All Industries,428,4829,94494096,19568
+02150,1981,26,Total Covered,All Industries,368,4334,85573096,19744
+02150,1981,27,Federal Government,All Industries,9,257,7834358,30483
+02150,1981,27,State Government,All Industries,13,248,6873859,27717
+02150,1981,27,Local Government,All Industries,11,528,11618390,22004
+02150,1981,27,Private,All Industries,335,3301,59246489,17948
+02170,1981,26,Total Covered,All Industries,412,3588,77019079,21465
+02170,1981,27,Federal Government,All Industries,18,104,2725524,26206
+02170,1981,27,State Government,All Industries,15,456,12342433,27066
+02170,1981,27,Local Government,All Industries,7,797,17784703,22314
+02170,1981,27,Private,All Industries,372,2231,44166419,19796
+02180,1981,26,Total Covered,All Industries,194,2129,42692648,20052
+02180,1981,27,Federal Government,All Industries,14,145,3149803,21722
+02180,1981,27,State Government,All Industries,17,186,6409135,34457
+02180,1981,27,Local Government,All Industries,27,502,9644871,19212
+02180,1981,27,Private,All Industries,136,1296,23488839,18124
+02220,1981,26,Total Covered,All Industries,282,3715,92552656,24913
+02220,1981,27,Federal Government,All Industries,9,576,12493409,21689
+02220,1981,27,State Government,All Industries,12,219,5424417,24769
+02220,1981,27,Local Government,All Industries,4,364,9325162,25618
+02220,1981,27,Private,All Industries,257,2556,65309668,25551
+02230,1981,26,Total Covered,All Industries,122,991,18062843,18226
+02230,1981,27,Federal Government,All Industries,15,72,1733951,24082
+02230,1981,27,State Government,All Industries,5,23,729118,31700
+02230,1981,27,Local Government,All Industries,9,172,3507685,20393
+02230,1981,27,Private,All Industries,93,724,12092089,16701
+02270,1981,26,Total Covered,All Industries,91,1055,17691778,16769
+02270,1981,27,Federal Government,All Industries,8,152,3309557,21773
+02270,1981,27,State Government,All Industries,6,16,434883,27180
+02270,1981,27,Local Government,All Industries,18,452,7978897,17652
+02270,1981,27,Private,All Industries,59,435,5968441,13720
+06001,1981,26,Total Covered,All Industries,22482,486307,8663735791,17815
+06001,1981,27,Federal Government,All Industries,61,21265,494444787,23251
+06001,1981,27,State Government,All Industries,257,33419,624714591,18693
+06001,1981,27,Local Government,All Industries,133,54476,955618579,17542
+06001,1981,27,Private,All Industries,22031,377147,6588957834,17470
+06013,1981,26,Total Covered,All Industries,12252,202128,3359580406,16621
+06013,1981,27,Federal Government,All Industries,22,6722,155260782,23097
+06013,1981,27,State Government,All Industries,38,739,13920772,18837
+06013,1981,27,Local Government,All Industries,99,31724,499199286,15735
+06013,1981,27,Private,All Industries,12093,162943,2691199566,16516
+06015,1981,26,Total Covered,All Industries,493,5531,77713083,14050
+06015,1981,27,Federal Government,All Industries,6,169,3407719,20164
+06015,1981,27,State Government,All Industries,10,110,1996998,18154
+06015,1981,27,Local Government,All Industries,19,1162,15213523,13092
+06015,1981,27,Private,All Industries,458,4090,57094843,13959
+06023,1981,26,Total Covered,All Industries,3020,37485,524085246,13981
+06023,1981,27,Federal Government,All Industries,17,886,16409012,18520
+06023,1981,27,State Government,All Industries,217,2246,43605183,19414
+06023,1981,27,Local Government,All Industries,89,5458,73998610,13557
+06023,1981,27,Private,All Industries,2697,28895,390072441,13499
+06037,1981,26,Total Covered,All Industries,163538,3648739,65135244031,17851
+06037,1981,27,Federal Government,All Industries,82,70225,1639794268,23350
+06037,1981,27,State Government,All Industries,1433,55605,983777331,17692
+06037,1981,27,Local Government,All Industries,445,335451,6067812697,18088
+06037,1981,27,Private,All Industries,161578,3187458,56443859735,17708
+06041,1981,26,Total Covered,All Industries,6307,73446,1101754054,15000
+06041,1981,27,Federal Government,All Industries,12,995,22685344,22799
+06041,1981,27,State Government,All Industries,32,1162,26916355,23163
+06041,1981,27,Local Government,All Industries,77,10289,155596015,15122
+06041,1981,27,Private,All Industries,6186,61000,896556340,14697
+06045,1981,26,Total Covered,All Industries,2112,23089,293864981,12727
+06045,1981,27,Federal Government,All Industries,14,380,6785935,17857
+06045,1981,27,State Government,All Industries,24,364,6909995,18983
+06045,1981,27,Local Government,All Industries,59,4213,54618521,12964
+06045,1981,27,Private,All Industries,2015,18132,225550530,12439
+06053,1981,26,Total Covered,All Industries,6497,111258,1561407466,14034
+06053,1981,27,Federal Government,All Industries,34,7292,119985730,16454
+06053,1981,27,State Government,All Industries,75,1661,36216319,21803
+06053,1981,27,Local Government,All Industries,112,13574,215925984,15907
+06053,1981,27,Private,All Industries,6276,88731,1189279433,13403
+06055,1981,26,Total Covered,All Industries,2481,34436,472522031,13721
+06055,1981,27,Federal Government,All Industries,7,251,6067579,24173
+06055,1981,27,State Government,All Industries,97,3296,59796102,18142
+06055,1981,27,Local Government,All Industries,30,4062,57818765,14234
+06055,1981,27,Private,All Industries,2347,26827,348839585,13003
+06059,1981,26,Total Covered,All Industries,41049,879274,14498756024,16489
+06059,1981,27,Federal Government,All Industries,31,12515,248977431,19894
+06059,1981,27,State Government,All Industries,277,14636,250523500,17116
+06059,1981,27,Local Government,All Industries,225,75636,1248807522,16510
+06059,1981,27,Private,All Industries,40516,776487,12750447571,16420
+06073,1981,26,Total Covered,All Industries,34568,676246,10424315290,15414
+06073,1981,27,Federal Government,All Industries,119,41684,831844487,19955
+06073,1981,27,State Government,All Industries,335,18754,330770111,17637
+06073,1981,27,Local Government,All Industries,179,78220,1234462728,15781
+06073,1981,27,Private,All Industries,33935,537588,8027237964,14931
+06075,1981,26,Total Covered,All Industries,25250,563506,10797969557,19162
+06075,1981,27,Federal Government,All Industries,71,29551,660256343,22342
+06075,1981,27,State Government,All Industries,567,21330,419613818,19672
+06075,1981,27,Local Government,All Industries,32,37267,699589076,18772
+06075,1981,27,Private,All Industries,24580,475358,9018510320,18972
+06079,1981,26,Total Covered,All Industries,3979,48404,642999879,13284
+06079,1981,27,Federal Government,All Industries,16,611,12857777,21043
+06079,1981,27,State Government,All Industries,265,4633,96628978,20856
+06079,1981,27,Local Government,All Industries,62,5878,88795801,15106
+06079,1981,27,Private,All Industries,3636,37282,444717323,11928
+06081,1981,26,Total Covered,All Industries,12692,252532,4747022607,18797
+06081,1981,27,Federal Government,All Industries,19,6076,135576206,22313
+06081,1981,27,State Government,All Industries,43,760,14996107,19731
+06081,1981,27,Local Government,All Industries,126,23569,409737665,17384
+06081,1981,27,Private,All Industries,12504,222127,4186712629,18848
+06083,1981,26,Total Covered,All Industries,7768,131497,1924574800,14635
+06083,1981,27,Federal Government,All Industries,23,3947,80313314,20347
+06083,1981,27,State Government,All Industries,50,6718,78703781,11715
+06083,1981,27,Local Government,All Industries,102,14175,205659283,14508
+06083,1981,27,Private,All Industries,7593,106657,1559898422,14625
+06085,1981,26,Total Covered,All Industries,26511,694564,12958363612,18656
+06085,1981,27,Federal Government,All Industries,38,11145,264090538,23695
+06085,1981,27,State Government,All Industries,342,7424,130187856,17536
+06085,1981,27,Local Government,All Industries,133,61069,1007124914,16491
+06085,1981,27,Private,All Industries,25998,614926,11556960304,18794
+06087,1981,26,Total Covered,All Industries,4637,64847,820537881,12653
+06087,1981,27,Federal Government,All Industries,7,437,9881558,22612
+06087,1981,27,State Government,All Industries,35,3941,45083930,11439
+06087,1981,27,Local Government,All Industries,67,8512,117663835,13823
+06087,1981,27,Private,All Industries,4528,51957,647908558,12470
+06095,1981,26,Total Covered,All Industries,3742,69870,1127165361,16132
+06095,1981,27,Federal Government,All Industries,34,14556,325269688,22346
+06095,1981,27,State Government,All Industries,55,1359,29039185,21368
+06095,1981,27,Local Government,All Industries,56,9513,149726127,15739
+06095,1981,27,Private,All Industries,3597,44442,623130361,14021
+06097,1981,26,Total Covered,All Industries,7990,98184,1377072398,14025
+06097,1981,27,Federal Government,All Industries,21,1265,27138668,21453
+06097,1981,27,State Government,All Industries,189,4139,74522623,18004
+06097,1981,27,Local Government,All Industries,108,13059,189754258,14530
+06097,1981,27,Private,All Industries,7672,79721,1085656849,13618
+06111,1981,26,Total Covered,All Industries,9176,169774,2572784772,15154
+06111,1981,27,Federal Government,All Industries,30,10180,228125389,22409
+06111,1981,27,State Government,All Industries,103,3262,62125148,19045
+06111,1981,27,Local Government,All Industries,94,23391,368863932,15769
+06111,1981,27,Private,All Industries,8949,132941,1913670303,14394
+09001,1981,26,Total Covered,All Industries,22919,375655,6860400190,18262
+09001,1981,27,Federal Government,All Industries,64,3552,86602802,24381
+09001,1981,27,State Government,All Industries,348,5211,83805415,16082
+09001,1981,27,Local Government,All Industries,365,28672,437083718,15244
+09001,1981,27,Private,All Industries,22142,338220,6252908255,18487
+09007,1981,26,Total Covered,All Industries,3081,49469,717245662,14498
+09007,1981,27,Federal Government,All Industries,31,292,6634117,22719
+09007,1981,27,State Government,All Industries,37,2805,44964793,16030
+09007,1981,27,Local Government,All Industries,183,4322,52392856,12122
+09007,1981,27,Private,All Industries,2830,42050,613253896,14583
+09009,1981,26,Total Covered,All Industries,17796,316496,4657244649,14715
+09009,1981,27,Federal Government,All Industries,65,5345,119113152,22284
+09009,1981,27,State Government,All Industries,137,8451,136323812,16131
+09009,1981,27,Local Government,All Industries,457,27879,351396803,12604
+09009,1981,27,Private,All Industries,17137,274821,4050410882,14738
+09011,1981,26,Total Covered,All Industries,4833,96598,1533579987,15875
+09011,1981,27,Federal Government,All Industries,67,4394,88473129,20134
+09011,1981,27,State Government,All Industries,78,3994,64495638,16148
+09011,1981,27,Local Government,All Industries,285,7557,97260229,12870
+09011,1981,27,Private,All Industries,4403,80653,1283350991,15912
+10001,1981,26,Total Covered,All Industries,1629,31936,417998611,13088
+10001,1981,27,Federal Government,All Industries,29,2146,39923958,18603
+10001,1981,27,State Government,All Industries,49,5188,79114332,15249
+10001,1981,27,Local Government,All Industries,20,3086,37962681,12301
+10001,1981,27,Private,All Industries,1531,21516,260997640,12130
+10003,1981,26,Total Covered,All Industries,7445,185366,3276589864,17676
+10003,1981,27,Federal Government,All Industries,33,2727,63331468,23223
+10003,1981,27,State Government,All Industries,44,11750,149296261,12706
+10003,1981,27,Local Government,All Industries,34,11309,172608190,15262
+10003,1981,27,Private,All Industries,7334,159580,2891353945,18118
+10005,1981,26,Total Covered,All Industries,2132,33770,413955741,12258
+10005,1981,27,Federal Government,All Industries,29,448,8886189,19835
+10005,1981,27,State Government,All Industries,10,1332,16997102,12760
+10005,1981,27,Local Government,All Industries,34,2694,32207296,11955
+10005,1981,27,Private,All Industries,2059,29296,355865154,12147
+11001,1981,26,Total Covered,All Industries,16786,593878,12329539901,20761
+11001,1981,27,Federal Government,All Industries,215,223579,5642911488,25239
+11001,1981,27,State Government,All Industries,10,41585,854724587,20553
+11001,1981,27,Local Government,All Industries,0,0,0,0
+11001,1981,27,International Government,All Industries,0,0,0,0
+11001,1981,27,Private,All Industries,16558,323448,5713734695,17665
+12005,1981,26,Total Covered,All Industries,2380,34001,416923295,12262
+12005,1981,27,Federal Government,All Industries,29,2589,49765993,19222
+12005,1981,27,State Government,All Industries,48,661,8918129,13491
+12005,1981,27,Local Government,All Industries,28,4737,56308249,11886
+12005,1981,27,Private,All Industries,2275,26014,301930924,11606
+12009,1981,26,Total Covered,All Industries,5386,105696,1653866500,15647
+12009,1981,27,Federal Government,All Industries,25,5529,137248011,24823
+12009,1981,27,State Government,All Industries,45,1192,15902073,13340
+12009,1981,27,Local Government,All Industries,36,11750,145132161,12351
+12009,1981,27,Private,All Industries,5280,87225,1355584255,15541
+12011,1981,26,Total Covered,All Industries,26273,361144,5110323086,14150
+12011,1981,27,Federal Government,All Industries,24,3164,81948071,25900
+12011,1981,27,State Government,All Industries,63,5003,69243863,13840
+12011,1981,27,Local Government,All Industries,65,37349,591877290,15847
+12011,1981,27,Private,All Industries,26121,315628,4367253862,13836
+12015,1981,26,Total Covered,All Industries,1240,14550,174368407,11984
+12015,1981,27,Federal Government,All Industries,4,135,2821857,20902
+12015,1981,27,State Government,All Industries,16,119,1505610,12652
+12015,1981,27,Local Government,All Industries,13,1562,20646304,13217
+12015,1981,27,Private,All Industries,1207,12734,149394636,11731
+12017,1981,26,Total Covered,All Industries,1001,11326,137653264,12153
+12017,1981,27,Federal Government,All Industries,4,87,1829964,21034
+12017,1981,27,State Government,All Industries,16,130,1590034,12231
+12017,1981,27,Local Government,All Industries,14,1932,21207467,10976
+12017,1981,27,Private,All Industries,967,9177,113025799,12316
+12019,1981,26,Total Covered,All Industries,1112,14015,160302648,11437
+12019,1981,27,Federal Government,All Industries,6,210,4404550,20974
+12019,1981,27,State Government,All Industries,22,244,2675599,10965
+12019,1981,27,Local Government,All Industries,14,2221,26285310,11834
+12019,1981,27,Private,All Industries,1070,11340,126937189,11193
+12021,1981,26,Total Covered,All Industries,3146,39081,450593544,11529
+12021,1981,27,Federal Government,All Industries,5,275,5944695,21617
+12021,1981,27,State Government,All Industries,27,330,3935186,11924
+12021,1981,27,Local Government,All Industries,15,3234,45501591,14069
+12021,1981,27,Private,All Industries,3099,35242,395212072,11214
+12029,1981,26,Total Covered,All Industries,163,1768,18899854,10689
+12029,1981,27,Federal Government,All Industries,4,31,684306,22074
+12029,1981,27,State Government,All Industries,15,241,3615337,15001
+12029,1981,27,Local Government,All Industries,9,354,3171044,8957
+12029,1981,27,Private,All Industries,135,1142,11429167,10008
+12031,1981,26,Total Covered,All Industries,12251,251839,3673046849,14584
+12031,1981,27,Federal Government,All Industries,55,12989,273793145,21078
+12031,1981,27,State Government,All Industries,69,4742,65421012,13796
+12031,1981,27,Local Government,All Industries,15,25722,345403308,13428
+12031,1981,27,Private,All Industries,12112,208386,2988429384,14340
+12033,1981,26,Total Covered,All Industries,4378,86528,1191629165,13771
+12033,1981,27,Federal Government,All Industries,33,9296,196396093,21126
+12033,1981,27,State Government,All Industries,59,2920,39115024,13395
+12033,1981,27,Local Government,All Industries,17,8843,109003928,12326
+12033,1981,27,Private,All Industries,4269,65469,847114120,12939
+12035,1981,26,Total Covered,All Industries,295,3088,36995571,11980
+12035,1981,27,Federal Government,All Industries,2,16,344072,21504
+12035,1981,27,State Government,All Industries,11,70,879097,12558
+12035,1981,27,Local Government,All Industries,11,481,4807768,9995
+12035,1981,27,Private,All Industries,271,2521,30964634,12282
+12037,1981,26,Total Covered,All Industries,219,1574,15127034,9610
+12037,1981,27,Federal Government,All Industries,5,33,704986,21363
+12037,1981,27,State Government,All Industries,16,126,1504744,11942
+12037,1981,27,Local Government,All Industries,12,422,4192926,9935
+12037,1981,27,Private,All Industries,186,993,8724378,8785
+12045,1981,26,Total Covered,All Industries,199,3172,46362063,14616
+12045,1981,27,Federal Government,All Industries,2,17,399988,23528
+12045,1981,27,State Government,All Industries,16,82,902720,11008
+12045,1981,27,Local Government,All Industries,9,503,5662478,11257
+12045,1981,27,Private,All Industries,172,2570,39396877,15329
+12053,1981,26,Total Covered,All Industries,786,9613,107089042,11140
+12053,1981,27,Federal Government,All Industries,5,105,2304754,21950
+12053,1981,27,State Government,All Industries,20,260,3210819,12349
+12053,1981,27,Local Government,All Industries,12,1974,22755031,11527
+12053,1981,27,Private,All Industries,749,7274,78818438,10835
+12057,1981,26,Total Covered,All Industries,14418,287889,3985308478,13843
+12057,1981,27,Federal Government,All Industries,48,6984,142167768,20356
+12057,1981,27,State Government,All Industries,82,9308,122440485,13154
+12057,1981,27,Local Government,All Industries,23,28361,368949328,13009
+12057,1981,27,Private,All Industries,14265,243236,3351750897,13779
+12061,1981,26,Total Covered,All Industries,1762,21910,282835781,12908
+12061,1981,27,Federal Government,All Industries,6,208,5412772,26022
+12061,1981,27,State Government,All Industries,23,205,2630602,12832
+12061,1981,27,Local Government,All Industries,18,2915,38808578,13313
+12061,1981,27,Private,All Industries,1715,18582,235983829,12699
+12065,1981,26,Total Covered,All Industries,195,2383,23364419,9804
+12065,1981,27,Federal Government,All Industries,3,32,571800,17868
+12065,1981,27,State Government,All Industries,15,108,1307078,12102
+12065,1981,27,Local Government,All Industries,8,441,4635222,10510
+12065,1981,27,Private,All Industries,169,1802,16850319,9350
+12071,1981,26,Total Covered,All Industries,5514,72822,908443246,12474
+12071,1981,27,Federal Government,All Industries,22,760,18169281,23906
+12071,1981,27,State Government,All Industries,50,1979,22344919,11291
+12071,1981,27,Local Government,All Industries,32,8456,108419060,12821
+12071,1981,27,Private,All Industries,5410,61627,759509986,12324
+12075,1981,26,Total Covered,All Industries,357,3589,40692805,11338
+12075,1981,27,Federal Government,All Industries,5,46,784726,17059
+12075,1981,27,State Government,All Industries,19,204,2436513,11943
+12075,1981,27,Local Government,All Industries,17,866,9128771,10541
+12075,1981,27,Private,All Industries,316,2473,28342795,11460
+12077,1981,26,Total Covered,All Industries,77,811,8845592,10907
+12077,1981,27,Federal Government,All Industries,2,41,595192,14516
+12077,1981,27,State Government,All Industries,8,33,404432,12255
+12077,1981,27,Local Government,All Industries,7,190,1789425,9418
+12077,1981,27,Private,All Industries,60,547,6056543,11072
+12081,1981,26,Total Covered,All Industries,3203,48810,579777115,11878
+12081,1981,27,Federal Government,All Industries,9,365,8465331,23192
+12081,1981,27,State Government,All Industries,30,537,7007926,13050
+12081,1981,27,Local Government,All Industries,29,7347,80826910,11001
+12081,1981,27,Private,All Industries,3135,40561,483476948,11919
+12085,1981,26,Total Covered,All Industries,1976,22619,309276626,13673
+12085,1981,27,Federal Government,All Industries,6,145,3248670,22404
+12085,1981,27,State Government,All Industries,23,173,2105306,12169
+12085,1981,27,Local Government,All Industries,14,2086,23836537,11426
+12085,1981,27,Private,All Industries,1933,20215,280086113,13855
+12087,1981,26,Total Covered,All Industries,2002,20723,232477745,11218
+12087,1981,27,Federal Government,All Industries,18,887,18519748,20879
+12087,1981,27,State Government,All Industries,32,424,5624132,13264
+12087,1981,27,Local Government,All Industries,15,3184,39494670,12404
+12087,1981,27,Private,All Industries,1937,16228,168839195,10404
+12089,1981,26,Total Covered,All Industries,591,8792,142716629,16232
+12089,1981,27,Federal Government,All Industries,6,609,23452629,38510
+12089,1981,27,State Government,All Industries,16,215,2435814,11329
+12089,1981,27,Local Government,All Industries,13,1413,15090227,10679
+12089,1981,27,Private,All Industries,556,6555,101737959,15520
+12091,1981,26,Total Covered,All Industries,2275,34505,430000088,12461
+12091,1981,27,Federal Government,All Industries,25,5798,117544737,20273
+12091,1981,27,State Government,All Industries,26,330,4445877,13472
+12091,1981,27,Local Government,All Industries,25,4228,51979895,12294
+12091,1981,27,Private,All Industries,2199,24149,256029579,10602
+12099,1981,26,Total Covered,All Industries,15742,231830,3333639046,14379
+12099,1981,27,Federal Government,All Industries,25,2126,52562831,24723
+12099,1981,27,State Government,All Industries,74,4539,66946234,14749
+12099,1981,27,Local Government,All Industries,79,23710,314336348,13257
+12099,1981,27,Private,All Industries,15564,201455,2899793633,14394
+12101,1981,26,Total Covered,All Industries,2793,36363,403605955,11099
+12101,1981,27,Federal Government,All Industries,8,380,8350918,21976
+12101,1981,27,State Government,All Industries,21,309,3757177,12159
+12101,1981,27,Local Government,All Industries,22,5625,61657203,10961
+12101,1981,27,Private,All Industries,2742,30049,329840657,10976
+12103,1981,26,Total Covered,All Industries,15605,248188,3213720772,12948
+12103,1981,27,Federal Government,All Industries,21,4710,105154759,22325
+12103,1981,27,State Government,All Industries,0,0,0,0
+12103,1981,27,Local Government,All Industries,47,21824,300648133,13776
+12103,1981,27,International Government,All Industries,0,0,0,0
+12103,1981,27,Private,All Industries,15482,218863,2771118849,12661
+12107,1981,26,Total Covered,All Industries,906,12145,158495066,13050
+12107,1981,27,Federal Government,All Industries,11,164,3146055,19183
+12107,1981,27,State Government,All Industries,25,291,3632189,12481
+12107,1981,27,Local Government,All Industries,16,2400,25741339,10725
+12107,1981,27,Private,All Industries,854,9290,125975483,13560
+12109,1981,26,Total Covered,All Industries,1173,14142,150470034,10639
+12109,1981,27,Federal Government,All Industries,11,227,4541473,20006
+12109,1981,27,State Government,All Industries,27,828,11947035,14428
+12109,1981,27,Local Government,All Industries,13,1754,20838238,11880
+12109,1981,27,Private,All Industries,1122,11333,113143288,9983
+12111,1981,26,Total Covered,All Industries,1966,30508,390731095,12807
+12111,1981,27,Federal Government,All Industries,12,233,5369070,23043
+12111,1981,27,State Government,All Industries,38,825,10953222,13276
+12111,1981,27,Local Government,All Industries,16,3407,44822145,13155
+12111,1981,27,Private,All Industries,1900,26043,329586658,12655
+12113,1981,26,Total Covered,All Industries,785,11556,147483341,12762
+12113,1981,27,Federal Government,All Industries,13,811,14277588,17604
+12113,1981,27,State Government,All Industries,28,374,4707869,12587
+12113,1981,27,Local Government,All Industries,14,2612,29099135,11140
+12113,1981,27,Private,All Industries,730,7759,99398749,12810
+12115,1981,26,Total Covered,All Industries,6278,73219,920830737,12576
+12115,1981,27,Federal Government,All Industries,10,631,16420161,26022
+12115,1981,27,State Government,All Industries,39,1204,14596465,12123
+12115,1981,27,Local Government,All Industries,22,8070,102076898,12648
+12115,1981,27,Private,All Industries,6207,63314,787737213,12441
+12123,1981,26,Total Covered,All Industries,347,5770,83929815,14545
+12123,1981,27,Federal Government,All Industries,3,32,510420,15950
+12123,1981,27,State Government,All Industries,18,176,2227048,12653
+12123,1981,27,Local Government,All Industries,10,791,8407263,10628
+12123,1981,27,Private,All Industries,316,4771,72785084,15255
+12127,1981,26,Total Covered,All Industries,6032,80662,928767225,11514
+12127,1981,27,Federal Government,All Industries,16,675,16972199,25143
+12127,1981,27,State Government,All Industries,46,1483,20062229,13528
+12127,1981,27,Local Government,All Industries,35,11795,145552587,12340
+12127,1981,27,Private,All Industries,5935,66709,746180210,11185
+12129,1981,26,Total Covered,All Industries,146,1953,21569773,11044
+12129,1981,27,Federal Government,All Industries,3,40,724772,18119
+12129,1981,27,State Government,All Industries,14,65,742969,11430
+12129,1981,27,Local Government,All Industries,9,476,4570819,9602
+12129,1981,27,Private,All Industries,120,1372,15531213,11320
+12131,1981,26,Total Covered,All Industries,317,4113,38683315,9405
+12131,1981,27,Federal Government,All Industries,6,66,1190996,18045
+12131,1981,27,State Government,All Industries,19,189,2429318,12853
+12131,1981,27,Local Government,All Industries,10,854,8108316,9494
+12131,1981,27,Private,All Industries,282,3004,26954685,8972
+13025,1981,26,Total Covered,All Industries,76,878,8574878,9766
+13025,1981,27,Federal Government,All Industries,6,22,361151,16415
+13025,1981,27,State Government,All Industries,4,24,275442,11476
+13025,1981,27,Local Government,All Industries,4,344,3005363,8736
+13025,1981,27,Private,All Industries,62,488,4932922,10108
+13029,1981,26,Total Covered,All Industries,112,1363,14097976,10343
+13029,1981,27,Federal Government,All Industries,6,23,370510,16109
+13029,1981,27,State Government,All Industries,9,80,1014097,12676
+13029,1981,27,Local Government,All Industries,5,305,2914066,9554
+13029,1981,27,Private,All Industries,92,955,9799303,10261
+13039,1981,26,Total Covered,All Industries,245,4625,72942264,15771
+13039,1981,27,Federal Government,All Industries,6,131,2590445,19774
+13039,1981,27,State Government,All Industries,8,65,714220,10988
+13039,1981,27,Local Government,All Industries,6,607,6384118,10517
+13039,1981,27,Private,All Industries,225,3822,63253481,16549
+13049,1981,26,Total Covered,All Industries,116,1636,16607921,10151
+13049,1981,27,Federal Government,All Industries,3,12,234199,19516
+13049,1981,27,State Government,All Industries,6,55,587442,10680
+13049,1981,27,Local Government,All Industries,8,359,3306966,9211
+13049,1981,27,Private,All Industries,99,1210,12479314,10313
+13051,1981,26,Total Covered,All Industries,4046,82394,1158951656,14065
+13051,1981,27,Federal Government,All Industries,26,2464,55255350,22425
+13051,1981,27,State Government,All Industries,0,0,0,0
+13051,1981,27,Local Government,All Industries,47,8586,108185245,12600
+13051,1981,27,International Government,All Industries,0,0,0,0
+13051,1981,27,Private,All Industries,3924,68234,945732613,13860
+13127,1981,26,Total Covered,All Industries,1358,23858,309796437,12985
+13127,1981,27,Federal Government,All Industries,17,550,13360561,24291
+13127,1981,27,State Government,All Industries,34,907,11649246,12843
+13127,1981,27,Local Government,All Industries,35,3233,37150649,11491
+13127,1981,27,Private,All Industries,1272,19168,247635981,12919
+13179,1981,26,Total Covered,All Industries,342,7884,104806690,13293
+13179,1981,27,Federal Government,All Industries,19,3020,52862253,17504
+13179,1981,27,State Government,All Industries,10,98,1212444,12371
+13179,1981,27,Local Government,All Industries,13,1014,9540164,9408
+13179,1981,27,Private,All Industries,300,3752,41191829,10978
+13191,1981,26,Total Covered,All Industries,138,1569,14126031,9003
+13191,1981,27,Federal Government,All Industries,5,14,240002,17143
+13191,1981,27,State Government,All Industries,11,84,1030295,12265
+13191,1981,27,Local Government,All Industries,3,313,3261277,10419
+13191,1981,27,Private,All Industries,119,1158,9594457,8285
+13305,1981,26,Total Covered,All Industries,385,6950,97372464,14010
+13305,1981,27,Federal Government,All Industries,5,38,763986,20104
+13305,1981,27,State Government,All Industries,11,363,5073420,13976
+13305,1981,27,Local Government,All Industries,25,1076,10123861,9408
+13305,1981,27,Private,All Industries,344,5473,81411197,14875
+15001,1981,26,Total Covered,All Industries,2126,31747,421406685,13273
+15001,1981,27,Federal Government,All Industries,4,228,4760412,20879
+15001,1981,27,State Government,All Industries,30,4117,69746545,16941
+15001,1981,27,Local Government,All Industries,33,1824,25980758,14243
+15001,1981,27,Private,All Industries,2059,25578,320918970,12546
+15003,1981,26,Total Covered,All Industries,15611,322567,4642543798,14392
+15003,1981,27,Federal Government,All Industries,29,15322,355074371,23174
+15003,1981,27,State Government,All Industries,42,36575,528979107,14462
+15003,1981,27,Local Government,All Industries,26,9526,158056561,16592
+15003,1981,27,Private,All Industries,15514,261144,3600433759,13787
+15007,1981,26,Total Covered,All Industries,905,15908,208196908,13087
+15007,1981,27,Federal Government,All Industries,2,47,1033768,21995
+15007,1981,27,State Government,All Industries,0,0,0,0
+15007,1981,27,Local Government,All Industries,0,0,0,0
+15007,1981,27,Private,All Industries,852,13349,166095204,12442
+15009,1981,26,Total Covered,All Industries,1814,30259,407333437,13461
+15009,1981,27,Federal Government,All Industries,5,264,6365867,24113
+15009,1981,27,State Government,All Industries,54,2835,45901015,16190
+15009,1981,27,Local Government,All Industries,44,1171,18662897,15937
+15009,1981,27,Private,All Industries,1711,25989,336403658,12944
+17031,1981,26,Total Covered,All Industries,88481,2374876,43239081456,18206
+17031,1981,27,Federal Government,All Industries,190,55237,1272647112,23039
+17031,1981,27,Local Government,All Industries,708,217349,3930078733,18081
+17031,1981,27,Private,All Industries,87583,2102290,38036355611,18092
+17097,1981,26,Total Covered,All Industries,6834,142756,2330723363,16326
+17097,1981,27,Federal Government,All Industries,51,8254,135117962,16369
+17097,1981,27,Local Government,All Industries,196,17602,243174716,13815
+17097,1981,27,Private,All Industries,6587,116900,1952430685,16701
+18089,1981,26,Total Covered,All Industries,7776,199728,3843015266,19241
+18089,1981,27,Federal Government,All Industries,11,1547,34780969,22482
+18089,1981,27,State Government,All Industries,40,1927,26814140,13914
+18089,1981,27,Local Government,All Industries,78,20269,272593184,13448
+18089,1981,27,Private,All Industries,7647,175985,3508826973,19938
+18091,1981,26,Total Covered,All Industries,1946,38369,562809761,14668
+18091,1981,27,Federal Government,All Industries,5,245,5240096,21388
+18091,1981,27,State Government,All Industries,25,1704,27291777,16016
+18091,1981,27,Local Government,All Industries,39,3668,45540027,12415
+18091,1981,27,Private,All Industries,1877,32752,484737861,14800
+18127,1981,26,Total Covered,All Industries,1713,37617,679895272,18074
+18127,1981,27,Federal Government,All Industries,5,195,4111917,21086
+18127,1981,27,State Government,All Industries,18,261,3787048,14509
+18127,1981,27,Local Government,All Industries,36,5203,65689785,12625
+18127,1981,27,Private,All Industries,1654,31958,606306522,18971
+22005,1981,26,Total Covered,All Industries,837,16994,323827026,19055
+22005,1981,27,Federal Government,All Industries,12,84,1641307,19539
+22005,1981,27,State Government,All Industries,18,343,4863529,14179
+22005,1981,27,Local Government,All Industries,56,2062,25917024,12568
+22005,1981,27,Private,All Industries,751,14505,291405166,20089
+22007,1981,26,Total Covered,All Industries,273,6140,104718657,17055
+22007,1981,27,Federal Government,All Industries,8,31,511833,16510
+22007,1981,27,State Government,All Industries,16,96,1422728,14820
+22007,1981,27,Local Government,All Industries,24,900,9103976,10115
+22007,1981,27,Private,All Industries,225,5113,93680120,18321
+22019,1981,26,Total Covered,All Industries,3102,68880,1206759181,17519
+22019,1981,27,Federal Government,All Industries,28,582,13815954,23738
+22019,1981,27,State Government,All Industries,42,2380,35556199,14939
+22019,1981,27,Local Government,All Industries,94,7243,90798504,12536
+22019,1981,27,Private,All Industries,2938,58675,1066588524,18177
+22023,1981,26,Total Covered,All Industries,220,4106,75502384,18388
+22023,1981,27,Federal Government,All Industries,5,18,317755,17653
+22023,1981,27,State Government,All Industries,9,111,1737028,15648
+22023,1981,27,Local Government,All Industries,20,615,7210970,11725
+22023,1981,27,Private,All Industries,186,3362,66236631,19701
+22045,1981,26,Total Covered,All Industries,1531,28801,472276862,16397
+22045,1981,27,Federal Government,All Industries,16,123,2710213,22034
+22045,1981,27,State Government,All Industries,21,315,4580686,14541
+22045,1981,27,Local Government,All Industries,77,3161,37058100,11723
+22045,1981,27,Private,All Industries,1417,25202,427927863,16979
+22051,1981,26,Total Covered,All Industries,7661,163176,2570051540,15750
+22051,1981,27,Federal Government,All Industries,22,1393,33617725,24133
+22051,1981,27,State Government,All Industries,28,1513,22039754,14566
+22051,1981,27,Local Government,All Industries,115,17725,216652212,12222
+22051,1981,27,Private,All Industries,7496,142545,2297741849,16119
+22053,1981,26,Total Covered,All Industries,629,8811,120057298,13625
+22053,1981,27,Federal Government,All Industries,14,80,1505678,18820
+22053,1981,27,State Government,All Industries,18,197,2855561,14495
+22053,1981,27,Local Government,All Industries,60,1314,13904349,10581
+22053,1981,27,Private,All Industries,537,7220,101791710,14098
+22057,1981,26,Total Covered,All Industries,1749,25237,387861272,15368
+22057,1981,27,Federal Government,All Industries,19,140,2957261,21123
+22057,1981,27,State Government,All Industries,28,1004,19089770,19013
+22057,1981,27,Local Government,All Industries,71,3725,45846509,12307
+22057,1981,27,Private,All Industries,1631,20368,319967732,15709
+22063,1981,26,Total Covered,All Industries,567,7153,80866385,11305
+22063,1981,27,Federal Government,All Industries,13,77,1523736,19788
+22063,1981,27,State Government,All Industries,15,440,6955368,15807
+22063,1981,27,Local Government,All Industries,46,2435,25328952,10402
+22063,1981,27,Private,All Industries,493,4201,47058329,11201
+22071,1981,26,Total Covered,All Industries,11176,308187,5107420265,16572
+22071,1981,27,Federal Government,All Industries,77,13426,289116728,21534
+22071,1981,27,State Government,All Industries,83,18409,275131562,14945
+22071,1981,27,Local Government,All Industries,26,21069,296051520,14051
+22071,1981,27,Private,All Industries,10990,255283,4247120455,16636
+22075,1981,26,Total Covered,All Industries,724,22442,445312366,19842
+22075,1981,27,Federal Government,All Industries,17,805,17363142,21569
+22075,1981,27,State Government,All Industries,12,1289,12101151,9388
+22075,1981,27,Local Government,All Industries,9,1873,21376692,11413
+22075,1981,27,Private,All Industries,686,18475,394471381,21351
+22087,1981,26,Total Covered,All Industries,728,14308,240366985,16799
+22087,1981,27,Federal Government,All Industries,8,121,2509400,20738
+22087,1981,27,State Government,All Industries,15,216,3194253,14788
+22087,1981,27,Local Government,All Industries,42,2394,26159687,10927
+22087,1981,27,Private,All Industries,663,11577,208503645,18010
+22089,1981,26,Total Covered,All Industries,486,21357,491986083,23036
+22089,1981,27,Federal Government,All Industries,12,168,3535132,21042
+22089,1981,27,State Government,All Industries,10,126,1830371,14526
+22089,1981,27,Local Government,All Industries,31,1903,24814671,13039
+22089,1981,27,Private,All Industries,433,19160,461805909,24102
+22093,1981,26,Total Covered,All Industries,296,6918,142859552,20650
+22093,1981,27,Federal Government,All Industries,11,119,2594945,21806
+22093,1981,27,State Government,All Industries,10,133,1760991,13240
+22093,1981,27,Local Government,All Industries,36,1105,12463462,11279
+22093,1981,27,Private,All Industries,239,5561,126040154,22665
+22095,1981,26,Total Covered,All Industries,403,8375,150541472,17975
+22095,1981,27,Federal Government,All Industries,8,47,952097,20257
+22095,1981,27,State Government,All Industries,15,163,2516779,15440
+22095,1981,27,Local Government,All Industries,36,1145,13499345,11789
+22095,1981,27,Private,All Industries,344,7020,133573251,19027
+22099,1981,26,Total Covered,All Industries,527,8179,100999217,12348
+22099,1981,27,Federal Government,All Industries,12,63,1166572,18517
+22099,1981,27,State Government,All Industries,17,198,3112304,15718
+22099,1981,27,Local Government,All Industries,51,1726,17753066,10285
+22099,1981,27,Private,All Industries,447,6192,78967275,12753
+22101,1981,26,Total Covered,All Industries,1597,37209,665511670,17885
+22101,1981,27,Federal Government,All Industries,13,135,2970695,22005
+22101,1981,27,State Government,All Industries,19,243,3369571,13866
+22101,1981,27,Local Government,All Industries,94,3408,41958827,12311
+22101,1981,27,Private,All Industries,1471,33423,617212577,18466
+22103,1981,26,Total Covered,All Industries,1650,22794,284950176,12501
+22103,1981,27,Federal Government,All Industries,23,232,5215396,22480
+22103,1981,27,State Government,All Industries,22,1152,16582128,14394
+22103,1981,27,Local Government,All Industries,69,4437,53573175,12074
+22103,1981,27,Private,All Industries,1536,16973,209579477,12347
+22105,1981,26,Total Covered,All Industries,1318,19620,218919544,11157
+22105,1981,27,Federal Government,All Industries,24,235,4898817,20846
+22105,1981,27,State Government,All Industries,32,3175,43903992,13828
+22105,1981,27,Local Government,All Industries,80,3426,36358538,10612
+22105,1981,27,Private,All Industries,1182,12784,133758197,10462
+22109,1981,26,Total Covered,All Industries,2105,44147,824526330,18676
+22109,1981,27,Federal Government,All Industries,22,265,5645178,21302
+22109,1981,27,State Government,All Industries,25,1143,15185336,13285
+22109,1981,27,Local Government,All Industries,60,3588,47818955,13327
+22109,1981,27,Private,All Industries,1998,39151,755876861,19306
+22113,1981,26,Total Covered,All Industries,1014,13622,209777163,15399
+22113,1981,27,Federal Government,All Industries,16,137,2840580,20734
+22113,1981,27,State Government,All Industries,19,249,3677626,14769
+22113,1981,27,Local Government,All Industries,83,2205,24397364,11064
+22113,1981,27,Private,All Industries,896,11031,178861593,16214
+23005,1981,26,Total Covered,All Industries,6086,97861,1293207595,13214
+23005,1981,27,Federal Government,All Industries,62,2229,43208936,19384
+23005,1981,27,State Government,All Industries,23,3410,46632246,13675
+23005,1981,27,Local Government,All Industries,114,8505,98476187,11578
+23005,1981,27,Private,All Industries,5887,83717,1104890226,13197
+23009,1981,26,Total Covered,All Industries,1441,12583,145985229,11601
+23009,1981,27,Federal Government,All Industries,25,276,4609549,16701
+23009,1981,27,State Government,All Industries,7,486,5540266,11399
+23009,1981,27,Local Government,All Industries,70,1400,13336072,9525
+23009,1981,27,Private,All Industries,1339,10421,122499342,11755
+23013,1981,26,Total Covered,All Industries,1048,10691,118532755,11087
+23013,1981,27,Federal Government,All Industries,17,160,3015362,18846
+23013,1981,27,State Government,All Industries,8,522,7832941,15005
+23013,1981,27,Local Government,All Industries,39,1123,10597919,9437
+23013,1981,27,Private,All Industries,984,8886,97086533,10925
+23015,1981,26,Total Covered,All Industries,802,5845,59133052,10116
+23015,1981,27,Federal Government,All Industries,9,107,1719613,16071
+23015,1981,27,State Government,All Industries,0,0,0,0
+23015,1981,27,Local Government,All Industries,0,0,0,0
+23015,1981,27,Private,All Industries,752,4811,48378645,10055
+23023,1981,26,Total Covered,All Industries,522,12112,186447699,15393
+23023,1981,27,Federal Government,All Industries,6,73,1452900,19902
+23023,1981,27,State Government,All Industries,0,0,0,0
+23023,1981,27,Local Government,All Industries,0,0,0,0
+23023,1981,27,Private,All Industries,481,10864,172708112,15897
+23027,1981,26,Total Covered,All Industries,579,5611,56416711,10054
+23027,1981,27,Federal Government,All Industries,12,135,2448145,18134
+23027,1981,27,State Government,All Industries,3,4,58559,14639
+23027,1981,27,Local Government,All Industries,57,825,8118673,9840
+23027,1981,27,Private,All Industries,507,4647,45791334,9853
+23029,1981,26,Total Covered,All Industries,819,8828,102969507,11663
+23029,1981,27,Federal Government,All Industries,29,360,7118831,19774
+23029,1981,27,State Government,All Industries,8,236,3457257,14649
+23029,1981,27,Local Government,All Industries,88,1377,12333543,8956
+23029,1981,27,Private,All Industries,694,6855,80059876,11679
+23031,1981,26,Total Covered,All Industries,3225,38723,428208837,11058
+23031,1981,27,Federal Government,All Industries,32,332,6496200,19566
+23031,1981,27,State Government,All Industries,14,214,2828369,13216
+23031,1981,27,Local Government,All Industries,109,4321,45714559,10579
+23031,1981,27,Private,All Industries,3070,33856,373169709,11022
+24003,1981,26,Total Covered,All Industries,5547,114944,1693411127,14732
+24003,1981,27,Federal Government,All Industries,12,8557,179067421,20926
+24003,1981,27,State Government,All Industries,69,9850,146947481,14918
+24003,1981,27,Local Government,All Industries,11,15546,177431561,11413
+24003,1981,27,Private,All Industries,5455,80991,1189964664,14692
+24005,1981,26,Total Covered,All Industries,11381,267884,4205601309,15699
+24005,1981,27,Federal Government,All Industries,6,20294,438389034,21601
+24005,1981,27,State Government,All Industries,52,15625,208199592,13324
+24005,1981,27,Local Government,All Industries,11,26435,359935082,13615
+24005,1981,27,Private,All Industries,11312,205530,3199077601,15565
+24009,1981,26,Total Covered,All Industries,467,4586,55141176,12023
+24009,1981,27,Federal Government,All Industries,2,40,722562,18064
+24009,1981,27,State Government,All Industries,4,86,1156097,13442
+24009,1981,27,Local Government,All Industries,7,1315,18042251,13720
+24009,1981,27,Private,All Industries,454,3145,35220266,11198
+24011,1981,26,Total Covered,All Industries,421,5163,67059533,12988
+24011,1981,27,Federal Government,All Industries,2,54,1090841,20200
+24011,1981,27,State Government,All Industries,3,58,828158,14278
+24011,1981,27,Local Government,All Industries,12,704,8840942,12558
+24011,1981,27,Private,All Industries,404,4347,56299592,12951
+24015,1981,26,Total Covered,All Industries,951,15225,204276925,13417
+24015,1981,27,Federal Government,All Industries,4,1525,30228185,19821
+24015,1981,27,State Government,All Industries,4,139,1979457,14240
+24015,1981,27,Local Government,All Industries,17,1871,23999989,12827
+24015,1981,27,Private,All Industries,926,11690,148069294,12666
+24017,1981,26,Total Covered,All Industries,965,16687,216197615,12956
+24017,1981,27,Federal Government,All Industries,3,2128,49841874,23421
+24017,1981,27,State Government,All Industries,4,107,1425937,13326
+24017,1981,27,Local Government,All Industries,11,3454,39832814,11532
+24017,1981,27,Private,All Industries,947,10998,125096990,11374
+24019,1981,26,Total Covered,All Industries,552,10378,121688799,11725
+24019,1981,27,Federal Government,All Industries,2,53,1141966,21546
+24019,1981,27,State Government,All Industries,6,653,9449417,14470
+24019,1981,27,Local Government,All Industries,13,1048,13358944,12747
+24019,1981,27,Private,All Industries,531,8624,97738472,11333
+24025,1981,26,Total Covered,All Industries,2060,36019,493633667,13704
+24025,1981,27,Federal Government,All Industries,7,8641,171496018,19846
+24025,1981,27,State Government,All Industries,5,190,2734055,14389
+24025,1981,27,Local Government,All Industries,11,5146,66447017,12912
+24025,1981,27,Private,All Industries,2037,22042,252956577,11476
+24027,1981,26,Total Covered,All Industries,2121,48639,770553051,15842
+24027,1981,27,Federal Government,All Industries,1,226,5184640,22940
+24027,1981,27,State Government,All Industries,9,2284,36541577,15998
+24027,1981,27,Local Government,All Industries,7,4958,70123347,14143
+24027,1981,27,Private,All Industries,2104,41171,658703487,15999
+24029,1981,26,Total Covered,All Industries,490,5013,52622687,10497
+24029,1981,27,Federal Government,All Industries,2,39,753551,19321
+24029,1981,27,State Government,All Industries,0,0,0,0
+24029,1981,27,Local Government,All Industries,0,0,0,0
+24029,1981,27,Private,All Industries,472,4295,44648063,10395
+24033,1981,26,Total Covered,All Industries,8517,216653,3250503787,15003
+24033,1981,27,Federal Government,All Industries,22,26741,620857287,23217
+24033,1981,27,State Government,All Industries,8,18037,197800572,10966
+24033,1981,27,Local Government,All Industries,38,28606,427842702,14956
+24033,1981,27,Private,All Industries,8449,143269,2004003226,13987
+24035,1981,26,Total Covered,All Industries,451,4752,48533135,10213
+24035,1981,27,Federal Government,All Industries,2,52,905199,17407
+24035,1981,27,State Government,All Industries,3,55,764617,13902
+24035,1981,27,Local Government,All Industries,12,867,10625548,12255
+24035,1981,27,Private,All Industries,434,3778,36237771,9591
+24037,1981,26,Total Covered,All Industries,803,12033,163972814,13626
+24037,1981,27,Federal Government,All Industries,2,2157,49947421,23155
+24037,1981,27,State Government,All Industries,6,609,6051838,9937
+24037,1981,27,Local Government,All Industries,9,2045,23499513,11491
+24037,1981,27,Private,All Industries,786,7222,84474042,11696
+24039,1981,26,Total Covered,All Industries,0,0,0,0
+24039,1981,27,Federal Government,All Industries,1,29,565977,19516
+24039,1981,27,State Government,All Industries,0,0,0,0
+24039,1981,27,Local Government,All Industries,13,700,7931698,11330
+24039,1981,27,Private,All Industries,275,2664,23966107,8996
+24041,1981,26,Total Covered,All Industries,931,11430,128044311,11202
+24041,1981,27,Federal Government,All Industries,3,90,1968509,21872
+24041,1981,27,State Government,All Industries,4,66,933252,14140
+24041,1981,27,Local Government,All Industries,13,800,9734297,12167
+24041,1981,27,Private,All Industries,911,10474,115408253,11018
+24045,1981,26,Total Covered,All Industries,1516,27206,328768272,12084
+24045,1981,27,Federal Government,All Industries,4,236,5267174,22318
+24045,1981,27,State Government,All Industries,7,2070,20982238,10136
+24045,1981,27,Local Government,All Industries,17,2226,29108009,13076
+24045,1981,27,Private,All Industries,1488,22674,273410851,12058
+24047,1981,26,Total Covered,All Industries,1312,14292,140918743,9859
+24047,1981,27,Federal Government,All Industries,2,110,2125915,19326
+24047,1981,27,State Government,All Industries,5,620,5861736,9454
+24047,1981,27,Local Government,All Industries,12,1643,20794144,12656
+24047,1981,27,Private,All Industries,1293,11919,112136948,9408
+24510,1981,26,Total Covered,All Industries,15381,442777,6805777385,15370
+24510,1981,27,Federal Government,All Industries,18,13353,269675521,20195
+24510,1981,27,State Government,All Industries,199,35266,526266983,14922
+24510,1981,27,Local Government,All Industries,90,42495,585025723,13766
+24510,1981,27,Private,All Industries,15074,351663,5424809158,15426
+25001,1981,26,Total Covered,All Industries,4336,53283,594055990,11149
+25001,1981,27,Federal Government,All Industries,60,1215,23627715,19446
+25001,1981,27,State Government,All Industries,4,472,8746323,18530
+25001,1981,27,Local Government,All Industries,148,6607,91488982,13847
+25001,1981,27,Private,All Industries,4124,44989,470192970,10451
+25005,1981,26,Total Covered,All Industries,8086,177154,2173125483,12266
+25005,1981,27,Federal Government,All Industries,35,1096,24596271,22441
+25005,1981,27,State Government,All Industries,15,4892,70823781,14477
+25005,1981,27,Local Government,All Industries,264,16754,232380885,13870
+25005,1981,27,Private,All Industries,7772,154412,1845324546,11950
+25007,1981,26,Total Covered,All Industries,0,0,0,0
+25007,1981,27,Federal Government,All Industries,8,33,692639,20989
+25007,1981,27,Local Government,All Industries,0,0,0,0
+25007,1981,27,Private,All Industries,404,2963,30489503,10290
+25009,1981,26,Total Covered,All Industries,11619,247572,3526131653,14242
+25009,1981,27,Federal Government,All Industries,43,4183,75341042,18011
+25009,1981,27,State Government,All Industries,22,4525,67250326,14861
+25009,1981,27,Local Government,All Industries,388,24865,371512564,14941
+25009,1981,27,Private,All Industries,11166,213999,3012027721,14074
+25017,1981,26,Total Covered,All Industries,25643,654396,10700632072,16351
+25017,1981,27,Federal Government,All Industries,93,13728,295705259,21540
+25017,1981,27,State Government,All Industries,38,9212,132834451,14419
+25017,1981,27,Local Government,All Industries,610,51272,803726002,15675
+25017,1981,27,Private,All Industries,24902,580184,9468366360,16319
+25019,1981,26,Total Covered,All Industries,0,0,0,0
+25019,1981,27,Federal Government,All Industries,2,34,851868,25054
+25019,1981,27,State Government,All Industries,0,0,0,0
+25019,1981,27,Local Government,All Industries,0,0,0,0
+25019,1981,27,Private,All Industries,294,2162,23254205,10755
+25021,1981,26,Total Covered,All Industries,11569,240406,3625624172,15081
+25021,1981,27,Federal Government,All Industries,34,995,21548270,21656
+25021,1981,27,State Government,All Industries,20,6472,89072743,13762
+25021,1981,27,Local Government,All Industries,310,22871,379218343,16580
+25021,1981,27,Private,All Industries,11205,210068,3135784816,14927
+25023,1981,26,Total Covered,All Industries,6285,109226,1383175536,12663
+25023,1981,27,Federal Government,All Industries,42,2641,56624949,21440
+25023,1981,27,State Government,All Industries,16,3973,62906501,15833
+25023,1981,27,Local Government,All Industries,304,15156,226326304,14933
+25023,1981,27,Private,All Industries,5923,87456,1037317782,11861
+25025,1981,26,Total Covered,All Industries,15612,526044,8977838013,17066
+25025,1981,27,Federal Government,All Industries,56,21654,495297449,22873
+25025,1981,27,State Government,All Industries,44,33404,528158438,15811
+25025,1981,27,Local Government,All Industries,70,34709,694314626,20003
+25025,1981,27,Private,All Industries,15442,436277,7260067500,16640
+26001,1981,26,Total Covered,All Industries,147,1150,11225760,9761
+26001,1981,27,Federal Government,All Industries,2,37,498980,13485
+26001,1981,27,Local Government,All Industries,9,286,2875762,10055
+26001,1981,27,Private,All Industries,136,827,7851018,9493
+26003,1981,26,Total Covered,All Industries,165,1535,20931301,13636
+26003,1981,27,Federal Government,All Industries,2,31,425504,13725
+26003,1981,27,Local Government,All Industries,14,325,4297857,13224
+26003,1981,27,Private,All Industries,149,1179,16207940,13747
+26005,1981,26,Total Covered,All Industries,922,16339,227457481,13921
+26005,1981,27,Federal Government,All Industries,3,159,2910211,18303
+26005,1981,27,Local Government,All Industries,41,2437,30639464,12572
+26005,1981,27,Private,All Industries,878,13743,193907806,14109
+26007,1981,26,Total Covered,All Industries,608,9717,147918386,15222
+26007,1981,27,Federal Government,All Industries,3,72,1416112,19668
+26007,1981,27,Local Government,All Industries,13,1999,28536247,14275
+26007,1981,27,Private,All Industries,592,7646,117966027,15428
+26009,1981,26,Total Covered,All Industries,316,3507,44147212,12588
+26009,1981,27,Federal Government,All Industries,2,46,750821,16322
+26009,1981,27,Local Government,All Industries,21,768,9298313,12107
+26009,1981,27,Private,All Industries,293,2693,34098078,12661
+26011,1981,26,Total Covered,All Industries,224,2379,26049354,10949
+26011,1981,27,Federal Government,All Industries,2,42,597458,14225
+26011,1981,27,Local Government,All Industries,15,437,5803457,13280
+26011,1981,27,Private,All Industries,207,1900,19648439,10341
+26013,1981,26,Total Covered,All Industries,163,1895,22402793,11822
+26013,1981,27,Federal Government,All Industries,2,23,363091,15786
+26013,1981,27,Local Government,All Industries,11,476,6105553,12826
+26013,1981,27,Private,All Industries,150,1396,15934149,11414
+26017,1981,26,Total Covered,All Industries,1638,31932,536472885,16800
+26017,1981,27,Federal Government,All Industries,4,259,5562303,21476
+26017,1981,27,State Government,All Industries,0,0,0,0
+26017,1981,27,Local Government,All Industries,0,0,0,0
+26017,1981,27,Private,All Industries,1612,27240,451677784,16581
+26019,1981,26,Total Covered,All Industries,221,2360,26865924,11383
+26019,1981,27,Federal Government,All Industries,2,32,556848,17401
+26019,1981,27,Local Government,All Industries,16,415,5337096,12860
+26019,1981,27,Private,All Industries,203,1913,20971980,10962
+26021,1981,26,Total Covered,All Industries,2698,55642,869402899,15624
+26021,1981,27,Federal Government,All Industries,6,445,8941720,20093
+26021,1981,27,Local Government,All Industries,67,6674,94524648,14163
+26021,1981,27,Private,All Industries,2625,48523,765936531,15785
+26029,1981,26,Total Covered,All Industries,426,5515,73829945,13387
+26029,1981,27,Federal Government,All Industries,2,51,939597,18423
+26029,1981,27,Local Government,All Industries,22,858,10671927,12438
+26029,1981,27,Private,All Industries,402,4606,62218421,13508
+26031,1981,26,Total Covered,All Industries,539,4963,62771046,12647
+26031,1981,27,Federal Government,All Industries,1,48,877105,18273
+26031,1981,27,Local Government,All Industries,23,734,9470099,12902
+26031,1981,27,Private,All Industries,515,4181,52423842,12538
+26033,1981,26,Total Covered,All Industries,578,6950,90194356,12977
+26033,1981,27,Federal Government,All Industries,7,359,7057784,19659
+26033,1981,27,State Government,All Industries,0,0,0,0
+26033,1981,27,Local Government,All Industries,0,0,0,0
+26033,1981,27,Private,All Industries,541,4327,49013847,11327
+26041,1981,26,Total Covered,All Industries,696,10287,157594821,15319
+26041,1981,27,Federal Government,All Industries,6,213,4106651,19280
+26041,1981,27,Local Government,All Industries,22,1401,20800113,14846
+26041,1981,27,Private,All Industries,668,8673,132688057,15298
+26047,1981,26,Total Covered,All Industries,627,7647,102354145,13384
+26047,1981,27,Federal Government,All Industries,4,84,1735798,20664
+26047,1981,27,Local Government,All Industries,16,889,12987872,14609
+26047,1981,27,Private,All Industries,607,6674,87630475,13130
+26053,1981,26,Total Covered,All Industries,399,4904,49115601,10015
+26053,1981,27,Federal Government,All Industries,3,136,2143341,15759
+26053,1981,27,Local Government,All Industries,17,1090,14267637,13089
+26053,1981,27,Private,All Industries,379,3678,32704623,8891
+26055,1981,26,Total Covered,All Industries,1443,23686,320603873,13535
+26055,1981,27,Federal Government,All Industries,5,272,6162235,22655
+26055,1981,27,State Government,All Industries,0,0,0,0
+26055,1981,27,Local Government,All Industries,0,0,0,0
+26055,1981,27,Private,All Industries,1411,20061,266509482,13284
+26061,1981,26,Total Covered,All Industries,606,8997,115180480,12802
+26061,1981,27,Federal Government,All Industries,5,226,3876395,17152
+26061,1981,27,State Government,All Industries,0,0,0,0
+26061,1981,27,Local Government,All Industries,0,0,0,0
+26061,1981,27,Private,All Industries,566,6181,70966310,11481
+26063,1981,26,Total Covered,All Industries,679,7640,103685447,13571
+26063,1981,27,Federal Government,All Industries,4,100,1661817,16618
+26063,1981,27,Local Government,All Industries,37,1284,17750354,13824
+26063,1981,27,Private,All Industries,638,6256,84273276,13470
+26069,1981,26,Total Covered,All Industries,446,5513,69169843,12546
+26069,1981,27,Federal Government,All Industries,9,769,12161483,15814
+26069,1981,27,Local Government,All Industries,18,1091,14289034,13097
+26069,1981,27,Private,All Industries,419,3653,42719326,11694
+26083,1981,26,Total Covered,All Industries,37,236,2007132,8504
+26083,1981,27,Federal Government,All Industries,1,9,101408,11267
+26083,1981,27,Local Government,All Industries,6,75,669707,8929
+26083,1981,27,Private,All Industries,30,152,1236017,8131
+26089,1981,26,Total Covered,All Industries,236,2009,20060551,9985
+26089,1981,27,Federal Government,All Industries,3,47,958509,20393
+26089,1981,27,Local Government,All Industries,14,377,5158336,13682
+26089,1981,27,Private,All Industries,219,1585,13943706,8797
+26095,1981,26,Total Covered,All Industries,121,1663,21178164,12734
+26095,1981,27,Federal Government,All Industries,1,15,249414,16627
+26095,1981,27,State Government,All Industries,0,0,0,0
+26095,1981,27,Local Government,All Industries,0,0,0,0
+26095,1981,27,Private,All Industries,109,723,6431285,8895
+26097,1981,26,Total Covered,All Industries,299,2685,30042694,11189
+26097,1981,27,Federal Government,All Industries,3,38,624006,16421
+26097,1981,27,Local Government,All Industries,15,559,7002528,12526
+26097,1981,27,Private,All Industries,281,2088,22416160,10735
+26099,1981,26,Total Covered,All Industries,9025,199793,3848716329,19263
+26099,1981,27,Federal Government,All Industries,15,8958,183987036,20538
+26099,1981,27,State Government,All Industries,0,0,0,0
+26099,1981,27,Local Government,All Industries,0,0,0,0
+26099,1981,27,Private,All Industries,8943,168139,3249145811,19324
+26101,1981,26,Total Covered,All Industries,406,5861,88249458,15057
+26101,1981,27,Federal Government,All Industries,2,62,1037168,16728
+26101,1981,27,Local Government,All Industries,22,999,13315343,13328
+26101,1981,27,Private,All Industries,382,4800,73896947,15395
+26103,1981,26,Total Covered,All Industries,1041,22103,333128041,15071
+26103,1981,27,Federal Government,All Industries,8,1073,16460292,15340
+26103,1981,27,State Government,All Industries,0,0,0,0
+26103,1981,27,Local Government,All Industries,0,0,0,0
+26103,1981,27,Private,All Industries,998,16226,249085075,15350
+26105,1981,26,Total Covered,All Industries,471,6917,94305167,13633
+26105,1981,27,Federal Government,All Industries,3,63,1180525,18738
+26105,1981,27,Local Government,All Industries,16,1170,15938222,13622
+26105,1981,27,Private,All Industries,452,5684,77186420,13579
+26109,1981,26,Total Covered,All Industries,401,6842,86930081,12705
+26109,1981,27,Federal Government,All Industries,2,62,1073076,17307
+26109,1981,27,Local Government,All Industries,20,1298,14790680,11394
+26109,1981,27,Private,All Industries,379,5482,71066325,12963
+26115,1981,26,Total Covered,All Industries,1285,25012,459823698,18384
+26115,1981,27,Federal Government,All Industries,3,204,4069326,19947
+26115,1981,27,Local Government,All Industries,37,4316,66514858,15411
+26115,1981,27,Private,All Industries,1245,20492,389239514,18994
+26121,1981,26,Total Covered,All Industries,2189,52483,870432094,16585
+26121,1981,27,Federal Government,All Industries,5,387,8216305,21230
+26121,1981,27,State Government,All Industries,0,0,0,0
+26121,1981,27,Local Government,All Industries,0,0,0,0
+26121,1981,27,Private,All Industries,2136,44797,757835903,16917
+26127,1981,26,Total Covered,All Industries,323,3573,37062631,10372
+26127,1981,27,Federal Government,All Industries,2,56,983681,17565
+26127,1981,27,Local Government,All Industries,20,1001,11598251,11586
+26127,1981,27,Private,All Industries,301,2516,24480699,9730
+26131,1981,26,Total Covered,All Industries,166,3226,56471645,17505
+26131,1981,27,Federal Government,All Industries,2,32,461651,14426
+26131,1981,27,Local Government,All Industries,17,665,8321730,12513
+26131,1981,27,Private,All Industries,147,2529,47688264,18856
+26139,1981,26,Total Covered,All Industries,2528,54282,787841367,14513
+26139,1981,27,Federal Government,All Industries,3,262,5456795,20827
+26139,1981,27,State Government,All Industries,0,0,0,0
+26139,1981,27,Local Government,All Industries,0,0,0,0
+26139,1981,27,Private,All Industries,2485,47089,683747736,14520
+26141,1981,26,Total Covered,All Industries,232,2848,40797353,14324
+26141,1981,27,Federal Government,All Industries,2,40,653430,16335
+26141,1981,27,Local Government,All Industries,19,697,8185102,11743
+26141,1981,27,Private,All Industries,211,2111,31958821,15139
+26147,1981,26,Total Covered,All Industries,1707,31693,519279613,16384
+26147,1981,27,Federal Government,All Industries,4,304,6497498,21373
+26147,1981,27,Local Government,All Industries,34,5047,81155558,16079
+26147,1981,27,Private,All Industries,1669,26342,431626557,16385
+26151,1981,26,Total Covered,All Industries,590,7502,98240822,13095
+26151,1981,27,Federal Government,All Industries,2,97,1728057,17815
+26151,1981,27,Local Government,All Industries,28,1388,18388728,13248
+26151,1981,27,Private,All Industries,560,6017,78124037,12983
+26153,1981,26,Total Covered,All Industries,178,1983,27701191,13969
+26153,1981,27,Federal Government,All Industries,1,23,448590,19503
+26153,1981,27,Local Government,All Industries,9,481,6209959,12910
+26153,1981,27,Private,All Industries,168,1479,21042642,14227
+26157,1981,26,Total Covered,All Industries,664,9837,139001310,14130
+26157,1981,27,Federal Government,All Industries,2,120,1933402,16111
+26157,1981,27,State Government,All Industries,0,0,0,0
+26157,1981,27,Local Government,All Industries,0,0,0,0
+26157,1981,27,Private,All Industries,627,6841,96294573,14076
+26159,1981,26,Total Covered,All Industries,841,14358,198413887,13819
+26159,1981,27,Federal Government,All Industries,2,127,2394987,18858
+26159,1981,27,State Government,All Industries,0,0,0,0
+26159,1981,27,Local Government,All Industries,0,0,0,0
+26159,1981,27,Private,All Industries,803,11458,159608415,13929
+26163,1981,26,Total Covered,All Industries,28744,889649,18174367158,20428
+26163,1981,27,Federal Government,All Industries,28,17082,392656199,22986
+26163,1981,27,State Government,All Industries,13,10725,150629918,14044
+26163,1981,27,Local Government,All Industries,115,92679,1761187862,19003
+26163,1981,27,Private,All Industries,28588,769163,15869893179,20632
+27031,1981,26,Total Covered,All Industries,168,1444,14077233,9748
+27031,1981,27,Federal Government,All Industries,8,120,1906804,15890
+27031,1981,27,Local Government,All Industries,6,349,3879753,11116
+27031,1981,27,Private,All Industries,154,975,8290676,8503
+27075,1981,26,Total Covered,All Industries,248,3700,68673650,18560
+27075,1981,27,Federal Government,All Industries,4,77,971071,12611
+27075,1981,27,Local Government,All Industries,9,555,8365378,15072
+27075,1981,27,Private,All Industries,235,3068,59337201,19340
+27137,1981,26,Total Covered,All Industries,4668,81206,1273429337,15681
+27137,1981,27,Federal Government,All Industries,62,1867,37442331,20054
+27137,1981,27,State Government,All Industries,20,2121,37695861,17772
+27137,1981,27,Local Government,All Industries,112,12594,189527505,15049
+27137,1981,27,Private,All Industries,4474,64624,1008763640,15609
+28045,1981,26,Total Covered,All Industries,414,6909,108136097,15651
+28045,1981,27,Federal Government,All Industries,15,1346,34641365,25736
+28045,1981,27,State Government,All Industries,5,53,620742,11712
+28045,1981,27,Local Government,All Industries,14,1002,8756302,8738
+28045,1981,27,Private,All Industries,380,4508,64117688,14223
+28047,1981,26,Total Covered,All Industries,2977,49246,597966680,12142
+28047,1981,27,Federal Government,All Industries,29,6219,109021570,17530
+28047,1981,27,State Government,All Industries,14,802,8053234,10041
+28047,1981,27,Local Government,All Industries,37,6509,66329601,10190
+28047,1981,27,Private,All Industries,2897,35716,414562275,11607
+28059,1981,26,Total Covered,All Industries,1710,39845,646151772,16216
+28059,1981,27,Federal Government,All Industries,14,523,12211882,23349
+28059,1981,27,State Government,All Industries,8,309,4290320,13884
+28059,1981,27,Local Government,All Industries,28,5680,60841451,10711
+28059,1981,27,Private,All Industries,1660,33333,568808119,17064
+33015,1981,26,Total Covered,All Industries,4230,76280,1095635826,14363
+33015,1981,27,Federal Government,All Industries,49,10197,217722886,21351
+33015,1981,27,State Government,All Industries,18,189,2739023,14492
+33015,1981,27,Local Government,All Industries,88,6530,70081033,10732
+33015,1981,27,Private,All Industries,4075,59364,805092884,13561
+33017,1981,26,Total Covered,All Industries,1502,30810,377465659,12251
+33017,1981,27,Federal Government,All Industries,21,299,7085638,23697
+33017,1981,27,State Government,All Industries,11,2933,41683536,14211
+33017,1981,27,Local Government,All Industries,36,3446,35622479,10337
+33017,1981,27,Private,All Industries,1434,24132,293074006,12144
+34001,1981,26,Total Covered,All Industries,4144,97137,1459764561,15027
+34001,1981,27,Federal Government,All Industries,35,2709,72294912,26686
+34001,1981,27,State Government,All Industries,3,1183,20220374,17092
+34001,1981,27,Local Government,All Industries,84,11068,151674079,13703
+34001,1981,27,Private,All Industries,4022,82177,1215575196,14792
+34003,1981,26,Total Covered,All Industries,21741,382893,6413667793,16750
+34003,1981,27,Federal Government,All Industries,65,3391,81136189,23926
+34003,1981,27,State Government,All Industries,4,2344,42135718,17975
+34003,1981,27,Local Government,All Industries,208,33069,512328841,15492
+34003,1981,27,Private,All Industries,21464,344089,5778067045,16792
+34005,1981,26,Total Covered,All Industries,5363,105812,1553037419,14677
+34005,1981,27,Federal Government,All Industries,66,6288,133462166,21224
+34005,1981,27,State Government,All Industries,4,1912,28190681,14744
+34005,1981,27,Local Government,All Industries,126,15145,204385799,13495
+34005,1981,27,Private,All Industries,5167,82467,1186998773,14393
+34007,1981,26,Total Covered,All Industries,8609,166073,2561707521,15425
+34007,1981,27,Federal Government,All Industries,46,2554,61625625,24129
+34007,1981,27,State Government,All Industries,6,1905,32770809,17202
+34007,1981,27,Local Government,All Industries,128,20849,287254142,13777
+34007,1981,27,Private,All Industries,8429,140765,2180056945,15487
+34009,1981,26,Total Covered,All Industries,2525,27295,312156719,11436
+34009,1981,27,Federal Government,All Industries,25,288,6268751,21766
+34009,1981,27,State Government,All Industries,3,1225,16539694,13501
+34009,1981,27,Local Government,All Industries,47,4946,64627930,13066
+34009,1981,27,Private,All Industries,2450,20836,224720344,10785
+34011,1981,26,Total Covered,All Industries,2569,53303,736163388,13810
+34011,1981,27,Federal Government,All Industries,23,371,8109336,21858
+34011,1981,27,State Government,All Industries,4,2590,36017301,13906
+34011,1981,27,Local Government,All Industries,44,7276,85029499,11686
+34011,1981,27,Private,All Industries,2498,43066,607007252,14094
+34013,1981,26,Total Covered,All Industries,16629,368706,6398672343,17354
+34013,1981,27,Federal Government,All Industries,48,9436,221900030,23516
+34013,1981,27,State Government,All Industries,19,12710,234317313,18435
+34013,1981,27,Local Government,All Industries,72,42960,668444729,15559
+34013,1981,27,Private,All Industries,16490,303600,5274010271,17371
+34015,1981,26,Total Covered,All Industries,3095,54697,805256719,14722
+34015,1981,27,Federal Government,All Industries,32,430,9617812,22367
+34015,1981,27,State Government,All Industries,3,999,21051146,21072
+34015,1981,27,Local Government,All Industries,82,8130,109884476,13515
+34015,1981,27,Private,All Industries,2978,45138,664703285,14726
+34017,1981,26,Total Covered,All Industries,10303,214265,3539414077,16518
+34017,1981,27,Federal Government,All Industries,27,11106,280579703,25263
+34017,1981,27,State Government,All Industries,0,0,0,0
+34017,1981,27,Local Government,All Industries,0,0,0,0
+34017,1981,27,Private,All Industries,10209,174784,2836863911,16230
+34023,1981,26,Total Covered,All Industries,10588,279716,4917999909,17582
+34023,1981,27,Federal Government,All Industries,48,2134,50729254,23771
+34023,1981,27,State Government,All Industries,10,13058,231208771,17706
+34023,1981,27,Local Government,All Industries,90,24088,362096276,15032
+34023,1981,27,Private,All Industries,10440,240436,4273965608,17775
+34025,1981,26,Total Covered,All Industries,9635,162101,2389561399,14741
+34025,1981,27,Federal Government,All Industries,76,10672,274895408,25758
+34025,1981,27,State Government,All Industries,4,1175,19451916,16554
+34025,1981,27,Local Government,All Industries,184,23561,337571930,14327
+34025,1981,27,Private,All Industries,9371,126693,1757642145,13873
+34029,1981,26,Total Covered,All Industries,5297,75072,943607891,12569
+34029,1981,27,Federal Government,All Industries,42,2807,68671906,24464
+34029,1981,27,Local Government,All Industries,111,14698,194302534,13219
+34029,1981,27,Private,All Industries,5144,57567,680633451,11823
+34033,1981,26,Total Covered,All Industries,962,20522,372218601,18137
+34033,1981,27,Federal Government,All Industries,17,135,2813240,20838
+34033,1981,27,Local Government,All Industries,43,3302,46370074,14043
+34033,1981,27,Private,All Industries,902,17085,323035287,18907
+34035,1981,26,Total Covered,All Industries,4225,95237,1683537482,17677
+34035,1981,27,Federal Government,All Industries,39,2787,55636603,19962
+34035,1981,27,State Government,All Industries,4,1778,28145859,15830
+34035,1981,27,Local Government,All Industries,65,9699,129735972,13376
+34035,1981,27,Private,All Industries,4117,80973,1470019048,18154
+34039,1981,26,Total Covered,All Industries,11762,252874,4699586100,18584
+34039,1981,27,Federal Government,All Industries,29,2546,59086352,23207
+34039,1981,27,State Government,All Industries,3,1570,30339648,19324
+34039,1981,27,Local Government,All Industries,65,21388,305409731,14279
+34039,1981,27,Private,All Industries,11665,227370,4304750369,18932
+36005,1981,26,Total Covered,All Industries,13890,185629,2782368856,14988
+36005,1981,27,Federal Government,All Industries,11,9331,215791429,23126
+36005,1981,27,State Government,All Industries,15,3187,52229863,16388
+36005,1981,27,Local Government,All Industries,16,11278,192397583,17059
+36005,1981,27,Private,All Industries,13848,161833,2321949981,14347
+36011,1981,26,Total Covered,All Industries,1331,21603,293653157,13593
+36011,1981,27,Federal Government,All Industries,14,136,2837843,20866
+36011,1981,27,State Government,All Industries,7,909,15104463,16616
+36011,1981,27,Local Government,All Industries,62,3201,43724710,13659
+36011,1981,27,Private,All Industries,1248,17357,231986141,13365
+36013,1981,26,Total Covered,All Industries,2946,51362,693354096,13499
+36013,1981,27,Federal Government,All Industries,34,379,8330336,21979
+36013,1981,27,State Government,All Industries,5,1064,17921334,16843
+36013,1981,27,Local Government,All Industries,87,7734,90557380,11708
+36013,1981,27,Private,All Industries,2820,42185,576545046,13667
+36027,1981,26,Total Covered,All Industries,4433,99060,1649802625,16654
+36027,1981,27,Federal Government,All Industries,40,1723,37452950,21737
+36027,1981,27,State Government,All Industries,16,10835,165764292,15298
+36027,1981,27,Local Government,All Industries,70,10563,133803860,12667
+36027,1981,27,Private,All Industries,4307,75939,1312781523,17287
+36029,1981,26,Total Covered,All Industries,18647,401270,6174089831,15386
+36029,1981,27,Federal Government,All Industries,72,8094,178391139,22039
+36029,1981,27,State Government,All Industries,37,17740,283080419,15957
+36029,1981,27,Local Government,All Industries,185,43246,665962257,15399
+36029,1981,27,Private,All Industries,18353,332190,5046656016,15192
+36045,1981,26,Total Covered,All Industries,1904,27063,363457837,13430
+36045,1981,27,Federal Government,All Industries,37,1478,25588119,17312
+36045,1981,27,State Government,All Industries,7,784,11077637,14129
+36045,1981,27,Local Government,All Industries,103,4360,53450533,12259
+36045,1981,27,Private,All Industries,1757,20441,273341548,13372
+36047,1981,26,Total Covered,All Industries,32775,398295,5637795527,14154
+36047,1981,27,Federal Government,All Industries,24,10985,245879974,22383
+36047,1981,27,State Government,All Industries,13,8145,151328679,18579
+36047,1981,27,Local Government,All Industries,16,15399,277695416,18033
+36047,1981,27,Private,All Industries,32722,363766,4962891458,13643
+36055,1981,26,Total Covered,All Industries,12038,337772,6237594319,18466
+36055,1981,27,Federal Government,All Industries,49,2726,64036594,23491
+36055,1981,27,State Government,All Industries,26,6985,114370242,16373
+36055,1981,27,Local Government,All Industries,104,28289,460303347,16271
+36055,1981,27,Private,All Industries,11859,299772,5598884136,18677
+36059,1981,26,Total Covered,All Industries,38769,521379,8193826038,15715
+36059,1981,27,Federal Government,All Industries,87,7718,194172047,25158
+36059,1981,27,State Government,All Industries,17,3336,62549792,18749
+36059,1981,27,Local Government,All Industries,262,64039,1158338041,18088
+36059,1981,27,Private,All Industries,38403,446286,6778766158,15189
+36061,1981,26,Total Covered,All Industries,107289,2247287,46426607907,20658
+36061,1981,27,Federal Government,All Industries,84,44929,1061915210,23635
+36061,1981,27,State Government,All Industries,80,26895,537762915,19994
+36061,1981,27,Local Government,All Industries,93,326453,6074467286,18607
+36061,1981,27,Private,All Industries,107032,1849010,38752462496,20958
+36063,1981,26,Total Covered,All Industries,3816,79269,1271759049,16043
+36063,1981,27,Federal Government,All Industries,30,1197,25071682,20945
+36063,1981,27,State Government,All Industries,6,836,14037090,16790
+36063,1981,27,Local Government,All Industries,68,9794,140277260,14322
+36063,1981,27,Private,All Industries,3712,67442,1092373017,16197
+36071,1981,26,Total Covered,All Industries,5197,80094,1047927949,13083
+36071,1981,27,Federal Government,All Industries,66,4172,74428043,17839
+36071,1981,27,State Government,All Industries,12,3766,60484143,16060
+36071,1981,27,Local Government,All Industries,102,11326,142445268,12576
+36071,1981,27,Private,All Industries,5017,60830,770570495,12667
+36073,1981,26,Total Covered,All Industries,598,8827,106290033,12041
+36073,1981,27,Federal Government,All Industries,8,51,1056511,20715
+36073,1981,27,State Government,All Industries,4,321,5803427,18079
+36073,1981,27,Local Government,All Industries,32,2013,25675399,12754
+36073,1981,27,Private,All Industries,554,6442,73754696,11449
+36075,1981,26,Total Covered,All Industries,1504,28788,487647770,16939
+36075,1981,27,Federal Government,All Industries,20,138,3037498,22010
+36075,1981,27,State Government,All Industries,9,1590,31948214,20093
+36075,1981,27,Local Government,All Industries,70,5662,69575716,12288
+36075,1981,27,Private,All Industries,1405,21398,383086342,17902
+36079,1981,26,Total Covered,All Industries,1320,11834,162236383,13709
+36079,1981,27,Federal Government,All Industries,9,79,1914988,24240
+36079,1981,27,State Government,All Industries,0,0,0,0
+36079,1981,27,Local Government,All Industries,0,0,0,0
+36079,1981,27,Private,All Industries,1288,8804,112174347,12741
+36081,1981,26,Total Covered,All Industries,28989,411532,6918798122,16812
+36081,1981,27,Federal Government,All Industries,16,12300,281171564,22859
+36081,1981,27,State Government,All Industries,16,5400,98575006,18254
+36081,1981,27,Local Government,All Industries,15,12219,209310875,17129
+36081,1981,27,Private,All Industries,28942,381613,6329740677,16586
+36085,1981,26,Total Covered,All Industries,4367,54800,768858077,14030
+36085,1981,27,Federal Government,All Industries,5,1829,36000863,19683
+36085,1981,27,State Government,All Industries,10,4994,79310202,15881
+36085,1981,27,Local Government,All Industries,6,1698,32163910,18942
+36085,1981,27,Private,All Industries,4346,46279,621383102,13426
+36087,1981,26,Total Covered,All Industries,5438,80622,1165332519,14454
+36087,1981,27,Federal Government,All Industries,31,759,18073693,23812
+36087,1981,27,State Government,All Industries,14,7898,109240495,13831
+36087,1981,27,Local Government,All Industries,61,11388,181028602,15896
+36087,1981,27,Private,All Industries,5332,60577,856989729,14147
+36103,1981,26,Total Covered,All Industries,26170,388677,5829461660,14998
+36103,1981,27,Federal Government,All Industries,126,9425,196127971,20809
+36103,1981,27,State Government,All Industries,23,23115,348838416,15091
+36103,1981,27,Local Government,All Industries,269,57243,967002457,16892
+36103,1981,27,Private,All Industries,25752,298894,4317492816,14444
+36111,1981,26,Total Covered,All Industries,3140,47427,663537773,13990
+36111,1981,27,Federal Government,All Industries,37,278,5938216,21360
+36111,1981,27,State Government,All Industries,9,2084,35590596,17078
+36111,1981,27,Local Government,All Industries,59,7033,91372327,12991
+36111,1981,27,Private,All Industries,3035,38032,530636634,13952
+36117,1981,26,Total Covered,All Industries,1361,22760,309674435,13606
+36117,1981,27,Federal Government,All Industries,20,115,2428680,21118
+36117,1981,27,State Government,All Industries,4,1728,23859642,13807
+36117,1981,27,Local Government,All Industries,61,3826,47457989,12404
+36117,1981,27,Private,All Industries,1276,17091,235928124,13804
+36119,1981,26,Total Covered,All Industries,24231,348990,6065594410,17380
+36119,1981,27,Federal Government,All Industries,69,5989,136576012,22804
+36119,1981,27,State Government,All Industries,17,4057,65655193,16183
+36119,1981,27,Local Government,All Industries,191,40907,692337796,16924
+36119,1981,27,Private,All Industries,23954,298037,5171025409,17350
+37013,1981,26,Total Covered,All Industries,799,15065,180250827,11964
+37013,1981,27,Federal Government,All Industries,16,112,2181021,19473
+37013,1981,27,State Government,All Industries,19,448,5728434,12786
+37013,1981,27,Local Government,All Industries,18,1660,17195528,10358
+37013,1981,27,Private,All Industries,746,12845,155145844,12078
+37015,1981,26,Total Covered,All Industries,284,5479,54044115,9863
+37015,1981,27,Federal Government,All Industries,13,100,1645952,16459
+37015,1981,27,State Government,All Industries,12,90,1216601,13517
+37015,1981,27,Local Government,All Industries,11,919,9133346,9938
+37015,1981,27,Private,All Industries,248,4370,42048216,9622
+37019,1981,26,Total Covered,All Industries,567,9235,145329976,15736
+37019,1981,27,Federal Government,All Industries,11,333,6490491,19490
+37019,1981,27,State Government,All Industries,13,127,1581783,12454
+37019,1981,27,Local Government,All Industries,27,1662,17792078,10705
+37019,1981,27,Private,All Industries,516,7113,119465624,16795
+37029,1981,26,Total Covered,All Industries,74,603,5586094,9263
+37029,1981,27,Federal Government,All Industries,5,14,192963,13783
+37029,1981,27,State Government,All Industries,0,0,0,0
+37029,1981,27,Local Government,All Industries,0,0,0,0
+37029,1981,27,Private,All Industries,60,345,3133559,9082
+37031,1981,26,Total Covered,All Industries,1016,11444,115767967,10116
+37031,1981,27,Federal Government,All Industries,12,107,1938010,18112
+37031,1981,27,State Government,All Industries,19,493,6518811,13222
+37031,1981,27,Local Government,All Industries,15,1513,16984926,11225
+37031,1981,27,Private,All Industries,970,9331,90326220,9680
+37041,1981,26,Total Covered,All Industries,264,4045,45600783,11273
+37041,1981,27,Federal Government,All Industries,6,33,693269,21008
+37041,1981,27,State Government,All Industries,14,73,941560,12898
+37041,1981,27,Local Government,All Industries,5,502,5559974,11075
+37041,1981,27,Private,All Industries,239,3437,38405980,11174
+37049,1981,26,Total Covered,All Industries,1176,22435,302431494,13480
+37049,1981,27,Federal Government,All Industries,25,5176,110294255,21308
+37049,1981,27,State Government,All Industries,22,710,7292564,10271
+37049,1981,27,Local Government,All Industries,17,3354,36708046,10944
+37049,1981,27,Private,All Industries,1112,13195,148136629,11226
+37053,1981,26,Total Covered,All Industries,133,1213,11877320,9791
+37053,1981,27,Federal Government,All Industries,6,37,497445,13444
+37053,1981,27,State Government,All Industries,10,119,1517715,12753
+37053,1981,27,Local Government,All Industries,3,376,3834500,10198
+37053,1981,27,Private,All Industries,114,681,6027660,8851
+37055,1981,26,Total Covered,All Industries,572,5228,47815065,9145
+37055,1981,27,Federal Government,All Industries,11,62,1003049,16178
+37055,1981,27,State Government,All Industries,12,233,3056519,13118
+37055,1981,27,Local Government,All Industries,7,543,6084489,11205
+37055,1981,27,Private,All Industries,542,4390,37671008,8581
+37073,1981,26,Total Covered,All Industries,105,1117,11045207,9888
+37073,1981,27,Federal Government,All Industries,9,33,484676,14687
+37073,1981,27,State Government,All Industries,9,73,900412,12334
+37073,1981,27,Local Government,All Industries,5,333,3311356,9944
+37073,1981,27,Private,All Industries,82,678,6348763,9363
+37091,1981,26,Total Covered,All Industries,460,8366,87410754,10448
+37091,1981,27,Federal Government,All Industries,13,78,1367957,17537
+37091,1981,27,State Government,All Industries,18,560,6642115,11860
+37091,1981,27,Local Government,All Industries,11,946,10192485,10774
+37091,1981,27,Private,All Industries,418,6782,69208197,10204
+37095,1981,26,Total Covered,All Industries,144,1401,17015194,12145
+37095,1981,27,Federal Government,All Industries,9,152,5565706,36616
+37095,1981,27,State Government,All Industries,5,63,771684,12248
+37095,1981,27,Local Government,All Industries,4,217,2030736,9358
+37095,1981,27,Private,All Industries,126,969,8647068,8923
+37103,1981,26,Total Covered,All Industries,130,1184,11574116,9775
+37103,1981,27,Federal Government,All Industries,12,30,482090,16069
+37103,1981,27,State Government,All Industries,6,43,510040,11861
+37103,1981,27,Local Government,All Industries,8,330,3521487,10671
+37103,1981,27,Private,All Industries,104,781,7060499,9040
+37129,1981,26,Total Covered,All Industries,2319,43394,562215739,12956
+37129,1981,27,Federal Government,All Industries,21,853,18876156,22129
+37129,1981,27,State Government,All Industries,30,2163,31229204,14437
+37129,1981,27,Local Government,All Industries,13,5902,68910771,11675
+37129,1981,27,Private,All Industries,2255,34476,443199608,12855
+37133,1981,26,Total Covered,All Industries,1168,21589,235608286,10913
+37133,1981,27,Federal Government,All Industries,18,4188,63200391,15090
+37133,1981,27,State Government,All Industries,19,602,6883147,11433
+37133,1981,27,Local Government,All Industries,9,3220,32729018,10164
+37133,1981,27,Private,All Industries,1122,13579,132795730,9779
+37137,1981,26,Total Covered,All Industries,188,1752,15470869,8830
+37137,1981,27,Federal Government,All Industries,7,27,378881,14032
+37137,1981,27,State Government,All Industries,8,93,1041220,11195
+37137,1981,27,Local Government,All Industries,10,335,3788453,11308
+37137,1981,27,Private,All Industries,163,1297,10262315,7912
+37139,1981,26,Total Covered,All Industries,686,9472,101367729,10701
+37139,1981,27,Federal Government,All Industries,10,523,9916944,18961
+37139,1981,27,State Government,All Industries,23,815,10645503,13061
+37139,1981,27,Local Government,All Industries,13,1799,18210941,10122
+37139,1981,27,Private,All Industries,640,6335,62594341,9880
+37141,1981,26,Total Covered,All Industries,281,3391,32856707,9689
+37141,1981,27,Federal Government,All Industries,10,60,982236,16370
+37141,1981,27,State Government,All Industries,13,160,2104861,13155
+37141,1981,27,Local Government,All Industries,10,873,9438333,10811
+37141,1981,27,Private,All Industries,248,2298,20331277,8847
+37143,1981,26,Total Covered,All Industries,165,1365,12360499,9055
+37143,1981,27,Federal Government,All Industries,6,29,466694,16092
+37143,1981,27,State Government,All Industries,11,45,568428,12631
+37143,1981,27,Local Government,All Industries,7,373,3707771,9940
+37143,1981,27,Private,All Industries,141,918,7617606,8298
+37147,1981,26,Total Covered,All Industries,1678,31904,383436860,12018
+37147,1981,27,Federal Government,All Industries,22,318,7403850,23282
+37147,1981,27,State Government,All Industries,32,3661,62344523,17029
+37147,1981,27,Local Government,All Industries,24,5380,61717436,11471
+37147,1981,27,Private,All Industries,1600,22545,251971051,11176
+37177,1981,26,Total Covered,All Industries,79,574,5001948,8714
+37177,1981,27,Federal Government,All Industries,5,15,228203,15213
+37177,1981,27,State Government,All Industries,0,0,0,0
+37177,1981,27,Local Government,All Industries,0,0,0,0
+37177,1981,27,Private,All Industries,62,376,2825828,7515
+37187,1981,26,Total Covered,All Industries,235,3001,30177748,10055
+37187,1981,27,Federal Government,All Industries,8,38,670808,17652
+37187,1981,27,State Government,All Industries,14,172,2176141,12651
+37187,1981,27,Local Government,All Industries,10,780,7938469,10177
+37187,1981,27,Private,All Industries,203,2011,19392330,9643
+39007,1981,26,Total Covered,All Industries,2038,30161,446132035,14791
+39007,1981,27,Federal Government,All Industries,21,260,5330992,20503
+39007,1981,27,State Government,All Industries,16,298,3932057,13194
+39007,1981,27,Local Government,All Industries,104,3524,42688613,12113
+39007,1981,27,Private,All Industries,1897,26079,394180373,15114
+39035,1981,26,Total Covered,All Industries,33460,737487,13030698701,17669
+39035,1981,27,Federal Government,All Industries,49,19200,448782057,23374
+39035,1981,27,State Government,All Industries,45,6239,95931896,15376
+39035,1981,27,Local Government,All Industries,677,71674,1017868327,14201
+39035,1981,27,Private,All Industries,32689,640374,11468116421,17908
+39043,1981,26,Total Covered,All Industries,1736,31143,476117226,15288
+39043,1981,27,Federal Government,All Industries,19,191,4182944,21900
+39043,1981,27,State Government,All Industries,21,658,8239528,12522
+39043,1981,27,Local Government,All Industries,71,2906,38404395,13215
+39043,1981,27,Private,All Industries,1625,27388,425290359,15528
+39085,1981,26,Total Covered,All Industries,4336,72093,1153046629,15993
+39085,1981,27,Federal Government,All Industries,13,421,9790334,23254
+39085,1981,27,State Government,All Industries,20,206,2625015,12742
+39085,1981,27,Local Government,All Industries,177,9556,130823429,13690
+39085,1981,27,Private,All Industries,4126,61910,1009807851,16310
+39093,1981,26,Total Covered,All Industries,4539,86124,1526320072,17722
+39093,1981,27,Federal Government,All Industries,19,1157,37142015,32102
+39093,1981,27,State Government,All Industries,23,417,5578829,13378
+39093,1981,27,Local Government,All Industries,200,10159,137841613,13568
+39093,1981,27,Private,All Industries,4297,74391,1345757615,18090
+39095,1981,26,Total Covered,All Industries,9331,195070,3392285163,17390
+39095,1981,27,Federal Government,All Industries,29,2058,50368472,24474
+39095,1981,27,State Government,All Industries,40,5886,95597342,16241
+39095,1981,27,Local Government,All Industries,115,15661,259556867,16573
+39095,1981,27,Private,All Industries,9147,171465,2986762482,17419
+39123,1981,26,Total Covered,All Industries,896,10750,157207764,14623
+39123,1981,27,Federal Government,All Industries,14,140,2778944,19849
+39123,1981,27,State Government,All Industries,14,215,3132841,14571
+39123,1981,27,Local Government,All Industries,43,1311,15216597,11606
+39123,1981,27,Private,All Industries,825,9084,136079382,14980
+39143,1981,26,Total Covered,All Industries,1310,21010,313830595,14937
+39143,1981,27,Federal Government,All Industries,14,127,2709103,21331
+39143,1981,27,State Government,All Industries,19,174,2545996,14632
+39143,1981,27,Local Government,All Industries,68,2500,31099425,12439
+39143,1981,27,Private,All Industries,1209,18209,277476071,15238
+41007,1981,26,Total Covered,All Industries,1082,10917,159228800,14585
+41007,1981,27,Federal Government,All Industries,11,137,2929195,21380
+41007,1981,27,State Government,All Industries,20,329,5151501,15658
+41007,1981,27,Local Government,All Industries,37,1627,22984889,14127
+41007,1981,27,Private,All Industries,1014,8824,128163215,14524
+41011,1981,26,Total Covered,All Industries,1767,18758,274797821,14649
+41011,1981,27,Federal Government,All Industries,21,522,10396133,19915
+41011,1981,27,State Government,All Industries,26,434,6911179,15924
+41011,1981,27,Local Government,All Industries,47,3486,48368754,13875
+41011,1981,27,Private,All Industries,1673,14316,209121755,14607
+41015,1981,26,Total Covered,All Industries,600,4566,58572766,12828
+41015,1981,27,Federal Government,All Industries,3,262,4401798,16800
+41015,1981,27,State Government,All Industries,11,108,1676297,15521
+41015,1981,27,Local Government,All Industries,34,848,10817138,12756
+41015,1981,27,Private,All Industries,552,3348,41677533,12448
+41019,1981,26,Total Covered,All Industries,2331,28196,433857440,15387
+41019,1981,27,Federal Government,All Industries,13,1674,31800275,18996
+41019,1981,27,State Government,All Industries,24,572,9055311,15830
+41019,1981,27,Local Government,All Industries,68,4359,60248476,13821
+41019,1981,27,Private,All Industries,2226,21591,332753378,15411
+41039,1981,26,Total Covered,All Industries,6900,93594,1376452472,14706
+41039,1981,27,Federal Government,All Industries,24,2331,46515693,19955
+41039,1981,27,State Government,All Industries,40,4757,76051407,15987
+41039,1981,27,Local Government,All Industries,84,12260,190880693,15569
+41039,1981,27,Private,All Industries,6752,74246,1063004679,14317
+41041,1981,26,Total Covered,All Industries,1269,11861,149985957,12645
+41041,1981,27,Federal Government,All Industries,7,233,4449812,19097
+41041,1981,27,State Government,All Industries,18,335,5270532,15732
+41041,1981,27,Local Government,All Industries,39,1999,27565152,13789
+41041,1981,27,Private,All Industries,1205,9294,112700461,12126
+41057,1981,26,Total Covered,All Industries,665,5626,73223518,13015
+41057,1981,27,Federal Government,All Industries,8,173,3151657,18217
+41057,1981,27,State Government,All Industries,16,198,3167611,15998
+41057,1981,27,Local Government,All Industries,43,1076,15368103,14282
+41057,1981,27,Private,All Industries,598,4179,51536147,12332
+42045,1981,26,Total Covered,All Industries,8939,172951,2763491225,15978
+42045,1981,27,Federal Government,All Industries,58,1867,43978040,23555
+42045,1981,27,State Government,All Industries,27,3200,58618742,18318
+42045,1981,27,Local Government,All Industries,106,16527,222905429,13487
+42045,1981,27,Private,All Industries,8748,151357,2437989014,16107
+42049,1981,26,Total Covered,All Industries,4758,107536,1634849299,15202
+42049,1981,27,Federal Government,All Industries,40,1265,28320026,22387
+42049,1981,27,State Government,All Industries,29,2159,39537849,18313
+42049,1981,27,Local Government,All Industries,89,8402,109740670,13061
+42049,1981,27,Private,All Industries,4600,95710,1457250754,15225
+42101,1981,26,Total Covered,All Industries,25513,732276,12485693054,17050
+42101,1981,27,Federal Government,All Industries,122,53771,1174390505,21840
+42101,1981,27,State Government,All Industries,39,14990,253302365,16898
+42101,1981,27,Local Government,All Industries,52,65831,1233733182,18740
+42101,1981,27,Private,All Industries,25300,597684,9824267002,16437
+44001,1981,26,Total Covered,All Industries,0,0,0,0
+44001,1981,27,Federal Government,All Industries,3,72,1757123,24404
+44001,1981,27,State Government,All Industries,0,0,0,0
+44001,1981,27,Local Government,All Industries,0,0,0,0
+44001,1981,27,Private,All Industries,827,9830,114731212,11671
+44003,1981,26,Total Covered,All Industries,3403,52756,681551574,12918
+44003,1981,27,Federal Government,All Industries,13,1003,22553912,22486
+44003,1981,27,State Government,All Industries,4,1214,14384719,11849
+44003,1981,27,Local Government,All Industries,76,4401,71371225,16217
+44003,1981,27,Private,All Industries,3310,46138,573241718,12424
+44005,1981,26,Total Covered,All Industries,0,0,0,0
+44005,1981,27,Federal Government,All Industries,13,3076,77383829,25157
+44005,1981,27,Local Government,All Industries,0,0,0,0
+44005,1981,27,Private,All Industries,1895,21060,261840639,12433
+44007,1981,26,Total Covered,All Industries,15171,264191,3587507370,13579
+44007,1981,27,Federal Government,All Industries,52,4111,92217161,22431
+44007,1981,27,State Government,All Industries,79,16135,239202114,14825
+44007,1981,27,Local Government,All Industries,222,15231,238121503,15634
+44007,1981,27,Private,All Industries,14818,228714,3017966592,13195
+44009,1981,26,Total Covered,All Industries,2391,32085,426073739,13279
+44009,1981,27,Federal Government,All Industries,20,489,10555488,21585
+44009,1981,27,State Government,All Industries,3,3214,52182860,16236
+44009,1981,27,Local Government,All Industries,79,2628,37117223,14123
+44009,1981,27,Private,All Industries,2289,25754,326218168,12666
+45013,1981,26,Total Covered,All Industries,1680,20729,241087659,11630
+45013,1981,27,Federal Government,All Industries,18,1802,28877866,16025
+45013,1981,27,State Government,All Industries,19,568,8137337,14326
+45013,1981,27,Local Government,All Industries,12,2135,24364115,11411
+45013,1981,27,Private,All Industries,1631,16224,179708341,11076
+45015,1981,26,Total Covered,All Industries,774,17715,264931225,14955
+45015,1981,27,Federal Government,All Industries,9,1554,31173042,20059
+45015,1981,27,State Government,All Industries,13,979,17780099,18161
+45015,1981,27,Local Government,All Industries,12,3168,32042505,10114
+45015,1981,27,Private,All Industries,740,12014,183935579,15310
+45019,1981,26,Total Covered,All Industries,5783,117863,1589245414,13483
+45019,1981,27,Federal Government,All Industries,39,15990,338268514,21155
+45019,1981,27,State Government,All Industries,26,9589,138730323,14467
+45019,1981,27,Local Government,All Industries,31,9784,110208569,11264
+45019,1981,27,Private,All Industries,5687,82500,1002038008,12145
+45029,1981,26,Total Covered,All Industries,608,8188,88607665,10821
+45029,1981,27,Federal Government,All Industries,8,107,1907544,17827
+45029,1981,27,State Government,All Industries,12,339,4719338,13921
+45029,1981,27,Local Government,All Industries,9,1261,13395981,10623
+45029,1981,27,Private,All Industries,579,6481,68584802,10582
+45035,1981,26,Total Covered,All Industries,797,11352,133769079,11783
+45035,1981,27,Federal Government,All Industries,6,117,2440296,20857
+45035,1981,27,State Government,All Industries,13,950,11604370,12215
+45035,1981,27,Local Government,All Industries,13,1562,16390352,10493
+45035,1981,27,Private,All Industries,765,8723,103334061,11846
+45043,1981,26,Total Covered,All Industries,848,13017,175490378,13481
+45043,1981,27,Federal Government,All Industries,8,85,1656349,19486
+45043,1981,27,State Government,All Industries,13,538,8718653,16205
+45043,1981,27,Local Government,All Industries,7,1946,18811837,9666
+45043,1981,27,Private,All Industries,820,10448,146303539,14003
+45049,1981,26,Total Covered,All Industries,372,4925,61696595,12527
+45049,1981,27,Federal Government,All Industries,5,55,883885,16070
+45049,1981,27,State Government,All Industries,10,156,2114376,13553
+45049,1981,27,Local Government,All Industries,9,796,7179932,9020
+45049,1981,27,Private,All Industries,348,3918,51518402,13149
+45051,1981,26,Total Covered,All Industries,3010,39686,396437763,9989
+45051,1981,27,Federal Government,All Industries,17,1105,16339136,14786
+45051,1981,27,State Government,All Industries,15,987,15294728,15496
+45051,1981,27,Local Government,All Industries,15,3567,38960975,10922
+45051,1981,27,Private,All Industries,2963,34027,325842924,9576
+45053,1981,26,Total Covered,All Industries,270,2890,26341088,9114
+45053,1981,27,Federal Government,All Industries,6,38,694600,18278
+45053,1981,27,State Government,All Industries,8,140,1865742,13326
+45053,1981,27,Local Government,All Industries,7,539,5640326,10464
+45053,1981,27,Private,All Industries,249,2173,18140420,8348
+48007,1981,26,Total Covered,All Industries,556,4033,51537032,12778
+48007,1981,27,Federal Government,All Industries,3,14,365142,26081
+48007,1981,27,State Government,All Industries,4,75,1071899,14291
+48007,1981,27,Local Government,All Industries,31,510,6072613,11907
+48007,1981,27,Private,All Industries,518,3434,44027378,12821
+48039,1981,26,Total Covered,All Industries,2713,60567,1162828154,19199
+48039,1981,27,Federal Government,All Industries,9,308,6653827,21603
+48039,1981,27,State Government,All Industries,18,1084,17355906,16010
+48039,1981,27,Local Government,All Industries,93,6469,89882364,13894
+48039,1981,27,Private,All Industries,2593,52706,1048936057,19901
+48057,1981,26,Total Covered,All Industries,437,9284,185062727,19933
+48057,1981,27,Federal Government,All Industries,6,40,766728,19168
+48057,1981,27,State Government,All Industries,8,47,755692,16078
+48057,1981,27,Local Government,All Industries,24,1077,14052363,13047
+48057,1981,27,Private,All Industries,399,8120,169487944,20872
+48061,1981,26,Total Covered,All Industries,3888,65688,757117508,11525
+48061,1981,27,Federal Government,All Industries,28,990,23416689,23653
+48061,1981,27,State Government,All Industries,23,1720,20696687,12032
+48061,1981,27,Local Government,All Industries,105,10341,112647708,10893
+48061,1981,27,Private,All Industries,3732,52637,600356424,11405
+48071,1981,26,Total Covered,All Industries,320,7826,163677079,20914
+48071,1981,27,Federal Government,All Industries,6,39,694442,17806
+48071,1981,27,State Government,All Industries,7,45,783658,17414
+48071,1981,27,Local Government,All Industries,17,910,13543667,14883
+48071,1981,27,Private,All Industries,290,6832,148655312,21758
+48167,1981,26,Total Covered,All Industries,3271,69077,1157270179,16753
+48167,1981,27,Federal Government,All Industries,18,1022,22567970,22082
+48167,1981,27,State Government,All Industries,23,6599,108183724,16393
+48167,1981,27,Local Government,All Industries,115,9374,130216435,13891
+48167,1981,27,Private,All Industries,3115,52082,896302050,17209
+48201,1981,26,Total Covered,All Industries,50241,1407314,27659099452,19653
+48201,1981,27,Federal Government,All Industries,54,19489,515009718,26425
+48201,1981,27,State Government,All Industries,48,25083,352995041,14073
+48201,1981,27,Local Government,All Industries,212,94088,1481232239,15743
+48201,1981,27,Private,All Industries,49927,1268654,25309862454,19950
+48239,1981,26,Total Covered,All Industries,329,3052,38312865,12553
+48239,1981,27,Federal Government,All Industries,6,49,851641,17380
+48239,1981,27,State Government,All Industries,7,48,717349,14944
+48239,1981,27,Local Government,All Industries,29,694,7757846,11178
+48239,1981,27,Private,All Industries,287,2261,28986029,12820
+48245,1981,26,Total Covered,All Industries,4970,120057,2158602919,17979
+48245,1981,27,Federal Government,All Industries,23,1113,25733432,23120
+48245,1981,27,State Government,All Industries,26,3181,42379636,13322
+48245,1981,27,Local Government,All Industries,91,10493,151920074,14478
+48245,1981,27,Private,All Industries,4830,105270,1938569777,18415
+48261,1981,26,Total Covered,All Industries,19,358,4595184,12835
+48261,1981,27,Federal Government,All Industries,1,3,26046,8682
+48261,1981,27,State Government,All Industries,0,0,0,0
+48261,1981,27,Local Government,All Industries,0,0,0,0
+48261,1981,27,Private,All Industries,16,336,4301587,12802
+48273,1981,26,Total Covered,All Industries,568,10193,132617587,13010
+48273,1981,27,Federal Government,All Industries,14,651,10801474,16592
+48273,1981,27,State Government,All Industries,14,1095,13021002,11891
+48273,1981,27,Local Government,All Industries,29,1697,18767997,11059
+48273,1981,27,Private,All Industries,511,6750,90027114,13337
+48321,1981,26,Total Covered,All Industries,790,13281,208877385,15727
+48321,1981,27,Federal Government,All Industries,7,95,1861392,19593
+48321,1981,27,State Government,All Industries,13,108,1759261,16289
+48321,1981,27,Local Government,All Industries,40,1835,23242023,12665
+48321,1981,27,Private,All Industries,730,11243,182014709,16189
+48355,1981,26,Total Covered,All Industries,5832,117142,1829478998,15617
+48355,1981,27,Federal Government,All Industries,36,5561,121401976,21830
+48355,1981,27,State Government,All Industries,37,2516,34946599,13889
+48355,1981,27,Local Government,All Industries,46,14224,194697927,13687
+48355,1981,27,Private,All Industries,5713,94841,1478432496,15588
+48361,1981,26,Total Covered,All Industries,1175,27141,503809512,18562
+48361,1981,27,Federal Government,All Industries,2,127,2762427,21751
+48361,1981,27,State Government,All Industries,13,180,2980206,16556
+48361,1981,27,Local Government,All Industries,42,3211,46878075,14599
+48361,1981,27,Private,All Industries,1118,23623,451188804,19099
+48391,1981,26,Total Covered,All Industries,277,2878,41063469,14268
+48391,1981,27,Federal Government,All Industries,7,44,759335,17257
+48391,1981,27,State Government,All Industries,5,27,396210,14674
+48391,1981,27,Local Government,All Industries,20,512,6749619,13182
+48391,1981,27,Private,All Industries,245,2295,33158305,14448
+48409,1981,26,Total Covered,All Industries,898,14452,226614937,15680
+48409,1981,27,Federal Government,All Industries,5,93,2026729,21792
+48409,1981,27,State Government,All Industries,9,141,2052076,14553
+48409,1981,27,Local Government,All Industries,41,2574,31193703,12118
+48409,1981,27,Private,All Industries,843,11644,191342429,16432
+48469,1981,26,Total Covered,All Industries,1786,30831,484607039,15718
+48469,1981,27,Federal Government,All Industries,12,228,5151120,22592
+48469,1981,27,State Government,All Industries,18,239,3924604,16420
+48469,1981,27,Local Government,All Industries,46,3370,42016006,12467
+48469,1981,27,Private,All Industries,1710,26994,433515309,16059
+48489,1981,26,Total Covered,All Industries,255,3204,33502558,10456
+48489,1981,27,Federal Government,All Industries,8,41,767537,18720
+48489,1981,27,State Government,All Industries,8,68,1008426,14829
+48489,1981,27,Local Government,All Industries,20,823,9468432,11504
+48489,1981,27,Private,All Industries,219,2272,22258163,9796
+51001,1981,26,Total Covered,All Industries,642,10210,111272101,10898
+51001,1981,27,Federal Government,All Industries,15,775,17812723,22984
+51001,1981,27,State Government,All Industries,14,293,3756855,12822
+51001,1981,27,Local Government,All Industries,34,1107,10636297,9608
+51001,1981,27,Private,All Industries,579,8035,79066226,9840
+51013,1981,26,Total Covered,All Industries,3345,118443,2545191713,21488
+51013,1981,27,Federal Government,All Industries,53,39245,1052120416,26809
+51013,1981,27,State Government,All Industries,14,320,5188389,16213
+51013,1981,27,Local Government,All Industries,38,6235,109985454,17640
+51013,1981,27,Private,All Industries,3240,72643,1377897454,18968
+51033,1981,26,Total Covered,All Industries,223,3027,33698533,11132
+51033,1981,27,Federal Government,All Industries,9,63,1068961,16967
+51033,1981,27,State Government,All Industries,10,220,2946924,13395
+51033,1981,27,Local Government,All Industries,4,547,5245475,9589
+51033,1981,27,Private,All Industries,200,2197,24437173,11122
+51036,1981,26,Total Covered,All Industries,49,518,4952267,9560
+51036,1981,27,Federal Government,All Industries,5,18,435509,24194
+51036,1981,27,State Government,All Industries,0,0,0,0
+51036,1981,27,Local Government,All Industries,0,0,0,0
+51036,1981,27,Private,All Industries,38,203,1861050,9167
+51041,1981,26,Total Covered,All Industries,1867,44141,683085736,15475
+51041,1981,27,Federal Government,All Industries,9,3403,63001735,18513
+51041,1981,27,State Government,All Industries,27,3192,47854212,14991
+51041,1981,27,Local Government,All Industries,31,5822,64912401,11149
+51041,1981,27,Private,All Industries,1800,31724,507317388,15991
+51057,1981,26,Total Covered,All Industries,221,2796,29301318,10479
+51057,1981,27,Federal Government,All Industries,6,40,592611,14815
+51057,1981,27,State Government,All Industries,8,55,757984,13781
+51057,1981,27,Local Government,All Industries,3,270,3147034,11655
+51057,1981,27,Private,All Industries,204,2431,24803689,10203
+51059,1981,26,Total Covered,All Industries,8741,206439,3413349417,16534
+51059,1981,27,Federal Government,All Industries,27,15241,356438798,23386
+51059,1981,27,State Government,All Industries,28,4724,65826103,13934
+51059,1981,27,Local Government,All Industries,63,24837,411446912,16565
+51059,1981,27,Private,All Industries,8623,161637,2579637604,15959
+51073,1981,26,Total Covered,All Industries,360,4038,42489188,10522
+51073,1981,27,Federal Government,All Industries,7,60,874310,14571
+51073,1981,27,State Government,All Industries,9,558,7384162,13233
+51073,1981,27,Local Government,All Industries,15,662,6217625,9392
+51073,1981,27,Private,All Industries,329,2758,28013091,10157
+51085,1981,26,Total Covered,All Industries,978,16133,218285797,13530
+51085,1981,27,Federal Government,All Industries,9,95,1752648,18448
+51085,1981,27,State Government,All Industries,17,548,7725298,14097
+51085,1981,27,Local Government,All Industries,27,1645,25078856,15245
+51085,1981,27,Private,All Industries,925,13845,183728995,13270
+51087,1981,26,Total Covered,All Industries,3068,71853,1032508661,14369
+51087,1981,27,Federal Government,All Industries,7,411,10809972,26301
+51087,1981,27,State Government,All Industries,21,1452,21464656,14782
+51087,1981,27,Local Government,All Industries,32,6352,87416884,13762
+51087,1981,27,Private,All Industries,3008,63638,912817149,14343
+51093,1981,26,Total Covered,All Industries,315,9280,141891622,15290
+51093,1981,27,Federal Government,All Industries,10,87,1721210,19784
+51093,1981,27,State Government,All Industries,11,82,1320820,16107
+51093,1981,27,Local Government,All Industries,8,712,6737273,9462
+51093,1981,27,Private,All Industries,286,8399,132112319,15729
+51095,1981,26,Total Covered,All Industries,327,10108,143737846,14220
+51095,1981,27,Federal Government,All Industries,4,36,572777,15910
+51095,1981,27,State Government,All Industries,9,1545,18022094,11664
+51095,1981,27,Local Government,All Industries,23,778,9706321,12475
+51095,1981,27,Private,All Industries,291,7749,115436654,14896
+51097,1981,26,Total Covered,All Industries,68,597,5727614,9593
+51097,1981,27,Federal Government,All Industries,5,32,336086,10502
+51097,1981,27,State Government,All Industries,3,6,76891,12815
+51097,1981,27,Local Government,All Industries,6,165,1661115,10067
+51097,1981,27,Private,All Industries,54,394,3653522,9272
+51099,1981,26,Total Covered,All Industries,147,4880,103000137,21106
+51099,1981,27,Federal Government,All Industries,7,2675,71377840,26683
+51099,1981,27,State Government,All Industries,8,27,437142,16190
+51099,1981,27,Local Government,All Industries,3,344,3491119,10148
+51099,1981,27,Private,All Industries,129,1834,27694036,15100
+51101,1981,26,Total Covered,All Industries,184,2678,44384578,16573
+51101,1981,27,Federal Government,All Industries,4,19,319482,16814
+51101,1981,27,State Government,All Industries,9,27,299841,11105
+51101,1981,27,Local Government,All Industries,5,386,3828371,9918
+51101,1981,27,Private,All Industries,166,2246,39936884,17781
+51103,1981,26,Total Covered,All Industries,319,3270,35983842,11004
+51103,1981,27,Federal Government,All Industries,5,39,618232,15852
+51103,1981,27,State Government,All Industries,8,25,346687,13867
+51103,1981,27,Local Government,All Industries,6,275,2883856,10486
+51103,1981,27,Private,All Industries,300,2931,32135067,10963
+51115,1981,26,Total Covered,All Industries,141,1072,8916724,8317
+51115,1981,27,Federal Government,All Industries,4,46,513508,11163
+51115,1981,27,State Government,All Industries,0,0,0,0
+51115,1981,27,Local Government,All Industries,0,0,0,0
+51115,1981,27,Private,All Industries,129,821,6041355,7358
+51119,1981,26,Total Covered,All Industries,214,2175,19082160,8773
+51119,1981,27,Federal Government,All Industries,7,39,501909,12869
+51119,1981,27,State Government,All Industries,11,197,2353000,11944
+51119,1981,27,Local Government,All Industries,6,304,3043608,10011
+51119,1981,27,Private,All Industries,190,1635,13183643,8063
+51127,1981,26,Total Covered,All Industries,120,1214,12175548,10029
+51127,1981,27,Federal Government,All Industries,5,28,438092,15646
+51127,1981,27,State Government,All Industries,0,0,0,0
+51127,1981,27,Local Government,All Industries,0,0,0,0
+51127,1981,27,Private,All Industries,104,806,7499241,9304
+51131,1981,26,Total Covered,All Industries,292,4491,41006856,9130
+51131,1981,27,Federal Government,All Industries,6,50,856848,17136
+51131,1981,27,State Government,All Industries,12,194,1812669,9343
+51131,1981,27,Local Government,All Industries,11,722,7329777,10152
+51131,1981,27,Private,All Industries,263,3525,31007562,8796
+51133,1981,26,Total Covered,All Industries,205,2012,20629133,10253
+51133,1981,27,Federal Government,All Industries,7,33,508132,15397
+51133,1981,27,State Government,All Industries,5,14,127870,9133
+51133,1981,27,Local Government,All Industries,13,288,2964192,10292
+51133,1981,27,Private,All Industries,180,1677,17028939,10154
+51149,1981,26,Total Covered,All Industries,196,8004,147911448,18479
+51149,1981,27,Federal Government,All Industries,12,5174,120691942,23326
+51149,1981,27,State Government,All Industries,6,20,291660,14583
+51149,1981,27,Local Government,All Industries,19,887,8686004,9792
+51149,1981,27,Private,All Industries,159,1923,18241842,9486
+51153,1981,26,Total Covered,All Industries,1483,27625,358992645,12995
+51153,1981,27,Federal Government,All Industries,15,2640,42444428,16077
+51153,1981,27,State Government,All Industries,21,767,11843109,15440
+51153,1981,27,Local Government,All Industries,35,5829,82020105,14071
+51153,1981,27,Private,All Industries,1412,18389,222685003,12109
+51159,1981,26,Total Covered,All Industries,164,2201,26099687,11858
+51159,1981,27,Federal Government,All Industries,8,35,540280,15436
+51159,1981,27,State Government,All Industries,15,276,3603311,13055
+51159,1981,27,Local Government,All Industries,4,209,2378963,11382
+51159,1981,27,Private,All Industries,137,1681,19577133,11646
+51177,1981,26,Total Covered,All Industries,461,6218,69933477,11246
+51177,1981,27,Federal Government,All Industries,5,21,341554,16264
+51177,1981,27,State Government,All Industries,8,26,316617,12177
+51177,1981,27,Local Government,All Industries,18,1048,12561511,11986
+51177,1981,27,Private,All Industries,430,5123,56713795,11070
+51179,1981,26,Total Covered,All Industries,418,5952,68918196,11578
+51179,1981,27,Federal Government,All Industries,4,78,1770590,22699
+51179,1981,27,State Government,All Industries,9,48,596749,12432
+51179,1981,27,Local Government,All Industries,20,1425,14288238,10026
+51179,1981,27,Private,All Industries,385,4401,52262619,11875
+51181,1981,26,Total Covered,All Industries,81,2147,50007708,23291
+51181,1981,27,Federal Government,All Industries,5,22,334822,15219
+51181,1981,27,State Government,All Industries,7,30,249142,8304
+51181,1981,27,Local Government,All Industries,5,295,3007046,10193
+51181,1981,27,Private,All Industries,64,1800,46416698,25787
+51193,1981,26,Total Covered,All Industries,246,2706,23409771,8651
+51193,1981,27,Federal Government,All Industries,5,42,662175,15766
+51193,1981,27,State Government,All Industries,9,43,394822,9181
+51193,1981,27,Local Government,All Industries,16,477,5393545,11307
+51193,1981,27,Private,All Industries,216,2144,16959229,7910
+51199,1981,26,Total Covered,All Industries,454,8133,114312830,14055
+51199,1981,27,Federal Government,All Industries,7,2265,43013230,18990
+51199,1981,27,State Government,All Industries,8,41,542477,13231
+51199,1981,27,Local Government,All Industries,24,1479,17575287,11883
+51199,1981,27,Private,All Industries,415,4348,53181836,12231
+51510,1981,26,Total Covered,All Industries,2721,54613,872632956,15978
+51510,1981,27,Federal Government,All Industries,19,3695,92891899,25139
+51510,1981,27,State Government,All Industries,18,821,14222860,17323
+51510,1981,27,Local Government,All Industries,34,4697,85921601,18292
+51510,1981,27,Private,All Industries,2650,45400,679596596,14969
+51550,1981,26,Total Covered,All Industries,1380,24399,318852726,13068
+51550,1981,27,Federal Government,All Industries,7,161,3705851,23017
+51550,1981,27,State Government,All Industries,21,989,13312884,13460
+51550,1981,27,Local Government,All Industries,40,5363,76403256,14246
+51550,1981,27,Private,All Industries,1312,17886,225430735,12603
+51650,1981,26,Total Covered,All Industries,1600,46781,640599695,13693
+51650,1981,27,Federal Government,All Industries,20,12540,261665433,20866
+51650,1981,27,State Government,All Industries,21,898,12332150,13732
+51650,1981,27,Local Government,All Industries,35,5019,60499412,12054
+51650,1981,27,Private,All Industries,1524,28324,306102700,10807
+51670,1981,26,Total Covered,All Industries,405,9498,156407726,16467
+51670,1981,27,Federal Government,All Industries,2,37,915617,24746
+51670,1981,27,State Government,All Industries,10,61,990916,16244
+51670,1981,27,Local Government,All Industries,25,1491,18356205,12311
+51670,1981,27,Private,All Industries,368,7909,136144988,17213
+51700,1981,26,Total Covered,All Industries,2212,65187,942806877,14463
+51700,1981,27,Federal Government,All Industries,13,1667,31371640,18819
+51700,1981,27,State Government,All Industries,24,1087,15935573,14660
+51700,1981,27,Local Government,All Industries,35,6313,72144678,11427
+51700,1981,27,Private,All Industries,2140,56120,823354986,14671
+51710,1981,26,Total Covered,All Industries,4756,135214,1951639346,14433
+51710,1981,27,Federal Government,All Industries,40,17856,338309143,18946
+51710,1981,27,State Government,All Industries,25,3911,65125121,16651
+51710,1981,27,Local Government,All Industries,51,10638,139348388,13099
+51710,1981,27,Private,All Industries,4640,102809,1408856694,13703
+51735,1981,26,Total Covered,All Industries,0,0,0,0
+51735,1981,27,Local Government,All Industries,0,0,0,0
+51735,1981,27,Private,All Industries,82,589,4828990,8198
+51740,1981,26,Total Covered,All Industries,1376,42061,647368547,15391
+51740,1981,27,Federal Government,All Industries,15,15215,320900690,21091
+51740,1981,27,State Government,All Industries,17,922,14205820,15407
+51740,1981,27,Local Government,All Industries,29,4505,56330146,12503
+51740,1981,27,Private,All Industries,1315,21419,255931891,11948
+51800,1981,26,Total Covered,All Industries,832,15014,188432713,12550
+51800,1981,27,Federal Government,All Industries,9,127,2754000,21685
+51800,1981,27,State Government,All Industries,17,742,10749308,14486
+51800,1981,27,Local Government,All Industries,35,1600,18900250,11812
+51800,1981,27,Private,All Industries,771,12545,156029155,12437
+51810,1981,26,Total Covered,All Industries,3866,67176,763120628,11360
+51810,1981,27,Federal Government,All Industries,21,3328,50202913,15085
+51810,1981,27,State Government,All Industries,22,942,13963132,14822
+51810,1981,27,Local Government,All Industries,34,10119,133124665,13155
+51810,1981,27,Private,All Industries,3789,52787,565829918,10719
+51830,1981,26,Total Covered,All Industries,419,10684,113296585,10604
+51830,1981,27,Federal Government,All Industries,4,71,1618005,22788
+51830,1981,27,State Government,All Industries,15,1391,25744972,18508
+51830,1981,27,Local Government,All Industries,22,401,4597351,11464
+51830,1981,27,Private,All Industries,378,8821,81336257,9220
+53009,1981,26,Total Covered,All Industries,1689,14567,212364098,14578
+53009,1981,27,Federal Government,All Industries,18,411,7502051,18253
+53009,1981,27,State Government,All Industries,22,602,10284547,17083
+53009,1981,27,Local Government,All Industries,31,2453,37280272,15197
+53009,1981,27,Private,All Industries,1618,11101,157297228,14169
+53027,1981,26,Total Covered,All Industries,2011,26753,496363989,18553
+53027,1981,27,Federal Government,All Industries,16,233,4480230,19228
+53027,1981,27,State Government,All Industries,26,580,9541343,16450
+53027,1981,27,Local Government,All Industries,60,3320,56014379,16871
+53027,1981,27,Private,All Industries,1909,22620,426328037,18847
+53029,1981,26,Total Covered,All Industries,806,7277,93961019,12912
+53029,1981,27,Federal Government,All Industries,13,1271,18442955,14510
+53029,1981,27,State Government,All Industries,14,225,3934162,17485
+53029,1981,27,Local Government,All Industries,26,1236,19187102,15523
+53029,1981,27,Private,All Industries,753,4545,52396800,11528
+53031,1981,26,Total Covered,All Industries,496,4107,57800496,14073
+53031,1981,27,Federal Government,All Industries,6,88,1559981,17727
+53031,1981,27,State Government,All Industries,15,258,5498128,21310
+53031,1981,27,Local Government,All Industries,16,762,9886643,12974
+53031,1981,27,Private,All Industries,459,2999,40855744,13623
+53033,1981,26,Total Covered,All Industries,36081,665802,12446699335,18694
+53033,1981,27,Federal Government,All Industries,99,17241,399259792,23157
+53033,1981,27,State Government,All Industries,61,26604,458351283,17228
+53033,1981,27,Local Government,All Industries,192,50380,930670279,18473
+53033,1981,27,Private,All Industries,35729,571577,10658417981,18647
+53035,1981,26,Total Covered,All Industries,2640,46229,744481953,16104
+53035,1981,27,Federal Government,All Industries,28,16650,341921651,20535
+53035,1981,27,State Government,All Industries,28,1465,26723558,18241
+53035,1981,27,Local Government,All Industries,51,4484,69879937,15584
+53035,1981,27,Private,All Industries,2533,23630,305956807,12947
+53045,1981,26,Total Covered,All Industries,703,7666,114508855,14937
+53045,1981,27,Federal Government,All Industries,6,172,3055833,17766
+53045,1981,27,State Government,All Industries,19,546,10181373,18647
+53045,1981,27,Local Government,All Industries,23,1200,17710360,14758
+53045,1981,27,Private,All Industries,655,5748,83561289,14537
+53049,1981,26,Total Covered,All Industries,625,5672,72103055,12712
+53049,1981,27,Federal Government,All Industries,9,30,610282,20342
+53049,1981,27,State Government,All Industries,14,239,4062303,16997
+53049,1981,27,Local Government,All Industries,30,906,13348508,14733
+53049,1981,27,Private,All Industries,572,4497,54081962,12026
+53053,1981,26,Total Covered,All Industries,9079,138585,2220034304,16019
+53053,1981,27,Federal Government,All Industries,62,8933,169349802,18957
+53053,1981,27,State Government,All Industries,47,5324,80924927,15200
+53053,1981,27,Local Government,All Industries,99,18302,314092854,17161
+53053,1981,27,Private,All Industries,8871,106026,1655666721,15615
+53055,1981,26,Total Covered,All Industries,391,2221,23791060,10711
+53055,1981,27,Federal Government,All Industries,5,23,387465,16846
+53055,1981,27,State Government,All Industries,7,50,756190,15123
+53055,1981,27,Local Government,All Industries,15,373,4519240,12115
+53055,1981,27,Private,All Industries,364,1775,18128165,10213
+53057,1981,26,Total Covered,All Industries,1992,22433,325646113,14516
+53057,1981,27,Federal Government,All Industries,17,271,5270449,19448
+53057,1981,27,State Government,All Industries,29,967,16197936,16750
+53057,1981,27,Local Government,All Industries,56,3224,47503990,14734
+53057,1981,27,Private,All Industries,1890,17971,256673738,14282
+53061,1981,26,Total Covered,All Industries,7010,101238,1785245706,17634
+53061,1981,27,Federal Government,All Industries,32,845,19554772,23141
+53061,1981,27,State Government,All Industries,39,2690,45578520,16943
+53061,1981,27,Local Government,All Industries,98,12223,211166036,17276
+53061,1981,27,Private,All Industries,6841,85480,1508946378,17652
+53067,1981,26,Total Covered,All Industries,2754,42605,665575525,15622
+53067,1981,27,Federal Government,All Industries,20,601,13906587,23139
+53067,1981,27,State Government,All Industries,105,13179,251347667,19071
+53067,1981,27,Local Government,All Industries,50,4575,70306282,15367
+53067,1981,27,Private,All Industries,2579,24250,330014989,13608
+53069,1981,26,Total Covered,All Industries,89,852,14792720,17362
+53069,1981,27,Federal Government,All Industries,3,9,149704,16633
+53069,1981,27,State Government,All Industries,5,14,233945,16710
+53069,1981,27,Local Government,All Industries,10,159,2255786,14187
+53069,1981,27,Private,All Industries,71,670,12153285,18139
+53073,1981,26,Total Covered,All Industries,3076,34632,520908740,15041
+53073,1981,27,Federal Government,All Industries,27,379,8547493,22552
+53073,1981,27,State Government,All Industries,28,1759,31389810,17845
+53073,1981,27,Local Government,All Industries,65,3700,57965661,15666
+53073,1981,27,Private,All Industries,2956,28794,423005776,14690
+55003,1981,26,Total Covered,All Industries,458,6241,69535140,11141
+55003,1981,27,Federal Government,All Industries,17,178,3004880,16881
+55003,1981,27,State Government,All Industries,0,0,0,0
+55003,1981,27,Local Government,All Industries,0,0,0,0
+55003,1981,27,Private,All Industries,412,5277,57373953,10872
+55007,1981,26,Total Covered,All Industries,336,2649,23268648,8783
+55007,1981,27,Federal Government,All Industries,8,62,877470,14152
+55007,1981,27,Local Government,All Industries,39,704,7008355,9955
+55007,1981,27,Private,All Industries,289,1883,15382823,8169
+55009,1981,26,Total Covered,All Industries,3537,75259,1144328124,15205
+55009,1981,27,Federal Government,All Industries,25,692,15931388,23022
+55009,1981,27,State Government,All Industries,3,2610,20711899,7935
+55009,1981,27,Local Government,All Industries,42,6374,98704734,15485
+55009,1981,27,Private,All Industries,3467,65583,1008980103,15384
+55029,1981,26,Total Covered,All Industries,775,9503,122343463,12874
+55029,1981,27,Federal Government,All Industries,12,106,1779934,16791
+55029,1981,27,Local Government,All Industries,27,1059,11859530,11198
+55029,1981,27,Private,All Industries,736,8338,108703999,13037
+55031,1981,26,Total Covered,All Industries,904,12933,170398664,13175
+55031,1981,27,Federal Government,All Industries,9,135,2667760,19761
+55031,1981,27,State Government,All Industries,0,0,0,0
+55031,1981,27,Local Government,All Industries,0,0,0,0
+55031,1981,27,Private,All Industries,865,10033,127466645,12704
+55051,1981,26,Total Covered,All Industries,200,1655,14173525,8564
+55051,1981,27,Federal Government,All Industries,6,26,369380,14206
+55051,1981,27,Local Government,All Industries,17,324,3384465,10445
+55051,1981,27,Private,All Industries,177,1305,10419680,7984
+55059,1981,26,Total Covered,All Industries,1972,39938,681512006,17064
+55059,1981,27,Federal Government,All Industries,14,243,5163824,21250
+55059,1981,27,State Government,All Industries,0,0,0,0
+55059,1981,27,Local Government,All Industries,0,0,0,0
+55059,1981,27,Private,All Industries,1930,34283,597884340,17439
+55061,1981,26,Total Covered,All Industries,385,4921,57472135,11678
+55061,1981,27,Federal Government,All Industries,8,112,1953843,17445
+55061,1981,27,Local Government,All Industries,19,774,9494788,12267
+55061,1981,27,Private,All Industries,358,4035,46023504,11406
+55071,1981,26,Total Covered,All Industries,1538,31352,415939498,13266
+55071,1981,27,Federal Government,All Industries,20,173,3402748,19669
+55071,1981,27,State Government,All Industries,0,0,0,0
+55071,1981,27,Local Government,All Industries,0,0,0,0
+55071,1981,27,Private,All Industries,1474,27898,371512679,13316
+55075,1981,26,Total Covered,All Industries,840,14510,204900806,14121
+55075,1981,27,Federal Government,All Industries,18,112,2128896,19008
+55075,1981,27,State Government,All Industries,0,0,0,0
+55075,1981,27,Local Government,All Industries,0,0,0,0
+55075,1981,27,Private,All Industries,780,12497,181099343,14491
+55079,1981,26,Total Covered,All Industries,18524,476953,8003901484,16781
+55079,1981,27,Federal Government,All Industries,33,8696,194968651,22420
+55079,1981,27,State Government,All Industries,5,7451,91071256,12222
+55079,1981,27,Local Government,All Industries,45,36425,616882007,16935
+55079,1981,27,Private,All Industries,18441,424381,7100979570,16732
+55083,1981,26,Total Covered,All Industries,579,6080,68057805,11193
+55083,1981,27,Federal Government,All Industries,11,126,2124452,16860
+55083,1981,27,State Government,All Industries,0,0,0,0
+55083,1981,27,Local Government,All Industries,0,0,0,0
+55083,1981,27,Private,All Industries,530,4838,53046152,10964
+55089,1981,26,Total Covered,All Industries,1361,19468,279897709,14377
+55089,1981,27,Federal Government,All Industries,9,124,2596653,20940
+55089,1981,27,Local Government,All Industries,21,2510,34683216,13818
+55089,1981,27,Private,All Industries,1331,16834,242617840,14412
+55101,1981,26,Total Covered,All Industries,3188,64844,1073727535,16558
+55101,1981,27,Federal Government,All Industries,20,389,8526357,21918
+55101,1981,27,State Government,All Industries,0,0,0,0
+55101,1981,27,Local Government,All Industries,0,0,0,0
+55101,1981,27,Private,All Industries,3125,57442,945161242,16454
+55117,1981,26,Total Covered,All Industries,1903,42336,621089566,14670
+55117,1981,27,Federal Government,All Industries,24,219,4387154,20032
+55117,1981,27,State Government,All Industries,0,0,0,0
+55117,1981,27,Local Government,All Industries,0,0,0,0
+55117,1981,27,Private,All Industries,1835,37736,556424094,14745
