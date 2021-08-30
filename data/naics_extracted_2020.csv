@@ -1,0 +1,2203 @@
+area_fips,year,agglvl_code,own_title,industry_title,annual_avg_estabs_count,annual_avg_emplvl,total_annual_wages,avg_annual_pay
+01003,2020,70,Total Covered,"10 Total, all industries",6679,73116,3021183387,41320
+01003,2020,71,Federal Government,"10 Total, all industries",34,399,23876786,59879
+01003,2020,71,State Government,"10 Total, all industries",36,1153,48674330,42228
+01003,2020,71,Local Government,"10 Total, all industries",90,8385,386976152,46151
+01003,2020,71,Private,"10 Total, all industries",6519,63180,2561656119,40546
+01097,2020,70,Total Covered,"10 Total, all industries",10437,164235,8505956715,51791
+01097,2020,71,Federal Government,"10 Total, all industries",75,2763,223944697,81049
+01097,2020,71,State Government,"10 Total, all industries",62,6175,403343506,65320
+01097,2020,71,Local Government,"10 Total, all industries",228,14449,622046295,43051
+01097,2020,71,Private,"10 Total, all industries",10073,140848,7256622217,51521
+02013,2020,70,Total Covered,"10 Total, all industries",101,2290,129568337,56584
+02013,2020,71,Federal Government,"10 Total, all industries",8,16,1037909,64533
+02013,2020,71,State Government,"10 Total, all industries",11,17,1027761,59294
+02013,2020,71,Local Government,"10 Total, all industries",19,222,9740383,43909
+02013,2020,71,Private,"10 Total, all industries",64,2035,117762284,57880
+02016,2020,70,Total Covered,"10 Total, all industries",166,3390,218290363,64392
+02016,2020,71,Federal Government,"10 Total, all industries",6,14,967434,70788
+02016,2020,71,State Government,"10 Total, all industries",15,24,1662852,70760
+02016,2020,71,Local Government,"10 Total, all industries",13,469,26351542,56197
+02016,2020,71,Private,"10 Total, all industries",133,2884,189308535,65643
+02020,2020,70,Total Covered,"10 Total, all industries",8290,135916,8817514059,64875
+02020,2020,71,Federal Government,"10 Total, all industries",104,8501,740760569,87137
+02020,2020,71,State Government,"10 Total, all industries",59,0,0,0
+02020,2020,71,Local Government,"10 Total, all industries",12,0,0,0
+02020,2020,71,Private,"10 Total, all industries",8116,109950,6905549991,62806
+02050,2020,70,Total Covered,"10 Total, all industries",348,6616,324226955,49007
+02050,2020,71,Federal Government,"10 Total, all industries",27,93,5193936,55649
+02050,2020,71,State Government,"10 Total, all industries",48,283,24253373,85625
+02050,2020,71,Local Government,"10 Total, all industries",73,2453,93876661,38265
+02050,2020,71,Private,"10 Total, all industries",200,3786,200902985,53065
+02060,2020,70,Total Covered,"10 Total, all industries",132,1064,68215381,64102
+02060,2020,71,Federal Government,"10 Total, all industries",7,40,3262883,81572
+02060,2020,71,State Government,"10 Total, all industries",8,22,1974679,88418
+02060,2020,71,Local Government,"10 Total, all industries",7,123,8223531,66994
+02060,2020,71,Private,"10 Total, all industries",110,879,54754288,62286
+02070,2020,70,Total Covered,"10 Total, all industries",159,2084,111696650,53591
+02070,2020,71,Federal Government,"10 Total, all industries",11,46,3132302,67604
+02070,2020,71,State Government,"10 Total, all industries",21,80,5535855,69343
+02070,2020,71,Local Government,"10 Total, all industries",27,549,20545305,37423
+02070,2020,71,Private,"10 Total, all industries",101,1409,82483188,58537
+02100,2020,70,Total Covered,"10 Total, all industries",157,763,31428088,41168
+02100,2020,71,Federal Government,"10 Total, all industries",3,14,1409430,103129
+02100,2020,71,State Government,"10 Total, all industries",12,34,1738691,51644
+02100,2020,71,Local Government,"10 Total, all industries",3,129,5564743,43026
+02100,2020,71,Private,"10 Total, all industries",139,587,22715224,38714
+02105,2020,70,Total Covered,"10 Total, all industries",136,674,26731245,39661
+02105,2020,71,Federal Government,"10 Total, all industries",9,90,6497728,72331
+02105,2020,71,State Government,"10 Total, all industries",14,9,464706,52117
+02105,2020,71,Local Government,"10 Total, all industries",16,260,8885069,34184
+02105,2020,71,Private,"10 Total, all industries",97,315,10883742,34515
+02110,2020,70,Total Covered,"10 Total, all industries",1131,15498,921826901,59482
+02110,2020,71,Federal Government,"10 Total, all industries",24,710,69526412,97913
+02110,2020,71,State Government,"10 Total, all industries",31,3345,212682231,63576
+02110,2020,71,Local Government,"10 Total, all industries",6,2258,143746086,63670
+02110,2020,71,Private,"10 Total, all industries",1070,9185,495872172,53990
+02122,2020,70,Total Covered,"10 Total, all industries",2154,18499,1022116771,55253
+02122,2020,71,Federal Government,"10 Total, all industries",30,396,30963410,78240
+02122,2020,71,State Government,"10 Total, all industries",78,1143,71747804,62758
+02122,2020,71,Local Government,"10 Total, all industries",37,2941,188756143,64183
+02122,2020,71,Private,"10 Total, all industries",2010,14019,730649414,52118
+02130,2020,70,Total Covered,"10 Total, all industries",604,6185,327574841,52966
+02130,2020,71,Federal Government,"10 Total, all industries",14,222,19133243,86218
+02130,2020,71,State Government,"10 Total, all industries",17,464,28589678,61649
+02130,2020,71,Local Government,"10 Total, all industries",8,1089,63455752,58252
+02130,2020,71,Private,"10 Total, all industries",565,4410,216396168,49073
+02150,2020,70,Total Covered,"10 Total, all industries",477,5583,279551832,50074
+02150,2020,71,Federal Government,"10 Total, all industries",15,273,17320051,63482
+02150,2020,71,State Government,"10 Total, all industries",25,246,15299028,62149
+02150,2020,71,Local Government,"10 Total, all industries",19,1007,49268172,48918
+02150,2020,71,Private,"10 Total, all industries",418,4057,197664581,48727
+02164,2020,70,Total Covered,"10 Total, all industries",122,757,31329040,41404
+02164,2020,71,Federal Government,"10 Total, all industries",11,39,2010528,51115
+02164,2020,71,State Government,"10 Total, all industries",8,0,0,0
+02164,2020,71,Local Government,"10 Total, all industries",36,0,0,0
+02164,2020,71,Private,"10 Total, all industries",67,361,17503775,48476
+02170,2020,70,Total Covered,"10 Total, all industries",2370,24315,1182667039,48640
+02170,2020,71,Federal Government,"10 Total, all industries",19,317,25465831,80249
+02170,2020,71,State Government,"10 Total, all industries",57,1387,81223761,58550
+02170,2020,71,Local Government,"10 Total, all industries",8,3243,169606882,52299
+02170,2020,71,Private,"10 Total, all industries",2286,19367,906370565,46799
+02180,2020,70,Total Covered,"10 Total, all industries",302,3600,220395519,61224
+02180,2020,71,Federal Government,"10 Total, all industries",23,55,3808192,68719
+02180,2020,71,State Government,"10 Total, all industries",33,192,15248345,79453
+02180,2020,71,Local Government,"10 Total, all industries",63,1271,60876307,47903
+02180,2020,71,Private,"10 Total, all industries",183,2082,140462675,67476
+02185,2020,70,Total Covered,"10 Total, all industries",242,10833,1197646430,110560
+02185,2020,71,Federal Government,"10 Total, all industries",10,19,1246321,64188
+02185,2020,71,State Government,"10 Total, all industries",17,55,4316284,77888
+02185,2020,71,Local Government,"10 Total, all industries",34,1896,127513650,67257
+02185,2020,71,Private,"10 Total, all industries",182,8862,1064570175,120131
+02188,2020,70,Total Covered,"10 Total, all industries",163,2858,220414745,77131
+02188,2020,71,Federal Government,"10 Total, all industries",15,53,3332974,63284
+02188,2020,71,State Government,"10 Total, all industries",21,58,4945759,84663
+02188,2020,71,Local Government,"10 Total, all industries",49,880,45312512,51501
+02188,2020,71,Private,"10 Total, all industries",78,1867,166823500,89366
+02195,2020,70,Total Covered,"10 Total, all industries",162,1200,55099604,45907
+02195,2020,71,Federal Government,"10 Total, all industries",5,80,6126406,76740
+02195,2020,71,State Government,"10 Total, all industries",9,39,2096665,53876
+02195,2020,71,Local Government,"10 Total, all industries",5,372,19087943,51323
+02195,2020,71,Private,"10 Total, all industries",143,710,27788590,39162
+02198,2020,70,Total Covered,"10 Total, all industries",249,2127,96211106,45233
+02198,2020,71,Federal Government,"10 Total, all industries",11,83,6071544,73594
+02198,2020,71,State Government,"10 Total, all industries",20,29,1681659,58492
+02198,2020,71,Local Government,"10 Total, all industries",35,896,39007446,43559
+02198,2020,71,Private,"10 Total, all industries",183,1120,49450457,44142
+02220,2020,70,Total Covered,"10 Total, all industries",364,3675,191125987,52002
+02220,2020,71,Federal Government,"10 Total, all industries",11,117,9099776,77831
+02220,2020,71,State Government,"10 Total, all industries",18,273,15096935,55283
+02220,2020,71,Local Government,"10 Total, all industries",3,422,26640524,63129
+02220,2020,71,Private,"10 Total, all industries",332,2863,140288752,48995
+02230,2020,70,Total Covered,"10 Total, all industries",124,440,20112830,45685
+02230,2020,71,Federal Government,"10 Total, all industries",5,50,3713814,74525
+02230,2020,71,State Government,"10 Total, all industries",5,0,0,0
+02230,2020,71,Local Government,"10 Total, all industries",3,0,0,0
+02230,2020,71,Private,"10 Total, all industries",111,271,9765531,36102
+02275,2020,70,Total Covered,"10 Total, all industries",93,725,32369296,44652
+02275,2020,71,Federal Government,"10 Total, all industries",5,39,2841309,73324
+02275,2020,71,State Government,"10 Total, all industries",8,18,988004,54889
+02275,2020,71,Local Government,"10 Total, all industries",4,145,6640493,45770
+02275,2020,71,Private,"10 Total, all industries",76,523,21899490,41866
+02282,2020,70,Total Covered,"10 Total, all industries",45,294,16132686,54951
+02282,2020,71,Federal Government,"10 Total, all industries",7,25,2015745,80096
+02282,2020,71,State Government,"10 Total, all industries",5,10,494973,49913
+02282,2020,71,Local Government,"10 Total, all industries",3,62,3187841,51074
+02282,2020,71,Private,"10 Total, all industries",31,196,10434127,53213
+06001,2020,70,Total Covered,"10 Total, all industries",66341,730811,64573079247,88358
+06001,2020,71,Federal Government,"10 Total, all industries",103,9050,854974457,94474
+06001,2020,71,State Government,"10 Total, all industries",341,26394,2568696878,97320
+06001,2020,71,Local Government,"10 Total, all industries",615,68975,6220474731,90184
+06001,2020,71,Private,"10 Total, all industries",65283,626392,54928933181,87691
+06013,2020,70,Total Covered,"10 Total, all industries",34521,340512,26559608809,77999
+06013,2020,71,Federal Government,"10 Total, all industries",54,5110,425435511,83262
+06013,2020,71,State Government,"10 Total, all industries",24,622,42546626,68375
+06013,2020,71,Local Government,"10 Total, all industries",433,38697,3035569752,78446
+06013,2020,71,Private,"10 Total, all industries",34010,296083,23056056920,77870
+06015,2020,70,Total Covered,"10 Total, all industries",824,7793,352624474,45248
+06015,2020,71,Federal Government,"10 Total, all industries",9,160,9583132,60051
+06015,2020,71,State Government,"10 Total, all industries",49,1459,91433187,62683
+06015,2020,71,Local Government,"10 Total, all industries",47,1848,83775423,45325
+06015,2020,71,Private,"10 Total, all industries",720,4327,167832732,38792
+06023,2020,70,Total Covered,"10 Total, all industries",6116,47113,2204593946,46794
+06023,2020,71,Federal Government,"10 Total, all industries",64,811,56224266,69306
+06023,2020,71,State Government,"10 Total, all industries",226,2760,191059131,69220
+06023,2020,71,Local Government,"10 Total, all industries",189,8932,438628662,49107
+06023,2020,71,Private,"10 Total, all industries",5638,34610,1518681887,43880
+06037,2020,70,Total Covered,"10 Total, all industries",517879,4107318,299595367392,72942
+06037,2020,71,Federal Government,"10 Total, all industries",450,50154,4395041724,87630
+06037,2020,71,State Government,"10 Total, all industries",1742,75450,6980330908,92516
+06037,2020,71,Local Government,"10 Total, all industries",4197,431188,34301872906,79552
+06037,2020,71,Private,"10 Total, all industries",511490,3550526,253918121854,71516
+06041,2020,70,Total Covered,"10 Total, all industries",12642,104180,8788506653,84359
+06041,2020,71,Federal Government,"10 Total, all industries",34,746,53565157,71851
+06041,2020,71,State Government,"10 Total, all industries",52,2038,136065647,66753
+06041,2020,71,Local Government,"10 Total, all industries",178,11521,1026270571,89077
+06041,2020,71,Private,"10 Total, all industries",12379,89875,7572605278,84257
+06045,2020,70,Total Covered,"10 Total, all industries",4274,29847,1393533069,46689
+06045,2020,71,Federal Government,"10 Total, all industries",34,286,18401659,64304
+06045,2020,71,State Government,"10 Total, all industries",18,466,30185610,64811
+06045,2020,71,Local Government,"10 Total, all industries",152,5454,287148911,52654
+06045,2020,71,Private,"10 Total, all industries",4070,23641,1057796889,44743
+06053,2020,70,Total Covered,"10 Total, all industries",14347,183689,9714918391,52888
+06053,2020,71,Federal Government,"10 Total, all industries",65,5644,528774532,93681
+06053,2020,71,State Government,"10 Total, all industries",188,5326,359852665,67568
+06053,2020,71,Local Government,"10 Total, all industries",350,21880,1600401579,73143
+06053,2020,71,Private,"10 Total, all industries",13744,150839,7225889615,47905
+06055,2020,70,Total Covered,"10 Total, all industries",5926,70478,4390561473,62297
+06055,2020,71,Federal Government,"10 Total, all industries",13,249,17094092,68651
+06055,2020,71,State Government,"10 Total, all industries",202,4026,290256628,72091
+06055,2020,71,Local Government,"10 Total, all industries",94,5802,441370306,76068
+06055,2020,71,Private,"10 Total, all industries",5617,60401,3641840447,60295
+06059,2020,70,Total Covered,"10 Total, all industries",129482,1502704,107594202018,71600
+06059,2020,71,Federal Government,"10 Total, all industries",129,11598,959959948,82768
+06059,2020,71,State Government,"10 Total, all industries",413,25249,2300789153,91126
+06059,2020,71,Local Government,"10 Total, all industries",877,108570,7884033300,72617
+06059,2020,71,Private,"10 Total, all industries",128063,1357287,96449419617,71060
+06073,2020,70,Total Covered,"10 Total, all industries",117662,1369775,98406286528,71841
+06073,2020,71,Federal Government,"10 Total, all industries",243,48632,4459207994,91692
+06073,2020,71,State Government,"10 Total, all industries",602,39734,3855743737,97039
+06073,2020,71,Local Government,"10 Total, all industries",1128,138276,9404382998,68012
+06073,2020,71,Private,"10 Total, all industries",115690,1143133,80686951799,70584
+06075,2020,70,Total Covered,"10 Total, all industries",61532,685362,105123269315,153383
+06075,2020,71,Federal Government,"10 Total, all industries",120,13364,1478929504,110665
+06075,2020,71,State Government,"10 Total, all industries",694,40718,4905596958,120478
+06075,2020,71,Local Government,"10 Total, all industries",198,47147,4737479734,100484
+06075,2020,71,Private,"10 Total, all industries",60521,584134,94001263119,160924
+06079,2020,70,Total Covered,"10 Total, all industries",10719,109359,6032140736,55159
+06079,2020,71,Federal Government,"10 Total, all industries",38,625,38505694,61601
+06079,2020,71,State Government,"10 Total, all industries",299,9307,651190674,69971
+06079,2020,71,Local Government,"10 Total, all industries",208,10254,650993961,63484
+06079,2020,71,Private,"10 Total, all industries",10174,89173,4691450407,52611
+06081,2020,70,Total Covered,"10 Total, all industries",29108,385537,60562900092,157087
+06081,2020,71,Federal Government,"10 Total, all industries",55,3639,343005912,94271
+06081,2020,71,State Government,"10 Total, all industries",16,320,21597485,67422
+06081,2020,71,Local Government,"10 Total, all industries",313,26026,2394005604,91984
+06081,2020,71,Private,"10 Total, all industries",28724,355552,57804291091,162576
+06083,2020,70,Total Covered,"10 Total, all industries",15907,201273,11903233898,59140
+06083,2020,71,Federal Government,"10 Total, all industries",72,3555,269751132,75886
+06083,2020,71,State Government,"10 Total, all industries",31,0,0,0
+06083,2020,71,Local Government,"10 Total, all industries",281,0,0,0
+06083,2020,71,Private,"10 Total, all industries",15523,168675,9562984599,56695
+06085,2020,70,Total Covered,"10 Total, all industries",75561,1051381,171126577920,162764
+06085,2020,71,Federal Government,"10 Total, all industries",92,10503,1107847682,105482
+06085,2020,71,State Government,"10 Total, all industries",222,6448,454374547,70465
+06085,2020,71,Local Government,"10 Total, all industries",1164,73835,6664142107,90257
+06085,2020,71,Private,"10 Total, all industries",74085,960595,162900213584,169583
+06087,2020,70,Total Covered,"10 Total, all industries",9747,97231,5838206568,60045
+06087,2020,71,Federal Government,"10 Total, all industries",28,595,49088695,82479
+06087,2020,71,State Government,"10 Total, all industries",22,5488,434730611,79211
+06087,2020,71,Local Government,"10 Total, all industries",160,11660,792066731,67933
+06087,2020,71,Private,"10 Total, all industries",9537,79488,4562320531,57396
+06095,2020,70,Total Covered,"10 Total, all industries",11909,132278,8818149450,66664
+06095,2020,71,Federal Government,"10 Total, all industries",54,3680,284267481,77254
+06095,2020,71,State Government,"10 Total, all industries",225,5802,424865552,73222
+06095,2020,71,Local Government,"10 Total, all industries",231,14173,1019574508,71938
+06095,2020,71,Private,"10 Total, all industries",11400,108623,7089441909,65266
+06097,2020,70,Total Covered,"10 Total, all industries",20262,192994,12272555042,63590
+06097,2020,71,Federal Government,"10 Total, all industries",53,1513,109640315,72485
+06097,2020,71,State Government,"10 Total, all industries",112,2581,181322249,70266
+06097,2020,71,Local Government,"10 Total, all industries",302,20574,1413884069,68723
+06097,2020,71,Private,"10 Total, all industries",19795,168327,10567708409,62781
+06111,2020,70,Total Covered,"10 Total, all industries",28159,309119,19615509580,63456
+06111,2020,71,Federal Government,"10 Total, all industries",67,7767,741680243,95489
+06111,2020,71,State Government,"10 Total, all industries",119,2137,146565255,68601
+06111,2020,71,Local Government,"10 Total, all industries",363,32791,2344463813,71498
+06111,2020,71,Private,"10 Total, all industries",27610,266425,16382800269,61491
+09001,2020,70,Total Covered,"10 Total, all industries",37340,381171,37074591058,97265
+09001,2020,71,Federal Government,"10 Total, all industries",91,3026,216904824,71680
+09001,2020,71,State Government,"10 Total, all industries",78,5924,421087855,71087
+09001,2020,71,Local Government,"10 Total, all industries",398,33677,2504983666,74382
+09001,2020,71,Private,"10 Total, all industries",36774,338544,33931614713,100228
+09007,2020,70,Total Covered,"10 Total, all industries",5613,63987,3930576402,61428
+09007,2020,71,Federal Government,"10 Total, all industries",33,402,25200175,62622
+09007,2020,71,State Government,"10 Total, all industries",35,3177,267393026,84170
+09007,2020,71,Local Government,"10 Total, all industries",191,5889,339631608,57671
+09007,2020,71,Private,"10 Total, all industries",5354,54518,3298351593,60500
+09009,2020,70,Total Covered,"10 Total, all industries",25539,346965,21923113129,63185
+09009,2020,71,Federal Government,"10 Total, all industries",97,5727,506720160,88479
+09009,2020,71,State Government,"10 Total, all industries",124,10017,705420752,70425
+09009,2020,71,Local Government,"10 Total, all industries",379,28756,1881287677,65422
+09009,2020,71,Private,"10 Total, all industries",24939,302466,18829684540,62254
+09011,2020,70,Total Covered,"10 Total, all industries",7874,107756,6827618691,63362
+09011,2020,71,Federal Government,"10 Total, all industries",67,2928,211050107,72074
+09011,2020,71,State Government,"10 Total, all industries",74,3548,254024073,71605
+09011,2020,71,Local Government,"10 Total, all industries",272,17352,935168364,53894
+09011,2020,71,Private,"10 Total, all industries",7461,83928,5427376147,64667
+10001,2020,70,Total Covered,"10 Total, all industries",4527,65025,3224619272,49590
+10001,2020,71,Federal Government,"10 Total, all industries",63,1719,119353533,69425
+10001,2020,71,State Government,"10 Total, all industries",45,11594,676153117,58320
+10001,2020,71,Local Government,"10 Total, all industries",69,0,0,0
+10001,2020,71,Private,"10 Total, all industries",4350,0,0,0
+10003,2020,70,Total Covered,"10 Total, all industries",21625,276144,19246056529,69696
+10003,2020,71,Federal Government,"10 Total, all industries",60,3465,276774015,79875
+10003,2020,71,State Government,"10 Total, all industries",50,16149,1093894064,67738
+10003,2020,71,Local Government,"10 Total, all industries",141,15165,929539426,61295
+10003,2020,71,Private,"10 Total, all industries",21375,241365,16945849024,70209
+10005,2020,70,Total Covered,"10 Total, all industries",7787,79013,3610283835,45692
+10005,2020,71,Federal Government,"10 Total, all industries",37,669,40382786,60333
+10005,2020,71,State Government,"10 Total, all industries",6,0,0,0
+10005,2020,71,Local Government,"10 Total, all industries",91,0,0,0
+10005,2020,71,Private,"10 Total, all industries",7653,70337,3146470591,44734
+11001,2020,70,Total Covered,"10 Total, all industries",42704,726225,77729314835,107032
+11001,2020,71,Federal Government,"10 Total, all industries",358,197164,24174491151,122611
+11001,2020,71,State Government,"10 Total, all industries",13,37023,3337078449,90136
+11001,2020,71,Local Government,"10 Total, all industries",25,4413,454300022,102946
+11001,2020,71,Private,"10 Total, all industries",42308,487626,49763445213,102053
+12005,2020,70,Total Covered,"10 Total, all industries",5911,72185,3318363349,45970
+12005,2020,71,Federal Government,"10 Total, all industries",55,3844,308530237,80256
+12005,2020,71,State Government,"10 Total, all industries",50,1833,77007000,42010
+12005,2020,71,Local Government,"10 Total, all industries",23,6459,278264633,43082
+12005,2020,71,Private,"10 Total, all industries",5784,60049,2654561479,44207
+12009,2020,70,Total Covered,"10 Total, all industries",16845,215554,11975606117,55557
+12009,2020,71,Federal Government,"10 Total, all industries",83,6679,598409600,89591
+12009,2020,71,State Government,"10 Total, all industries",45,2820,120032310,42563
+12009,2020,71,Local Government,"10 Total, all industries",38,18567,880641324,47431
+12009,2020,71,Private,"10 Total, all industries",16679,187488,10376522883,55345
+12011,2020,70,Total Covered,"10 Total, all industries",74457,766574,45226006816,58998
+12011,2020,71,Federal Government,"10 Total, all industries",104,7357,595158390,80899
+12011,2020,71,State Government,"10 Total, all industries",77,8467,375610499,44361
+12011,2020,71,Local Government,"10 Total, all industries",125,86022,5461088069,63485
+12011,2020,71,Private,"10 Total, all industries",74152,664728,38794149858,58361
+12015,2020,70,Total Covered,"10 Total, all industries",5023,47338,2050765061,43322
+12015,2020,71,Federal Government,"10 Total, all industries",12,368,22399906,60814
+12015,2020,71,State Government,"10 Total, all industries",30,833,31514353,37825
+12015,2020,71,Local Government,"10 Total, all industries",11,4794,255002897,53192
+12015,2020,71,Private,"10 Total, all industries",4970,41342,1741847905,42133
+12017,2020,70,Total Covered,"10 Total, all industries",3237,31199,1258515911,40339
+12017,2020,71,Federal Government,"10 Total, all industries",14,228,12469736,54592
+12017,2020,71,State Government,"10 Total, all industries",21,330,12504255,37844
+12017,2020,71,Local Government,"10 Total, all industries",12,3718,151281398,40690
+12017,2020,71,Private,"10 Total, all industries",3191,26922,1082260522,40200
+12019,2020,70,Total Covered,"10 Total, all industries",4755,51453,2223617688,43217
+12019,2020,71,Federal Government,"10 Total, all industries",11,413,22621324,54817
+12019,2020,71,State Government,"10 Total, all industries",20,488,18361018,37612
+12019,2020,71,Local Government,"10 Total, all industries",24,6367,301152457,47297
+12019,2020,71,Private,"10 Total, all industries",4700,44185,1881482889,42582
+12021,2020,70,Total Covered,"10 Total, all industries",15687,144025,7871641748,54655
+12021,2020,71,Federal Government,"10 Total, all industries",26,787,50254356,63876
+12021,2020,71,State Government,"10 Total, all industries",28,713,28879445,40504
+12021,2020,71,Local Government,"10 Total, all industries",27,11513,694304284,60307
+12021,2020,71,Private,"10 Total, all industries",15606,131012,7098203663,54180
+12029,2020,70,Total Covered,"10 Total, all industries",252,2750,99906325,36335
+12029,2020,71,Federal Government,"10 Total, all industries",5,15,591576,39005
+12029,2020,71,State Government,"10 Total, all industries",11,407,16987315,41738
+12029,2020,71,Local Government,"10 Total, all industries",10,580,20957121,36149
+12029,2020,71,Private,"10 Total, all industries",227,1748,61370313,35116
+12031,2020,70,Total Covered,"10 Total, all industries",31474,509186,29891541994,58705
+12031,2020,71,Federal Government,"10 Total, all industries",101,17391,1267544312,72886
+12031,2020,71,State Government,"10 Total, all industries",70,10668,512172700,48009
+12031,2020,71,Local Government,"10 Total, all industries",83,24043,1406231142,58488
+12031,2020,71,Private,"10 Total, all industries",31220,457083,26705593840,58426
+12033,2020,70,Total Covered,"10 Total, all industries",8640,134922,6600950590,48924
+12033,2020,71,Federal Government,"10 Total, all industries",56,5876,382420143,65087
+12033,2020,71,State Government,"10 Total, all industries",62,4568,231605382,50705
+12033,2020,71,Local Government,"10 Total, all industries",15,9731,440749401,45294
+12033,2020,71,Private,"10 Total, all industries",8506,114748,5546175664,48334
+12035,2020,70,Total Covered,"10 Total, all industries",2809,23659,913964206,38631
+12035,2020,71,Federal Government,"10 Total, all industries",6,180,9411310,52431
+12035,2020,71,State Government,"10 Total, all industries",12,180,6994325,38911
+12035,2020,71,Local Government,"10 Total, all industries",16,3316,154468698,46582
+12035,2020,71,Private,"10 Total, all industries",2776,19984,743089873,37185
+12037,2020,70,Total Covered,"10 Total, all industries",368,3311,115390247,34851
+12037,2020,71,Federal Government,"10 Total, all industries",5,20,988949,49447
+12037,2020,71,State Government,"10 Total, all industries",13,423,17164568,40554
+12037,2020,71,Local Government,"10 Total, all industries",11,442,16827171,38056
+12037,2020,71,Private,"10 Total, all industries",339,2426,80409559,33151
+12045,2020,70,Total Covered,"10 Total, all industries",461,3841,163287049,42511
+12045,2020,71,Federal Government,"10 Total, all industries",4,13,744459,56186
+12045,2020,71,State Government,"10 Total, all industries",12,394,15788447,40064
+12045,2020,71,Local Government,"10 Total, all industries",9,549,25771536,46978
+12045,2020,71,Private,"10 Total, all industries",436,2885,120982607,41933
+12053,2020,70,Total Covered,"10 Total, all industries",4038,43219,1768979441,40930
+12053,2020,71,Federal Government,"10 Total, all industries",15,387,23977442,62024
+12053,2020,71,State Government,"10 Total, all industries",23,598,23300985,38976
+12053,2020,71,Local Government,"10 Total, all industries",14,4724,236090987,49982
+12053,2020,71,Private,"10 Total, all industries",3987,37511,1485610027,39604
+12057,2020,70,Total Covered,"10 Total, all industries",47354,683509,41668148737,60962
+12057,2020,71,Federal Government,"10 Total, all industries",126,15777,1319302282,83623
+12057,2020,71,State Government,"10 Total, all industries",91,13231,833010057,62960
+12057,2020,71,Local Government,"10 Total, all industries",46,47098,2581374665,54809
+12057,2020,71,Private,"10 Total, all industries",47091,607404,36934461733,60807
+12061,2020,70,Total Covered,"10 Total, all industries",5300,50899,2397514986,47103
+12061,2020,71,Federal Government,"10 Total, all industries",18,393,25601358,65226
+12061,2020,71,State Government,"10 Total, all industries",17,225,10227039,45386
+12061,2020,71,Local Government,"10 Total, all industries",17,4228,230370320,54486
+12061,2020,71,Private,"10 Total, all industries",5248,46054,2131316269,46279
+12065,2020,70,Total Covered,"10 Total, all industries",329,2539,90874106,35796
+12065,2020,71,Federal Government,"10 Total, all industries",8,32,1573452,49170
+12065,2020,71,State Government,"10 Total, all industries",11,263,10775279,41023
+12065,2020,71,Local Government,"10 Total, all industries",8,232,8387181,36113
+12065,2020,71,Private,"10 Total, all industries",302,2012,70138194,34864
+12071,2020,70,Total Covered,"10 Total, all industries",24314,257909,12831390274,49752
+12071,2020,71,Federal Government,"10 Total, all industries",54,2549,165870814,65062
+12071,2020,71,State Government,"10 Total, all industries",70,5373,275123313,51210
+12071,2020,71,Local Government,"10 Total, all industries",56,34044,1985717873,58327
+12071,2020,71,Private,"10 Total, all industries",24134,215943,10404678274,48183
+12075,2020,70,Total Covered,"10 Total, all industries",1021,8774,312213573,35583
+12075,2020,71,Federal Government,"10 Total, all industries",12,77,4243435,54813
+12075,2020,71,State Government,"10 Total, all industries",17,236,8926198,37783
+12075,2020,71,Local Government,"10 Total, all industries",19,1485,55242994,37192
+12075,2020,71,Private,"10 Total, all industries",974,6975,243800946,34952
+12077,2020,70,Total Covered,"10 Total, all industries",125,1896,76361097,40285
+12077,2020,71,Federal Government,"10 Total, all industries",7,38,2557239,67741
+12077,2020,71,State Government,"10 Total, all industries",10,347,13805153,39803
+12077,2020,71,Local Government,"10 Total, all industries",8,357,13029566,36549
+12077,2020,71,Private,"10 Total, all industries",100,1154,46969139,40686
+12081,2020,70,Total Covered,"10 Total, all industries",12076,124869,6002201868,48068
+12081,2020,71,Federal Government,"10 Total, all industries",31,1022,63563811,62216
+12081,2020,71,State Government,"10 Total, all industries",33,1354,53793132,39731
+12081,2020,71,Local Government,"10 Total, all industries",36,10661,589633524,55307
+12081,2020,71,Private,"10 Total, all industries",11975,111832,5295211401,47350
+12085,2020,70,Total Covered,"10 Total, all industries",6720,67418,3168555173,46999
+12085,2020,71,Federal Government,"10 Total, all industries",16,295,17573867,59488
+12085,2020,71,State Government,"10 Total, all industries",24,627,25781911,41103
+12085,2020,71,Local Government,"10 Total, all industries",12,4893,264412431,54042
+12085,2020,71,Private,"10 Total, all industries",6668,61603,2860786964,46439
+12086,2020,70,Total Covered,"10 Total, all industries",107073,1076324,65504121248,60859
+12086,2020,71,Federal Government,"10 Total, all industries",169,21288,1891766668,88867
+12086,2020,71,State Government,"10 Total, all industries",87,21708,1114184379,51326
+12086,2020,71,Local Government,"10 Total, all industries",75,92505,6466608171,69906
+12086,2020,71,Private,"10 Total, all industries",106742,940824,56031562030,59556
+12087,2020,70,Total Covered,"10 Total, all industries",4696,37934,1795237156,47326
+12087,2020,71,Federal Government,"10 Total, all industries",38,1171,87446054,74650
+12087,2020,71,State Government,"10 Total, all industries",26,549,25890725,47145
+12087,2020,71,Local Government,"10 Total, all industries",22,4161,255298841,61359
+12087,2020,71,Private,"10 Total, all industries",4610,32052,1426601536,44508
+12089,2020,70,Total Covered,"10 Total, all industries",2391,22897,1032155408,45078
+12089,2020,71,Federal Government,"10 Total, all industries",11,521,66315063,127223
+12089,2020,71,State Government,"10 Total, all industries",13,240,10088438,41977
+12089,2020,71,Local Government,"10 Total, all industries",18,2717,132776978,48873
+12089,2020,71,Private,"10 Total, all industries",2349,19419,822974929,42380
+12091,2020,70,Total Covered,"10 Total, all industries",6835,83651,4374669671,52297
+12091,2020,71,Federal Government,"10 Total, all industries",80,9002,690155811,76668
+12091,2020,71,State Government,"10 Total, all industries",31,1456,56433128,38770
+12091,2020,71,Local Government,"10 Total, all industries",30,6372,309783691,48616
+12091,2020,71,Private,"10 Total, all industries",6693,66821,3318297041,49659
+12099,2020,70,Total Covered,"10 Total, all industries",61032,579628,35789218588,61745
+12099,2020,71,Federal Government,"10 Total, all industries",84,7155,566615579,79192
+12099,2020,71,State Government,"10 Total, all industries",81,9510,510131597,53640
+12099,2020,71,Local Government,"10 Total, all industries",99,42698,3009367701,70480
+12099,2020,71,Private,"10 Total, all industries",60769,520265,31703103711,60937
+12101,2020,70,Total Covered,"10 Total, all industries",12014,119499,5277803010,44166
+12101,2020,71,Federal Government,"10 Total, all industries",28,961,59317719,61752
+12101,2020,71,State Government,"10 Total, all industries",29,1678,69921963,41676
+12101,2020,71,Local Government,"10 Total, all industries",21,13417,656971706,48965
+12101,2020,71,Private,"10 Total, all industries",11936,103443,4491591622,43421
+12103,2020,70,Total Covered,"10 Total, all industries",35549,421086,23025356872,54681
+12103,2020,71,Federal Government,"10 Total, all industries",68,7830,622791642,79536
+12103,2020,71,State Government,"10 Total, all industries",65,6064,272201353,44886
+12103,2020,71,Local Government,"10 Total, all industries",47,29625,1568195736,52935
+12103,2020,71,Private,"10 Total, all industries",35369,377567,20562168141,54460
+12107,2020,70,Total Covered,"10 Total, all industries",1456,15866,687440824,43328
+12107,2020,71,Federal Government,"10 Total, all industries",21,148,7741498,52161
+12107,2020,71,State Government,"10 Total, all industries",26,873,35593413,40771
+12107,2020,71,Local Government,"10 Total, all industries",16,2523,128952820,51109
+12107,2020,71,Private,"10 Total, all industries",1393,12321,515153093,41810
+12109,2020,70,Total Covered,"10 Total, all industries",8392,77824,3811159452,48972
+12109,2020,71,Federal Government,"10 Total, all industries",18,656,47107790,71820
+12109,2020,71,State Government,"10 Total, all industries",28,1524,60232519,39514
+12109,2020,71,Local Government,"10 Total, all industries",16,8131,393660663,48414
+12109,2020,71,Private,"10 Total, all industries",8330,67513,3310158480,49030
+12111,2020,70,Total Covered,"10 Total, all industries",7259,78109,3512472328,44969
+12111,2020,71,Federal Government,"10 Total, all industries",29,790,57030506,72168
+12111,2020,71,State Government,"10 Total, all industries",45,2923,132703849,45397
+12111,2020,71,Local Government,"10 Total, all industries",18,9024,506126375,56089
+12111,2020,71,Private,"10 Total, all industries",7167,65372,2816611598,43086
+12113,2020,70,Total Covered,"10 Total, all industries",3872,38968,1619135296,41551
+12113,2020,71,Federal Government,"10 Total, all industries",25,883,53552965,60626
+12113,2020,71,State Government,"10 Total, all industries",29,1304,53468082,41016
+12113,2020,71,Local Government,"10 Total, all industries",15,4601,215373124,46813
+12113,2020,71,Private,"10 Total, all industries",3803,32180,1296741125,40297
+12115,2020,70,Total Covered,"10 Total, all industries",17154,163639,8372706014,51166
+12115,2020,71,Federal Government,"10 Total, all industries",34,1078,70480252,65376
+12115,2020,71,State Government,"10 Total, all industries",36,1879,94822782,50473
+12115,2020,71,Local Government,"10 Total, all industries",26,11310,654692175,57885
+12115,2020,71,Private,"10 Total, all industries",17059,149372,7552710805,50563
+12123,2020,70,Total Covered,"10 Total, all industries",446,6319,263762031,41744
+12123,2020,71,Federal Government,"10 Total, all industries",5,41,2134691,51750
+12123,2020,71,State Government,"10 Total, all industries",12,459,19881535,43331
+12123,2020,71,Local Government,"10 Total, all industries",11,833,30244960,36305
+12123,2020,71,Private,"10 Total, all industries",418,4985,211500845,42425
+12127,2020,70,Total Covered,"10 Total, all industries",15403,166850,7415603381,44445
+12127,2020,71,Federal Government,"10 Total, all industries",43,1396,98302399,70409
+12127,2020,71,State Government,"10 Total, all industries",55,3972,177855384,44777
+12127,2020,71,Local Government,"10 Total, all industries",29,15036,734053413,48819
+12127,2020,71,Private,"10 Total, all industries",15276,146446,6405392185,43739
+12129,2020,70,Total Covered,"10 Total, all industries",541,5939,252136255,42457
+12129,2020,71,Federal Government,"10 Total, all industries",9,89,5929605,66500
+12129,2020,71,State Government,"10 Total, all industries",13,791,31437155,39748
+12129,2020,71,Local Government,"10 Total, all industries",10,1001,40013761,39957
+12129,2020,71,Private,"10 Total, all industries",509,4057,174755734,43073
+12131,2020,70,Total Covered,"10 Total, all industries",3141,27225,1195223824,43902
+12131,2020,71,Federal Government,"10 Total, all industries",10,176,10558702,60078
+12131,2020,71,State Government,"10 Total, all industries",15,478,19360913,40518
+12131,2020,71,Local Government,"10 Total, all industries",14,2836,137089921,48341
+12131,2020,71,Private,"10 Total, all industries",3102,23736,1028214288,43320
+13025,2020,70,Total Covered,"10 Total, all industries",220,2520,92431093,36680
+13025,2020,71,Federal Government,"10 Total, all industries",5,26,1292871,49886
+13025,2020,71,State Government,"10 Total, all industries",6,22,794596,36255
+13025,2020,71,Local Government,"10 Total, all industries",15,758,24679184,32565
+13025,2020,71,Private,"10 Total, all industries",194,1714,65664442,38305
+13029,2020,70,Total Covered,"10 Total, all industries",774,8820,345601418,39183
+13029,2020,71,Federal Government,"10 Total, all industries",10,186,14357077,77085
+13029,2020,71,State Government,"10 Total, all industries",14,105,3673183,34844
+13029,2020,71,Local Government,"10 Total, all industries",16,1802,80041077,44422
+13029,2020,71,Private,"10 Total, all industries",735,6727,247530081,36798
+13039,2020,70,Total Covered,"10 Total, all industries",953,14220,674753028,47450
+13039,2020,71,Federal Government,"10 Total, all industries",17,2602,190942357,73395
+13039,2020,71,State Government,"10 Total, all industries",13,169,4732404,27961
+13039,2020,71,Local Government,"10 Total, all industries",20,2099,89689897,42738
+13039,2020,71,Private,"10 Total, all industries",903,9351,389388370,41641
+13049,2020,70,Total Covered,"10 Total, all industries",178,1960,80602513,41124
+13049,2020,71,Federal Government,"10 Total, all industries",3,33,2200160,66170
+13049,2020,71,State Government,"10 Total, all industries",4,29,898966,31451
+13049,2020,71,Local Government,"10 Total, all industries",11,376,13935637,37022
+13049,2020,71,Private,"10 Total, all industries",160,1522,63567750,41773
+13051,2020,70,Total Covered,"10 Total, all industries",8764,151862,7660498104,50444
+13051,2020,71,Federal Government,"10 Total, all industries",49,2747,202937448,73872
+13051,2020,71,State Government,"10 Total, all industries",43,4351,283313889,65118
+13051,2020,71,Local Government,"10 Total, all industries",14,11017,543566080,49340
+13051,2020,71,Private,"10 Total, all industries",8658,133747,6630680687,49576
+13127,2020,70,Total Covered,"10 Total, all industries",2779,35882,1656955140,46178
+13127,2020,71,Federal Government,"10 Total, all industries",30,1988,207234181,104229
+13127,2020,71,State Government,"10 Total, all industries",33,1581,61756726,39066
+13127,2020,71,Local Government,"10 Total, all industries",6,3385,153952489,45480
+13127,2020,71,Private,"10 Total, all industries",2710,28928,1234011744,42658
+13179,2020,70,Total Covered,"10 Total, all industries",931,18494,812888400,43954
+13179,2020,71,Federal Government,"10 Total, all industries",35,3719,206452156,55508
+13179,2020,71,State Government,"10 Total, all industries",21,312,12085862,38789
+13179,2020,71,Local Government,"10 Total, all industries",26,2802,117222905,41837
+13179,2020,71,Private,"10 Total, all industries",849,11661,477127477,40916
+13191,2020,70,Total Covered,"10 Total, all industries",202,1620,58191700,35924
+13191,2020,71,Federal Government,"10 Total, all industries",8,61,3428586,56206
+13191,2020,71,State Government,"10 Total, all industries",8,103,3963428,38356
+13191,2020,71,Local Government,"10 Total, all industries",10,417,15291376,36677
+13191,2020,71,Private,"10 Total, all industries",176,1039,35508310,34189
+13305,2020,70,Total Covered,"10 Total, all industries",587,8089,362450516,44806
+13305,2020,71,Federal Government,"10 Total, all industries",6,381,28354938,74520
+13305,2020,71,State Government,"10 Total, all industries",9,209,8243179,39425
+13305,2020,71,Local Government,"10 Total, all industries",18,1642,65718639,40034
+13305,2020,71,Private,"10 Total, all industries",555,5858,260133760,44405
+15001,2020,70,Total Covered,"10 Total, all industries",6031,62584,3048509070,48711
+15001,2020,71,Federal Government,"10 Total, all industries",62,1349,96446233,71521
+15001,2020,71,State Government,"10 Total, all industries",262,9665,577433896,59747
+15001,2020,71,Local Government,"10 Total, all industries",21,2780,198906815,71551
+15001,2020,71,Private,"10 Total, all industries",5686,48791,2175722126,44593
+15003,2020,70,Total Covered,"10 Total, all industries",27658,406371,24685454638,60746
+15003,2020,71,Federal Government,"10 Total, all industries",189,32134,2664664282,82923
+15003,2020,71,State Government,"10 Total, all industries",330,45906,2729857293,59466
+15003,2020,71,Local Government,"10 Total, all industries",29,12008,943974471,78614
+15003,2020,71,Private,"10 Total, all industries",27110,316323,18346958592,58001
+15007,2020,70,Total Covered,"10 Total, all industries",2957,26952,1383002008,51313
+15007,2020,71,Federal Government,"10 Total, all industries",33,592,43959679,74277
+15007,2020,71,State Government,"10 Total, all industries",220,0,0,0
+15007,2020,71,Local Government,"10 Total, all industries",18,0,0,0
+15007,2020,71,Private,"10 Total, all industries",2687,21993,1062711720,48321
+15009,2020,70,Total Covered,"10 Total, all industries",6898,61976,3148954263,50809
+15009,2020,71,Federal Government,"10 Total, all industries",42,877,61450543,70056
+15009,2020,71,State Government,"10 Total, all industries",492,0,0,0
+15009,2020,71,Local Government,"10 Total, all industries",191,0,0,0
+15009,2020,71,Private,"10 Total, all industries",6173,53416,2608026606,48825
+17031,2020,70,Total Covered,"10 Total, all industries",139276,2388449,179582495612,75188
+17031,2020,71,Federal Government,"10 Total, all industries",270,39640,3469313139,87521
+17031,2020,71,State Government,"10 Total, all industries",12,20650,1686932859,81691
+17031,2020,71,Local Government,"10 Total, all industries",989,218077,14629305789,67083
+17031,2020,71,Private,"10 Total, all industries",138005,2110082,159796943825,75730
+17097,2020,70,Total Covered,"10 Total, all industries",20222,317392,25971523154,81828
+17097,2020,71,Federal Government,"10 Total, all industries",53,5424,418720377,77192
+17097,2020,71,State Government,"10 Total, all industries",1,0,0,0
+17097,2020,71,Local Government,"10 Total, all industries",281,0,0,0
+17097,2020,71,Private,"10 Total, all industries",19887,279597,23474269752,83957
+18089,2020,70,Total Covered,"10 Total, all industries",10623,176371,8959324272,50798
+18089,2020,71,Federal Government,"10 Total, all industries",43,1537,111748578,72694
+18089,2020,71,State Government,"10 Total, all industries",29,3092,145050187,46909
+18089,2020,71,Local Government,"10 Total, all industries",149,16914,735363375,43478
+18089,2020,71,Private,"10 Total, all industries",10403,154828,7967162132,51458
+18091,2020,70,Total Covered,"10 Total, all industries",2304,38169,1679442743,44000
+18091,2020,71,Federal Government,"10 Total, all industries",15,187,10507090,56188
+18091,2020,71,State Government,"10 Total, all industries",26,1967,91461313,46508
+18091,2020,71,Local Government,"10 Total, all industries",69,3957,164028708,41450
+18091,2020,71,Private,"10 Total, all industries",2195,32058,1413445632,44090
+18127,2020,70,Total Covered,"10 Total, all industries",3833,57190,2724651717,47642
+18127,2020,71,Federal Government,"10 Total, all industries",19,455,29025258,63850
+18127,2020,71,State Government,"10 Total, all industries",21,252,11758823,46631
+18127,2020,71,Local Government,"10 Total, all industries",83,6050,243376499,40226
+18127,2020,71,Private,"10 Total, all industries",3710,50433,2440491137,48391
+22005,2020,70,Total Covered,"10 Total, all industries",3196,43376,2575494600,59376
+22005,2020,71,Federal Government,"10 Total, all industries",13,187,9479403,50737
+22005,2020,71,State Government,"10 Total, all industries",13,247,12156030,49182
+22005,2020,71,Local Government,"10 Total, all industries",70,4756,218320326,45904
+22005,2020,71,Private,"10 Total, all industries",3100,38186,2335538841,61162
+22007,2020,70,Total Covered,"10 Total, all industries",308,3504,160773742,45880
+22007,2020,71,Federal Government,"10 Total, all industries",7,36,1627521,44794
+22007,2020,71,State Government,"10 Total, all industries",6,25,1125827,44587
+22007,2020,71,Local Government,"10 Total, all industries",19,803,30988337,38575
+22007,2020,71,Private,"10 Total, all industries",276,2639,127032057,48130
+22019,2020,70,Total Covered,"10 Total, all industries",5571,86319,4718913726,54669
+22019,2020,71,Federal Government,"10 Total, all industries",30,565,41283592,73036
+22019,2020,71,State Government,"10 Total, all industries",41,1934,107452651,55548
+22019,2020,71,Local Government,"10 Total, all industries",90,10418,463392468,44481
+22019,2020,71,Private,"10 Total, all industries",5410,73401,4106785015,55950
+22023,2020,70,Total Covered,"10 Total, all industries",175,7053,647431583,91796
+22023,2020,71,Federal Government,"10 Total, all industries",6,15,1075831,69784
+22023,2020,71,State Government,"10 Total, all industries",7,62,3625585,58714
+22023,2020,71,Local Government,"10 Total, all industries",17,645,26319166,40805
+22023,2020,71,Private,"10 Total, all industries",145,6331,616411001,97368
+22045,2020,70,Total Covered,"10 Total, all industries",1875,24265,1194494062,49226
+22045,2020,71,Federal Government,"10 Total, all industries",10,112,6954973,61868
+22045,2020,71,State Government,"10 Total, all industries",21,228,9908594,43522
+22045,2020,71,Local Government,"10 Total, all industries",77,3509,140596867,40067
+22045,2020,71,Private,"10 Total, all industries",1767,20416,1037033628,50795
+22051,2020,70,Total Covered,"10 Total, all industries",14654,176528,9580543189,54272
+22051,2020,71,Federal Government,"10 Total, all industries",30,1517,132331450,87232
+22051,2020,71,State Government,"10 Total, all industries",41,1446,82386977,56982
+22051,2020,71,Local Government,"10 Total, all industries",109,14905,734372541,49271
+22051,2020,71,Private,"10 Total, all industries",14475,158661,8631452221,54402
+22053,2020,70,Total Covered,"10 Total, all industries",770,7847,302351852,38531
+22053,2020,71,Federal Government,"10 Total, all industries",13,94,6307140,67336
+22053,2020,71,State Government,"10 Total, all industries",14,234,10828184,46241
+22053,2020,71,Local Government,"10 Total, all industries",66,1644,59602109,36251
+22053,2020,71,Private,"10 Total, all industries",677,5875,225614419,38402
+22057,2020,70,Total Covered,"10 Total, all industries",2067,32798,1761167360,53697
+22057,2020,71,Federal Government,"10 Total, all industries",16,152,9069724,59539
+22057,2020,71,State Government,"10 Total, all industries",31,1222,65301866,53428
+22057,2020,71,Local Government,"10 Total, all industries",69,3864,160548239,41553
+22057,2020,71,Private,"10 Total, all industries",1951,27560,1526247531,55380
+22063,2020,70,Total Covered,"10 Total, all industries",2514,27856,1106412269,39719
+22063,2020,71,Federal Government,"10 Total, all industries",15,164,9007162,55062
+22063,2020,71,State Government,"10 Total, all industries",20,215,10777859,50207
+22063,2020,71,Local Government,"10 Total, all industries",53,5373,197596122,36775
+22063,2020,71,Private,"10 Total, all industries",2426,22105,889031126,40219
+22071,2020,70,Total Covered,"10 Total, all industries",14221,171495,10374010434,60492
+22071,2020,71,Federal Government,"10 Total, all industries",58,10239,868442494,84820
+22071,2020,71,State Government,"10 Total, all industries",66,8217,562261540,68430
+22071,2020,71,Local Government,"10 Total, all industries",322,8133,483757668,59483
+22071,2020,71,Private,"10 Total, all industries",13775,144907,8459548732,58379
+22075,2020,70,Total Covered,"10 Total, all industries",779,11221,777786571,69316
+22075,2020,71,Federal Government,"10 Total, all industries",11,616,41889948,68022
+22075,2020,71,State Government,"10 Total, all industries",8,36,1725950,47943
+22075,2020,71,Local Government,"10 Total, all industries",9,1435,71906212,50097
+22075,2020,71,Private,"10 Total, all industries",751,9134,662264461,72508
+22087,2020,70,Total Covered,"10 Total, all industries",892,9753,511285432,52424
+22087,2020,71,Federal Government,"10 Total, all industries",6,63,3044809,48652
+22087,2020,71,State Government,"10 Total, all industries",10,202,8170280,40414
+22087,2020,71,Local Government,"10 Total, all industries",23,1842,83519701,45352
+22087,2020,71,Private,"10 Total, all industries",853,7647,416550642,54475
+22089,2020,70,Total Covered,"10 Total, all industries",1288,22632,1667888123,73696
+22089,2020,71,Federal Government,"10 Total, all industries",15,169,12201030,72231
+22089,2020,71,State Government,"10 Total, all industries",9,36,1955464,54444
+22089,2020,71,Local Government,"10 Total, all industries",37,3088,154106087,49912
+22089,2020,71,Private,"10 Total, all industries",1227,19340,1499625542,77542
+22093,2020,70,Total Covered,"10 Total, all industries",430,7932,574263560,72402
+22093,2020,71,Federal Government,"10 Total, all industries",9,46,2083288,45044
+22093,2020,71,State Government,"10 Total, all industries",9,32,1877981,58840
+22093,2020,71,Local Government,"10 Total, all industries",30,1375,66306154,48208
+22093,2020,71,Private,"10 Total, all industries",382,6478,503996137,77801
+22095,2020,70,Total Covered,"10 Total, all industries",962,13015,792377659,60881
+22095,2020,71,Federal Government,"10 Total, all industries",7,108,6802907,62748
+22095,2020,71,State Government,"10 Total, all industries",15,298,14590767,49045
+22095,2020,71,Local Government,"10 Total, all industries",31,1685,80635550,47860
+22095,2020,71,Private,"10 Total, all industries",909,10924,690348435,63193
+22099,2020,70,Total Covered,"10 Total, all industries",1016,11087,482323305,43504
+22099,2020,71,Federal Government,"10 Total, all industries",7,71,3595112,50576
+22099,2020,71,State Government,"10 Total, all industries",15,91,3982948,43689
+22099,2020,71,Local Government,"10 Total, all industries",51,1717,66082415,38489
+22099,2020,71,Private,"10 Total, all industries",943,9208,408662830,44382
+22101,2020,70,Total Covered,"10 Total, all industries",1433,19681,998158190,50718
+22101,2020,71,Federal Government,"10 Total, all industries",16,136,8576488,63101
+22101,2020,71,State Government,"10 Total, all industries",20,152,7165027,47216
+22101,2020,71,Local Government,"10 Total, all industries",117,3442,130848336,38012
+22101,2020,71,Private,"10 Total, all industries",1280,15951,851568339,53387
+22103,2020,70,Total Covered,"10 Total, all industries",9087,85882,4341013939,50546
+22103,2020,71,Federal Government,"10 Total, all industries",28,564,38615586,68477
+22103,2020,71,State Government,"10 Total, all industries",36,741,45419368,61308
+22103,2020,71,Local Government,"10 Total, all industries",101,13062,653052507,49995
+22103,2020,71,Private,"10 Total, all industries",8921,71515,3603926478,50394
+22105,2020,70,Total Covered,"10 Total, all industries",3169,43047,1728563737,40156
+22105,2020,71,Federal Government,"10 Total, all industries",25,400,28175824,70381
+22105,2020,71,State Government,"10 Total, all industries",28,2621,133327889,50871
+22105,2020,71,Local Government,"10 Total, all industries",93,7538,348354141,46213
+22105,2020,71,Private,"10 Total, all industries",3023,32487,1218705883,37513
+22109,2020,70,Total Covered,"10 Total, all industries",3288,46298,2404449575,51935
+22109,2020,71,Federal Government,"10 Total, all industries",18,282,19558748,69316
+22109,2020,71,State Government,"10 Total, all industries",25,587,32723052,55730
+22109,2020,71,Local Government,"10 Total, all industries",83,4133,160265009,38777
+22109,2020,71,Private,"10 Total, all industries",3162,41295,2191902766,53079
+22113,2020,70,Total Covered,"10 Total, all industries",1212,12377,522807620,42242
+22113,2020,71,Federal Government,"10 Total, all industries",14,159,8620992,54078
+22113,2020,71,State Government,"10 Total, all industries",14,128,5908513,46010
+22113,2020,71,Local Government,"10 Total, all industries",81,2798,110385336,39452
+22113,2020,71,Private,"10 Total, all industries",1103,9291,397892779,42827
+23005,2020,70,Total Covered,"10 Total, all industries",14495,174671,10524422434,60253
+23005,2020,71,Federal Government,"10 Total, all industries",84,1934,154105896,79696
+23005,2020,71,State Government,"10 Total, all industries",26,3890,192558629,49507
+23005,2020,71,Local Government,"10 Total, all industries",239,12788,657452115,51413
+23005,2020,71,Private,"10 Total, all industries",14147,156060,9520305794,61004
+23009,2020,70,Total Covered,"10 Total, all industries",2653,20557,919027565,44705
+23009,2020,71,Federal Government,"10 Total, all industries",51,351,18300399,52138
+23009,2020,71,State Government,"10 Total, all industries",5,375,22442449,59793
+23009,2020,71,Local Government,"10 Total, all industries",104,2303,93348366,40535
+23009,2020,71,Private,"10 Total, all industries",2493,17528,784936351,44781
+23013,2020,70,Total Covered,"10 Total, all industries",2037,15912,720080550,45253
+23013,2020,71,Federal Government,"10 Total, all industries",26,131,6816606,51903
+23013,2020,71,State Government,"10 Total, all industries",8,593,33009799,55681
+23013,2020,71,Local Government,"10 Total, all industries",88,1713,76164066,44452
+23013,2020,71,Private,"10 Total, all industries",1915,13475,604090079,44831
+23015,2020,70,Total Covered,"10 Total, all industries",1591,10157,426861819,42027
+23015,2020,71,Federal Government,"10 Total, all industries",26,93,4176366,45109
+23015,2020,71,State Government,"10 Total, all industries",3,114,5463305,47924
+23015,2020,71,Local Government,"10 Total, all industries",74,1355,55534742,40972
+23015,2020,71,Private,"10 Total, all industries",1489,8595,361687406,42082
+23023,2020,70,Total Covered,"10 Total, all industries",1157,15128,783957861,51822
+23023,2020,71,Federal Government,"10 Total, all industries",12,405,37732246,93243
+23023,2020,71,State Government,"10 Total, all industries",2,0,0,0
+23023,2020,71,Local Government,"10 Total, all industries",69,0,0,0
+23023,2020,71,Private,"10 Total, all industries",1074,13286,678464483,51065
+23027,2020,70,Total Covered,"10 Total, all industries",1241,10752,493318836,45883
+23027,2020,71,Federal Government,"10 Total, all industries",22,98,4572549,46619
+23027,2020,71,State Government,"10 Total, all industries",1,0,0,0
+23027,2020,71,Local Government,"10 Total, all industries",88,0,0,0
+23027,2020,71,Private,"10 Total, all industries",1130,9230,432782473,46887
+23029,2020,70,Total Covered,"10 Total, all industries",1063,9696,407311159,42007
+23029,2020,71,Federal Government,"10 Total, all industries",42,365,27553485,75472
+23029,2020,71,State Government,"10 Total, all industries",15,348,14581798,41952
+23029,2020,71,Local Government,"10 Total, all industries",121,1792,69172194,38611
+23029,2020,71,Private,"10 Total, all industries",885,7192,296003682,41156
+23031,2020,70,Total Covered,"10 Total, all industries",7077,69322,3583726769,51697
+23031,2020,71,Federal Government,"10 Total, all industries",53,7681,634374050,82595
+23031,2020,71,State Government,"10 Total, all industries",14,437,19768853,45289
+23031,2020,71,Local Government,"10 Total, all industries",232,7874,381372773,48435
+23031,2020,71,Private,"10 Total, all industries",6778,53331,2548211093,47781
+24003,2020,70,Total Covered,"10 Total, all industries",15521,256800,17378087848,67672
+24003,2020,71,Federal Government,"10 Total, all industries",99,13774,1342280458,97448
+24003,2020,71,State Government,"10 Total, all industries",78,12068,789061499,65383
+24003,2020,71,Local Government,"10 Total, all industries",161,21063,1213329355,57605
+24003,2020,71,Private,"10 Total, all industries",15183,209895,14033416536,66859
+24005,2020,70,Total Covered,"10 Total, all industries",21216,351037,22219604843,63297
+24005,2020,71,Federal Government,"10 Total, all industries",66,14195,1545582385,108879
+24005,2020,71,State Government,"10 Total, all industries",26,11321,788745171,69674
+24005,2020,71,Local Government,"10 Total, all industries",235,27755,1673831658,60307
+24005,2020,71,Private,"10 Total, all industries",20888,297766,18211445629,61160
+24009,2020,70,Total Covered,"10 Total, all industries",1861,20901,1131929859,54157
+24009,2020,71,Federal Government,"10 Total, all industries",21,172,12426159,72245
+24009,2020,71,State Government,"10 Total, all industries",9,312,14460658,46311
+24009,2020,71,Local Government,"10 Total, all industries",31,3728,226183440,60667
+24009,2020,71,Private,"10 Total, all industries",1800,16688,878859602,52663
+24011,2020,70,Total Covered,"10 Total, all industries",687,9374,446199064,47601
+24011,2020,71,Federal Government,"10 Total, all industries",14,75,3871021,51844
+24011,2020,71,State Government,"10 Total, all industries",7,199,8634842,43464
+24011,2020,71,Local Government,"10 Total, all industries",28,1492,75198064,50398
+24011,2020,71,Private,"10 Total, all industries",639,7608,358495137,47119
+24015,2020,70,Total Covered,"10 Total, all industries",1932,33159,1784217191,53808
+24015,2020,71,Federal Government,"10 Total, all industries",29,2144,189653059,88440
+24015,2020,71,State Government,"10 Total, all industries",10,536,28563332,53331
+24015,2020,71,Local Government,"10 Total, all industries",43,3555,215678874,60663
+24015,2020,71,Private,"10 Total, all industries",1851,26923,1350321926,50154
+24017,2020,70,Total Covered,"10 Total, all industries",2944,38412,1979924663,51544
+24017,2020,71,Federal Government,"10 Total, all industries",29,2690,266794362,99168
+24017,2020,71,State Government,"10 Total, all industries",9,517,22474418,43492
+24017,2020,71,Local Government,"10 Total, all industries",69,6728,397758164,59121
+24017,2020,71,Private,"10 Total, all industries",2837,28478,1292897719,45401
+24019,2020,70,Total Covered,"10 Total, all industries",735,11767,531735492,45190
+24019,2020,71,Federal Government,"10 Total, all industries",21,186,14817203,79627
+24019,2020,71,State Government,"10 Total, all industries",8,804,47806453,59479
+24019,2020,71,Local Government,"10 Total, all industries",23,1241,64002943,51594
+24019,2020,71,Private,"10 Total, all industries",683,9536,405108893,42481
+24025,2020,70,Total Covered,"10 Total, all industries",5915,89374,5361521718,59990
+24025,2020,71,Federal Government,"10 Total, all industries",48,11342,1264973050,111528
+24025,2020,71,State Government,"10 Total, all industries",10,591,28633759,48470
+24025,2020,71,Local Government,"10 Total, all industries",64,8281,465124297,56167
+24025,2020,71,Private,"10 Total, all industries",5793,69160,3602790612,52093
+24027,2020,70,Total Covered,"10 Total, all industries",10175,161187,12821967718,79547
+24027,2020,71,Federal Government,"10 Total, all industries",26,740,61490876,83096
+24027,2020,71,State Government,"10 Total, all industries",14,1736,123193872,70947
+24027,2020,71,Local Government,"10 Total, all industries",98,13632,929411851,68180
+24027,2020,71,Private,"10 Total, all industries",10037,145079,11707871119,80700
+24029,2020,70,Total Covered,"10 Total, all industries",704,7183,323979820,45105
+24029,2020,71,Federal Government,"10 Total, all industries",11,69,3467749,50563
+24029,2020,71,State Government,"10 Total, all industries",7,244,11842778,48553
+24029,2020,71,Local Government,"10 Total, all industries",16,702,35721164,50873
+24029,2020,71,Private,"10 Total, all industries",670,6168,272948129,44252
+24033,2020,70,Total Covered,"10 Total, all industries",16397,295471,19150524126,64814
+24033,2020,71,Federal Government,"10 Total, all industries",115,27468,3142447098,114402
+24033,2020,71,State Government,"10 Total, all industries",15,20965,1240184020,59154
+24033,2020,71,Local Government,"10 Total, all industries",299,39424,2848394860,72250
+24033,2020,71,Private,"10 Total, all industries",15969,207613,11919498148,57412
+24035,2020,70,Total Covered,"10 Total, all industries",1481,14329,654109656,45649
+24035,2020,71,Federal Government,"10 Total, all industries",15,111,6225946,55964
+24035,2020,71,State Government,"10 Total, all industries",8,236,11416417,48409
+24035,2020,71,Local Government,"10 Total, all industries",32,2156,115525220,53596
+24035,2020,71,Private,"10 Total, all industries",1426,11826,520942073,44049
+24037,2020,70,Total Covered,"10 Total, all industries",2198,45498,3464085791,76137
+24037,2020,71,Federal Government,"10 Total, all industries",39,10425,1209165061,115986
+24037,2020,71,State Government,"10 Total, all industries",11,937,49246393,52586
+24037,2020,71,Local Government,"10 Total, all industries",57,3719,213996601,57539
+24037,2020,71,Private,"10 Total, all industries",2091,30417,1991677736,65478
+24039,2020,70,Total Covered,"10 Total, all industries",465,6118,321185403,52499
+24039,2020,71,Federal Government,"10 Total, all industries",13,57,2815592,49181
+24039,2020,71,State Government,"10 Total, all industries",9,1731,115044830,66458
+24039,2020,71,Local Government,"10 Total, all industries",20,938,47015235,50132
+24039,2020,71,Private,"10 Total, all industries",423,3392,156309746,46085
+24041,2020,70,Total Covered,"10 Total, all industries",1555,16289,759195083,46609
+24041,2020,71,Federal Government,"10 Total, all industries",19,207,13758958,66549
+24041,2020,71,State Government,"10 Total, all industries",8,239,11714532,49032
+24041,2020,71,Local Government,"10 Total, all industries",19,1429,80630728,56408
+24041,2020,71,Private,"10 Total, all industries",1509,14414,653090865,45311
+24045,2020,70,Total Covered,"10 Total, all industries",2585,42704,2071778767,48515
+24045,2020,71,Federal Government,"10 Total, all industries",28,325,19929882,61417
+24045,2020,71,State Government,"10 Total, all industries",13,2598,136950505,52722
+24045,2020,71,Local Government,"10 Total, all industries",47,4612,228627794,49573
+24045,2020,71,Private,"10 Total, all industries",2497,35170,1686270586,47947
+24047,2020,70,Total Covered,"10 Total, all industries",2199,22057,861120136,39042
+24047,2020,71,Federal Government,"10 Total, all industries",15,195,10827221,55453
+24047,2020,71,State Government,"10 Total, all industries",6,162,7460494,46171
+24047,2020,71,Local Government,"10 Total, all industries",48,2867,158682018,55353
+24047,2020,71,Private,"10 Total, all industries",2130,18833,684150403,36327
+24510,2020,70,Total Covered,"10 Total, all industries",13844,327650,24016018537,73298
+24510,2020,71,Federal Government,"10 Total, all industries",79,10796,993395595,92018
+24510,2020,71,State Government,"10 Total, all industries",125,33402,2425830354,72626
+24510,2020,71,Local Government,"10 Total, all industries",217,22965,1564807027,68139
+24510,2020,71,Private,"10 Total, all industries",13423,260488,19031985561,73063
+25001,2020,70,Total Covered,"10 Total, all industries",9565,85892,4759426587,55412
+25001,2020,71,Federal Government,"10 Total, all industries",86,1643,121994111,74232
+25001,2020,71,State Government,"10 Total, all industries",83,2535,177841184,70168
+25001,2020,71,Local Government,"10 Total, all industries",205,9720,627959008,64603
+25001,2020,71,Private,"10 Total, all industries",9192,71994,3831632284,53222
+25005,2020,70,Total Covered,"10 Total, all industries",17872,209396,11947689324,57058
+25005,2020,71,Federal Government,"10 Total, all industries",56,1258,83886807,66669
+25005,2020,71,State Government,"10 Total, all industries",157,6217,432430367,69558
+25005,2020,71,Local Government,"10 Total, all industries",402,19610,1295431954,66061
+25005,2020,71,Private,"10 Total, all industries",17258,182312,10135940196,55597
+25007,2020,70,Total Covered,"10 Total, all industries",1329,7782,479735515,61649
+25007,2020,71,Federal Government,"10 Total, all industries",7,49,2910921,59005
+25007,2020,71,State Government,"10 Total, all industries",10,66,5430672,82283
+25007,2020,71,Local Government,"10 Total, all industries",70,1377,87312076,63392
+25007,2020,71,Private,"10 Total, all industries",1242,6289,384081846,61072
+25009,2020,70,Total Covered,"10 Total, all industries",27588,296923,20069351962,67591
+25009,2020,71,Federal Government,"10 Total, all industries",57,3605,255926641,70986
+25009,2020,71,State Government,"10 Total, all industries",211,6421,450397730,70148
+25009,2020,71,Local Government,"10 Total, all industries",430,28364,1919299003,67668
+25009,2020,71,Private,"10 Total, all industries",26890,258533,17443728588,67472
+25017,2020,70,Total Covered,"10 Total, all industries",57015,868863,86455758958,99504
+25017,2020,71,Federal Government,"10 Total, all industries",194,11787,1060071453,89938
+25017,2020,71,State Government,"10 Total, all industries",322,14354,1175867805,81920
+25017,2020,71,Local Government,"10 Total, all industries",777,60137,4309455982,71661
+25017,2020,71,Private,"10 Total, all industries",55723,782586,79910363718,102111
+25019,2020,70,Total Covered,"10 Total, all industries",1187,6579,445358249,67696
+25019,2020,71,Federal Government,"10 Total, all industries",3,49,3888298,79084
+25019,2020,71,State Government,"10 Total, all industries",9,20,1382577,68842
+25019,2020,71,Local Government,"10 Total, all industries",12,721,60415777,83804
+25019,2020,71,Private,"10 Total, all industries",1163,5789,379671597,65590
+25021,2020,70,Total Covered,"10 Total, all industries",25587,316780,23665861328,74708
+25021,2020,71,Federal Government,"10 Total, all industries",58,1600,123473039,77183
+25021,2020,71,State Government,"10 Total, all industries",128,5317,414980996,78043
+25021,2020,71,Local Government,"10 Total, all industries",390,27083,1939792422,71625
+25021,2020,71,Private,"10 Total, all industries",25011,282780,21187614871,74926
+25023,2020,70,Total Covered,"10 Total, all industries",16457,177193,10655808008,60137
+25023,2020,71,Federal Government,"10 Total, all industries",63,2988,224174665,75033
+25023,2020,71,State Government,"10 Total, all industries",145,6095,451272854,74035
+25023,2020,71,Local Government,"10 Total, all industries",419,19539,1323652112,67744
+25023,2020,71,Private,"10 Total, all industries",15830,148571,8656708377,58267
+25025,2020,70,Total Covered,"10 Total, all industries",32172,645280,74884669589,116050
+25025,2020,71,Federal Government,"10 Total, all industries",133,14577,1398593165,95943
+25025,2020,71,State Government,"10 Total, all industries",436,34943,2978818311,85248
+25025,2020,71,Local Government,"10 Total, all industries",133,26182,2466520991,94208
+25025,2020,71,Private,"10 Total, all industries",31470,569578,68040737122,119458
+26001,2020,70,Total Covered,"10 Total, all industries",202,1711,64841059,37889
+26001,2020,71,Federal Government,"10 Total, all industries",9,25,1049787,41439
+26001,2020,71,State Government,"10 Total, all industries",2,0,0,0
+26001,2020,71,Local Government,"10 Total, all industries",15,0,0,0
+26001,2020,71,Private,"10 Total, all industries",177,1409,53772384,38154
+26003,2020,70,Total Covered,"10 Total, all industries",249,2313,104469332,45168
+26003,2020,71,Federal Government,"10 Total, all industries",13,75,3862913,51735
+26003,2020,71,State Government,"10 Total, all industries",6,0,0,0
+26003,2020,71,Local Government,"10 Total, all industries",20,0,0,0
+26003,2020,71,Private,"10 Total, all industries",210,1519,65987773,43451
+26005,2020,70,Total Covered,"10 Total, all industries",2465,37736,2005552091,53147
+26005,2020,71,Federal Government,"10 Total, all industries",22,189,10065731,53187
+26005,2020,71,State Government,"10 Total, all industries",10,290,16079581,55415
+26005,2020,71,Local Government,"10 Total, all industries",94,4498,208301980,46309
+26005,2020,71,Private,"10 Total, all industries",2340,32758,1771104799,54066
+26007,2020,70,Total Covered,"10 Total, all industries",848,10753,467996833,43522
+26007,2020,71,Federal Government,"10 Total, all industries",15,151,9059824,60098
+26007,2020,71,State Government,"10 Total, all industries",10,176,11436799,65043
+26007,2020,71,Local Government,"10 Total, all industries",18,2098,108772219,51837
+26007,2020,71,Private,"10 Total, all industries",805,8328,338727991,40673
+26009,2020,70,Total Covered,"10 Total, all industries",585,4854,180567567,37197
+26009,2020,71,Federal Government,"10 Total, all industries",14,60,3567472,59874
+26009,2020,71,State Government,"10 Total, all industries",4,32,1938893,61552
+26009,2020,71,Local Government,"10 Total, all industries",34,906,39251343,43328
+26009,2020,71,Private,"10 Total, all industries",533,3857,135809859,35208
+26011,2020,70,Total Covered,"10 Total, all industries",337,3747,150074600,40048
+26011,2020,71,Federal Government,"10 Total, all industries",8,45,2191071,49238
+26011,2020,71,State Government,"10 Total, all industries",4,34,2070369,61802
+26011,2020,71,Local Government,"10 Total, all industries",17,413,15535442,37601
+26011,2020,71,Private,"10 Total, all industries",308,3256,130277718,40010
+26013,2020,70,Total Covered,"10 Total, all industries",216,2692,119715142,44471
+26013,2020,71,Federal Government,"10 Total, all industries",10,31,1340945,43373
+26013,2020,71,State Government,"10 Total, all industries",7,348,24899248,71635
+26013,2020,71,Local Government,"10 Total, all industries",25,1057,40465316,38268
+26013,2020,71,Private,"10 Total, all industries",174,1256,53009633,42202
+26017,2020,70,Total Covered,"10 Total, all industries",2105,31923,1572266251,49251
+26017,2020,71,Federal Government,"10 Total, all industries",21,260,16964050,65372
+26017,2020,71,State Government,"10 Total, all industries",13,382,25187450,65979
+26017,2020,71,Local Government,"10 Total, all industries",77,4477,206104580,46041
+26017,2020,71,Private,"10 Total, all industries",1994,26806,1324010171,49393
+26019,2020,70,Total Covered,"10 Total, all industries",487,3965,150606408,37985
+26019,2020,71,Federal Government,"10 Total, all industries",8,38,1727205,45058
+26019,2020,71,State Government,"10 Total, all industries",4,40,2203091,54622
+26019,2020,71,Local Government,"10 Total, all industries",22,600,24234362,40391
+26019,2020,71,Private,"10 Total, all industries",453,3286,122441750,37259
+26021,2020,70,Total Covered,"10 Total, all industries",3827,55972,3007366621,53730
+26021,2020,71,Federal Government,"10 Total, all industries",29,351,20418260,58103
+26021,2020,71,State Government,"10 Total, all industries",15,351,23225836,66249
+26021,2020,71,Local Government,"10 Total, all industries",118,7222,337760325,46770
+26021,2020,71,Private,"10 Total, all industries",3664,48049,2625962200,54652
+26029,2020,70,Total Covered,"10 Total, all industries",822,9189,444592347,48383
+26029,2020,71,Federal Government,"10 Total, all industries",7,64,3246809,50930
+26029,2020,71,State Government,"10 Total, all industries",4,36,2630803,73934
+26029,2020,71,Local Government,"10 Total, all industries",38,1455,70219840,48267
+26029,2020,71,Private,"10 Total, all industries",773,7635,368494895,48264
+26031,2020,70,Total Covered,"10 Total, all industries",805,5431,210832287,38823
+26031,2020,71,Federal Government,"10 Total, all industries",12,66,3561867,53900
+26031,2020,71,State Government,"10 Total, all industries",12,107,6831953,64050
+26031,2020,71,Local Government,"10 Total, all industries",36,762,34087399,44744
+26031,2020,71,Private,"10 Total, all industries",745,4496,166351068,37000
+26033,2020,70,Total Covered,"10 Total, all industries",821,11690,503016852,43030
+26033,2020,71,Federal Government,"10 Total, all industries",30,510,42116835,82650
+26033,2020,71,State Government,"10 Total, all industries",18,1331,81760110,61412
+26033,2020,71,Local Government,"10 Total, all industries",56,4159,184477708,44358
+26033,2020,71,Private,"10 Total, all industries",717,5690,194662199,34211
+26041,2020,70,Total Covered,"10 Total, all industries",1038,12931,567797019,43909
+26041,2020,71,Federal Government,"10 Total, all industries",20,214,12530519,58577
+26041,2020,71,State Government,"10 Total, all industries",15,209,13673185,65448
+26041,2020,71,Local Government,"10 Total, all industries",33,1386,62863011,45364
+26041,2020,71,Private,"10 Total, all industries",970,11123,478730304,43041
+26047,2020,70,Total Covered,"10 Total, all industries",1495,16990,779873777,45902
+26047,2020,71,Federal Government,"10 Total, all industries",14,114,5899005,51784
+26047,2020,71,State Government,"10 Total, all industries",8,92,5692103,62039
+26047,2020,71,Local Government,"10 Total, all industries",41,1902,94166868,49516
+26047,2020,71,Private,"10 Total, all industries",1432,14883,674115801,45296
+26053,2020,70,Total Covered,"10 Total, all industries",401,4751,202030799,42523
+26053,2020,71,Federal Government,"10 Total, all industries",11,175,9730191,55681
+26053,2020,71,State Government,"10 Total, all industries",8,60,3939683,65299
+26053,2020,71,Local Government,"10 Total, all industries",29,1190,47565631,39963
+26053,2020,71,Private,"10 Total, all industries",353,3326,140795294,42335
+26055,2020,70,Total Covered,"10 Total, all industries",3553,46166,2364813254,51224
+26055,2020,71,Federal Government,"10 Total, all industries",29,567,36248893,63959
+26055,2020,71,State Government,"10 Total, all industries",18,287,20629722,71922
+26055,2020,71,Local Government,"10 Total, all industries",43,4589,214203405,46681
+26055,2020,71,Private,"10 Total, all industries",3463,40724,2093731234,51413
+26061,2020,70,Total Covered,"10 Total, all industries",894,10748,502739175,46774
+26061,2020,71,Federal Government,"10 Total, all industries",24,188,10392624,55329
+26061,2020,71,State Government,"10 Total, all industries",13,0,0,0
+26061,2020,71,Local Government,"10 Total, all industries",39,0,0,0
+26061,2020,71,Private,"10 Total, all industries",818,7713,302292115,39193
+26063,2020,70,Total Covered,"10 Total, all industries",1001,10404,451724796,43419
+26063,2020,71,Federal Government,"10 Total, all industries",15,104,4799974,46006
+26063,2020,71,State Government,"10 Total, all industries",5,45,2726302,60361
+26063,2020,71,Local Government,"10 Total, all industries",58,1457,62725345,43044
+26063,2020,71,Private,"10 Total, all industries",923,8797,381473175,43364
+26069,2020,70,Total Covered,"10 Total, all industries",601,7187,369409214,51397
+26069,2020,71,Federal Government,"10 Total, all industries",11,132,7021935,53129
+26069,2020,71,State Government,"10 Total, all industries",4,42,3035210,72411
+26069,2020,71,Local Government,"10 Total, all industries",27,1211,48389230,39966
+26069,2020,71,Private,"10 Total, all industries",559,5803,310962839,53591
+26083,2020,70,Total Covered,"10 Total, all industries",78,399,12246701,30687
+26083,2020,71,Federal Government,"10 Total, all industries",4,19,903900,47995
+26083,2020,71,State Government,"10 Total, all industries",1,0,0,0
+26083,2020,71,Local Government,"10 Total, all industries",10,0,0,0
+26083,2020,71,Private,"10 Total, all industries",63,280,8206357,29308
+26089,2020,70,Total Covered,"10 Total, all industries",768,5815,236393367,40655
+26089,2020,71,Federal Government,"10 Total, all industries",11,131,6805095,52113
+26089,2020,71,State Government,"10 Total, all industries",3,5,396201,79240
+26089,2020,71,Local Government,"10 Total, all industries",26,1445,65711659,45483
+26089,2020,71,Private,"10 Total, all industries",727,4234,163480412,38608
+26095,2020,70,Total Covered,"10 Total, all industries",187,1620,67962405,41965
+26095,2020,71,Federal Government,"10 Total, all industries",3,18,759484,41616
+26095,2020,71,State Government,"10 Total, all industries",11,281,18147787,64487
+26095,2020,71,Local Government,"10 Total, all industries",18,493,23120836,46859
+26095,2020,71,Private,"10 Total, all industries",155,826,25934298,31382
+26097,2020,70,Total Covered,"10 Total, all industries",476,4028,155848494,38690
+26097,2020,71,Federal Government,"10 Total, all industries",14,71,3620623,51115
+26097,2020,71,State Government,"10 Total, all industries",15,177,10210650,57579
+26097,2020,71,Local Government,"10 Total, all industries",24,686,23188070,33790
+26097,2020,71,Private,"10 Total, all industries",423,3094,118829151,38410
+26099,2020,70,Total Covered,"10 Total, all industries",19133,298061,18045814475,60544
+26099,2020,71,Federal Government,"10 Total, all industries",41,8211,814726044,99223
+26099,2020,71,State Government,"10 Total, all industries",29,1462,88032699,60234
+26099,2020,71,Local Government,"10 Total, all industries",226,23059,1309731765,56798
+26099,2020,71,Private,"10 Total, all industries",18837,265329,15833323967,59674
+26101,2020,70,Total Covered,"10 Total, all industries",575,6458,290016630,44912
+26101,2020,71,Federal Government,"10 Total, all industries",13,118,6189451,52305
+26101,2020,71,State Government,"10 Total, all industries",10,0,0,0
+26101,2020,71,Local Government,"10 Total, all industries",30,0,0,0
+26101,2020,71,Private,"10 Total, all industries",522,4148,176951778,42655
+26103,2020,70,Total Covered,"10 Total, all industries",1644,24491,1153507219,47099
+26103,2020,71,Federal Government,"10 Total, all industries",29,288,18304350,63538
+26103,2020,71,State Government,"10 Total, all industries",34,1908,124337816,65152
+26103,2020,71,Local Government,"10 Total, all industries",71,2870,125634658,43781
+26103,2020,71,Private,"10 Total, all industries",1510,19425,885230395,45571
+26105,2020,70,Total Covered,"10 Total, all industries",717,9413,418716502,44484
+26105,2020,71,Federal Government,"10 Total, all industries",11,76,3902430,51179
+26105,2020,71,State Government,"10 Total, all industries",4,47,3412570,72866
+26105,2020,71,Local Government,"10 Total, all industries",23,1442,64691525,44852
+26105,2020,71,Private,"10 Total, all industries",679,7847,346709977,44182
+26109,2020,70,Total Covered,"10 Total, all industries",483,6592,262751204,39857
+26109,2020,71,Federal Government,"10 Total, all industries",16,67,2875550,43133
+26109,2020,71,State Government,"10 Total, all industries",6,33,1972595,59625
+26109,2020,71,Local Government,"10 Total, all industries",32,1857,72061891,38806
+26109,2020,71,Private,"10 Total, all industries",429,4636,185841168,40089
+26115,2020,70,Total Covered,"10 Total, all industries",2380,36115,1955136170,54136
+26115,2020,71,Federal Government,"10 Total, all industries",20,251,14338783,57203
+26115,2020,71,State Government,"10 Total, all industries",12,222,15059012,67732
+26115,2020,71,Local Government,"10 Total, all industries",55,4452,207788356,46673
+26115,2020,71,Private,"10 Total, all industries",2293,31190,1717950019,55080
+26121,2020,70,Total Covered,"10 Total, all industries",3002,56217,2595027365,46161
+26121,2020,71,Federal Government,"10 Total, all industries",20,358,22515748,62966
+26121,2020,71,State Government,"10 Total, all industries",17,876,58941381,67259
+26121,2020,71,Local Government,"10 Total, all industries",117,5537,265212484,47900
+26121,2020,71,Private,"10 Total, all industries",2848,49447,2248357752,45470
+26127,2020,70,Total Covered,"10 Total, all industries",587,6181,243009547,39317
+26127,2020,71,Federal Government,"10 Total, all industries",12,167,9762533,58400
+26127,2020,71,State Government,"10 Total, all industries",8,97,7044744,72626
+26127,2020,71,Local Government,"10 Total, all industries",31,955,41007465,42936
+26127,2020,71,Private,"10 Total, all industries",536,4962,185194805,37326
+26131,2020,70,Total Covered,"10 Total, all industries",179,1242,40686017,32763
+26131,2020,71,Federal Government,"10 Total, all industries",11,34,1458661,42485
+26131,2020,71,State Government,"10 Total, all industries",5,30,1371217,46351
+26131,2020,71,Local Government,"10 Total, all industries",17,299,10641260,35639
+26131,2020,71,Private,"10 Total, all industries",146,879,27214879,30949
+26139,2020,70,Total Covered,"10 Total, all industries",6311,119750,6224517958,51979
+26139,2020,71,Federal Government,"10 Total, all industries",24,446,24953245,55970
+26139,2020,71,State Government,"10 Total, all industries",11,0,0,0
+26139,2020,71,Local Government,"10 Total, all industries",79,0,0,0
+26139,2020,71,Private,"10 Total, all industries",6197,105443,5413952512,51345
+26141,2020,70,Total Covered,"10 Total, all industries",336,2500,105390801,42161
+26141,2020,71,Federal Government,"10 Total, all industries",10,65,3038722,46750
+26141,2020,71,State Government,"10 Total, all industries",6,19,1456410,75332
+26141,2020,71,Local Government,"10 Total, all industries",22,499,17683377,35414
+26141,2020,71,Private,"10 Total, all industries",298,1916,83212292,43428
+26147,2020,70,Total Covered,"10 Total, all industries",2984,40811,2096753268,51378
+26147,2020,71,Federal Government,"10 Total, all industries",29,716,67720228,94625
+26147,2020,71,State Government,"10 Total, all industries",12,316,18713233,59282
+26147,2020,71,Local Government,"10 Total, all industries",98,4817,240471068,49921
+26147,2020,71,Private,"10 Total, all industries",2846,34962,1769848739,50622
+26151,2020,70,Total Covered,"10 Total, all industries",880,9517,388921316,40864
+26151,2020,71,Federal Government,"10 Total, all industries",18,108,4980787,46047
+26151,2020,71,State Government,"10 Total, all industries",3,55,3170043,57290
+26151,2020,71,Local Government,"10 Total, all industries",46,1035,45227743,43716
+26151,2020,71,Private,"10 Total, all industries",814,8319,335542743,40333
+26153,2020,70,Total Covered,"10 Total, all industries",233,2394,109177140,45612
+26153,2020,71,Federal Government,"10 Total, all industries",8,39,1822997,46644
+26153,2020,71,State Government,"10 Total, all industries",5,28,1673455,59766
+26153,2020,71,Local Government,"10 Total, all industries",15,820,40250529,49101
+26153,2020,71,Private,"10 Total, all industries",205,1507,65430159,43425
+26157,2020,70,Total Covered,"10 Total, all industries",856,10888,483062935,44369
+26157,2020,71,Federal Government,"10 Total, all industries",20,127,6215331,49068
+26157,2020,71,State Government,"10 Total, all industries",10,523,32804570,62674
+26157,2020,71,Local Government,"10 Total, all industries",63,2012,94386560,46916
+26157,2020,71,Private,"10 Total, all industries",763,8226,349656474,42508
+26159,2020,70,Total Covered,"10 Total, all industries",1491,19767,977030472,49428
+26159,2020,71,Federal Government,"10 Total, all industries",20,151,7729161,51243
+26159,2020,71,State Government,"10 Total, all industries",11,283,16298913,57509
+26159,2020,71,Local Government,"10 Total, all industries",78,3749,182587189,48705
+26159,2020,71,Private,"10 Total, all industries",1382,15584,770415209,49438
+26163,2020,70,Total Covered,"10 Total, all industries",35633,666106,45013853874,67578
+26163,2020,71,Federal Government,"10 Total, all industries",127,13714,1230970635,89759
+26163,2020,71,State Government,"10 Total, all industries",97,13643,889638385,65210
+26163,2020,71,Local Government,"10 Total, all industries",407,52062,3038540743,58364
+26163,2020,71,Private,"10 Total, all industries",35003,586687,39854704111,67932
+27031,2020,70,Total Covered,"10 Total, all industries",316,2456,89742362,36534
+27031,2020,71,Federal Government,"10 Total, all industries",12,140,9630029,68745
+27031,2020,71,State Government,"10 Total, all industries",6,23,1285511,56923
+27031,2020,71,Local Government,"10 Total, all industries",19,627,27713481,44206
+27031,2020,71,Private,"10 Total, all industries",279,1667,51113341,30665
+27075,2020,70,Total Covered,"10 Total, all industries",335,3657,172573002,47196
+27075,2020,71,Federal Government,"10 Total, all industries",6,30,1268245,42750
+27075,2020,71,State Government,"10 Total, all industries",9,211,12337204,58424
+27075,2020,71,Local Government,"10 Total, all industries",19,626,28821485,46041
+27075,2020,71,Private,"10 Total, all industries",301,2790,130146068,46653
+27137,2020,70,Total Covered,"10 Total, all industries",5396,89824,4604485568,51261
+27137,2020,71,Federal Government,"10 Total, all industries",73,1453,99517678,68479
+27137,2020,71,State Government,"10 Total, all industries",89,3430,219153788,63893
+27137,2020,71,Local Government,"10 Total, all industries",183,9425,479246298,50847
+27137,2020,71,Private,"10 Total, all industries",5051,75515,3806567804,50408
+28045,2020,70,Total Covered,"10 Total, all industries",887,13661,728532440,53329
+28045,2020,71,Federal Government,"10 Total, all industries",19,2008,190489820,94889
+28045,2020,71,State Government,"10 Total, all industries",10,51,1596808,31310
+28045,2020,71,Local Government,"10 Total, all industries",30,1851,70367408,38014
+28045,2020,71,Private,"10 Total, all industries",828,9751,466078404,47796
+28047,2020,70,Total Covered,"10 Total, all industries",4628,80908,3374357439,41706
+28047,2020,71,Federal Government,"10 Total, all industries",71,6054,408129557,67410
+28047,2020,71,State Government,"10 Total, all industries",32,1659,70594324,42563
+28047,2020,71,Local Government,"10 Total, all industries",65,11823,576716725,48779
+28047,2020,71,Private,"10 Total, all industries",4460,61371,2318916833,37785
+28059,2020,70,Total Covered,"10 Total, all industries",2457,47982,2522401968,52570
+28059,2020,71,Federal Government,"10 Total, all industries",24,1272,107586250,84558
+28059,2020,71,State Government,"10 Total, all industries",18,393,15542012,39597
+28059,2020,71,Local Government,"10 Total, all industries",80,8480,381435594,44980
+28059,2020,71,Private,"10 Total, all industries",2335,37837,2017838112,53330
+33015,2020,70,Total Covered,"10 Total, all industries",11310,141878,8884092305,62618
+33015,2020,71,Federal Government,"10 Total, all industries",66,1119,78036373,69753
+33015,2020,71,State Government,"10 Total, all industries",138,1197,49317104,41201
+33015,2020,71,Local Government,"10 Total, all industries",145,11171,635418708,56884
+33015,2020,71,Private,"10 Total, all industries",10961,128392,8121320120,63254
+33017,2020,70,Total Covered,"10 Total, all industries",3005,45792,2642756518,57712
+33017,2020,71,Federal Government,"10 Total, all industries",21,332,23856843,71822
+33017,2020,71,State Government,"10 Total, all industries",74,4049,282264228,69714
+33017,2020,71,Local Government,"10 Total, all industries",47,4658,236243127,50718
+33017,2020,71,Private,"10 Total, all industries",2863,36753,2100392320,57149
+34001,2020,70,Total Covered,"10 Total, all industries",6671,108218,5755691187,53186
+34001,2020,71,Federal Government,"10 Total, all industries",53,2578,273323491,106039
+34001,2020,71,State Government,"10 Total, all industries",56,3153,220896660,70059
+34001,2020,71,Local Government,"10 Total, all industries",131,13255,870338544,65662
+34001,2020,71,Private,"10 Total, all industries",6431,89233,4391132492,49210
+34003,2020,70,Total Covered,"10 Total, all industries",33592,397522,29164972104,73367
+34003,2020,71,Federal Government,"10 Total, all industries",85,2646,183787036,69450
+34003,2020,71,State Government,"10 Total, all industries",27,2730,218019703,79863
+34003,2020,71,Local Government,"10 Total, all industries",419,36806,2672993069,72625
+34003,2020,71,Private,"10 Total, all industries",33061,355341,26090172296,73423
+34005,2020,70,Total Covered,"10 Total, all industries",11272,188919,12343970040,65340
+34005,2020,71,Federal Government,"10 Total, all industries",105,4847,351249612,72464
+34005,2020,71,State Government,"10 Total, all industries",46,1381,125316589,90765
+34005,2020,71,Local Government,"10 Total, all industries",222,17469,1126147455,64467
+34005,2020,71,Private,"10 Total, all industries",10900,165223,10741256384,65011
+34007,2020,70,Total Covered,"10 Total, all industries",12348,186491,11476034513,61537
+34007,2020,71,Federal Government,"10 Total, all industries",52,2207,167917517,76081
+34007,2020,71,State Government,"10 Total, all industries",55,4645,388449628,83623
+34007,2020,71,Local Government,"10 Total, all industries",238,20196,1358682738,67274
+34007,2020,71,Private,"10 Total, all industries",12003,159443,9560984630,59965
+34009,2020,70,Total Covered,"10 Total, all industries",3857,37154,1591796955,42843
+34009,2020,71,Federal Government,"10 Total, all industries",33,449,26945938,60002
+34009,2020,71,State Government,"10 Total, all industries",18,856,52442120,61300
+34009,2020,71,Local Government,"10 Total, all industries",50,6328,359070865,56745
+34009,2020,71,Private,"10 Total, all industries",3756,29522,1153338032,39067
+34011,2020,70,Total Covered,"10 Total, all industries",3243,55742,2843669176,51015
+34011,2020,71,Federal Government,"10 Total, all industries",32,655,47606840,72654
+34011,2020,71,State Government,"10 Total, all industries",31,1926,169452800,87974
+34011,2020,71,Local Government,"10 Total, all industries",84,7229,441718260,61108
+34011,2020,71,Private,"10 Total, all industries",3096,45932,2184891276,47568
+34013,2020,70,Total Covered,"10 Total, all industries",21137,310144,24418120507,78732
+34013,2020,71,Federal Government,"10 Total, all industries",75,9182,870083299,94763
+34013,2020,71,State Government,"10 Total, all industries",68,21168,1795528014,84821
+34013,2020,71,Local Government,"10 Total, all industries",372,36520,2785798916,76281
+34013,2020,71,Private,"10 Total, all industries",20622,243273,18966710278,77965
+34015,2020,70,Total Covered,"10 Total, all industries",6539,107141,5482772846,51174
+34015,2020,71,Federal Government,"10 Total, all industries",31,530,33209078,62619
+34015,2020,71,State Government,"10 Total, all industries",17,0,0,0
+34015,2020,71,Local Government,"10 Total, all industries",129,0,0,0
+34015,2020,71,Private,"10 Total, all industries",6363,89269,4369829994,48951
+34017,2020,70,Total Covered,"10 Total, all industries",16036,247537,21156466241,85468
+34017,2020,71,Federal Government,"10 Total, all industries",43,5404,367880226,68080
+34017,2020,71,State Government,"10 Total, all industries",44,4600,440704714,95797
+34017,2020,71,Local Government,"10 Total, all industries",130,26888,1908495288,70981
+34017,2020,71,Private,"10 Total, all industries",15819,210646,18439386013,87537
+34023,2020,70,Total Covered,"10 Total, all industries",22779,398476,28789297009,72248
+34023,2020,71,Federal Government,"10 Total, all industries",72,2524,206068228,81649
+34023,2020,71,State Government,"10 Total, all industries",65,17981,1589165612,88379
+34023,2020,71,Local Government,"10 Total, all industries",219,30479,2196434027,72065
+34023,2020,71,Private,"10 Total, all industries",22424,347493,24797629142,71362
+34025,2020,70,Total Covered,"10 Total, all industries",20501,240750,15256178210,63370
+34025,2020,71,Federal Government,"10 Total, all industries",75,1987,152276672,76653
+34025,2020,71,State Government,"10 Total, all industries",67,1241,98347892,79270
+34025,2020,71,Local Government,"10 Total, all industries",290,26604,1813612958,68172
+34025,2020,71,Private,"10 Total, all industries",20069,210919,13191940688,62545
+34029,2020,70,Total Covered,"10 Total, all industries",13898,157751,7894818770,50046
+34029,2020,71,Federal Government,"10 Total, all industries",45,3380,311244065,92075
+34029,2020,71,State Government,"10 Total, all industries",30,468,35004113,74729
+34029,2020,71,Local Government,"10 Total, all industries",245,20972,1325569558,63207
+34029,2020,71,Private,"10 Total, all industries",13579,132931,6223001034,46814
+34033,2020,70,Total Covered,"10 Total, all industries",1338,19546,1219084824,62371
+34033,2020,71,Federal Government,"10 Total, all industries",19,160,10038713,62709
+34033,2020,71,State Government,"10 Total, all industries",15,331,18917184,57166
+34033,2020,71,Local Government,"10 Total, all industries",67,3232,183256754,56704
+34033,2020,71,Private,"10 Total, all industries",1237,15823,1006872173,63634
+34035,2020,70,Total Covered,"10 Total, all industries",10345,175265,17125454762,97712
+34035,2020,71,Federal Government,"10 Total, all industries",41,1764,141631443,80301
+34035,2020,71,State Government,"10 Total, all industries",22,326,29378305,90094
+34035,2020,71,Local Government,"10 Total, all industries",139,13329,937204760,70312
+34035,2020,71,Private,"10 Total, all industries",10143,159846,16017240254,100204
+34039,2020,70,Total Covered,"10 Total, all industries",14889,210665,16484040133,78248
+34039,2020,71,Federal Government,"10 Total, all industries",43,1465,112896738,77041
+34039,2020,71,State Government,"10 Total, all industries",31,2475,179847402,72661
+34039,2020,71,Local Government,"10 Total, all industries",154,23943,1773759147,74082
+34039,2020,71,Private,"10 Total, all industries",14662,182781,14417536846,78879
+36005,2020,70,Total Covered,"10 Total, all industries",19290,301367,18750495187,62218
+36005,2020,71,Federal Government,"10 Total, all industries",64,4393,370970763,84451
+36005,2020,71,State Government,"10 Total, all industries",50,3815,304072874,79712
+36005,2020,71,Local Government,"10 Total, all industries",703,67518,5311697345,78670
+36005,2020,71,Private,"10 Total, all industries",18473,225641,12763754205,56567
+36011,2020,70,Total Covered,"10 Total, all industries",1691,23532,1177902557,50056
+36011,2020,71,Federal Government,"10 Total, all industries",24,156,8688183,55604
+36011,2020,71,State Government,"10 Total, all industries",34,1627,124902665,76753
+36011,2020,71,Local Government,"10 Total, all industries",69,3625,180082377,49680
+36011,2020,71,Private,"10 Total, all industries",1564,18123,864229332,47686
+36013,2020,70,Total Covered,"10 Total, all industries",3136,43658,1952932456,44732
+36013,2020,71,Federal Government,"10 Total, all industries",45,312,16673786,53513
+36013,2020,71,State Government,"10 Total, all industries",52,1926,119924373,62280
+36013,2020,71,Local Government,"10 Total, all industries",107,6467,342542984,52967
+36013,2020,71,Private,"10 Total, all industries",2932,34954,1473791313,42164
+36027,2020,70,Total Covered,"10 Total, all industries",8454,103311,6245140391,60450
+36027,2020,71,Federal Government,"10 Total, all industries",52,1451,108916436,75054
+36027,2020,71,State Government,"10 Total, all industries",111,5019,366291580,72987
+36027,2020,71,Local Government,"10 Total, all industries",158,12203,829408796,67970
+36027,2020,71,Private,"10 Total, all industries",8133,84639,4940523579,58372
+36029,2020,70,Total Covered,"10 Total, all industries",24593,426120,24294933985,57014
+36029,2020,71,Federal Government,"10 Total, all industries",114,8813,720148872,81711
+36029,2020,71,State Government,"10 Total, all industries",166,18788,1419315889,75544
+36029,2020,71,Local Government,"10 Total, all industries",369,42022,2559053944,60898
+36029,2020,71,Private,"10 Total, all industries",23944,356497,19596415280,54969
+36045,2020,70,Total Covered,"10 Total, all industries",2836,37250,1749604994,46969
+36045,2020,71,Federal Government,"10 Total, all industries",64,3302,194298097,58848
+36045,2020,71,State Government,"10 Total, all industries",55,1662,118793619,71473
+36045,2020,71,Local Government,"10 Total, all industries",102,5978,286113487,47859
+36045,2020,71,Private,"10 Total, all industries",2615,26308,1150399791,43728
+36047,2020,70,Total Covered,"10 Total, all industries",66537,737462,40094769361,54369
+36047,2020,71,Federal Government,"10 Total, all industries",91,8549,674489328,78894
+36047,2020,71,State Government,"10 Total, all industries",71,9127,802479950,87921
+36047,2020,71,Local Government,"10 Total, all industries",1028,105455,8470058258,80320
+36047,2020,71,Private,"10 Total, all industries",65347,614331,30147741825,49074
+36055,2020,70,Total Covered,"10 Total, all industries",18859,355197,20502225616,57721
+36055,2020,71,Federal Government,"10 Total, all industries",63,3067,210876425,68758
+36055,2020,71,State Government,"10 Total, all industries",101,5165,339530083,65743
+36055,2020,71,Local Government,"10 Total, all industries",220,36197,2063728612,57014
+36055,2020,71,Private,"10 Total, all industries",18476,310769,17888090496,57561
+36059,2020,70,Total Covered,"10 Total, all industries",54295,563195,39393663256,69947
+36059,2020,71,Federal Government,"10 Total, all industries",101,5405,449035532,83077
+36059,2020,71,State Government,"10 Total, all industries",107,3365,256841255,76323
+36059,2020,71,Local Government,"10 Total, all industries",540,65904,5591062575,84836
+36059,2020,71,Private,"10 Total, all industries",53548,488520,33096723894,67749
+36061,2020,70,Total Covered,"10 Total, all industries",130245,2200226,320063580155,145469
+36061,2020,71,Federal Government,"10 Total, all industries",145,22123,2282717256,103183
+36061,2020,71,State Government,"10 Total, all industries",150,14273,1381100702,96767
+36061,2020,71,Local Government,"10 Total, all industries",1155,194578,16435464335,84467
+36061,2020,71,Private,"10 Total, all industries",128794,1969253,299964297862,152324
+36063,2020,70,Total Covered,"10 Total, all industries",4847,64341,3045736319,47337
+36063,2020,71,Federal Government,"10 Total, all industries",34,1030,70304672,68279
+36063,2020,71,State Government,"10 Total, all industries",51,1182,89882780,76027
+36063,2020,71,Local Government,"10 Total, all industries",93,9585,565439973,58993
+36063,2020,71,Private,"10 Total, all industries",4669,52544,2320108894,44155
+36071,2020,70,Total Covered,"10 Total, all industries",10775,135592,7358122598,54267
+36071,2020,71,Federal Government,"10 Total, all industries",93,4600,332997446,72384
+36071,2020,71,State Government,"10 Total, all industries",105,2972,232139474,78104
+36071,2020,71,Local Government,"10 Total, all industries",203,17498,1223384397,69914
+36071,2020,71,Private,"10 Total, all industries",10375,110521,5569601281,50394
+36073,2020,70,Total Covered,"10 Total, all industries",768,10955,511310676,46672
+36073,2020,71,Federal Government,"10 Total, all industries",13,85,3841650,45463
+36073,2020,71,State Government,"10 Total, all industries",22,1279,91003838,71180
+36073,2020,71,Local Government,"10 Total, all industries",43,2270,117337539,51691
+36073,2020,71,Private,"10 Total, all industries",690,7322,299127649,40851
+36075,2020,70,Total Covered,"10 Total, all industries",2317,30445,1604964060,52717
+36075,2020,71,Federal Government,"10 Total, all industries",32,279,18499583,66386
+36075,2020,71,State Government,"10 Total, all industries",37,1742,102352891,58748
+36075,2020,71,Local Government,"10 Total, all industries",103,6435,332196082,51625
+36075,2020,71,Private,"10 Total, all industries",2146,21989,1151915504,52386
+36079,2020,70,Total Covered,"10 Total, all industries",3096,24141,1449284461,60033
+36079,2020,71,Federal Government,"10 Total, all industries",10,158,9237658,58621
+36079,2020,71,State Government,"10 Total, all industries",26,265,18979475,71643
+36079,2020,71,Local Government,"10 Total, all industries",38,3990,325902655,81685
+36079,2020,71,Private,"10 Total, all industries",3022,19729,1095164673,55510
+36081,2020,70,Total Covered,"10 Total, all industries",54164,637340,39001615094,61194
+36081,2020,71,Federal Government,"10 Total, all industries",92,14641,1120517915,76534
+36081,2020,71,State Government,"10 Total, all industries",115,5771,458494745,79447
+36081,2020,71,Local Government,"10 Total, all industries",740,102918,8702820244,84561
+36081,2020,71,Private,"10 Total, all industries",53218,514010,28719782190,55874
+36085,2020,70,Total Covered,"10 Total, all industries",10129,119667,7032470187,58767
+36085,2020,71,Federal Government,"10 Total, all industries",27,1071,74376014,69435
+36085,2020,71,State Government,"10 Total, all industries",52,2331,177217128,76013
+36085,2020,71,Local Government,"10 Total, all industries",204,19940,1620504254,81271
+36085,2020,71,Private,"10 Total, all industries",9846,96325,5160372791,53572
+36087,2020,70,Total Covered,"10 Total, all industries",11239,118538,6951169444,58641
+36087,2020,71,Federal Government,"10 Total, all industries",32,533,34033929,63804
+36087,2020,71,State Government,"10 Total, all industries",88,3808,252965715,66429
+36087,2020,71,Local Government,"10 Total, all industries",135,12461,1023344972,82122
+36087,2020,71,Private,"10 Total, all industries",10983,101735,5640824828,55446
+36103,2020,70,Total Covered,"10 Total, all industries",53758,603043,41503865890,68824
+36103,2020,71,Federal Government,"10 Total, all industries",166,10950,914024425,83470
+36103,2020,71,State Government,"10 Total, all industries",190,20343,1503197747,73893
+36103,2020,71,Local Government,"10 Total, all industries",535,69111,5603862737,81085
+36103,2020,71,Private,"10 Total, all industries",52867,502638,33482780981,66614
+36111,2020,70,Total Covered,"10 Total, all industries",5310,54371,2712924177,49897
+36111,2020,71,Federal Government,"10 Total, all industries",67,465,27548286,59222
+36111,2020,71,State Government,"10 Total, all industries",69,3967,267348646,67387
+36111,2020,71,Local Government,"10 Total, all industries",97,7969,533022161,66886
+36111,2020,71,Private,"10 Total, all industries",5078,41969,1885005084,44914
+36117,2020,70,Total Covered,"10 Total, all industries",2079,27233,1312722046,48204
+36117,2020,71,Federal Government,"10 Total, all industries",26,182,9077876,49856
+36117,2020,71,State Government,"10 Total, all industries",34,739,47698869,64560
+36117,2020,71,Local Government,"10 Total, all industries",97,5875,282242773,48044
+36117,2020,71,Private,"10 Total, all industries",1922,20437,973702528,47644
+36119,2020,70,Total Covered,"10 Total, all industries",36186,386825,32795238074,84781
+36119,2020,71,Federal Government,"10 Total, all industries",103,4513,337858590,74857
+36119,2020,71,State Government,"10 Total, all industries",194,6818,546744823,80188
+36119,2020,71,Local Government,"10 Total, all industries",325,47106,4347604759,92295
+36119,2020,71,Private,"10 Total, all industries",35563,328387,27563029902,83935
+37013,2020,70,Total Covered,"10 Total, all industries",1215,15366,624703218,40654
+37013,2020,71,Federal Government,"10 Total, all industries",15,135,7227346,53635
+37013,2020,71,State Government,"10 Total, all industries",16,583,24272811,41640
+37013,2020,71,Local Government,"10 Total, all industries",37,2345,100811882,42983
+37013,2020,71,Private,"10 Total, all industries",1147,12303,492391179,40021
+37015,2020,70,Total Covered,"10 Total, all industries",314,5530,201304142,36405
+37015,2020,71,Federal Government,"10 Total, all industries",13,83,4686276,56292
+37015,2020,71,State Government,"10 Total, all industries",8,444,23453863,52804
+37015,2020,71,Local Government,"10 Total, all industries",25,813,32009667,39392
+37015,2020,71,Private,"10 Total, all industries",268,4190,141154336,33692
+37019,2020,70,Total Covered,"10 Total, all industries",3189,32592,1398376164,42906
+37019,2020,71,Federal Government,"10 Total, all industries",16,541,35558708,65697
+37019,2020,71,State Government,"10 Total, all industries",14,644,22814678,35413
+37019,2020,71,Local Government,"10 Total, all industries",56,3992,190551670,47733
+37019,2020,71,Private,"10 Total, all industries",3103,27414,1149451108,41929
+37029,2020,70,Total Covered,"10 Total, all industries",187,1171,48021300,40997
+37029,2020,71,Federal Government,"10 Total, all industries",5,19,943408,50092
+37029,2020,71,State Government,"10 Total, all industries",8,31,1356905,44247
+37029,2020,71,Local Government,"10 Total, all industries",9,397,16508594,41610
+37029,2020,71,Private,"10 Total, all industries",165,725,29212393,40288
+37031,2020,70,Total Covered,"10 Total, all industries",2346,22667,869466747,38359
+37031,2020,71,Federal Government,"10 Total, all industries",24,295,20750851,70362
+37031,2020,71,State Government,"10 Total, all industries",16,851,36321946,42694
+37031,2020,71,Local Government,"10 Total, all industries",49,3546,163921488,46229
+37031,2020,71,Private,"10 Total, all industries",2258,17975,648472462,36076
+37041,2020,70,Total Covered,"10 Total, all industries",385,4495,178253704,39654
+37041,2020,71,Federal Government,"10 Total, all industries",5,36,1863708,52010
+37041,2020,71,State Government,"10 Total, all industries",11,122,6629447,54229
+37041,2020,71,Local Government,"10 Total, all industries",12,946,39417669,41657
+37041,2020,71,Private,"10 Total, all industries",357,3391,130342880,38439
+37049,2020,70,Total Covered,"10 Total, all industries",2384,38306,1827941800,47720
+37049,2020,71,Federal Government,"10 Total, all industries",21,5740,411492754,71692
+37049,2020,71,State Government,"10 Total, all industries",21,1313,54045241,41154
+37049,2020,71,Local Government,"10 Total, all industries",67,5565,261627698,47012
+37049,2020,71,Private,"10 Total, all industries",2275,25688,1100776107,42852
+37053,2020,70,Total Covered,"10 Total, all industries",788,6738,257304221,38187
+37053,2020,71,Federal Government,"10 Total, all industries",16,42,2082030,49770
+37053,2020,71,State Government,"10 Total, all industries",10,95,4262073,44903
+37053,2020,71,Local Government,"10 Total, all industries",16,1106,49271720,44563
+37053,2020,71,Private,"10 Total, all industries",747,5496,201688398,36700
+37055,2020,70,Total Covered,"10 Total, all industries",2056,18035,689284948,38220
+37055,2020,71,Federal Government,"10 Total, all industries",19,217,14181932,65254
+37055,2020,71,State Government,"10 Total, all industries",14,496,22233012,44840
+37055,2020,71,Local Government,"10 Total, all industries",29,2592,126323366,48737
+37055,2020,71,Private,"10 Total, all industries",1994,14729,526546638,35748
+37073,2020,70,Total Covered,"10 Total, all industries",172,1553,63300836,40756
+37073,2020,71,Federal Government,"10 Total, all industries",10,18,806072,45200
+37073,2020,71,State Government,"10 Total, all industries",6,37,1535315,41777
+37073,2020,71,Local Government,"10 Total, all industries",10,446,16249948,36414
+37073,2020,71,Private,"10 Total, all industries",146,1052,44709501,42486
+37091,2020,70,Total Covered,"10 Total, all industries",476,8784,365982802,41663
+37091,2020,71,Federal Government,"10 Total, all industries",11,69,3706319,54041
+37091,2020,71,State Government,"10 Total, all industries",7,278,11804440,42513
+37091,2020,71,Local Government,"10 Total, all industries",21,1495,62177773,41595
+37091,2020,71,Private,"10 Total, all industries",437,6943,288294270,41521
+37095,2020,70,Total Covered,"10 Total, all industries",207,1683,60859176,36156
+37095,2020,71,Federal Government,"10 Total, all industries",9,32,1707506,53499
+37095,2020,71,State Government,"10 Total, all industries",8,246,11916835,48426
+37095,2020,71,Local Government,"10 Total, all industries",12,323,11694320,36196
+37095,2020,71,Private,"10 Total, all industries",178,1082,35540515,32842
+37103,2020,70,Total Covered,"10 Total, all industries",194,1572,58931072,37496
+37103,2020,71,Federal Government,"10 Total, all industries",5,24,1135508,46665
+37103,2020,71,State Government,"10 Total, all industries",7,43,1938248,44815
+37103,2020,71,Local Government,"10 Total, all industries",13,453,18180014,40110
+37103,2020,71,Private,"10 Total, all industries",169,1051,37677302,35855
+37129,2020,70,Total Covered,"10 Total, all industries",9076,112745,5851940703,51904
+37129,2020,71,Federal Government,"10 Total, all industries",33,1073,84796765,79046
+37129,2020,71,State Government,"10 Total, all industries",28,4799,262565674,54716
+37129,2020,71,Local Government,"10 Total, all industries",92,14128,815745783,57739
+37129,2020,71,Private,"10 Total, all industries",8923,92745,4688832481,50556
+37133,2020,70,Total Covered,"10 Total, all industries",3436,47790,1874883736,39232
+37133,2020,71,Federal Government,"10 Total, all industries",27,6393,354634999,55472
+37133,2020,71,State Government,"10 Total, all industries",16,945,36787179,38928
+37133,2020,71,Local Government,"10 Total, all industries",119,6682,304414031,45557
+37133,2020,71,Private,"10 Total, all industries",3275,33770,1179047527,34915
+37137,2020,70,Total Covered,"10 Total, all industries",320,3158,108261978,34280
+37137,2020,71,Federal Government,"10 Total, all industries",10,32,1404244,44579
+37137,2020,71,State Government,"10 Total, all industries",11,324,14377323,44443
+37137,2020,71,Local Government,"10 Total, all industries",16,455,17749237,39009
+37137,2020,71,Private,"10 Total, all industries",284,2348,74731174,31825
+37139,2020,70,Total Covered,"10 Total, all industries",995,14732,619641284,42062
+37139,2020,71,Federal Government,"10 Total, all industries",11,728,56596355,77698
+37139,2020,71,State Government,"10 Total, all industries",17,1316,61624961,46845
+37139,2020,71,Local Government,"10 Total, all industries",26,1875,75343859,40178
+37139,2020,71,Private,"10 Total, all industries",941,10813,426076109,39406
+37141,2020,70,Total Covered,"10 Total, all industries",1419,12440,482501400,38785
+37141,2020,71,Federal Government,"10 Total, all industries",10,102,5353197,52611
+37141,2020,71,State Government,"10 Total, all industries",14,410,20613470,50287
+37141,2020,71,Local Government,"10 Total, all industries",33,2107,98091330,46553
+37141,2020,71,Private,"10 Total, all industries",1362,9822,358443403,36495
+37143,2020,70,Total Covered,"10 Total, all industries",250,2080,78971260,37972
+37143,2020,71,Federal Government,"10 Total, all industries",6,35,1879354,53189
+37143,2020,71,State Government,"10 Total, all industries",8,63,3065417,48401
+37143,2020,71,Local Government,"10 Total, all industries",12,539,19074237,35372
+37143,2020,71,Private,"10 Total, all industries",224,1442,54952252,38113
+37147,2020,70,Total Covered,"10 Total, all industries",3915,74307,3668866622,49375
+37147,2020,71,Federal Government,"10 Total, all industries",28,772,55886219,72376
+37147,2020,71,State Government,"10 Total, all industries",22,8041,530868821,66021
+37147,2020,71,Local Government,"10 Total, all industries",75,15638,847992774,54226
+37147,2020,71,Private,"10 Total, all industries",3790,49856,2234118808,44812
+37177,2020,70,Total Covered,"10 Total, all industries",95,994,34887979,35087
+37177,2020,71,Federal Government,"10 Total, all industries",4,22,1251035,57963
+37177,2020,71,State Government,"10 Total, all industries",10,125,6303646,50632
+37177,2020,71,Local Government,"10 Total, all industries",8,230,8053483,35028
+37177,2020,71,Private,"10 Total, all industries",74,618,19279815,31180
+37187,2020,70,Total Covered,"10 Total, all industries",249,3079,128423489,41715
+37187,2020,71,Federal Government,"10 Total, all industries",5,29,1410482,47948
+37187,2020,71,State Government,"10 Total, all industries",9,106,4390238,41352
+37187,2020,71,Local Government,"10 Total, all industries",14,586,20015836,34171
+37187,2020,71,Private,"10 Total, all industries",221,2357,102606933,43528
+39007,2020,70,Total Covered,"10 Total, all industries",2128,28571,1159478468,40583
+39007,2020,71,Federal Government,"10 Total, all industries",23,196,11211282,57200
+39007,2020,71,State Government,"10 Total, all industries",11,284,15668508,55219
+39007,2020,71,Local Government,"10 Total, all industries",148,3626,157233438,43368
+39007,2020,71,Private,"10 Total, all industries",1946,24465,975365240,39867
+39035,2020,70,Total Covered,"10 Total, all industries",36632,681631,43223599462,63412
+39035,2020,71,Federal Government,"10 Total, all industries",113,16377,1365041026,83354
+39035,2020,71,State Government,"10 Total, all industries",41,4455,302210295,67840
+39035,2020,71,Local Government,"10 Total, all industries",1065,69031,4071907562,58987
+39035,2020,71,Private,"10 Total, all industries",35413,591769,37484440579,63343
+39043,2020,70,Total Covered,"10 Total, all industries",1983,32933,1429962544,43421
+39043,2020,71,Federal Government,"10 Total, all industries",18,236,17327104,73446
+39043,2020,71,State Government,"10 Total, all industries",15,948,54341737,57302
+39043,2020,71,Local Government,"10 Total, all industries",104,3778,188717611,49955
+39043,2020,71,Private,"10 Total, all industries",1847,27971,1169576092,41814
+39085,2020,70,Total Covered,"10 Total, all industries",6356,90312,4516832647,50014
+39085,2020,71,Federal Government,"10 Total, all industries",15,430,27166917,63118
+39085,2020,71,State Government,"10 Total, all industries",9,79,5405880,68357
+39085,2020,71,Local Government,"10 Total, all industries",214,9917,517803957,52215
+39085,2020,71,Private,"10 Total, all industries",6119,79885,3966455893,49652
+39093,2020,70,Total Covered,"10 Total, all industries",6322,91947,4351131170,47322
+39093,2020,71,Federal Government,"10 Total, all industries",24,1116,119503559,107090
+39093,2020,71,State Government,"10 Total, all industries",17,1153,80604820,69914
+39093,2020,71,Local Government,"10 Total, all industries",280,12807,627991332,49034
+39093,2020,71,Private,"10 Total, all industries",6001,76871,3523031459,45831
+39095,2020,70,Total Covered,"10 Total, all industries",10202,192189,10226791453,53212
+39095,2020,71,Federal Government,"10 Total, all industries",50,1886,130182643,69029
+39095,2020,71,State Government,"10 Total, all industries",33,6917,473441102,68448
+39095,2020,71,Local Government,"10 Total, all industries",240,17428,997849027,57255
+39095,2020,71,Private,"10 Total, all industries",9880,165958,8625318681,51973
+39123,2020,70,Total Covered,"10 Total, all industries",1152,12973,600493462,46289
+39123,2020,71,Federal Government,"10 Total, all industries",24,270,21247391,78597
+39123,2020,71,State Government,"10 Total, all industries",11,159,9301648,58562
+39123,2020,71,Local Government,"10 Total, all industries",75,1824,80864956,44346
+39123,2020,71,Private,"10 Total, all industries",1042,10720,489079467,45623
+39143,2020,70,Total Covered,"10 Total, all industries",1395,23841,1064144179,44635
+39143,2020,71,Federal Government,"10 Total, all industries",12,118,6317467,53349
+39143,2020,71,State Government,"10 Total, all industries",10,95,5495928,57650
+39143,2020,71,Local Government,"10 Total, all industries",92,2496,116148981,46536
+39143,2020,71,Private,"10 Total, all industries",1281,21131,936181803,44303
+41007,2020,70,Total Covered,"10 Total, all industries",1785,17363,741472603,42705
+41007,2020,71,Federal Government,"10 Total, all industries",16,206,12023902,58487
+41007,2020,71,State Government,"10 Total, all industries",24,330,20003760,60694
+41007,2020,71,Local Government,"10 Total, all industries",47,1928,94726944,49141
+41007,2020,71,Private,"10 Total, all industries",1698,14900,614717997,41256
+41011,2020,70,Total Covered,"10 Total, all industries",2059,22205,964473256,43434
+41011,2020,71,Federal Government,"10 Total, all industries",24,311,20704476,66592
+41011,2020,71,State Government,"10 Total, all industries",24,465,29495589,63431
+41011,2020,71,Local Government,"10 Total, all industries",90,4410,241313426,54723
+41011,2020,71,Private,"10 Total, all industries",1921,17020,672959765,39540
+41015,2020,70,Total Covered,"10 Total, all industries",842,6331,249757004,39449
+41015,2020,71,Federal Government,"10 Total, all industries",11,103,6133855,59552
+41015,2020,71,State Government,"10 Total, all industries",12,106,6019344,56786
+41015,2020,71,Local Government,"10 Total, all industries",40,962,53591160,55689
+41015,2020,71,Private,"10 Total, all industries",779,5160,184012645,35663
+41019,2020,70,Total Covered,"10 Total, all industries",3451,37495,1682974227,44886
+41019,2020,71,Federal Government,"10 Total, all industries",41,1530,114803546,75039
+41019,2020,71,State Government,"10 Total, all industries",24,717,46224631,64484
+41019,2020,71,Local Government,"10 Total, all industries",124,4858,226641570,46652
+41019,2020,71,Private,"10 Total, all industries",3262,30390,1295304480,42623
+41039,2020,70,Total Covered,"10 Total, all industries",13015,147479,7301923558,49512
+41039,2020,71,Federal Government,"10 Total, all industries",63,1954,139383575,71326
+41039,2020,71,State Government,"10 Total, all industries",56,1743,116833325,67014
+41039,2020,71,Local Government,"10 Total, all industries",292,19582,1164122434,59449
+41039,2020,71,Private,"10 Total, all industries",12604,124199,5881584224,47356
+41041,2020,70,Total Covered,"10 Total, all industries",2006,16700,708398234,42419
+41041,2020,71,Federal Government,"10 Total, all industries",20,350,25618887,73214
+41041,2020,71,State Government,"10 Total, all industries",23,284,17863272,62899
+41041,2020,71,Local Government,"10 Total, all industries",89,2871,152201589,53013
+41041,2020,71,Private,"10 Total, all industries",1874,13195,512714486,38856
+41057,2020,70,Total Covered,"10 Total, all industries",1028,9114,406534655,44607
+41057,2020,71,Federal Government,"10 Total, all industries",16,133,7669942,57669
+41057,2020,71,State Government,"10 Total, all industries",20,315,20111695,63796
+41057,2020,71,Local Government,"10 Total, all industries",70,1357,67160658,49489
+41057,2020,71,Private,"10 Total, all industries",922,7308,311592360,42635
+42045,2020,70,Total Covered,"10 Total, all industries",14151,207104,13596208900,65649
+42045,2020,71,Federal Government,"10 Total, all industries",59,1982,175512865,88561
+42045,2020,71,State Government,"10 Total, all industries",28,2183,148167762,67876
+42045,2020,71,Local Government,"10 Total, all industries",236,18822,1117332106,59364
+42045,2020,71,Private,"10 Total, all industries",13827,184118,12155196167,66019
+42049,2020,70,Total Covered,"10 Total, all industries",6858,112385,5271009960,46902
+42049,2020,71,Federal Government,"10 Total, all industries",51,1677,120994938,72139
+42049,2020,71,State Government,"10 Total, all industries",30,3327,219515345,65988
+42049,2020,71,Local Government,"10 Total, all industries",237,9297,477521258,51365
+42049,2020,71,Private,"10 Total, all industries",6541,98084,4452978419,45400
+42101,2020,70,Total Covered,"10 Total, all industries",34930,641189,47540979132,74145
+42101,2020,71,Federal Government,"10 Total, all industries",139,30886,2748282494,88983
+42101,2020,71,State Government,"10 Total, all industries",34,10309,725131017,70337
+42101,2020,71,Local Government,"10 Total, all industries",612,63204,4301205029,68052
+42101,2020,71,Private,"10 Total, all industries",34145,536790,39766360592,74082
+44001,2020,70,Total Covered,"10 Total, all industries",1612,12662,609233998,48115
+44001,2020,71,Federal Government,"10 Total, all industries",5,99,5932343,59973
+44001,2020,71,State Government,"10 Total, all industries",3,325,24843873,76462
+44001,2020,71,Local Government,"10 Total, all industries",27,1501,93536685,62337
+44001,2020,71,Private,"10 Total, all industries",1577,10738,484921097,45160
+44003,2020,70,Total Covered,"10 Total, all industries",5662,69004,3803408235,55119
+44003,2020,71,Federal Government,"10 Total, all industries",20,730,52392109,71754
+44003,2020,71,State Government,"10 Total, all industries",12,1089,70526321,64782
+44003,2020,71,Local Government,"10 Total, all industries",55,4918,345190663,70183
+44003,2020,71,Private,"10 Total, all industries",5575,62267,3335299142,53565
+44005,2020,70,Total Covered,"10 Total, all industries",3451,37157,2223460491,59840
+44005,2020,71,Federal Government,"10 Total, all industries",30,5223,495915145,94945
+44005,2020,71,State Government,"10 Total, all industries",9,365,21022663,57596
+44005,2020,71,Local Government,"10 Total, all industries",59,2609,162291760,62205
+44005,2020,71,Private,"10 Total, all industries",3354,28960,1544230923,53324
+44007,2020,70,Total Covered,"10 Total, all industries",19200,264866,16439402230,62067
+44007,2020,71,Federal Government,"10 Total, all industries",77,4642,363068433,78214
+44007,2020,71,State Government,"10 Total, all industries",91,12237,929551545,75961
+44007,2020,71,Local Government,"10 Total, all industries",170,17574,1160932608,66059
+44007,2020,71,Private,"10 Total, all industries",18862,230412,13985849644,60699
+44009,2020,70,Total Covered,"10 Total, all industries",4595,49840,2771686909,55612
+44009,2020,71,Federal Government,"10 Total, all industries",29,643,47081726,73222
+44009,2020,71,State Government,"10 Total, all industries",18,3244,233344834,71942
+44009,2020,71,Local Government,"10 Total, all industries",86,4147,246883504,59538
+44009,2020,71,Private,"10 Total, all industries",4462,41807,2244376845,53684
+45013,2020,70,Total Covered,"10 Total, all industries",6400,64730,2876829161,44444
+45013,2020,71,Federal Government,"10 Total, all industries",34,2237,124304491,55561
+45013,2020,71,State Government,"10 Total, all industries",25,1044,45379614,43484
+45013,2020,71,Local Government,"10 Total, all industries",19,6808,395812127,58144
+45013,2020,71,Private,"10 Total, all industries",6322,54641,2311332929,42300
+45015,2020,70,Total Covered,"10 Total, all industries",3540,54988,3049701421,55461
+45015,2020,71,Federal Government,"10 Total, all industries",40,844,42785513,50684
+45015,2020,71,State Government,"10 Total, all industries",30,1606,127798427,79588
+45015,2020,71,Local Government,"10 Total, all industries",66,6807,305469900,44878
+45015,2020,71,Private,"10 Total, all industries",3404,45731,2573647581,56277
+45019,2020,70,Total Covered,"10 Total, all industries",17759,242152,13522971328,55845
+45019,2020,71,Federal Government,"10 Total, all industries",96,10760,939281510,87291
+45019,2020,71,State Government,"10 Total, all industries",40,19989,1146034993,57334
+45019,2020,71,Local Government,"10 Total, all industries",155,16181,810873048,50113
+45019,2020,71,Private,"10 Total, all industries",17468,195222,10626781777,54434
+45029,2020,70,Total Covered,"10 Total, all industries",782,10176,383895916,37726
+45029,2020,71,Federal Government,"10 Total, all industries",15,98,5348884,54349
+45029,2020,71,State Government,"10 Total, all industries",22,295,11850180,40159
+45029,2020,71,Local Government,"10 Total, all industries",6,1605,62932973,39211
+45029,2020,71,Private,"10 Total, all industries",739,8177,303763879,37147
+45035,2020,70,Total Covered,"10 Total, all industries",2727,34491,1453175705,42132
+45035,2020,71,Federal Government,"10 Total, all industries",13,269,14613306,54392
+45035,2020,71,State Government,"10 Total, all industries",19,955,34992867,36642
+45035,2020,71,Local Government,"10 Total, all industries",50,5263,219114866,41633
+45035,2020,71,Private,"10 Total, all industries",2645,28005,1184454666,42295
+45043,2020,70,Total Covered,"10 Total, all industries",2020,23385,1041087793,44519
+45043,2020,71,Federal Government,"10 Total, all industries",15,143,7946272,55504
+45043,2020,71,State Government,"10 Total, all industries",20,446,28889784,64836
+45043,2020,71,Local Government,"10 Total, all industries",14,4313,209703146,48619
+45043,2020,71,Private,"10 Total, all industries",1971,18483,794548591,42988
+45049,2020,70,Total Covered,"10 Total, all industries",395,4464,200345067,44879
+45049,2020,71,Federal Government,"10 Total, all industries",15,311,21456445,68918
+45049,2020,71,State Government,"10 Total, all industries",16,124,4667652,37592
+45049,2020,71,Local Government,"10 Total, all industries",27,925,33285506,35991
+45049,2020,71,Private,"10 Total, all industries",337,3104,140935464,45408
+45051,2020,70,Total Covered,"10 Total, all industries",10116,122210,4642555077,37988
+45051,2020,71,Federal Government,"10 Total, all industries",29,888,58906877,66330
+45051,2020,71,State Government,"10 Total, all industries",44,3251,177893536,54722
+45051,2020,71,Local Government,"10 Total, all industries",20,12500,592431825,47395
+45051,2020,71,Private,"10 Total, all industries",10024,105572,3813322839,36121
+45053,2020,70,Total Covered,"10 Total, all industries",780,9643,408679752,42383
+45053,2020,71,Federal Government,"10 Total, all industries",7,61,3692448,60615
+45053,2020,71,State Government,"10 Total, all industries",14,282,11360349,40297
+45053,2020,71,Local Government,"10 Total, all industries",11,887,40132342,45232
+45053,2020,71,Private,"10 Total, all industries",748,8412,353494613,42021
+48007,2020,70,Total Covered,"10 Total, all industries",619,5414,217530477,40177
+48007,2020,71,Federal Government,"10 Total, all industries",4,44,2776940,62756
+48007,2020,71,State Government,"10 Total, all industries",5,86,5103965,59176
+48007,2020,71,Local Government,"10 Total, all industries",19,918,39220348,42735
+48007,2020,71,Private,"10 Total, all industries",591,4366,170429224,39036
+48039,2020,70,Total Covered,"10 Total, all industries",6318,110953,6665330341,60074
+48039,2020,71,Federal Government,"10 Total, all industries",30,600,36246746,60369
+48039,2020,71,State Government,"10 Total, all industries",35,3117,156560428,50229
+48039,2020,71,Local Government,"10 Total, all industries",125,16199,804169542,49644
+48039,2020,71,Private,"10 Total, all industries",6128,91037,5668353625,62264
+48057,2020,70,Total Covered,"10 Total, all industries",657,12529,934682055,74602
+48057,2020,71,Federal Government,"10 Total, all industries",8,38,1897997,49621
+48057,2020,71,State Government,"10 Total, all industries",8,64,3889756,60463
+48057,2020,71,Local Government,"10 Total, all industries",34,1255,57614053,45908
+48057,2020,71,Private,"10 Total, all industries",607,11171,871280249,77993
+48061,2020,70,Total Covered,"10 Total, all industries",6674,137595,5042741709,36649
+48061,2020,71,Federal Government,"10 Total, all industries",55,3830,352577427,92065
+48061,2020,71,State Government,"10 Total, all industries",26,2583,147962443,57278
+48061,2020,71,Local Government,"10 Total, all industries",112,22169,992053321,44750
+48061,2020,71,Private,"10 Total, all industries",6481,109013,3550148518,32566
+48071,2020,70,Total Covered,"10 Total, all industries",781,16871,1128357835,66881
+48071,2020,71,Federal Government,"10 Total, all industries",10,62,4574993,73396
+48071,2020,71,State Government,"10 Total, all industries",6,45,2769672,61096
+48071,2020,71,Local Government,"10 Total, all industries",31,2355,127864889,54303
+48071,2020,71,Private,"10 Total, all industries",734,14409,993148281,68927
+48167,2020,70,Total Covered,"10 Total, all industries",6494,106314,5810044422,54650
+48167,2020,71,Federal Government,"10 Total, all industries",31,1124,94260199,83861
+48167,2020,71,State Government,"10 Total, all industries",34,13504,1006737364,74552
+48167,2020,71,Local Government,"10 Total, all industries",142,14709,755924235,51393
+48167,2020,71,Private,"10 Total, all industries",6288,76977,3953122624,51355
+48201,2020,70,Total Covered,"10 Total, all industries",120479,2219523,166042798613,74810
+48201,2020,71,Federal Government,"10 Total, all industries",176,26856,2554580845,95123
+48201,2020,71,State Government,"10 Total, all industries",78,55445,4741058880,85510
+48201,2020,71,Local Government,"10 Total, all industries",314,197960,11055118616,55845
+48201,2020,71,Private,"10 Total, all industries",119911,1939263,147692040272,76159
+48239,2020,70,Total Covered,"10 Total, all industries",441,5759,275709276,47875
+48239,2020,71,Federal Government,"10 Total, all industries",10,37,1728481,47140
+48239,2020,71,State Government,"10 Total, all industries",6,26,1449241,54861
+48239,2020,71,Local Government,"10 Total, all industries",35,1071,45439230,42414
+48239,2020,71,Private,"10 Total, all industries",390,4625,227092324,49105
+48245,2020,70,Total Covered,"10 Total, all industries",5880,113606,6690756863,58894
+48245,2020,71,Federal Government,"10 Total, all industries",43,1793,146647936,81793
+48245,2020,71,State Government,"10 Total, all industries",36,4253,226602099,53279
+48245,2020,71,Local Government,"10 Total, all industries",110,10702,565781727,52866
+48245,2020,71,Private,"10 Total, all industries",5691,96858,5751725101,59383
+48261,2020,70,Total Covered,"10 Total, all industries",31,407,29109247,71463
+48261,2020,71,Federal Government,"10 Total, all industries",1,1,25635,25635
+48261,2020,71,State Government,"10 Total, all industries",1,0,0,0
+48261,2020,71,Local Government,"10 Total, all industries",5,0,0,0
+48261,2020,71,Private,"10 Total, all industries",24,325,25532177,78661
+48273,2020,70,Total Covered,"10 Total, all industries",636,11381,490471824,43097
+48273,2020,71,Federal Government,"10 Total, all industries",18,841,73328985,87244
+48273,2020,71,State Government,"10 Total, all industries",22,1799,77742468,43206
+48273,2020,71,Local Government,"10 Total, all industries",45,1437,57820761,40242
+48273,2020,71,Private,"10 Total, all industries",551,7304,281579610,38551
+48321,2020,70,Total Covered,"10 Total, all industries",851,10202,595370707,58361
+48321,2020,71,Federal Government,"10 Total, all industries",16,81,5011376,61933
+48321,2020,71,State Government,"10 Total, all industries",12,100,4877763,48656
+48321,2020,71,Local Government,"10 Total, all industries",50,2230,97846916,43886
+48321,2020,71,Private,"10 Total, all industries",773,7791,487634652,62591
+48355,2020,70,Total Covered,"10 Total, all industries",8401,152198,7757460682,50970
+48355,2020,71,Federal Government,"10 Total, all industries",60,5832,426637233,73161
+48355,2020,71,State Government,"10 Total, all industries",49,5071,233565695,46056
+48355,2020,71,Local Government,"10 Total, all industries",93,16331,786582109,48164
+48355,2020,71,Private,"10 Total, all industries",8199,124964,6310675645,50500
+48361,2020,70,Total Covered,"10 Total, all industries",1440,21596,1220131930,56498
+48361,2020,71,Federal Government,"10 Total, all industries",7,133,7053957,53004
+48361,2020,71,State Government,"10 Total, all industries",13,319,16486608,51723
+48361,2020,71,Local Government,"10 Total, all industries",68,3656,163718496,44777
+48361,2020,71,Private,"10 Total, all industries",1352,17488,1032872869,59062
+48391,2020,70,Total Covered,"10 Total, all industries",208,2181,89420472,41006
+48391,2020,71,Federal Government,"10 Total, all industries",9,22,1089054,48946
+48391,2020,71,State Government,"10 Total, all industries",7,28,1689220,59620
+48391,2020,71,Local Government,"10 Total, all industries",29,634,24236195,38217
+48391,2020,71,Private,"10 Total, all industries",163,1496,62406003,41718
+48409,2020,70,Total Covered,"10 Total, all industries",1186,18522,945418248,51042
+48409,2020,71,Federal Government,"10 Total, all industries",14,104,6007816,57583
+48409,2020,71,State Government,"10 Total, all industries",9,177,9432742,53368
+48409,2020,71,Local Government,"10 Total, all industries",77,3667,162759068,44380
+48409,2020,71,Private,"10 Total, all industries",1087,14574,767218622,52644
+48469,2020,70,Total Covered,"10 Total, all industries",2466,35700,1699716163,47611
+48469,2020,71,Federal Government,"10 Total, all industries",18,207,13369138,64455
+48469,2020,71,State Government,"10 Total, all industries",18,262,15128810,57652
+48469,2020,71,Local Government,"10 Total, all industries",59,5818,263942106,45365
+48469,2020,71,Private,"10 Total, all industries",2371,29412,1407276109,47847
+48489,2020,70,Total Covered,"10 Total, all industries",323,3704,151026558,40771
+48489,2020,71,Federal Government,"10 Total, all industries",8,38,1900096,50669
+48489,2020,71,State Government,"10 Total, all industries",10,76,4972769,65647
+48489,2020,71,Local Government,"10 Total, all industries",35,1039,44042279,42406
+48489,2020,71,Private,"10 Total, all industries",271,2552,100111414,39222
+51001,2020,70,Total Covered,"10 Total, all industries",1082,12151,538355558,44307
+51001,2020,71,Federal Government,"10 Total, all industries",46,662,60897121,92024
+51001,2020,71,State Government,"10 Total, all industries",22,377,15398548,40836
+51001,2020,71,Local Government,"10 Total, all industries",33,1696,62406852,36789
+51001,2020,71,Private,"10 Total, all industries",981,9415,399653037,42447
+51013,2020,70,Total Covered,"10 Total, all industries",9165,174387,18153291861,104098
+51013,2020,71,Federal Government,"10 Total, all industries",90,28793,3558801971,123600
+51013,2020,71,State Government,"10 Total, all industries",16,814,56651954,69590
+51013,2020,71,Local Government,"10 Total, all industries",83,11600,796447187,68661
+51013,2020,71,Private,"10 Total, all industries",8977,133180,13741390749,103179
+51033,2020,70,Total Covered,"10 Total, all industries",605,5586,237315940,42488
+51033,2020,71,Federal Government,"10 Total, all industries",19,392,27515652,70223
+51033,2020,71,State Government,"10 Total, all industries",16,155,6716478,43262
+51033,2020,71,Local Government,"10 Total, all industries",6,1030,40296565,39110
+51033,2020,71,Private,"10 Total, all industries",564,4008,162787245,40615
+51036,2020,70,Total Covered,"10 Total, all industries",226,1646,81438106,49486
+51036,2020,71,Federal Government,"10 Total, all industries",4,19,1174527,61280
+51036,2020,71,State Government,"10 Total, all industries",7,47,2484116,53422
+51036,2020,71,Local Government,"10 Total, all industries",4,251,10129907,40439
+51036,2020,71,Private,"10 Total, all industries",211,1330,67649556,50883
+51041,2020,70,Total Covered,"10 Total, all industries",9440,131637,6853323306,52062
+51041,2020,71,Federal Government,"10 Total, all industries",15,3367,282986964,84051
+51041,2020,71,State Government,"10 Total, all industries",37,4358,225857242,51821
+51041,2020,71,Local Government,"10 Total, all industries",33,12818,595083857,46426
+51041,2020,71,Private,"10 Total, all industries",9354,111094,5749395243,51753
+51057,2020,70,Total Covered,"10 Total, all industries",356,3487,134227973,38494
+51057,2020,71,Federal Government,"10 Total, all industries",9,17,967422,57188
+51057,2020,71,State Government,"10 Total, all industries",16,70,3203809,45552
+51057,2020,71,Local Government,"10 Total, all industries",5,442,17497701,39610
+51057,2020,71,Private,"10 Total, all industries",326,2958,112559041,38052
+51059,2020,70,Total Covered,"10 Total, all industries",36921,591357,57352220702,96984
+51059,2020,71,Federal Government,"10 Total, all industries",137,24366,2708884353,111174
+51059,2020,71,State Government,"10 Total, all industries",37,9379,574303011,61233
+51059,2020,71,Local Government,"10 Total, all industries",87,45767,3165918437,69175
+51059,2020,71,Private,"10 Total, all industries",36660,511845,50903114901,99450
+51073,2020,70,Total Covered,"10 Total, all industries",1009,9213,357543712,38809
+51073,2020,71,Federal Government,"10 Total, all industries",20,94,5662785,60296
+51073,2020,71,State Government,"10 Total, all industries",18,641,30914315,48222
+51073,2020,71,Local Government,"10 Total, all industries",26,1276,56379288,44187
+51073,2020,71,Private,"10 Total, all industries",945,7202,264587324,36738
+51085,2020,70,Total Covered,"10 Total, all industries",3804,50971,2421792740,47513
+51085,2020,71,Federal Government,"10 Total, all industries",15,173,10530265,60722
+51085,2020,71,State Government,"10 Total, all industries",18,329,15976061,48621
+51085,2020,71,Local Government,"10 Total, all industries",26,4523,197779724,43731
+51085,2020,71,Private,"10 Total, all industries",3745,45946,2197506690,47828
+51087,2020,70,Total Covered,"10 Total, all industries",11865,180620,10854661721,60097
+51087,2020,71,Federal Government,"10 Total, all industries",26,2275,156491451,68798
+51087,2020,71,State Government,"10 Total, all industries",40,3987,208681660,52335
+51087,2020,71,Local Government,"10 Total, all industries",98,13037,621451728,47669
+51087,2020,71,Private,"10 Total, all industries",11701,161321,9868036882,61170
+51093,2020,70,Total Covered,"10 Total, all industries",866,10503,552540863,52607
+51093,2020,71,Federal Government,"10 Total, all industries",13,92,5204636,56368
+51093,2020,71,State Government,"10 Total, all industries",15,80,2746035,34148
+51093,2020,71,Local Government,"10 Total, all industries",9,1295,57535532,44423
+51093,2020,71,Private,"10 Total, all industries",829,9035,487054660,53907
+51095,2020,70,Total Covered,"10 Total, all industries",1988,26093,1200414874,46005
+51095,2020,71,Federal Government,"10 Total, all industries",5,77,4250177,55197
+51095,2020,71,State Government,"10 Total, all industries",11,1027,47956107,46707
+51095,2020,71,Local Government,"10 Total, all industries",25,3177,145990224,45956
+51095,2020,71,Private,"10 Total, all industries",1947,21813,1002218366,45946
+51097,2020,70,Total Covered,"10 Total, all industries",165,1083,44752144,41316
+51097,2020,71,Federal Government,"10 Total, all industries",7,11,490033,45584
+51097,2020,71,State Government,"10 Total, all industries",6,29,1335000,46570
+51097,2020,71,Local Government,"10 Total, all industries",9,260,9192250,35298
+51097,2020,71,Private,"10 Total, all industries",143,783,33734861,43066
+51099,2020,70,Total Covered,"10 Total, all industries",619,12319,1008568421,81873
+51099,2020,71,Federal Government,"10 Total, all industries",13,5444,618411733,113600
+51099,2020,71,State Government,"10 Total, all industries",13,0,0,0
+51099,2020,71,Local Government,"10 Total, all industries",4,0,0,0
+51099,2020,71,Private,"10 Total, all industries",590,5761,343519981,59625
+51101,2020,70,Total Covered,"10 Total, all industries",442,3833,183372234,47840
+51101,2020,71,Federal Government,"10 Total, all industries",5,30,1468114,49073
+51101,2020,71,State Government,"10 Total, all industries",11,55,2100216,38244
+51101,2020,71,Local Government,"10 Total, all industries",6,685,26399366,38535
+51101,2020,71,Private,"10 Total, all industries",421,3063,153404538,50082
+51103,2020,70,Total Covered,"10 Total, all industries",491,4380,172335722,39345
+51103,2020,71,Federal Government,"10 Total, all industries",10,36,1764724,49711
+51103,2020,71,State Government,"10 Total, all industries",11,64,2323013,36250
+51103,2020,71,Local Government,"10 Total, all industries",6,433,16490809,38085
+51103,2020,71,Private,"10 Total, all industries",464,3848,151757176,39442
+51115,2020,70,Total Covered,"10 Total, all industries",217,1496,47304288,31612
+51115,2020,71,Federal Government,"10 Total, all industries",14,19,864601,45110
+51115,2020,71,State Government,"10 Total, all industries",8,0,0,0
+51115,2020,71,Local Government,"10 Total, all industries",3,0,0,0
+51115,2020,71,Private,"10 Total, all industries",192,1124,33453411,29758
+51119,2020,70,Total Covered,"10 Total, all industries",379,3119,116660841,37400
+51119,2020,71,Federal Government,"10 Total, all industries",10,22,961837,43067
+51119,2020,71,State Government,"10 Total, all industries",7,76,3685036,48701
+51119,2020,71,Local Government,"10 Total, all industries",6,833,32716690,39284
+51119,2020,71,Private,"10 Total, all industries",356,2188,79297278,36235
+51127,2020,70,Total Covered,"10 Total, all industries",522,4970,222547009,44777
+51127,2020,71,Federal Government,"10 Total, all industries",7,49,2451277,50283
+51127,2020,71,State Government,"10 Total, all industries",15,78,3087295,39836
+51127,2020,71,Local Government,"10 Total, all industries",4,888,40616704,45718
+51127,2020,71,Private,"10 Total, all industries",497,3956,176391733,44594
+51131,2020,70,Total Covered,"10 Total, all industries",580,4123,143621538,34832
+51131,2020,71,Federal Government,"10 Total, all industries",14,37,1563422,42350
+51131,2020,71,State Government,"10 Total, all industries",13,79,2564296,32597
+51131,2020,71,Local Government,"10 Total, all industries",19,798,33606267,42104
+51131,2020,71,Private,"10 Total, all industries",535,3210,105887553,32992
+51133,2020,70,Total Covered,"10 Total, all industries",371,2505,127119818,50757
+51133,2020,71,Federal Government,"10 Total, all industries",9,30,1459757,48794
+51133,2020,71,State Government,"10 Total, all industries",9,39,1559005,40406
+51133,2020,71,Local Government,"10 Total, all industries",12,406,16741186,41209
+51133,2020,71,Private,"10 Total, all industries",342,2030,107359870,52893
+51149,2020,70,Total Covered,"10 Total, all industries",642,14437,824642521,57119
+51149,2020,71,Federal Government,"10 Total, all industries",22,4632,375035774,80974
+51149,2020,71,State Government,"10 Total, all industries",14,114,4479322,39149
+51149,2020,71,Local Government,"10 Total, all industries",32,1673,76370328,45653
+51149,2020,71,Private,"10 Total, all industries",574,8019,368757097,45988
+51153,2020,70,Total Covered,"10 Total, all industries",9639,125272,6906754374,55134
+51153,2020,71,Federal Government,"10 Total, all industries",36,6736,614919282,91291
+51153,2020,71,State Government,"10 Total, all industries",31,2029,97603458,48098
+51153,2020,71,Local Government,"10 Total, all industries",34,18921,1134581560,59965
+51153,2020,71,Private,"10 Total, all industries",9539,97586,5059650074,51848
+51159,2020,70,Total Covered,"10 Total, all industries",233,2842,116405582,40963
+51159,2020,71,Federal Government,"10 Total, all industries",8,29,1611970,55745
+51159,2020,71,State Government,"10 Total, all industries",18,568,24016304,42270
+51159,2020,71,Local Government,"10 Total, all industries",6,456,18379242,40320
+51159,2020,71,Private,"10 Total, all industries",201,1789,72398066,40472
+51177,2020,70,Total Covered,"10 Total, all industries",3173,34388,1600891531,46554
+51177,2020,71,Federal Government,"10 Total, all industries",4,69,3387283,49091
+51177,2020,71,State Government,"10 Total, all industries",20,616,24227169,39340
+51177,2020,71,Local Government,"10 Total, all industries",50,5230,243269662,46518
+51177,2020,71,Private,"10 Total, all industries",3100,28473,1330007417,46711
+51179,2020,70,Total Covered,"10 Total, all industries",2886,44216,2587336960,58516
+51179,2020,71,Federal Government,"10 Total, all industries",14,4729,577014253,122016
+51179,2020,71,State Government,"10 Total, all industries",20,482,27316894,56625
+51179,2020,71,Local Government,"10 Total, all industries",36,5921,288122098,48663
+51179,2020,71,Private,"10 Total, all industries",2816,33084,1694883715,51230
+51181,2020,70,Total Covered,"10 Total, all industries",129,2060,168605324,81851
+51181,2020,71,Federal Government,"10 Total, all industries",4,12,502064,40985
+51181,2020,71,State Government,"10 Total, all industries",10,129,6307683,49055
+51181,2020,71,Local Government,"10 Total, all industries",7,382,14105333,36901
+51181,2020,71,Private,"10 Total, all industries",108,1537,147690244,96100
+51193,2020,70,Total Covered,"10 Total, all industries",420,3191,112895750,35376
+51193,2020,71,Federal Government,"10 Total, all industries",10,55,2859498,51912
+51193,2020,71,State Government,"10 Total, all industries",12,97,2817963,29176
+51193,2020,71,Local Government,"10 Total, all industries",18,750,29252716,39004
+51193,2020,71,Private,"10 Total, all industries",381,2290,77965573,34051
+51199,2020,70,Total Covered,"10 Total, all industries",1615,19455,822885897,42297
+51199,2020,71,Federal Government,"10 Total, all industries",16,1058,68787269,65032
+51199,2020,71,State Government,"10 Total, all industries",14,165,5741881,34834
+51199,2020,71,Local Government,"10 Total, all industries",30,2839,135032215,47561
+51199,2020,71,Private,"10 Total, all industries",1555,15393,613324532,39844
+51510,2020,70,Total Covered,"10 Total, all industries",6212,83956,7076931822,84293
+51510,2020,71,Federal Government,"10 Total, all industries",33,13889,1722063182,123985
+51510,2020,71,State Government,"10 Total, all industries",21,903,42358505,46904
+51510,2020,71,Local Government,"10 Total, all industries",73,6917,521211529,75349
+51510,2020,71,Private,"10 Total, all industries",6085,62246,4791298606,76973
+51550,2020,70,Total Covered,"10 Total, all industries",6297,99315,4819109974,48523
+51550,2020,71,Federal Government,"10 Total, all industries",19,1234,77222404,62583
+51550,2020,71,State Government,"10 Total, all industries",27,1749,73297076,41912
+51550,2020,71,Local Government,"10 Total, all industries",32,12379,599947635,48466
+51550,2020,71,Private,"10 Total, all industries",6219,83954,4068642859,48463
+51650,2020,70,Total Covered,"10 Total, all industries",2871,50139,2631466469,52484
+51650,2020,71,Federal Government,"10 Total, all industries",48,7425,672884917,90622
+51650,2020,71,State Government,"10 Total, all industries",24,1140,43483029,38154
+51650,2020,71,Local Government,"10 Total, all industries",168,6465,298727290,46207
+51650,2020,71,Private,"10 Total, all industries",2632,35109,1616371233,46039
+51670,2020,70,Total Covered,"10 Total, all industries",533,7487,437791045,58470
+51670,2020,71,Federal Government,"10 Total, all industries",3,35,2087489,59928
+51670,2020,71,State Government,"10 Total, all industries",8,37,2013045,54653
+51670,2020,71,Local Government,"10 Total, all industries",20,1211,56902189,46972
+51670,2020,71,Private,"10 Total, all industries",502,6204,376788322,60730
+51700,2020,70,Total Covered,"10 Total, all industries",4029,99482,5751425151,57814
+51700,2020,71,Federal Government,"10 Total, all industries",54,5607,396834038,70771
+51700,2020,71,State Government,"10 Total, all industries",26,2014,96206499,47759
+51700,2020,71,Local Government,"10 Total, all industries",37,8472,417051823,49225
+51700,2020,71,Private,"10 Total, all industries",3912,83387,4841332791,58058
+51710,2020,70,Total Covered,"10 Total, all industries",6128,132757,8182614942,61636
+51710,2020,71,Federal Government,"10 Total, all industries",71,21164,1816308273,85822
+51710,2020,71,State Government,"10 Total, all industries",31,6010,342021267,56906
+51710,2020,71,Local Government,"10 Total, all industries",29,10830,535321804,49431
+51710,2020,71,Private,"10 Total, all industries",5997,94753,5488963598,57929
+51735,2020,70,Total Covered,"10 Total, all industries",250,1720,62008312,36062
+51735,2020,71,Federal Government,"10 Total, all industries",1,2,42740,21370
+51735,2020,71,State Government,"10 Total, all industries",1,0,0,0
+51735,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+51735,2020,71,Private,"10 Total, all industries",246,1221,41023618,33589
+51740,2020,70,Total Covered,"10 Total, all industries",1853,43216,2515381761,58205
+51740,2020,71,Federal Government,"10 Total, all industries",25,14669,1160731004,79130
+51740,2020,71,State Government,"10 Total, all industries",22,689,27582149,40018
+51740,2020,71,Local Government,"10 Total, all industries",33,4187,205901219,49172
+51740,2020,71,Private,"10 Total, all industries",1773,23670,1121167389,47366
+51800,2020,70,Total Covered,"10 Total, all industries",1890,32048,1760638385,54937
+51800,2020,71,Federal Government,"10 Total, all industries",11,1377,124173863,90161
+51800,2020,71,State Government,"10 Total, all industries",24,828,44804273,54144
+51800,2020,71,Local Government,"10 Total, all industries",40,4320,221936439,51380
+51800,2020,71,Private,"10 Total, all industries",1815,25524,1369723810,53664
+51810,2020,70,Total Covered,"10 Total, all industries",12469,167942,8126300602,48388
+51810,2020,71,Federal Government,"10 Total, all industries",44,6579,474094639,72065
+51810,2020,71,State Government,"10 Total, all industries",29,1637,60175281,36767
+51810,2020,71,Local Government,"10 Total, all industries",54,19709,934468933,47413
+51810,2020,71,Private,"10 Total, all industries",12341,140017,6657561749,47548
+51830,2020,70,Total Covered,"10 Total, all industries",529,10831,512483140,47315
+51830,2020,71,Federal Government,"10 Total, all industries",7,170,12063666,70963
+51830,2020,71,State Government,"10 Total, all industries",25,0,0,0
+51830,2020,71,Local Government,"10 Total, all industries",21,0,0,0
+51830,2020,71,Private,"10 Total, all industries",477,7597,307883276,40525
+53009,2020,70,Total Covered,"10 Total, all industries",2530,22345,1017506387,45536
+53009,2020,71,Federal Government,"10 Total, all industries",31,501,34418026,68756
+53009,2020,71,State Government,"10 Total, all industries",30,1055,66190427,62755
+53009,2020,71,Local Government,"10 Total, all industries",73,6057,360588736,59534
+53009,2020,71,Private,"10 Total, all industries",2397,14733,556309198,37760
+53027,2020,70,Total Covered,"10 Total, all industries",2408,21758,1010656645,46450
+53027,2020,71,Federal Government,"10 Total, all industries",31,186,9753373,52391
+53027,2020,71,State Government,"10 Total, all industries",28,1180,72710154,61606
+53027,2020,71,Local Government,"10 Total, all industries",71,4765,274075413,57514
+53027,2020,71,Private,"10 Total, all industries",2278,15626,654117705,41860
+53029,2020,70,Total Covered,"10 Total, all industries",2157,16243,751043885,46238
+53029,2020,71,Federal Government,"10 Total, all industries",21,1317,80419210,61055
+53029,2020,71,State Government,"10 Total, all industries",17,227,10974980,48330
+53029,2020,71,Local Government,"10 Total, all industries",29,2967,181115609,61054
+53029,2020,71,Private,"10 Total, all industries",2090,11732,478534086,40788
+53031,2020,70,Total Covered,"10 Total, all industries",1150,8642,393559943,45540
+53031,2020,71,Federal Government,"10 Total, all industries",13,428,17825609,41608
+53031,2020,71,State Government,"10 Total, all industries",23,253,15345663,60775
+53031,2020,71,Local Government,"10 Total, all industries",21,2034,129714347,63776
+53031,2020,71,Private,"10 Total, all industries",1093,5927,230674324,38918
+53033,2020,70,Total Covered,"10 Total, all industries",92292,1350371,142422324537,105469
+53033,2020,71,Federal Government,"10 Total, all industries",200,19691,1847390740,93819
+53033,2020,71,State Government,"10 Total, all industries",76,49415,3923446985,79398
+53033,2020,71,Local Government,"10 Total, all industries",360,100298,8244812226,82203
+53033,2020,71,Private,"10 Total, all industries",91656,1180968,128406674586,108730
+53035,2020,70,Total Covered,"10 Total, all industries",7174,87249,5274872265,60458
+53035,2020,71,Federal Government,"10 Total, all industries",63,20639,1761596220,85352
+53035,2020,71,State Government,"10 Total, all industries",37,1832,104241975,56898
+53035,2020,71,Local Government,"10 Total, all industries",56,10630,675034646,63502
+53035,2020,71,Private,"10 Total, all industries",7018,54147,2733999424,50492
+53045,2020,70,Total Covered,"10 Total, all industries",1464,13810,648922032,46988
+53045,2020,71,Federal Government,"10 Total, all industries",13,104,5016964,48317
+53045,2020,71,State Government,"10 Total, all industries",31,1104,74920661,67858
+53045,2020,71,Local Government,"10 Total, all industries",49,4316,250231268,57980
+53045,2020,71,Private,"10 Total, all industries",1371,8287,318753139,38466
+53049,2020,70,Total Covered,"10 Total, all industries",816,5970,245489330,41124
+53049,2020,71,Federal Government,"10 Total, all industries",17,66,3068303,46314
+53049,2020,71,State Government,"10 Total, all industries",17,164,8904146,54321
+53049,2020,71,Local Government,"10 Total, all industries",35,1488,85386549,57371
+53049,2020,71,Private,"10 Total, all industries",747,4251,148130332,34846
+53053,2020,70,Total Covered,"10 Total, all industries",24295,302069,17511748412,57973
+53053,2020,71,Federal Government,"10 Total, all industries",106,11703,907546014,77551
+53053,2020,71,State Government,"10 Total, all industries",66,10655,703425020,66016
+53053,2020,71,Local Government,"10 Total, all industries",97,34203,2484879492,72652
+53053,2020,71,Private,"10 Total, all industries",24026,245508,13415897886,54645
+53055,2020,70,Total Covered,"10 Total, all industries",1030,5280,228563053,43291
+53055,2020,71,Federal Government,"10 Total, all industries",12,62,3723877,60306
+53055,2020,71,State Government,"10 Total, all industries",9,82,3470403,42365
+53055,2020,71,Local Government,"10 Total, all industries",24,652,38181304,58568
+53055,2020,71,Private,"10 Total, all industries",985,4484,183187469,40853
+53057,2020,70,Total Covered,"10 Total, all industries",4192,48902,2647583066,54141
+53057,2020,71,Federal Government,"10 Total, all industries",29,407,28061887,68906
+53057,2020,71,State Government,"10 Total, all industries",27,1220,69117541,56642
+53057,2020,71,Local Government,"10 Total, all industries",78,9228,577102606,62539
+53057,2020,71,Private,"10 Total, all industries",4059,38046,1973301032,51866
+53061,2020,70,Total Covered,"10 Total, all industries",22502,274178,18361143908,66968
+53061,2020,71,Federal Government,"10 Total, all industries",59,2257,167177731,74087
+53061,2020,71,State Government,"10 Total, all industries",44,4883,309914819,63475
+53061,2020,71,Local Government,"10 Total, all industries",144,30417,2243727807,73765
+53061,2020,71,Private,"10 Total, all industries",22256,236622,15640323551,66098
+53067,2020,70,Total Covered,"10 Total, all industries",9016,113127,6610764934,58437
+53067,2020,71,Federal Government,"10 Total, all industries",42,846,72038481,85127
+53067,2020,71,State Government,"10 Total, all industries",108,25534,1858084543,72770
+53067,2020,71,Local Government,"10 Total, all industries",55,11796,734190792,62241
+53067,2020,71,Private,"10 Total, all industries",8812,74951,3946451118,52654
+53069,2020,70,Total Covered,"10 Total, all industries",137,768,29760964,38760
+53069,2020,71,Federal Government,"10 Total, all industries",5,30,864835,28669
+53069,2020,71,State Government,"10 Total, all industries",7,0,0,0
+53069,2020,71,Local Government,"10 Total, all industries",9,0,0,0
+53069,2020,71,Private,"10 Total, all industries",116,489,17688833,36198
+53073,2020,70,Total Covered,"10 Total, all industries",7697,85254,4549864940,53369
+53073,2020,71,Federal Government,"10 Total, all industries",43,1508,148285257,98332
+53073,2020,71,State Government,"10 Total, all industries",32,3011,229701926,76281
+53073,2020,71,Local Government,"10 Total, all industries",89,9530,553915158,58126
+53073,2020,71,Private,"10 Total, all industries",7534,71205,3617962599,50811
+55003,2020,70,Total Covered,"10 Total, all industries",602,7451,322699042,43309
+55003,2020,71,Federal Government,"10 Total, all industries",20,152,9819234,64494
+55003,2020,71,State Government,"10 Total, all industries",9,69,3256038,47075
+55003,2020,71,Local Government,"10 Total, all industries",55,1416,55601231,39255
+55003,2020,71,Private,"10 Total, all industries",518,5813,254022539,43697
+55007,2020,70,Total Covered,"10 Total, all industries",529,3812,132434643,34738
+55007,2020,71,Federal Government,"10 Total, all industries",14,126,6877120,54508
+55007,2020,71,State Government,"10 Total, all industries",3,0,0,0
+55007,2020,71,Local Government,"10 Total, all industries",81,0,0,0
+55007,2020,71,Private,"10 Total, all industries",432,2298,78566376,34183
+55009,2020,70,Total Covered,"10 Total, all industries",7278,150154,8284862798,55176
+55009,2020,71,Federal Government,"10 Total, all industries",31,1294,89540891,69175
+55009,2020,71,State Government,"10 Total, all industries",17,1627,102050331,62736
+55009,2020,71,Local Government,"10 Total, all industries",187,12954,643992950,49713
+55009,2020,71,Private,"10 Total, all industries",7043,134279,7449278626,55476
+55029,2020,70,Total Covered,"10 Total, all industries",1332,12749,498179048,39076
+55029,2020,71,Federal Government,"10 Total, all industries",13,80,3597563,45016
+55029,2020,71,State Government,"10 Total, all industries",7,58,2520030,43386
+55029,2020,71,Local Government,"10 Total, all industries",42,1549,62824222,40554
+55029,2020,71,Private,"10 Total, all industries",1270,11062,429237233,38804
+55031,2020,70,Total Covered,"10 Total, all industries",1164,14976,673161816,44949
+55031,2020,71,Federal Government,"10 Total, all industries",14,174,10609426,61003
+55031,2020,71,State Government,"10 Total, all industries",9,580,30866428,53256
+55031,2020,71,Local Government,"10 Total, all industries",50,1911,86841143,45445
+55031,2020,71,Private,"10 Total, all industries",1091,12312,544844819,44254
+55051,2020,70,Total Covered,"10 Total, all industries",232,1547,53866578,34828
+55051,2020,71,Federal Government,"10 Total, all industries",6,23,734343,32044
+55051,2020,71,State Government,"10 Total, all industries",3,14,612018,45335
+55051,2020,71,Local Government,"10 Total, all industries",18,293,12635266,43063
+55051,2020,71,Private,"10 Total, all industries",205,1217,39884951,32778
+55059,2020,70,Total Covered,"10 Total, all industries",3792,65801,3168574322,48154
+55059,2020,71,Federal Government,"10 Total, all industries",19,283,17935918,63340
+55059,2020,71,State Government,"10 Total, all industries",8,704,40778827,57959
+55059,2020,71,Local Government,"10 Total, all industries",67,7395,386330287,52243
+55059,2020,71,Private,"10 Total, all industries",3698,57419,2723529290,47433
+55061,2020,70,Total Covered,"10 Total, all industries",546,6411,271211353,42302
+55061,2020,71,Federal Government,"10 Total, all industries",8,72,3943232,55022
+55061,2020,71,State Government,"10 Total, all industries",5,10,377550,39057
+55061,2020,71,Local Government,"10 Total, all industries",46,1050,39567745,37678
+55061,2020,71,Private,"10 Total, all industries",487,5280,227322826,43055
+55071,2020,70,Total Covered,"10 Total, all industries",1886,31802,1458672725,45868
+55071,2020,71,Federal Government,"10 Total, all industries",21,196,12189157,62322
+55071,2020,71,State Government,"10 Total, all industries",8,94,3810994,40651
+55071,2020,71,Local Government,"10 Total, all industries",63,3204,153994304,48067
+55071,2020,71,Private,"10 Total, all industries",1794,28308,1288678270,45523
+55075,2020,70,Total Covered,"10 Total, all industries",1220,17594,779320519,44296
+55075,2020,71,Federal Government,"10 Total, all industries",16,185,11302225,61121
+55075,2020,71,State Government,"10 Total, all industries",8,98,4144920,42116
+55075,2020,71,Local Government,"10 Total, all industries",62,1759,68822420,39137
+55075,2020,71,Private,"10 Total, all industries",1134,15552,695050954,44693
+55079,2020,70,Total Covered,"10 Total, all industries",27496,450994,26696011927,59194
+55079,2020,71,Federal Government,"10 Total, all industries",77,9535,735024697,77084
+55079,2020,71,State Government,"10 Total, all industries",19,6047,380922166,62995
+55079,2020,71,Local Government,"10 Total, all industries",339,35286,2014281241,57084
+55079,2020,71,Private,"10 Total, all industries",27062,400125,23565783823,58896
+55083,2020,70,Total Covered,"10 Total, all industries",819,8442,325336625,38536
+55083,2020,71,Federal Government,"10 Total, all industries",14,99,4703741,47593
+55083,2020,71,State Government,"10 Total, all industries",4,19,1070403,57343
+55083,2020,71,Local Government,"10 Total, all industries",60,1566,60377510,38553
+55083,2020,71,Private,"10 Total, all industries",740,6759,259184971,38348
+55089,2020,70,Total Covered,"10 Total, all industries",3042,39843,2058031187,51654
+55089,2020,71,Federal Government,"10 Total, all industries",9,164,9368905,57186
+55089,2020,71,State Government,"10 Total, all industries",5,21,1062818,51427
+55089,2020,71,Local Government,"10 Total, all industries",42,3247,161745428,49821
+55089,2020,71,Private,"10 Total, all industries",2985,36412,1885854036,51792
+55101,2020,70,Total Covered,"10 Total, all industries",4752,70822,3744672951,52874
+55101,2020,71,Federal Government,"10 Total, all industries",20,378,22703318,59996
+55101,2020,71,State Government,"10 Total, all industries",10,1601,91787208,57343
+55101,2020,71,Local Government,"10 Total, all industries",90,6803,379381215,55768
+55101,2020,71,Private,"10 Total, all industries",4632,62040,3250801210,52398
+55117,2020,70,Total Covered,"10 Total, all industries",2852,57983,3112061306,53672
+55117,2020,71,Federal Government,"10 Total, all industries",19,205,11377704,55569
+55117,2020,71,State Government,"10 Total, all industries",10,474,26472958,55870
+55117,2020,71,Local Government,"10 Total, all industries",121,4690,213827163,45591
+55117,2020,71,Private,"10 Total, all industries",2702,52614,2860383481,54365
+72003,2020,70,Total Covered,"10 Total, all industries",519,4025,79607051,19779
+72003,2020,71,Federal Government,"10 Total, all industries",3,113,9580615,84659
+72003,2020,71,State Government,"10 Total, all industries",11,647,18342282,28346
+72003,2020,71,Local Government,"10 Total, all industries",9,488,7866725,16126
+72003,2020,71,Private,"10 Total, all industries",497,2777,43817429,15780
+72005,2020,70,Total Covered,"10 Total, all industries",869,17668,580873177,32877
+72005,2020,71,Federal Government,"10 Total, all industries",13,942,73144462,77648
+72005,2020,71,State Government,"10 Total, all industries",33,0,0,0
+72005,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72005,2020,71,Private,"10 Total, all industries",822,12588,382960687,30423
+72011,2020,70,Total Covered,"10 Total, all industries",264,4734,143736153,30364
+72011,2020,71,Federal Government,"10 Total, all industries",2,40,1394603,34649
+72011,2020,71,State Government,"10 Total, all industries",12,0,0,0
+72011,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72011,2020,71,Private,"10 Total, all industries",249,3931,126766092,32252
+72013,2020,70,Total Covered,"10 Total, all industries",1072,19873,526079142,26472
+72013,2020,71,Federal Government,"10 Total, all industries",7,185,10444655,56458
+72013,2020,71,State Government,"10 Total, all industries",42,0,0,0
+72013,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72013,2020,71,Private,"10 Total, all industries",1021,13181,317671066,24100
+72015,2020,70,Total Covered,"10 Total, all industries",100,2446,68639425,28065
+72015,2020,71,Federal Government,"10 Total, all industries",2,31,894618,28704
+72015,2020,71,State Government,"10 Total, all industries",8,0,0,0
+72015,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72015,2020,71,Private,"10 Total, all industries",88,1747,53778501,30780
+72017,2020,70,Total Covered,"10 Total, all industries",265,9561,307165432,32128
+72017,2020,71,Federal Government,"10 Total, all industries",2,29,1150087,39432
+72017,2020,71,State Government,"10 Total, all industries",12,0,0,0
+72017,2020,71,Local Government,"10 Total, all industries",4,0,0,0
+72017,2020,71,Private,"10 Total, all industries",247,7744,266309903,34388
+72021,2020,70,Total Covered,"10 Total, all industries",2874,50231,1349560878,26867
+72021,2020,71,Federal Government,"10 Total, all industries",10,1273,79030256,62098
+72021,2020,71,State Government,"10 Total, all industries",28,0,0,0
+72021,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72021,2020,71,Private,"10 Total, all industries",2834,39403,999029943,25354
+72023,2020,70,Total Covered,"10 Total, all industries",551,5432,94434309,17385
+72023,2020,71,Federal Government,"10 Total, all industries",3,62,2298698,37226
+72023,2020,71,State Government,"10 Total, all industries",13,0,0,0
+72023,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72023,2020,71,Private,"10 Total, all industries",533,4279,67925446,15874
+72027,2020,70,Total Covered,"10 Total, all industries",336,3605,70016466,19425
+72027,2020,71,Federal Government,"10 Total, all industries",2,30,1026372,33836
+72027,2020,71,State Government,"10 Total, all industries",13,0,0,0
+72027,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72027,2020,71,Private,"10 Total, all industries",320,2516,43456580,17270
+72031,2020,70,Total Covered,"10 Total, all industries",1930,41165,1132885167,27520
+72031,2020,71,Federal Government,"10 Total, all industries",7,649,45389577,69965
+72031,2020,71,State Government,"10 Total, all industries",27,0,0,0
+72031,2020,71,Local Government,"10 Total, all industries",7,0,0,0
+72031,2020,71,Private,"10 Total, all industries",1889,35057,926638707,26433
+72033,2020,70,Total Covered,"10 Total, all industries",303,10081,328260914,32561
+72033,2020,71,Federal Government,"10 Total, all industries",3,244,17442217,71509
+72033,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72033,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72033,2020,71,Private,"10 Total, all industries",289,8751,284741042,32537
+72037,2020,70,Total Covered,"10 Total, all industries",97,1299,29047166,22361
+72037,2020,71,Federal Government,"10 Total, all industries",4,43,1818824,41892
+72037,2020,71,State Government,"10 Total, all industries",10,0,0,0
+72037,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72037,2020,71,Private,"10 Total, all industries",82,704,15479311,21975
+72049,2020,70,Total Covered,"10 Total, all industries",53,382,7727764,20221
+72049,2020,71,Federal Government,"10 Total, all industries",3,8,458058,57860
+72049,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72049,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72049,2020,71,Private,"10 Total, all industries",38,0,0,0
+72051,2020,70,Total Covered,"10 Total, all industries",574,8661,249646121,28824
+72051,2020,71,Federal Government,"10 Total, all industries",2,39,2027680,51881
+72051,2020,71,State Government,"10 Total, all industries",12,0,0,0
+72051,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72051,2020,71,Private,"10 Total, all industries",558,7462,221165789,29640
+72053,2020,70,Total Covered,"10 Total, all industries",499,8527,232786135,27301
+72053,2020,71,Federal Government,"10 Total, all industries",5,80,6131278,76962
+72053,2020,71,State Government,"10 Total, all industries",20,0,0,0
+72053,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72053,2020,71,Private,"10 Total, all industries",473,6160,156845643,25463
+72055,2020,70,Total Covered,"10 Total, all industries",107,2339,40199969,17190
+72055,2020,71,Federal Government,"10 Total, all industries",3,23,903961,38741
+72055,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72055,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72055,2020,71,Private,"10 Total, all industries",92,1696,26353206,15537
+72057,2020,70,Total Covered,"10 Total, all industries",451,9745,259535656,26632
+72057,2020,71,Federal Government,"10 Total, all industries",3,82,4105300,50014
+72057,2020,71,State Government,"10 Total, all industries",28,0,0,0
+72057,2020,71,Local Government,"10 Total, all industries",3,0,0,0
+72057,2020,71,Private,"10 Total, all industries",417,6386,163741459,25643
+72059,2020,70,Total Covered,"10 Total, all industries",121,2236,52061248,23282
+72059,2020,71,Federal Government,"10 Total, all industries",2,18,730531,40029
+72059,2020,71,State Government,"10 Total, all industries",13,0,0,0
+72059,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72059,2020,71,Private,"10 Total, all industries",105,1295,23926277,18472
+72061,2020,70,Total Covered,"10 Total, all industries",2466,49890,1834697758,36775
+72061,2020,71,Federal Government,"10 Total, all industries",15,491,36160639,73609
+72061,2020,71,State Government,"10 Total, all industries",19,0,0,0
+72061,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72061,2020,71,Private,"10 Total, all industries",2432,46133,1725282308,37398
+72065,2020,70,Total Covered,"10 Total, all industries",556,8351,173411151,20765
+72065,2020,71,Federal Government,"10 Total, all industries",2,37,1279213,34265
+72065,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72065,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72065,2020,71,Private,"10 Total, all industries",542,7217,146189732,20256
+72069,2020,70,Total Covered,"10 Total, all industries",741,14677,419558571,28585
+72069,2020,71,Federal Government,"10 Total, all industries",3,70,2673178,38417
+72069,2020,71,State Government,"10 Total, all industries",34,0,0,0
+72069,2020,71,Local Government,"10 Total, all industries",4,0,0,0
+72069,2020,71,Private,"10 Total, all industries",700,10463,297657880,28449
+72071,2020,70,Total Covered,"10 Total, all industries",454,5530,129907362,23491
+72071,2020,71,Federal Government,"10 Total, all industries",3,63,2770440,44268
+72071,2020,71,State Government,"10 Total, all industries",13,0,0,0
+72071,2020,71,Local Government,"10 Total, all industries",3,0,0,0
+72071,2020,71,Private,"10 Total, all industries",435,4193,97646437,23289
+72075,2020,70,Total Covered,"10 Total, all industries",310,6215,169140877,27213
+72075,2020,71,Federal Government,"10 Total, all industries",3,135,5313174,39454
+72075,2020,71,State Government,"10 Total, all industries",16,0,0,0
+72075,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72075,2020,71,Private,"10 Total, all industries",290,4993,136109935,27260
+72079,2020,70,Total Covered,"10 Total, all industries",223,3131,56358818,17999
+72079,2020,71,Federal Government,"10 Total, all industries",2,24,934250,39755
+72079,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72079,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72079,2020,71,Private,"10 Total, all industries",208,2345,37672346,16062
+72087,2020,70,Total Covered,"10 Total, all industries",96,1573,35505157,22574
+72087,2020,71,Federal Government,"10 Total, all industries",2,18,489228,27823
+72087,2020,71,State Government,"10 Total, all industries",8,0,0,0
+72087,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72087,2020,71,Private,"10 Total, all industries",85,817,18627290,22800
+72089,2020,70,Total Covered,"10 Total, all industries",144,1844,40224371,21817
+72089,2020,71,Federal Government,"10 Total, all industries",2,23,926758,40004
+72089,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72089,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72089,2020,71,Private,"10 Total, all industries",129,1316,27581012,20966
+72091,2020,70,Total Covered,"10 Total, all industries",613,13124,420822237,32065
+72091,2020,71,Federal Government,"10 Total, all industries",4,90,3847819,42833
+72091,2020,71,State Government,"10 Total, all industries",22,0,0,0
+72091,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72091,2020,71,Private,"10 Total, all industries",586,10920,364212986,33352
+72095,2020,70,Total Covered,"10 Total, all industries",57,1219,36665543,30076
+72095,2020,71,Federal Government,"10 Total, all industries",3,446,23295399,52290
+72095,2020,71,State Government,"10 Total, all industries",8,0,0,0
+72095,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72095,2020,71,Private,"10 Total, all industries",44,229,4036625,17634
+72097,2020,70,Total Covered,"10 Total, all industries",1503,27584,704483067,25539
+72097,2020,71,Federal Government,"10 Total, all industries",11,615,31841273,51760
+72097,2020,71,State Government,"10 Total, all industries",47,0,0,0
+72097,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72097,2020,71,Private,"10 Total, all industries",1443,19995,448455734,22429
+72103,2020,70,Total Covered,"10 Total, all industries",167,2173,46028270,21183
+72103,2020,71,Federal Government,"10 Total, all industries",3,30,1183176,39660
+72103,2020,71,State Government,"10 Total, all industries",10,0,0,0
+72103,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72103,2020,71,Private,"10 Total, all industries",152,1603,31447070,19619
+72109,2020,70,Total Covered,"10 Total, all industries",105,1401,34881323,24902
+72109,2020,71,Federal Government,"10 Total, all industries",2,22,694430,32299
+72109,2020,71,State Government,"10 Total, all industries",12,0,0,0
+72109,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72109,2020,71,Private,"10 Total, all industries",91,761,20612798,27095
+72111,2020,70,Total Covered,"10 Total, all industries",164,2365,54704496,23127
+72111,2020,71,Federal Government,"10 Total, all industries",2,14,661370,48393
+72111,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72111,2020,71,Local Government,"10 Total, all industries",4,0,0,0
+72111,2020,71,Private,"10 Total, all industries",148,1304,32057206,24590
+72113,2020,70,Total Covered,"10 Total, all industries",2163,42790,1084668751,25348
+72113,2020,71,Federal Government,"10 Total, all industries",14,390,35183866,90196
+72113,2020,71,State Government,"10 Total, all industries",46,0,0,0
+72113,2020,71,Local Government,"10 Total, all industries",4,0,0,0
+72113,2020,71,Private,"10 Total, all industries",2099,32647,771293612,23625
+72115,2020,70,Total Covered,"10 Total, all industries",224,2093,40981554,19578
+72115,2020,71,Federal Government,"10 Total, all industries",2,21,949320,45386
+72115,2020,71,State Government,"10 Total, all industries",13,0,0,0
+72115,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72115,2020,71,Private,"10 Total, all industries",209,1394,21600662,15493
+72117,2020,70,Total Covered,"10 Total, all industries",192,1759,36561198,20788
+72117,2020,71,Federal Government,"10 Total, all industries",2,21,722915,34980
+72117,2020,71,State Government,"10 Total, all industries",8,0,0,0
+72117,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72117,2020,71,Private,"10 Total, all industries",180,1132,21481753,18970
+72119,2020,70,Total Covered,"10 Total, all industries",335,4595,109044805,23729
+72119,2020,71,Federal Government,"10 Total, all industries",3,55,2064410,37478
+72119,2020,71,State Government,"10 Total, all industries",12,0,0,0
+72119,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72119,2020,71,Private,"10 Total, all industries",318,3402,78382486,23041
+72123,2020,70,Total Covered,"10 Total, all industries",205,3261,87567855,26856
+72123,2020,71,Federal Government,"10 Total, all industries",4,175,7626340,43579
+72123,2020,71,State Government,"10 Total, all industries",14,0,0,0
+72123,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72123,2020,71,Private,"10 Total, all industries",186,1955,43976263,22493
+72127,2020,70,Total Covered,"10 Total, all industries",10879,225853,8121072410,35957
+72127,2020,71,Federal Government,"10 Total, all industries",71,10952,828630035,75659
+72127,2020,71,State Government,"10 Total, all industries",189,0,0,0
+72127,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72127,2020,71,Private,"10 Total, all industries",10618,165454,5445386697,32912
+72133,2020,70,Total Covered,"10 Total, all industries",216,6097,135885759,22287
+72133,2020,71,Federal Government,"10 Total, all industries",2,26,955908,36648
+72133,2020,71,State Government,"10 Total, all industries",9,0,0,0
+72133,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72133,2020,71,Private,"10 Total, all industries",204,5400,117002006,21668
+72137,2020,70,Total Covered,"10 Total, all industries",686,12198,305528977,25047
+72137,2020,71,Federal Government,"10 Total, all industries",5,109,5441437,50036
+72137,2020,71,State Government,"10 Total, all industries",15,0,0,0
+72137,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72137,2020,71,Private,"10 Total, all industries",665,10313,254865388,24713
+72143,2020,70,Total Covered,"10 Total, all industries",317,4227,105025736,24849
+72143,2020,71,Federal Government,"10 Total, all industries",2,37,1356651,36502
+72143,2020,71,State Government,"10 Total, all industries",11,0,0,0
+72143,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72143,2020,71,Private,"10 Total, all industries",303,3293,81853966,24855
+72145,2020,70,Total Covered,"10 Total, all industries",465,7556,203924964,26988
+72145,2020,71,Federal Government,"10 Total, all industries",3,85,3391828,39865
+72145,2020,71,State Government,"10 Total, all industries",14,0,0,0
+72145,2020,71,Local Government,"10 Total, all industries",2,0,0,0
+72145,2020,71,Private,"10 Total, all industries",446,5968,162794100,27277
+72147,2020,70,Total Covered,"10 Total, all industries",123,1272,28037535,22045
+72147,2020,71,Federal Government,"10 Total, all industries",4,14,870549,61451
+72147,2020,71,State Government,"10 Total, all industries",14,0,0,0
+72147,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72147,2020,71,Private,"10 Total, all industries",104,630,13849449,21989
+72151,2020,70,Total Covered,"10 Total, all industries",204,2617,53431741,20414
+72151,2020,71,Federal Government,"10 Total, all industries",2,29,1072963,36893
+72151,2020,71,State Government,"10 Total, all industries",12,0,0,0
+72151,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72151,2020,71,Private,"10 Total, all industries",189,1332,25799135,19369
+72153,2020,70,Total Covered,"10 Total, all industries",410,5440,117866935,21666
+72153,2020,71,Federal Government,"10 Total, all industries",3,44,1716699,38942
+72153,2020,71,State Government,"10 Total, all industries",13,0,0,0
+72153,2020,71,Local Government,"10 Total, all industries",1,0,0,0
+72153,2020,71,Private,"10 Total, all industries",393,3830,78268382,20436
+78010,2020,70,Total Covered,"10 Total, all industries",1344,17106,1061638418,62064
+78010,2020,71,Federal Government,"10 Total, all industries",21,296,25672923,86855
+78010,2020,71,State Government,"10 Total, all industries",45,4462,247496612,55465
+78010,2020,71,Private,"10 Total, all industries",1278,12348,788468883,63855
+78020,2020,70,Total Covered,"10 Total, all industries",304,1498,58622597,39134
+78020,2020,71,Federal Government,"10 Total, all industries",4,49,3841048,78522
+78020,2020,71,State Government,"10 Total, all industries",1,0,0,0
+78020,2020,71,Private,"10 Total, all industries",299,0,0,0
+78030,2020,70,Total Covered,"10 Total, all industries",1886,17865,830538439,46489
+78030,2020,71,Federal Government,"10 Total, all industries",27,581,50954261,87714
+78030,2020,71,State Government,"10 Total, all industries",52,0,0,0
+78030,2020,71,Private,"10 Total, all industries",1806,0,0,0

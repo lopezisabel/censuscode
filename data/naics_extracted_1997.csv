@@ -1,0 +1,1961 @@
+area_fips,year,agglvl_code,own_title,industry_title,annual_avg_estabs_count,annual_avg_emplvl,total_annual_wages,avg_annual_pay
+01003,1997,70,Total Covered,"Total, all industries",3624,42617,857469698,20121
+01003,1997,71,Federal Government,"Total, all industries",36,263,9096139,34586
+01003,1997,71,State Government,"Total, all industries",30,1036,23942950,23120
+01003,1997,71,Local Government,"Total, all industries",88,5966,143162854,23997
+01003,1997,71,Private,"Total, all industries",3470,35352,681267755,19271
+01097,1997,70,Total Covered,"Total, all industries",9661,168678,4507283546,26721
+01097,1997,71,Federal Government,"Total, all industries",58,2589,115521499,44629
+01097,1997,71,State Government,"Total, all industries",66,8416,264594970,31441
+01097,1997,71,Local Government,"Total, all industries",51,14388,347848850,24177
+01097,1997,71,Private,"Total, all industries",9486,143287,3779318227,26376
+02013,1997,70,Total Covered,"Total, all industries",88,1650,44678758,27086
+02013,1997,71,Federal Government,"Total, all industries",5,20,780841,38560
+02013,1997,71,Private,"Total, all industries",65,1406,37814131,26888
+02016,1997,70,Total Covered,"Total, all industries",168,3411,104815788,30733
+02016,1997,71,Federal Government,"Total, all industries",11,83,1649017,19828
+02016,1997,71,State Government,"Total, all industries",13,30,1240237,40887
+02016,1997,71,Local Government,"Total, all industries",6,377,14469768,38339
+02016,1997,71,Private,"Total, all industries",139,2920,87456766,29954
+02020,1997,70,Total Covered,"Total, all industries",7007,121898,4243221490,34810
+02020,1997,71,Federal Government,"Total, all industries",83,9955,460548793,46265
+02020,1997,71,Private,"Total, all industries",6874,95486,3109011391,32560
+02050,1997,70,Total Covered,"Total, all industries",319,5470,138470600,25314
+02050,1997,71,Federal Government,"Total, all industries",15,132,4723853,35877
+02050,1997,71,State Government,"Total, all industries",30,305,14342988,47103
+02050,1997,71,Local Government,"Total, all industries",39,1659,43255007,26068
+02050,1997,71,Private,"Total, all industries",236,3375,76148752,22565
+02060,1997,70,Total Covered,"Total, all industries",97,1086,33799533,31123
+02060,1997,71,Federal Government,"Total, all industries",8,51,2686957,52514
+02060,1997,71,Private,"Total, all industries",76,700,19857866,28372
+02070,1997,70,Total Covered,"Total, all industries",152,2189,59901043,27369
+02070,1997,71,Federal Government,"Total, all industries",8,52,1813281,35039
+02070,1997,71,State Government,"Total, all industries",18,65,2636735,40461
+02070,1997,71,Local Government,"Total, all industries",14,387,12736814,32905
+02070,1997,71,Private,"Total, all industries",112,1685,42714213,25355
+02100,1997,70,Total Covered,"Total, all industries",129,875,22583117,25804
+02100,1997,71,Federal Government,"Total, all industries",4,12,656038,54670
+02100,1997,71,State Government,"Total, all industries",8,33,1328135,40554
+02100,1997,71,Local Government,"Total, all industries",3,125,3682440,29381
+02100,1997,71,Private,"Total, all industries",115,705,16916504,23992
+02110,1997,70,Total Covered,"Total, all industries",1048,16165,511283400,31628
+02110,1997,71,Federal Government,"Total, all industries",26,868,46378501,53442
+02110,1997,71,State Government,"Total, all industries",25,4044,156548315,38711
+02110,1997,71,Local Government,"Total, all industries",4,1615,60875541,37690
+02110,1997,71,Private,"Total, all industries",993,9638,247481043,25677
+02122,1997,70,Total Covered,"Total, all industries",1649,16012,488664067,30519
+02122,1997,71,Federal Government,"Total, all industries",35,415,19286978,46447
+02122,1997,71,State Government,"Total, all industries",70,994,37313745,37552
+02122,1997,71,Local Government,"Total, all industries",14,2600,90887259,34952
+02122,1997,71,Private,"Total, all industries",1530,12002,341176085,28426
+02130,1997,70,Total Covered,"Total, all industries",596,7180,234741272,32692
+02130,1997,71,Federal Government,"Total, all industries",15,308,14010914,45539
+02130,1997,71,State Government,"Total, all industries",18,589,21356885,36280
+02130,1997,71,Local Government,"Total, all industries",7,884,30092675,34032
+02130,1997,71,Private,"Total, all industries",557,5400,169280798,31350
+02150,1997,70,Total Covered,"Total, all industries",478,6108,159183826,26062
+02150,1997,71,Federal Government,"Total, all industries",12,172,7886623,45897
+02150,1997,71,State Government,"Total, all industries",19,249,9451995,37998
+02150,1997,71,Local Government,"Total, all industries",10,690,21915855,31777
+02150,1997,71,Private,"Total, all industries",437,4998,119929353,23997
+02164,1997,70,Total Covered,"Total, all industries",106,626,12885096,20597
+02164,1997,71,Federal Government,"Total, all industries",7,47,1618384,34618
+02164,1997,71,Private,"Total, all industries",78,476,9559256,20082
+02170,1997,70,Total Covered,"Total, all industries",1099,10548,287363328,27244
+02170,1997,71,Federal Government,"Total, all industries",22,138,6079270,44000
+02170,1997,71,State Government,"Total, all industries",40,816,29310902,35920
+02170,1997,71,Local Government,"Total, all industries",5,1814,64191430,35390
+02170,1997,71,Private,"Total, all industries",1033,7780,187781726,24138
+02180,1997,70,Total Covered,"Total, all industries",270,3476,95552573,27487
+02180,1997,71,Federal Government,"Total, all industries",15,84,3307568,39259
+02180,1997,71,State Government,"Total, all industries",25,194,9508034,49095
+02180,1997,71,Local Government,"Total, all industries",28,1067,28451163,26663
+02180,1997,71,Private,"Total, all industries",202,2131,54285808,25470
+02185,1997,70,Total Covered,"Total, all industries",194,7928,465213526,58682
+02185,1997,71,Federal Government,"Total, all industries",8,38,1739907,46295
+02185,1997,71,State Government,"Total, all industries",16,50,2604380,52525
+02185,1997,71,Private,"Total, all industries",160,5788,365588243,63165
+02188,1997,70,Total Covered,"Total, all industries",138,2513,98448826,39175
+02188,1997,71,Federal Government,"Total, all industries",9,62,2004130,32195
+02188,1997,71,State Government,"Total, all industries",17,54,2814738,51726
+02188,1997,71,Local Government,"Total, all industries",21,652,20795448,31874
+02188,1997,71,Private,"Total, all industries",92,1744,72834510,41763
+02220,1997,70,Total Covered,"Total, all industries",357,3750,103399110,27572
+02220,1997,71,Federal Government,"Total, all industries",8,234,10694021,45766
+02220,1997,71,Private,"Total, all industries",327,2734,66843543,24450
+02261,1997,70,Total Covered,"Total, all industries",545,4671,169548322,36295
+02261,1997,71,Federal Government,"Total, all industries",18,140,5247115,37614
+02261,1997,71,State Government,"Total, all industries",50,369,14778811,40105
+02261,1997,71,Local Government,"Total, all industries",9,700,24080904,34409
+02261,1997,71,Private,"Total, all industries",468,3464,125441492,36218
+02270,1997,70,Total Covered,"Total, all industries",125,1763,33955164,19263
+02270,1997,71,Federal Government,"Total, all industries",11,40,1064275,26718
+02270,1997,71,State Government,"Total, all industries",17,24,593257,24380
+02270,1997,71,Local Government,"Total, all industries",22,973,21612391,22220
+02270,1997,71,Private,"Total, all industries",75,726,10685241,14720
+02282,1997,70,Total Covered,"Total, all industries",47,469,16547686,35283
+02282,1997,71,Federal Government,"Total, all industries",5,23,997970,43867
+02282,1997,71,Private,"Total, all industries",36,374,13272190,35456
+06001,1997,70,Total Covered,"Total, all industries",39571,631383,23389507775,37045
+06001,1997,71,Federal Government,"Total, all industries",100,11629,683342209,58764
+06001,1997,71,State Government,"Total, all industries",425,31101,1439451665,46283
+06001,1997,71,Local Government,"Total, all industries",153,63788,2500795511,39205
+06001,1997,71,Private,"Total, all industries",38893,524865,18765918390,35754
+06013,1997,70,Total Covered,"Total, all industries",23672,306701,11100012308,36192
+06013,1997,71,Federal Government,"Total, all industries",60,5816,297247166,51109
+06013,1997,71,State Government,"Total, all industries",31,650,19787854,30447
+06013,1997,71,Local Government,"Total, all industries",108,35885,1217441852,33926
+06013,1997,71,Private,"Total, all industries",23473,264350,9565535436,36185
+06015,1997,70,Total Covered,"Total, all industries",785,7711,163840192,21249
+06015,1997,71,Federal Government,"Total, all industries",12,143,5298608,37010
+06015,1997,71,State Government,"Total, all industries",31,1348,40485726,30036
+06015,1997,71,Local Government,"Total, all industries",25,1281,32757595,25580
+06015,1997,71,Private,"Total, all industries",718,4939,85298263,17271
+06023,1997,70,Total Covered,"Total, all industries",4822,48363,1089322399,22524
+06023,1997,71,Federal Government,"Total, all industries",50,722,26466218,36657
+06023,1997,71,State Government,"Total, all industries",243,2156,84942019,39393
+06023,1997,71,Local Government,"Total, all industries",87,6765,163785472,24211
+06023,1997,71,Private,"Total, all industries",4443,38719,814128690,21026
+06037,1997,70,Total Covered,"Total, all industries",270173,3887849,135552296167,34866
+06037,1997,71,Federal Government,"Total, all industries",338,51871,2511969757,48427
+06037,1997,71,State Government,"Total, all industries",2273,58621,2423219070,41337
+06037,1997,71,Local Government,"Total, all industries",565,412803,14499842921,35125
+06037,1997,71,Private,"Total, all industries",266997,3364555,116117264419,34512
+06041,1997,70,Total Covered,"Total, all industries",10706,103781,3656034972,35228
+06041,1997,71,Federal Government,"Total, all industries",40,973,43135948,44325
+06041,1997,71,State Government,"Total, all industries",45,2101,67350518,32060
+06041,1997,71,Local Government,"Total, all industries",82,10191,365756872,35892
+06041,1997,71,Private,"Total, all industries",10540,90516,3179791634,35130
+06045,1997,70,Total Covered,"Total, all industries",3817,32226,673678207,20905
+06045,1997,71,Federal Government,"Total, all industries",36,284,10816053,38085
+06045,1997,71,State Government,"Total, all industries",18,376,10225850,27233
+06045,1997,71,Local Government,"Total, all industries",68,5203,134106456,25773
+06045,1997,71,Private,"Total, all industries",3695,26363,518529848,19669
+06053,1997,70,Total Covered,"Total, all industries",10136,150158,3914644170,26070
+06053,1997,71,Federal Government,"Total, all industries",70,5132,209864117,40890
+06053,1997,71,State Government,"Total, all industries",165,4145,125394695,30249
+06053,1997,71,Local Government,"Total, all industries",119,17886,596244782,33336
+06053,1997,71,Private,"Total, all industries",9782,122995,2983140576,24254
+06055,1997,70,Total Covered,"Total, all industries",4143,52782,1434539238,27179
+06055,1997,71,Federal Government,"Total, all industries",17,294,11508046,39110
+06055,1997,71,State Government,"Total, all industries",179,2675,90612948,33877
+06055,1997,71,Local Government,"Total, all industries",31,5093,158345300,31093
+06055,1997,71,Private,"Total, all industries",3917,44720,1174072944,26254
+06059,1997,70,Total Covered,"Total, all industries",73892,1232394,41801511930,33919
+06059,1997,71,Federal Government,"Total, all industries",118,12097,568659664,47007
+06059,1997,71,State Government,"Total, all industries",414,15842,608158693,38389
+06059,1997,71,Local Government,"Total, all industries",230,96991,3341984250,34457
+06059,1997,71,Private,"Total, all industries",73130,1107463,37282709323,33665
+06073,1997,70,Total Covered,"Total, all industries",67170,1056663,32201564644,30475
+06073,1997,71,Federal Government,"Total, all industries",186,40723,1842338413,45240
+06073,1997,71,State Government,"Total, all industries",615,25509,1002289887,39292
+06073,1997,71,Local Government,"Total, all industries",184,114210,3668895706,32124
+06073,1997,71,Private,"Total, all industries",66186,876221,25688040638,29317
+06075,1997,70,Total Covered,"Total, all industries",37604,554574,24764336104,44655
+06075,1997,71,Federal Government,"Total, all industries",76,17252,1040026920,60284
+06075,1997,71,State Government,"Total, all industries",895,27787,1253939227,45126
+06075,1997,71,Local Government,"Total, all industries",28,39029,1793148970,45944
+06075,1997,71,Private,"Total, all industries",36606,470506,20677220987,43947
+06079,1997,70,Total Covered,"Total, all industries",7105,86440,2138848153,24744
+06079,1997,71,Federal Government,"Total, all industries",42,648,22455781,34663
+06079,1997,71,State Government,"Total, all industries",425,7772,310220455,39914
+06079,1997,71,Local Government,"Total, all industries",77,9591,283275535,29536
+06079,1997,71,Private,"Total, all industries",6562,68429,1522896382,22255
+06081,1997,70,Total Covered,"Total, all industries",21920,330092,14243861800,43151
+06081,1997,71,Federal Government,"Total, all industries",58,3554,176667611,49714
+06081,1997,71,State Government,"Total, all industries",36,645,15056246,23349
+06081,1997,71,Local Government,"Total, all industries",129,23994,908275300,37854
+06081,1997,71,Private,"Total, all industries",21698,301900,13143862643,43537
+06083,1997,70,Total Covered,"Total, all industries",11731,164603,4567987818,27751
+06083,1997,71,Federal Government,"Total, all industries",56,3178,123380996,38824
+06083,1997,71,State Government,"Total, all industries",44,6059,214193893,35351
+06083,1997,71,Local Government,"Total, all industries",114,18403,554701125,30142
+06083,1997,71,Private,"Total, all industries",11517,136964,3675711804,26837
+06085,1997,70,Total Covered,"Total, all industries",45610,928587,45291120884,48774
+06085,1997,71,Federal Government,"Total, all industries",70,12446,621714216,49954
+06085,1997,71,State Government,"Total, all industries",471,6922,265654704,38381
+06085,1997,71,Local Government,"Total, all industries",146,66451,2548777437,38356
+06085,1997,71,Private,"Total, all industries",44924,842769,41854974527,49664
+06087,1997,70,Total Covered,"Total, all industries",7522,99011,2694550179,27215
+06087,1997,71,Federal Government,"Total, all industries",25,516,21083468,40873
+06087,1997,71,State Government,"Total, all industries",34,3938,137047017,34800
+06087,1997,71,Local Government,"Total, all industries",64,10780,331594536,30759
+06087,1997,71,Private,"Total, all industries",7399,83776,2204825158,26318
+06095,1997,70,Total Covered,"Total, all industries",7598,103369,2802712541,27114
+06095,1997,71,Federal Government,"Total, all industries",35,3674,138280088,37634
+06095,1997,71,State Government,"Total, all industries",81,3598,116062733,32261
+06095,1997,71,Local Government,"Total, all industries",62,15316,482557360,31506
+06095,1997,71,Private,"Total, all industries",7421,80781,2065812360,25573
+06097,1997,70,Total Covered,"Total, all industries",14563,171128,4921443413,28759
+06097,1997,71,Federal Government,"Total, all industries",53,1595,70899416,44444
+06097,1997,71,State Government,"Total, all industries",266,4770,169355899,35505
+06097,1997,71,Local Government,"Total, all industries",118,19144,600728386,31379
+06097,1997,71,Private,"Total, all industries",14125,145619,4080459712,28021
+06111,1997,70,Total Covered,"Total, all industries",17457,257466,7843868599,30466
+06111,1997,71,Federal Government,"Total, all industries",61,9042,448612860,49614
+06111,1997,71,State Government,"Total, all industries",123,2474,80177398,32413
+06111,1997,71,Local Government,"Total, all industries",106,28991,997848417,34420
+06111,1997,71,Private,"Total, all industries",17167,216960,6317229924,29117
+09001,1997,70,Total Covered,"Total, all industries",31407,411513,20536048362,49904
+09001,1997,71,Federal Government,"Total, all industries",100,4526,198141571,43778
+09001,1997,71,State Government,"Total, all industries",113,5644,230187007,40787
+09001,1997,71,Local Government,"Total, all industries",400,30687,1243264103,40515
+09001,1997,71,Private,"Total, all industries",30794,370657,18864455681,50895
+09007,1997,70,Total Covered,"Total, all industries",4572,63962,2185595686,34170
+09007,1997,71,Federal Government,"Total, all industries",48,332,13862833,41724
+09007,1997,71,State Government,"Total, all industries",50,3460,157142911,45413
+09007,1997,71,Local Government,"Total, all industries",201,4989,172496804,34575
+09007,1997,71,Private,"Total, all industries",4273,55180,1842093138,33383
+09009,1997,70,Total Covered,"Total, all industries",21987,354915,12042627045,33931
+09009,1997,71,Federal Government,"Total, all industries",110,6730,280853039,41730
+09009,1997,71,State Government,"Total, all industries",178,10571,399613687,37805
+09009,1997,71,Local Government,"Total, all industries",423,27761,976434201,35173
+09009,1997,71,Private,"Total, all industries",21276,309853,10385726118,33518
+09011,1997,70,Total Covered,"Total, all industries",6446,119582,3953473367,33061
+09011,1997,71,Federal Government,"Total, all industries",80,2707,97824149,36144
+09011,1997,71,State Government,"Total, all industries",110,4069,149968733,36853
+09011,1997,71,Local Government,"Total, all industries",282,9198,325318840,35369
+09011,1997,71,Private,"Total, all industries",5974,103608,3380361645,32626
+10001,1997,70,Total Covered,"Total, all industries",2552,48142,1195594279,24835
+10001,1997,71,Federal Government,"Total, all industries",31,1754,59965814,34191
+10001,1997,71,State Government,"Total, all industries",38,6743,211527688,31372
+10001,1997,71,Local Government,"Total, all industries",18,4181,111925069,26772
+10001,1997,71,Private,"Total, all industries",2465,35465,812175708,22901
+10003,1997,70,Total Covered,"Total, all industries",14532,266430,9449754722,35468
+10003,1997,71,Federal Government,"Total, all industries",39,3228,144725224,44829
+10003,1997,71,State Government,"Total, all industries",37,12033,405170012,33671
+10003,1997,71,Local Government,"Total, all industries",28,12865,416205570,32353
+10003,1997,71,Private,"Total, all industries",14428,238304,8483653916,35600
+10005,1997,70,Total Covered,"Total, all industries",3810,56283,1224148718,21750
+10005,1997,71,Federal Government,"Total, all industries",28,479,17183374,35880
+10005,1997,71,State Government,"Total, all industries",9,1549,38572258,24901
+10005,1997,71,Local Government,"Total, all industries",33,3777,111936436,29634
+10005,1997,71,Private,"Total, all industries",3740,50478,1056456650,20929
+11001,1997,70,Total Covered,"Total, all industries",23403,603786,28335659423,46930
+11001,1997,71,Federal Government,"Total, all industries",242,197599,11047177297,55907
+11001,1997,71,State Government,"Total, all industries",15,37209,1504545507,40435
+11001,1997,71,Local Government,"Total, all industries",19,3541,200388563,56586
+11001,1997,71,Private,"Total, all industries",23128,365437,15583548056,42644
+12005,1997,70,Total Covered,"Total, all industries",3914,58663,1322110818,22538
+12005,1997,71,Federal Government,"Total, all industries",38,3338,133162957,39899
+12005,1997,71,State Government,"Total, all industries",68,994,25144328,25302
+12005,1997,71,Local Government,"Total, all industries",24,7263,186522509,25680
+12005,1997,71,Private,"Total, all industries",3784,47068,977281024,20763
+12009,1997,70,Total Covered,"Total, all industries",10288,168517,4862289818,28853
+12009,1997,71,Federal Government,"Total, all industries",46,5769,261508928,45333
+12009,1997,71,State Government,"Total, all industries",67,1893,47593948,25144
+12009,1997,71,Local Government,"Total, all industries",34,16640,457887736,27517
+12009,1997,71,Private,"Total, all industries",10142,144215,4095299206,28397
+12011,1997,70,Total Covered,"Total, all industries",46330,602333,17112785127,28411
+12011,1997,71,Federal Government,"Total, all industries",62,6998,305249838,43622
+12011,1997,71,State Government,"Total, all industries",106,6766,186509636,27564
+12011,1997,71,Local Government,"Total, all industries",70,63465,2138110006,33689
+12011,1997,71,Private,"Total, all industries",46092,525104,14482915647,27581
+12015,1997,70,Total Covered,"Total, all industries",2630,32362,715006588,22094
+12015,1997,71,Federal Government,"Total, all industries",6,244,8942291,36649
+12015,1997,71,State Government,"Total, all industries",36,597,15778879,26449
+12015,1997,71,Local Government,"Total, all industries",9,3900,106861713,27404
+12015,1997,71,Private,"Total, all industries",2579,27622,583423705,21122
+12017,1997,70,Total Covered,"Total, all industries",2143,24680,577405889,23396
+12017,1997,71,Federal Government,"Total, all industries",10,195,7102675,36518
+12017,1997,71,State Government,"Total, all industries",37,339,8431851,24848
+12017,1997,71,Local Government,"Total, all industries",9,3199,75997643,23757
+12017,1997,71,Private,"Total, all industries",2088,20947,485873720,23195
+12019,1997,70,Total Covered,"Total, all industries",2411,32247,684646735,21231
+12019,1997,71,Federal Government,"Total, all industries",7,331,11736912,35441
+12019,1997,71,State Government,"Total, all industries",44,351,8187788,23327
+12019,1997,71,Local Government,"Total, all industries",11,3649,108022885,29602
+12019,1997,71,Private,"Total, all industries",2349,27916,556699150,19942
+12021,1997,70,Total Covered,"Total, all industries",7846,87273,2289239159,26231
+12021,1997,71,Federal Government,"Total, all industries",17,559,22172684,39671
+12021,1997,71,State Government,"Total, all industries",46,663,15736516,23741
+12021,1997,71,Local Government,"Total, all industries",22,7311,219633418,30043
+12021,1997,71,Private,"Total, all industries",7761,78741,2031696541,25802
+12029,1997,70,Total Covered,"Total, all industries",217,2426,49368818,20353
+12029,1997,71,Federal Government,"Total, all industries",2,17,684013,40040
+12029,1997,71,State Government,"Total, all industries",24,369,9062820,24572
+12029,1997,71,Local Government,"Total, all industries",9,550,11031677,20045
+12029,1997,71,Private,"Total, all industries",182,1489,28590308,19197
+12031,1997,70,Total Covered,"Total, all industries",19159,415714,11886617225,28593
+12031,1997,71,Federal Government,"Total, all industries",76,21767,850481274,39073
+12031,1997,71,State Government,"Total, all industries",113,6500,166241796,25578
+12031,1997,71,Local Government,"Total, all industries",17,26013,832786220,32014
+12031,1997,71,Private,"Total, all industries",18953,361435,10037107935,27770
+12033,1997,70,Total Covered,"Total, all industries",6742,120834,2997386189,24806
+12033,1997,71,Federal Government,"Total, all industries",40,9242,338548964,36630
+12033,1997,71,State Government,"Total, all industries",97,4272,99814361,23365
+12033,1997,71,Local Government,"Total, all industries",18,10863,281841547,25946
+12033,1997,71,Private,"Total, all industries",6588,96456,2277181317,23608
+12035,1997,70,Total Covered,"Total, all industries",870,11054,232613296,21043
+12035,1997,71,Federal Government,"Total, all industries",3,88,3582891,40908
+12035,1997,71,State Government,"Total, all industries",28,122,3038258,24972
+12035,1997,71,Local Government,"Total, all industries",13,1739,34092761,19606
+12035,1997,71,Private,"Total, all industries",826,9106,191899386,21074
+12037,1997,70,Total Covered,"Total, all industries",339,2538,45916458,18095
+12037,1997,71,Federal Government,"Total, all industries",5,24,919426,37914
+12037,1997,71,State Government,"Total, all industries",32,184,4317882,23446
+12037,1997,71,Local Government,"Total, all industries",13,392,8862858,22600
+12037,1997,71,Private,"Total, all industries",289,1937,31816292,16426
+12045,1997,70,Total Covered,"Total, all industries",272,3474,92520868,26630
+12045,1997,71,Federal Government,"Total, all industries",2,15,633104,42681
+12045,1997,71,State Government,"Total, all industries",28,416,9577177,23017
+12045,1997,71,Local Government,"Total, all industries",9,590,12857650,21786
+12045,1997,71,Private,"Total, all industries",233,2453,69452937,28311
+12053,1997,70,Total Covered,"Total, all industries",2121,26030,565458980,21723
+12053,1997,71,Federal Government,"Total, all industries",9,280,9225613,32998
+12053,1997,71,State Government,"Total, all industries",40,498,12284833,24681
+12053,1997,71,Local Government,"Total, all industries",13,3973,104913309,26409
+12053,1997,71,Private,"Total, all industries",2061,21280,439035225,20631
+12057,1997,70,Total Covered,"Total, all industries",24944,530587,14561247194,27444
+12057,1997,71,Federal Government,"Total, all industries",69,11115,455734155,41000
+12057,1997,71,State Government,"Total, all industries",126,14023,367562338,26212
+12057,1997,71,Local Government,"Total, all industries",26,41689,1165938486,27968
+12057,1997,71,Private,"Total, all industries",24723,463760,12572012215,27109
+12061,1997,70,Total Covered,"Total, all industries",3432,39010,930872538,23862
+12061,1997,71,Federal Government,"Total, all industries",10,343,13677304,39905
+12061,1997,71,State Government,"Total, all industries",38,444,11876614,26749
+12061,1997,71,Local Government,"Total, all industries",17,3799,111714313,29408
+12061,1997,71,Private,"Total, all industries",3367,34425,793604307,23053
+12065,1997,70,Total Covered,"Total, all industries",281,2811,51562184,18344
+12065,1997,71,Federal Government,"Total, all industries",3,30,974051,32112
+12065,1997,71,State Government,"Total, all industries",37,302,8089423,26771
+12065,1997,71,Local Government,"Total, all industries",8,541,10965527,20260
+12065,1997,71,Private,"Total, all industries",233,1937,31533183,16279
+12071,1997,70,Total Covered,"Total, all industries",10982,147477,3563375960,24162
+12071,1997,71,Federal Government,"Total, all industries",36,1729,72173559,41755
+12071,1997,71,State Government,"Total, all industries",91,3174,77464559,24405
+12071,1997,71,Local Government,"Total, all industries",43,19215,544495882,28337
+12071,1997,71,Private,"Total, all industries",10812,123360,2869241960,23259
+12075,1997,70,Total Covered,"Total, all industries",591,7178,136484856,19015
+12075,1997,71,Federal Government,"Total, all industries",5,70,2325366,33101
+12075,1997,71,State Government,"Total, all industries",29,272,6670805,24495
+12075,1997,71,Local Government,"Total, all industries",16,1319,29330956,22244
+12075,1997,71,Private,"Total, all industries",541,5517,98157729,17793
+12077,1997,70,Total Covered,"Total, all industries",116,1568,34425174,21954
+12077,1997,71,Federal Government,"Total, all industries",2,54,1511568,27906
+12077,1997,71,State Government,"Total, all industries",25,332,8058022,24296
+12077,1997,71,Local Government,"Total, all industries",8,279,5615542,20121
+12077,1997,71,Private,"Total, all industries",81,903,19240042,21303
+12081,1997,70,Total Covered,"Total, all industries",5508,114892,2482267687,21605
+12081,1997,71,Federal Government,"Total, all industries",13,1104,43939174,39806
+12081,1997,71,State Government,"Total, all industries",48,849,21217010,24991
+12081,1997,71,Local Government,"Total, all industries",28,8788,240978078,27422
+12081,1997,71,Private,"Total, all industries",5420,104151,2176133425,20894
+12085,1997,70,Total Covered,"Total, all industries",4105,44764,1158522973,25881
+12085,1997,71,Federal Government,"Total, all industries",11,282,10936483,38736
+12085,1997,71,State Government,"Total, all industries",41,690,18926528,27433
+12085,1997,71,Local Government,"Total, all industries",15,3781,105676683,27953
+12085,1997,71,Private,"Total, all industries",4038,40011,1022983279,25568
+12086,1997,70,Total Covered,"Total, all industries",67766,936388,27241393128,29092
+12086,1997,71,Federal Government,"Total, all industries",108,18083,836647431,46267
+12086,1997,71,State Government,"Total, all industries",125,18187,479859620,26385
+12086,1997,71,Local Government,"Total, all industries",44,97072,2987593242,30777
+12086,1997,71,Private,"Total, all industries",67490,803046,22937292835,28563
+12087,1997,70,Total Covered,"Total, all industries",3530,35808,795990345,22230
+12087,1997,71,Federal Government,"Total, all industries",34,1244,41234538,33158
+12087,1997,71,State Government,"Total, all industries",49,634,17671876,27874
+12087,1997,71,Local Government,"Total, all industries",17,3500,103826393,29668
+12087,1997,71,Private,"Total, all industries",3430,30430,633257538,20810
+12089,1997,70,Total Covered,"Total, all industries",1132,15156,392509175,25899
+12089,1997,71,Federal Government,"Total, all industries",5,611,44252194,72416
+12089,1997,71,State Government,"Total, all industries",25,219,5333918,24365
+12089,1997,71,Local Government,"Total, all industries",13,2064,55472401,26874
+12089,1997,71,Private,"Total, all industries",1089,12261,287450662,23444
+12091,1997,70,Total Covered,"Total, all industries",4455,69532,1525180024,21935
+12091,1997,71,Federal Government,"Total, all industries",33,6549,228733847,34927
+12091,1997,71,State Government,"Total, all industries",45,782,18816171,24051
+12091,1997,71,Local Government,"Total, all industries",27,6542,159869132,24436
+12091,1997,71,Private,"Total, all industries",4351,55658,1117760874,20083
+12099,1997,70,Total Covered,"Total, all industries",34030,433163,12953490429,29904
+12099,1997,71,Federal Government,"Total, all industries",51,5735,250479030,43677
+12099,1997,71,State Government,"Total, all industries",108,7572,204995461,27073
+12099,1997,71,Local Government,"Total, all industries",78,38862,1237021587,31831
+12099,1997,71,Private,"Total, all industries",33794,380995,11260994351,29557
+12101,1997,70,Total Covered,"Total, all industries",5644,71735,1547801040,21577
+12101,1997,71,Federal Government,"Total, all industries",9,628,23913292,38109
+12101,1997,71,State Government,"Total, all industries",44,1082,27964129,25845
+12101,1997,71,Local Government,"Total, all industries",19,9805,238441021,24319
+12101,1997,71,Private,"Total, all industries",5572,60221,1257482598,20881
+12103,1997,70,Total Covered,"Total, all industries",24754,394067,10739703941,27254
+12103,1997,71,Federal Government,"Total, all industries",37,5946,244949199,41193
+12103,1997,71,State Government,"Total, all industries",86,3984,104202361,26155
+12103,1997,71,Local Government,"Total, all industries",51,30922,900031914,29107
+12103,1997,71,Private,"Total, all industries",24581,353214,9490520467,26869
+12107,1997,70,Total Covered,"Total, all industries",1178,18066,414552387,22947
+12107,1997,71,Federal Government,"Total, all industries",10,154,5269532,34125
+12107,1997,71,State Government,"Total, all industries",39,491,12250327,24967
+12107,1997,71,Local Government,"Total, all industries",15,3770,93957337,24923
+12107,1997,71,Private,"Total, all industries",1115,13651,303075191,22202
+12109,1997,70,Total Covered,"Total, all industries",2911,35395,802262044,22666
+12109,1997,71,Federal Government,"Total, all industries",13,387,15530795,40140
+12109,1997,71,State Government,"Total, all industries",44,1337,31800344,23780
+12109,1997,71,Local Government,"Total, all industries",13,3844,96028645,24981
+12109,1997,71,Private,"Total, all industries",2842,29827,658902260,22091
+12111,1997,70,Total Covered,"Total, all industries",3585,48616,1156091259,23780
+12111,1997,71,Federal Government,"Total, all industries",19,472,20775164,44023
+12111,1997,71,State Government,"Total, all industries",56,1080,27199680,25187
+12111,1997,71,Local Government,"Total, all industries",17,7054,203630349,28866
+12111,1997,71,Private,"Total, all industries",3493,40010,904486066,22606
+12113,1997,70,Total Covered,"Total, all industries",1885,23647,498088127,21064
+12113,1997,71,Federal Government,"Total, all industries",14,751,23917823,31837
+12113,1997,71,State Government,"Total, all industries",38,660,15560388,23591
+12113,1997,71,Local Government,"Total, all industries",11,3556,83145979,23382
+12113,1997,71,Private,"Total, all industries",1822,18680,375463937,20100
+12115,1997,70,Total Covered,"Total, all industries",10890,124507,3160192792,25382
+12115,1997,71,Federal Government,"Total, all industries",15,812,34553785,42550
+12115,1997,71,State Government,"Total, all industries",59,1441,36374152,25248
+12115,1997,71,Local Government,"Total, all industries",21,9245,283404567,30655
+12115,1997,71,Private,"Total, all industries",10795,113010,2805860288,24829
+12123,1997,70,Total Covered,"Total, all industries",415,6444,158785183,24643
+12123,1997,71,Federal Government,"Total, all industries",2,35,1169948,33507
+12123,1997,71,State Government,"Total, all industries",29,396,9383494,23701
+12123,1997,71,Local Government,"Total, all industries",9,964,21308900,22103
+12123,1997,71,Private,"Total, all industries",375,5049,126922841,25140
+12127,1997,70,Total Covered,"Total, all industries",9845,135376,2990325430,22089
+12127,1997,71,Federal Government,"Total, all industries",29,1256,52703990,41953
+12127,1997,71,State Government,"Total, all industries",73,2827,75954245,26867
+12127,1997,71,Local Government,"Total, all industries",30,15719,392610431,24976
+12127,1997,71,Private,"Total, all industries",9714,115574,2469056764,21363
+12129,1997,70,Total Covered,"Total, all industries",304,3412,73370339,21504
+12129,1997,71,Federal Government,"Total, all industries",4,76,2207890,28988
+12129,1997,71,State Government,"Total, all industries",34,275,5893707,21438
+12129,1997,71,Local Government,"Total, all industries",8,743,17193862,23136
+12129,1997,71,Private,"Total, all industries",259,2318,48074880,20743
+12131,1997,70,Total Covered,"Total, all industries",681,9512,184568262,19404
+12131,1997,71,Federal Government,"Total, all industries",8,184,7088108,38435
+12131,1997,71,State Government,"Total, all industries",33,482,11579203,24040
+12131,1997,71,Local Government,"Total, all industries",11,1286,28665118,22294
+12131,1997,71,Private,"Total, all industries",629,7560,137235833,18153
+13025,1997,70,Total Covered,"Total, all industries",168,1730,34085783,19708
+13025,1997,71,Federal Government,"Total, all industries",5,27,762105,28579
+13025,1997,71,State Government,"Total, all industries",7,42,1040658,24631
+13025,1997,71,Local Government,"Total, all industries",14,564,10454440,18531
+13025,1997,71,Private,"Total, all industries",142,1097,21828580,19908
+13029,1997,70,Total Covered,"Total, all industries",328,3716,66684641,17946
+13029,1997,71,Federal Government,"Total, all industries",3,45,1544554,34451
+13029,1997,71,State Government,"Total, all industries",16,151,3510705,23211
+13029,1997,71,Local Government,"Total, all industries",5,950,17831368,18763
+13029,1997,71,Private,"Total, all industries",304,2569,43798014,17046
+13039,1997,70,Total Covered,"Total, all industries",674,13141,329023738,25038
+13039,1997,71,Federal Government,"Total, all industries",11,2578,90470484,35093
+13039,1997,71,State Government,"Total, all industries",16,219,3702598,16900
+13039,1997,71,Local Government,"Total, all industries",22,1937,38891724,20084
+13039,1997,71,Private,"Total, all industries",625,8408,195958932,23308
+13049,1997,70,Total Covered,"Total, all industries",192,1883,36679830,19475
+13049,1997,71,Federal Government,"Total, all industries",4,52,1610104,31163
+13049,1997,71,State Government,"Total, all industries",5,45,1043614,23021
+13049,1997,71,Local Government,"Total, all industries",14,492,10073736,20475
+13049,1997,71,Private,"Total, all industries",169,1294,23952376,18504
+13051,1997,70,Total Covered,"Total, all industries",6262,118168,3108297438,26304
+13051,1997,71,Federal Government,"Total, all industries",39,2852,115396333,40467
+13051,1997,71,State Government,"Total, all industries",39,4551,135181513,29703
+13051,1997,71,Local Government,"Total, all industries",17,9661,252848721,26173
+13051,1997,71,Private,"Total, all industries",6168,101105,2604870871,25764
+13127,1997,70,Total Covered,"Total, all industries",2397,34885,823486918,23606
+13127,1997,71,Federal Government,"Total, all industries",36,1257,67022027,53330
+13127,1997,71,State Government,"Total, all industries",28,1320,32227041,24416
+13127,1997,71,Local Government,"Total, all industries",9,4357,120210003,27587
+13127,1997,71,Private,"Total, all industries",2324,27951,604027847,21610
+13179,1997,70,Total Covered,"Total, all industries",674,12698,272516808,21462
+13179,1997,71,Federal Government,"Total, all industries",12,3529,94226010,26702
+13179,1997,71,State Government,"Total, all industries",19,424,9213052,21708
+13179,1997,71,Local Government,"Total, all industries",9,2157,47010322,21799
+13179,1997,71,Private,"Total, all industries",634,6588,122067424,18529
+13191,1997,70,Total Covered,"Total, all industries",196,2173,33412265,15373
+13191,1997,71,Federal Government,"Total, all industries",5,24,644654,26584
+13191,1997,71,State Government,"Total, all industries",11,164,3752399,22846
+13191,1997,71,Local Government,"Total, all industries",10,462,8135447,17593
+13191,1997,71,Private,"Total, all industries",170,1523,20879765,13714
+13305,1997,70,Total Covered,"Total, all industries",501,8498,202466501,23824
+13305,1997,71,Federal Government,"Total, all industries",5,376,15455379,41059
+13305,1997,71,State Government,"Total, all industries",13,693,16512754,23845
+13305,1997,71,Local Government,"Total, all industries",22,1503,29888711,19883
+13305,1997,71,Private,"Total, all industries",460,5926,140609657,23727
+15001,1997,70,Total Covered,"Total, all industries",3890,51044,1259458154,24674
+15001,1997,71,Federal Government,"Total, all industries",59,949,37097524,39101
+15001,1997,71,State Government,"Total, all industries",33,6761,215065077,31809
+15001,1997,71,Local Government,"Total, all industries",30,2180,72229006,33136
+15001,1997,71,Private,"Total, all industries",3769,41155,935066547,22721
+15003,1997,70,Total Covered,"Total, all industries",21636,399364,11872303382,29728
+15003,1997,71,Federal Government,"Total, all industries",151,28832,1171213160,40622
+15003,1997,71,State Government,"Total, all industries",37,45072,1320160675,29290
+15003,1997,71,Local Government,"Total, all industries",27,11763,433704453,36872
+15003,1997,71,Private,"Total, all industries",21422,313697,8947225094,28522
+15007,1997,70,Total Covered,"Total, all industries",1838,24179,600274143,24826
+15007,1997,71,Federal Government,"Total, all industries",31,393,17387325,44280
+15007,1997,71,State Government,"Total, all industries",31,2493,77680553,31154
+15007,1997,71,Local Government,"Total, all industries",32,1040,36147872,34758
+15007,1997,71,Private,"Total, all industries",1745,20253,469058393,23160
+15009,1997,70,Total Covered,"Total, all industries",3945,56924,1465685725,25748
+15009,1997,71,Federal Government,"Total, all industries",52,500,19062801,38126
+15009,1997,71,State Government,"Total, all industries",69,4997,157220922,31465
+15009,1997,71,Local Government,"Total, all industries",56,2019,70793359,35068
+15009,1997,71,Private,"Total, all industries",3768,49408,1218608643,24664
+17031,1997,70,Total Covered,"Total, all industries",127550,2624171,96873685455,36916
+17031,1997,71,Federal Government,"Total, all industries",170,49737,2210567195,44445
+17031,1997,71,State Government,"Total, all industries",14,19820,792139110,39967
+17031,1997,71,Local Government,"Total, all industries",938,240037,8843988003,36844
+17031,1997,71,Private,"Total, all industries",126428,2314577,85026991147,36735
+17097,1997,70,Total Covered,"Total, all industries",16769,274183,9997921991,36464
+17097,1997,71,Federal Government,"Total, all industries",29,6561,248221779,37832
+17097,1997,71,Private,"Total, all industries",16474,240761,8889581027,36923
+18089,1997,70,Total Covered,"Total, all industries",10134,200939,5829705647,29012
+18089,1997,71,Federal Government,"Total, all industries",25,2259,83105252,36782
+18089,1997,71,State Government,"Total, all industries",25,3296,83240258,25255
+18089,1997,71,Local Government,"Total, all industries",167,21018,557141690,26508
+18089,1997,71,Private,"Total, all industries",9917,174366,5106218447,29284
+18091,1997,70,Total Covered,"Total, all industries",2618,46351,1137786704,24547
+18091,1997,71,Federal Government,"Total, all industries",7,221,8390642,37924
+18091,1997,71,State Government,"Total, all industries",24,2827,70663205,24996
+18091,1997,71,Local Government,"Total, all industries",52,4474,105532515,23588
+18091,1997,71,Private,"Total, all industries",2535,38828,953200342,24549
+18127,1997,70,Total Covered,"Total, all industries",3080,53518,1572968160,29391
+18127,1997,71,Federal Government,"Total, all industries",11,446,15146175,33979
+18127,1997,71,State Government,"Total, all industries",17,371,8562253,23074
+18127,1997,71,Local Government,"Total, all industries",81,7291,181947699,24954
+18127,1997,71,Private,"Total, all industries",2971,45410,1367312033,30111
+22005,1997,70,Total Covered,"Total, all industries",1465,29460,916228276,31101
+22005,1997,71,Federal Government,"Total, all industries",15,114,3647268,32017
+22005,1997,71,State Government,"Total, all industries",31,254,10254622,40346
+22005,1997,71,Local Government,"Total, all industries",51,2996,67883980,22661
+22005,1997,71,Private,"Total, all industries",1368,26096,834442406,31975
+22007,1997,70,Total Covered,"Total, all industries",330,5986,143653755,23999
+22007,1997,71,Federal Government,"Total, all industries",10,33,871281,26740
+22007,1997,71,State Government,"Total, all industries",19,113,2343010,20781
+22007,1997,71,Local Government,"Total, all industries",19,1035,17817672,17211
+22007,1997,71,Private,"Total, all industries",282,4805,122621792,25519
+22019,1997,70,Total Covered,"Total, all industries",4332,81841,2217210453,27092
+22019,1997,71,Federal Government,"Total, all industries",28,609,24982418,41050
+22019,1997,71,State Government,"Total, all industries",53,3073,76476908,24884
+22019,1997,71,Local Government,"Total, all industries",92,8506,195180812,22945
+22019,1997,71,Private,"Total, all industries",4159,69653,1920570315,27574
+22023,1997,70,Total Covered,"Total, all industries",240,3645,104004599,28535
+22023,1997,71,Federal Government,"Total, all industries",10,32,1066804,33512
+22023,1997,71,State Government,"Total, all industries",9,95,2191725,23193
+22023,1997,71,Local Government,"Total, all industries",21,795,16324970,20524
+22023,1997,71,Private,"Total, all industries",200,2723,84421100,31002
+22045,1997,70,Total Covered,"Total, all industries",1780,29363,743341759,25316
+22045,1997,71,Federal Government,"Total, all industries",14,124,4613002,37127
+22045,1997,71,State Government,"Total, all industries",29,307,7237742,23576
+22045,1997,71,Local Government,"Total, all industries",69,3916,82993153,21194
+22045,1997,71,Private,"Total, all industries",1669,25016,648497862,25924
+22051,1997,70,Total Covered,"Total, all industries",13299,209820,5325879868,25383
+22051,1997,71,Federal Government,"Total, all industries",26,1491,65374843,43849
+22051,1997,71,State Government,"Total, all industries",54,1746,43497499,24908
+22051,1997,71,Local Government,"Total, all industries",109,20883,493626905,23638
+22051,1997,71,Private,"Total, all industries",13111,185699,4723380621,25436
+22053,1997,70,Total Covered,"Total, all industries",644,7519,136899647,18207
+22053,1997,71,Federal Government,"Total, all industries",12,78,2792916,35654
+22053,1997,71,State Government,"Total, all industries",18,156,2932547,18829
+22053,1997,71,Local Government,"Total, all industries",62,1600,26880334,16797
+22053,1997,71,Private,"Total, all industries",552,5685,104293850,18347
+22057,1997,70,Total Covered,"Total, all industries",1839,27968,686315889,24540
+22057,1997,71,Federal Government,"Total, all industries",19,143,4832159,33713
+22057,1997,71,State Government,"Total, all industries",37,1521,39929015,26250
+22057,1997,71,Local Government,"Total, all industries",67,5004,105852566,21154
+22057,1997,71,Private,"Total, all industries",1716,21299,535702149,25151
+22063,1997,70,Total Covered,"Total, all industries",1153,13318,269959056,20271
+22063,1997,71,Federal Government,"Total, all industries",17,114,3953653,34732
+22063,1997,71,State Government,"Total, all industries",39,424,13527083,31885
+22063,1997,71,Local Government,"Total, all industries",54,3236,60166653,18591
+22063,1997,71,Private,"Total, all industries",1043,9543,192311667,20152
+22071,1997,70,Total Covered,"Total, all industries",13157,261845,7715690027,29467
+22071,1997,71,Federal Government,"Total, all industries",72,13250,570996243,43095
+22071,1997,71,State Government,"Total, all industries",89,19511,576450089,29546
+22071,1997,71,Local Government,"Total, all industries",80,22116,556502045,25163
+22071,1997,71,Private,"Total, all industries",12917,206969,6011741650,29047
+22075,1997,70,Total Covered,"Total, all industries",823,18132,626282692,34541
+22075,1997,71,Federal Government,"Total, all industries",16,647,24701326,38198
+22075,1997,71,State Government,"Total, all industries",20,688,14567395,21174
+22075,1997,71,Local Government,"Total, all industries",11,1601,32896012,20542
+22075,1997,71,Private,"Total, all industries",775,15196,554117959,36466
+22087,1997,70,Total Covered,"Total, all industries",1151,15796,370793617,23474
+22087,1997,71,Federal Government,"Total, all industries",9,117,4405176,37732
+22087,1997,71,State Government,"Total, all industries",24,381,7892634,20725
+22087,1997,71,Local Government,"Total, all industries",23,2525,47243373,18711
+22087,1997,71,Private,"Total, all industries",1095,12774,311252434,24367
+22089,1997,70,Total Covered,"Total, all industries",893,20625,738963018,35828
+22089,1997,71,Federal Government,"Total, all industries",16,184,7105563,38687
+22089,1997,71,State Government,"Total, all industries",15,77,1626886,21266
+22089,1997,71,Local Government,"Total, all industries",38,2617,65037320,24849
+22089,1997,71,Private,"Total, all industries",824,17748,665193249,37480
+22093,1997,70,Total Covered,"Total, all industries",392,7778,265920843,34190
+22093,1997,71,Federal Government,"Total, all industries",11,64,2817311,44193
+22093,1997,71,Private,"Total, all industries",330,6193,229401208,37044
+22095,1997,70,Total Covered,"Total, all industries",695,12291,334799931,27239
+22095,1997,71,Federal Government,"Total, all industries",8,97,4123061,42616
+22095,1997,71,State Government,"Total, all industries",19,193,7575434,39302
+22095,1997,71,Local Government,"Total, all industries",33,1570,32114649,20453
+22095,1997,71,Private,"Total, all industries",634,10432,290986787,27895
+22099,1997,70,Total Covered,"Total, all industries",677,11403,218502032,19162
+22099,1997,71,Federal Government,"Total, all industries",11,65,2206804,34082
+22099,1997,71,State Government,"Total, all industries",24,209,7405469,35518
+22099,1997,71,Local Government,"Total, all industries",51,1905,36980511,19410
+22099,1997,71,Private,"Total, all industries",591,9224,171909248,18636
+22101,1997,70,Total Covered,"Total, all industries",1646,29554,823045828,27849
+22101,1997,71,Federal Government,"Total, all industries",20,148,5491542,37147
+22101,1997,71,State Government,"Total, all industries",25,217,5393173,24892
+22101,1997,71,Local Government,"Total, all industries",120,3329,68226645,20492
+22101,1997,71,Private,"Total, all industries",1481,25860,743934468,28767
+22103,1997,70,Total Covered,"Total, all industries",4364,51322,1103333650,21498
+22103,1997,71,Federal Government,"Total, all industries",22,546,22575000,41315
+22103,1997,71,State Government,"Total, all industries",39,1404,34848222,24819
+22103,1997,71,Local Government,"Total, all industries",80,9057,231195797,25526
+22103,1997,71,Private,"Total, all industries",4223,40314,814714631,20209
+22105,1997,70,Total Covered,"Total, all industries",1969,30533,605667365,19836
+22105,1997,71,Federal Government,"Total, all industries",27,277,9738455,35125
+22105,1997,71,State Government,"Total, all industries",40,3564,90781035,25473
+22105,1997,71,Local Government,"Total, all industries",80,5609,125139906,22311
+22105,1997,71,Private,"Total, all industries",1823,21083,380007969,18024
+22109,1997,70,Total Covered,"Total, all industries",2618,45817,1231685696,26883
+22109,1997,71,Federal Government,"Total, all industries",24,268,10567253,39369
+22109,1997,71,State Government,"Total, all industries",32,1417,36183388,25535
+22109,1997,71,Local Government,"Total, all industries",57,4210,87538403,20795
+22109,1997,71,Private,"Total, all industries",2506,39922,1097396652,27488
+22113,1997,70,Total Covered,"Total, all industries",1070,14811,357097892,24110
+22113,1997,71,Federal Government,"Total, all industries",16,150,5007249,33437
+22113,1997,71,State Government,"Total, all industries",24,245,5155169,21063
+22113,1997,71,Local Government,"Total, all industries",82,2771,51094991,18441
+22113,1997,71,Private,"Total, all industries",948,11646,295840483,25403
+23005,1997,70,Total Covered,"Total, all industries",10080,154593,4267701890,27606
+23005,1997,71,Federal Government,"Total, all industries",76,2990,113260868,37882
+23005,1997,71,State Government,"Total, all industries",34,3996,113897559,28500
+23005,1997,71,Local Government,"Total, all industries",236,11727,298438845,25450
+23005,1997,71,Private,"Total, all industries",9734,135880,3742104618,27540
+23009,1997,70,Total Covered,"Total, all industries",2277,20726,458398368,22117
+23009,1997,71,Federal Government,"Total, all industries",29,429,10317498,24055
+23009,1997,71,State Government,"Total, all industries",15,536,13541854,25245
+23009,1997,71,Local Government,"Total, all industries",102,2043,43204216,21148
+23009,1997,71,Private,"Total, all industries",2130,17718,391334800,22087
+23013,1997,70,Total Covered,"Total, all industries",1531,16177,337831177,20884
+23013,1997,71,Federal Government,"Total, all industries",14,123,4167685,33930
+23013,1997,71,State Government,"Total, all industries",15,691,20402251,29547
+23013,1997,71,Local Government,"Total, all industries",80,1513,28627915,18921
+23013,1997,71,Private,"Total, all industries",1422,13851,284633326,20550
+23015,1997,70,Total Covered,"Total, all industries",1258,10021,219928247,21947
+23015,1997,71,Federal Government,"Total, all industries",11,98,3023232,31008
+23015,1997,71,Private,"Total, all industries",1180,8492,184423640,21718
+23023,1997,70,Total Covered,"Total, all industries",785,14422,428395189,29704
+23023,1997,71,Federal Government,"Total, all industries",10,374,16359658,43733
+23023,1997,71,State Government,"Total, all industries",10,21,499713,23986
+23023,1997,71,Local Government,"Total, all industries",49,1472,35852676,24355
+23023,1997,71,Private,"Total, all industries",716,12555,375683142,29923
+23027,1997,70,Total Covered,"Total, all industries",892,8747,171727872,19632
+23027,1997,71,Federal Government,"Total, all industries",14,108,3281860,30435
+23027,1997,71,State Government,"Total, all industries",5,48,886296,18337
+23027,1997,71,Local Government,"Total, all industries",85,1360,28001936,20591
+23027,1997,71,Private,"Total, all industries",788,7231,139557780,19299
+23029,1997,70,Total Covered,"Total, all industries",1094,11428,235783386,20631
+23029,1997,71,Federal Government,"Total, all industries",37,310,10540882,34003
+23029,1997,71,State Government,"Total, all industries",22,376,10458465,27834
+23029,1997,71,Local Government,"Total, all industries",129,1792,34161753,19060
+23029,1997,71,Private,"Total, all industries",906,8950,180622286,20181
+23031,1997,70,Total Covered,"Total, all industries",4914,57171,1395817926,24415
+23031,1997,71,Federal Government,"Total, all industries",42,4013,200991797,50082
+23031,1997,71,State Government,"Total, all industries",20,293,7526583,25732
+23031,1997,71,Local Government,"Total, all industries",217,6881,159903734,23239
+23031,1997,71,Private,"Total, all industries",4636,45984,1027395812,22342
+24003,1997,70,Total Covered,"Total, all industries",11398,173053,5304220597,30651
+24003,1997,71,Federal Government,"Total, all industries",78,8179,340973114,41691
+24003,1997,71,State Government,"Total, all industries",68,8767,266897143,30443
+24003,1997,71,Local Government,"Total, all industries",9,13828,508288394,36757
+24003,1997,71,Private,"Total, all industries",11244,142279,4188061946,29436
+24005,1997,70,Total Covered,"Total, all industries",19503,338514,10289178023,30395
+24005,1997,71,Federal Government,"Total, all industries",58,14533,709330257,48808
+24005,1997,71,State Government,"Total, all industries",29,9170,297660254,32461
+24005,1997,71,Local Government,"Total, all industries",22,26032,762623392,29296
+24005,1997,71,Private,"Total, all industries",19394,288779,8519564120,29502
+24009,1997,70,Total Covered,"Total, all industries",1323,15113,413789198,27381
+24009,1997,71,Federal Government,"Total, all industries",20,120,4653647,38834
+24009,1997,71,Private,"Total, all industries",1293,12564,331481690,26384
+24011,1997,70,Total Covered,"Total, all industries",593,8329,198520030,23834
+24011,1997,71,Federal Government,"Total, all industries",12,80,2441919,30620
+24011,1997,71,State Government,"Total, all industries",5,106,2470387,23416
+24011,1997,71,Local Government,"Total, all industries",8,1062,27578220,25964
+24011,1997,71,Private,"Total, all industries",568,7082,166029504,23445
+24015,1997,70,Total Covered,"Total, all industries",1537,20421,555732604,27214
+24015,1997,71,Federal Government,"Total, all industries",27,1614,66284291,41058
+24015,1997,71,State Government,"Total, all industries",6,197,4525254,22951
+24015,1997,71,Local Government,"Total, all industries",14,2610,78924032,30243
+24015,1997,71,Private,"Total, all industries",1490,15999,405999027,25376
+24017,1997,70,Total Covered,"Total, all industries",2348,33226,835073179,25133
+24017,1997,71,Federal Government,"Total, all industries",27,2591,128262731,49503
+24017,1997,71,State Government,"Total, all industries",5,163,3662562,22493
+24017,1997,71,Local Government,"Total, all industries",13,4389,128780008,29341
+24017,1997,71,Private,"Total, all industries",2303,26084,574367878,22020
+24019,1997,70,Total Covered,"Total, all industries",737,11289,247796021,21950
+24019,1997,71,Federal Government,"Total, all industries",12,130,4405587,34020
+24019,1997,71,State Government,"Total, all industries",8,371,10468590,28186
+24019,1997,71,Local Government,"Total, all industries",13,1092,29884983,27373
+24019,1997,71,Private,"Total, all industries",704,9696,203036861,20940
+24025,1997,70,Total Covered,"Total, all industries",4326,60803,1639967115,26972
+24025,1997,71,Federal Government,"Total, all industries",44,8204,382564605,46632
+24025,1997,71,State Government,"Total, all industries",6,283,6474570,22919
+24025,1997,71,Local Government,"Total, all industries",9,7866,210411788,26750
+24025,1997,71,Private,"Total, all industries",4268,44451,1040516152,23408
+24027,1997,70,Total Covered,"Total, all industries",6430,107927,3558388218,32970
+24027,1997,71,Federal Government,"Total, all industries",33,651,27692076,42532
+24027,1997,71,State Government,"Total, all industries",13,3697,119819992,32412
+24027,1997,71,Local Government,"Total, all industries",8,8587,272516574,31736
+24027,1997,71,Private,"Total, all industries",6376,94993,3138359576,33038
+24029,1997,70,Total Covered,"Total, all industries",690,7135,149696380,20979
+24029,1997,71,Federal Government,"Total, all industries",15,74,2309879,31285
+24029,1997,71,Private,"Total, all industries",660,6275,127542058,20324
+24033,1997,70,Total Covered,"Total, all industries",14136,289095,9442219573,32661
+24033,1997,71,Federal Government,"Total, all industries",150,23706,1246082618,52564
+24033,1997,71,State Government,"Total, all industries",16,15719,517900686,32948
+24033,1997,71,Local Government,"Total, all industries",41,28640,1028140603,35898
+24033,1997,71,Private,"Total, all industries",13928,221031,6650095666,30087
+24035,1997,70,Total Covered,"Total, all industries",1060,9135,192784280,21105
+24035,1997,71,Federal Government,"Total, all industries",17,87,2812870,32332
+24035,1997,71,Private,"Total, all industries",1028,7496,146751165,19577
+24037,1997,70,Total Covered,"Total, all industries",1634,28754,929409777,32322
+24037,1997,71,Federal Government,"Total, all industries",30,5318,294195883,55319
+24037,1997,71,State Government,"Total, all industries",7,565,16876379,29856
+24037,1997,71,Local Government,"Total, all industries",40,2782,80372969,28894
+24037,1997,71,Private,"Total, all industries",1558,20089,537964546,26779
+24039,1997,70,Total Covered,"Total, all industries",415,6099,140436562,23027
+24039,1997,71,Federal Government,"Total, all industries",15,62,1935445,31008
+24039,1997,71,State Government,"Total, all industries",9,1626,46046956,28322
+24039,1997,71,Local Government,"Total, all industries",22,776,19208723,24756
+24039,1997,71,Private,"Total, all industries",370,3635,73245438,20152
+24041,1997,70,Total Covered,"Total, all industries",1542,16855,404601446,24005
+24041,1997,71,Federal Government,"Total, all industries",21,270,10001215,37019
+24041,1997,71,State Government,"Total, all industries",6,95,2134731,22373
+24041,1997,71,Local Government,"Total, all industries",10,1134,29107117,25671
+24041,1997,71,Private,"Total, all industries",1505,15355,363358383,23663
+24045,1997,70,Total Covered,"Total, all industries",2410,39099,968029649,24759
+24045,1997,71,Federal Government,"Total, all industries",25,344,13096375,38117
+24045,1997,71,State Government,"Total, all industries",9,1896,52566575,27729
+24045,1997,71,Local Government,"Total, all industries",15,3100,87187347,28123
+24045,1997,71,Private,"Total, all industries",2361,33759,815179352,24147
+24047,1997,70,Total Covered,"Total, all industries",2045,21687,409059108,18862
+24047,1997,71,Federal Government,"Total, all industries",20,219,7482670,34141
+24047,1997,71,State Government,"Total, all industries",7,134,2912288,21774
+24047,1997,71,Local Government,"Total, all industries",26,2370,62698954,26453
+24047,1997,71,Private,"Total, all industries",1991,18964,335965196,17716
+24510,1997,70,Total Covered,"Total, all industries",14832,381072,13021048218,34170
+24510,1997,71,Federal Government,"Total, all industries",57,14653,615351713,41996
+24510,1997,71,State Government,"Total, all industries",118,38531,1305454054,33880
+24510,1997,71,Local Government,"Total, all industries",87,31707,974112065,30722
+24510,1997,71,Private,"Total, all industries",14571,296181,10126130386,34189
+25001,1997,70,Total Covered,"Total, all industries",7763,79623,2009731916,25241
+25001,1997,71,Federal Government,"Total, all industries",95,1829,69707861,38107
+25001,1997,71,State Government,"Total, all industries",33,1744,65693645,37674
+25001,1997,71,Local Government,"Total, all industries",172,8320,266412125,32022
+25001,1997,71,Private,"Total, all industries",7463,67730,1607918285,23740
+25005,1997,70,Total Covered,"Total, all industries",12396,207577,5619698326,27073
+25005,1997,71,Federal Government,"Total, all industries",53,1213,52037056,42885
+25005,1997,71,State Government,"Total, all industries",63,4138,152630986,36884
+25005,1997,71,Local Government,"Total, all industries",301,18319,593183628,32380
+25005,1997,71,Private,"Total, all industries",11979,183906,4821846656,26219
+25007,1997,70,Total Covered,"Total, all industries",972,6449,158535348,24581
+25007,1997,71,Federal Government,"Total, all industries",5,40,1640100,41174
+25007,1997,71,Private,"Total, all industries",893,5282,127173348,24078
+25009,1997,70,Total Covered,"Total, all industries",17558,284461,9216572021,32400
+25009,1997,71,Federal Government,"Total, all industries",59,4374,158372812,36208
+25009,1997,71,State Government,"Total, all industries",74,4523,154008996,34052
+25009,1997,71,Local Government,"Total, all industries",397,26293,832076136,31647
+25009,1997,71,Private,"Total, all industries",17028,249272,8072114077,32383
+25017,1997,70,Total Covered,"Total, all industries",42758,783388,31336342092,40001
+25017,1997,71,Federal Government,"Total, all industries",182,13833,621121683,44903
+25017,1997,71,State Government,"Total, all industries",106,9772,374222141,38297
+25017,1997,71,Local Government,"Total, all industries",645,50887,1722377382,33847
+25017,1997,71,Private,"Total, all industries",41825,708897,28618620886,40371
+25019,1997,70,Total Covered,"Total, all industries",729,5036,143099919,28416
+25019,1997,71,Federal Government,"Total, all industries",2,50,2162981,43260
+25019,1997,71,Private,"Total, all industries",712,4434,120915256,27272
+25021,1997,70,Total Covered,"Total, all industries",19055,303339,10757193262,35463
+25021,1997,71,Federal Government,"Total, all industries",60,1719,78439382,45637
+25021,1997,71,State Government,"Total, all industries",53,5020,184285983,36712
+25021,1997,71,Local Government,"Total, all industries",313,22802,794859740,34860
+25021,1997,71,Private,"Total, all industries",18630,273799,9699608157,35426
+25023,1997,70,Total Covered,"Total, all industries",11004,158356,4643259805,29322
+25023,1997,71,Federal Government,"Total, all industries",84,4117,173139297,42054
+25023,1997,71,State Government,"Total, all industries",60,4636,179496769,38715
+25023,1997,71,Local Government,"Total, all industries",318,16698,544096068,32584
+25023,1997,71,Private,"Total, all industries",10542,132904,3746527671,28190
+25025,1997,70,Total Covered,"Total, all industries",20045,556570,24883803675,44709
+25025,1997,71,Federal Government,"Total, all industries",107,17562,847444356,48255
+25025,1997,71,State Government,"Total, all industries",249,41046,1709350185,41644
+25025,1997,71,Local Government,"Total, all industries",90,27858,984114326,35326
+25025,1997,71,Private,"Total, all industries",19600,470103,21342894808,45400
+26001,1997,70,Total Covered,"Total, all industries",252,1701,33158820,19491
+26001,1997,71,Federal Government,"Total, all industries",12,41,1037096,25244
+26001,1997,71,Local Government,"Total, all industries",17,287,6922107,24091
+26001,1997,71,Private,"Total, all industries",223,1373,25199617,18356
+26003,1997,70,Total Covered,"Total, all industries",277,2966,78285745,26395
+26003,1997,71,Federal Government,"Total, all industries",9,90,2743654,30513
+26003,1997,71,Private,"Total, all industries",246,2198,53440507,24315
+26005,1997,70,Total Covered,"Total, all industries",1905,36896,1019628245,27635
+26005,1997,71,Federal Government,"Total, all industries",32,178,6005420,33770
+26005,1997,71,Local Government,"Total, all industries",84,3600,95882938,26637
+26005,1997,71,Private,"Total, all industries",1789,33119,917739887,27711
+26007,1997,70,Total Covered,"Total, all industries",903,13060,321826548,24643
+26007,1997,71,Federal Government,"Total, all industries",18,99,3527389,35660
+26007,1997,71,Private,"Total, all industries",865,10345,244102363,23595
+26009,1997,70,Total Covered,"Total, all industries",575,5402,109854759,20335
+26009,1997,71,Federal Government,"Total, all industries",19,52,1464787,27945
+26009,1997,71,Local Government,"Total, all industries",36,1124,25868873,23006
+26009,1997,71,Private,"Total, all industries",521,4226,82521099,19529
+26011,1997,70,Total Covered,"Total, all industries",403,4800,98818586,20586
+26011,1997,71,Federal Government,"Total, all industries",11,50,1551919,30884
+26011,1997,71,Private,"Total, all industries",364,3861,68761625,17810
+26013,1997,70,Total Covered,"Total, all industries",244,3545,80104031,22597
+26013,1997,71,Federal Government,"Total, all industries",12,29,756402,26158
+26013,1997,71,Private,"Total, all industries",211,2605,52554764,20175
+26017,1997,70,Total Covered,"Total, all industries",2584,41120,1161697578,28251
+26017,1997,71,Federal Government,"Total, all industries",21,280,10697879,38275
+26017,1997,71,Private,"Total, all industries",2480,35277,982491336,27851
+26019,1997,70,Total Covered,"Total, all industries",443,3805,72797471,19130
+26019,1997,71,Federal Government,"Total, all industries",11,37,1174405,31387
+26019,1997,71,Local Government,"Total, all industries",24,530,13651233,25765
+26019,1997,71,Private,"Total, all industries",408,3238,57971833,17903
+26021,1997,70,Total Covered,"Total, all industries",4052,70032,1941432527,27722
+26021,1997,71,Federal Government,"Total, all industries",41,435,15971720,36710
+26021,1997,71,Private,"Total, all industries",3867,62240,1728165066,27766
+26029,1997,70,Total Covered,"Total, all industries",874,10349,279116369,26970
+26029,1997,71,Federal Government,"Total, all industries",11,63,1982856,31267
+26029,1997,71,Local Government,"Total, all industries",39,1435,37590235,26200
+26029,1997,71,Private,"Total, all industries",824,8851,239543278,27064
+26031,1997,70,Total Covered,"Total, all industries",935,7984,155716164,19505
+26031,1997,71,Federal Government,"Total, all industries",13,69,2346768,34135
+26031,1997,71,Local Government,"Total, all industries",42,963,24429702,25364
+26031,1997,71,Private,"Total, all industries",880,6952,128939694,18548
+26033,1997,70,Total Covered,"Total, all industries",970,14160,317081984,22392
+26033,1997,71,Federal Government,"Total, all industries",35,345,13541957,39262
+26033,1997,71,State Government,"Total, all industries",6,1699,70043603,41232
+26033,1997,71,Local Government,"Total, all industries",53,2255,54578003,24206
+26033,1997,71,Private,"Total, all industries",877,9862,178918421,18142
+26041,1997,70,Total Covered,"Total, all industries",1154,15175,366753950,24169
+26041,1997,71,Federal Government,"Total, all industries",29,231,7969362,34450
+26041,1997,71,Private,"Total, all industries",1086,13117,305500557,23290
+26047,1997,70,Total Covered,"Total, all industries",1309,15439,370653350,24008
+26047,1997,71,Federal Government,"Total, all industries",18,107,3558174,33384
+26047,1997,71,Private,"Total, all industries",1240,13890,327482974,23576
+26053,1997,70,Total Covered,"Total, all industries",522,6204,114027642,18381
+26053,1997,71,Federal Government,"Total, all industries",17,158,5335592,33681
+26053,1997,71,Local Government,"Total, all industries",31,1377,32816882,23825
+26053,1997,71,Private,"Total, all industries",473,4668,75875168,16255
+26055,1997,70,Total Covered,"Total, all industries",3172,43884,1083399502,24688
+26055,1997,71,Federal Government,"Total, all industries",28,447,18300736,40979
+26055,1997,71,Private,"Total, all industries",3104,39499,954941940,24177
+26061,1997,70,Total Covered,"Total, all industries",960,12433,273509778,21998
+26061,1997,71,Federal Government,"Total, all industries",28,149,4866966,32756
+26061,1997,71,Private,"Total, all industries",882,8998,164727797,18307
+26063,1997,70,Total Covered,"Total, all industries",1089,13787,323473636,23462
+26063,1997,71,Federal Government,"Total, all industries",19,105,3175648,30292
+26063,1997,71,Private,"Total, all industries",990,11807,274556901,23253
+26069,1997,70,Total Covered,"Total, all industries",725,8343,178032739,21339
+26069,1997,71,Federal Government,"Total, all industries",17,113,3635978,32153
+26069,1997,71,Local Government,"Total, all industries",32,1541,37627597,24423
+26069,1997,71,Private,"Total, all industries",677,6690,136769164,20445
+26083,1997,70,Total Covered,"Total, all industries",80,593,9140673,15410
+26083,1997,71,Federal Government,"Total, all industries",6,82,2547012,31220
+26083,1997,71,Local Government,"Total, all industries",10,84,1168868,13984
+26083,1997,71,Private,"Total, all industries",64,428,5424793,12675
+26089,1997,70,Total Covered,"Total, all industries",593,5151,99194835,19258
+26089,1997,71,Federal Government,"Total, all industries",19,137,3807095,27857
+26089,1997,71,Local Government,"Total, all industries",20,579,14527605,25091
+26089,1997,71,Private,"Total, all industries",555,4435,80860135,18231
+26095,1997,70,Total Covered,"Total, all industries",206,2574,61156162,23760
+26095,1997,71,Federal Government,"Total, all industries",7,21,624129,30079
+26095,1997,71,Private,"Total, all industries",178,1366,27571866,20181
+26097,1997,70,Total Covered,"Total, all industries",570,5057,90830925,17960
+26097,1997,71,Federal Government,"Total, all industries",15,63,1972214,31388
+26097,1997,71,Local Government,"Total, all industries",23,675,15876662,23533
+26097,1997,71,Private,"Total, all industries",532,4320,72982049,16894
+26099,1997,70,Total Covered,"Total, all industries",17526,328999,12121811738,36845
+26099,1997,71,Federal Government,"Total, all industries",58,7021,331920105,47273
+26099,1997,71,Private,"Total, all industries",17224,296403,10876965062,36697
+26101,1997,70,Total Covered,"Total, all industries",649,6871,168926037,24586
+26101,1997,71,Federal Government,"Total, all industries",17,98,3178639,32601
+26101,1997,71,Private,"Total, all industries",591,5161,117097614,22687
+26103,1997,70,Total Covered,"Total, all industries",1720,24893,644992140,25911
+26103,1997,71,Federal Government,"Total, all industries",39,318,11508470,36143
+26103,1997,71,State Government,"Total, all industries",5,1777,70524708,39686
+26103,1997,71,Local Government,"Total, all industries",70,3353,88614150,26426
+26103,1997,71,Private,"Total, all industries",1606,19444,474344812,24396
+26105,1997,70,Total Covered,"Total, all industries",745,10156,243749842,24001
+26105,1997,71,Federal Government,"Total, all industries",16,107,3212993,30075
+26105,1997,71,Local Government,"Total, all industries",31,1494,40491763,27101
+26105,1997,71,Private,"Total, all industries",698,8555,200045086,23383
+26109,1997,70,Total Covered,"Total, all industries",556,9312,204221750,21931
+26109,1997,71,Federal Government,"Total, all industries",17,75,2103656,28205
+26109,1997,71,Local Government,"Total, all industries",30,1225,27461685,22422
+26109,1997,71,Private,"Total, all industries",507,8013,174656409,21797
+26115,1997,70,Total Covered,"Total, all industries",2318,39544,1247116389,31538
+26115,1997,71,Federal Government,"Total, all industries",18,257,8788855,34242
+26115,1997,71,Private,"Total, all industries",2243,33772,1077928534,31918
+26121,1997,70,Total Covered,"Total, all industries",3287,61155,1714176783,28030
+26121,1997,71,Federal Government,"Total, all industries",20,399,15658050,39292
+26121,1997,71,Private,"Total, all industries",3194,52387,1431547132,27327
+26127,1997,70,Total Covered,"Total, all industries",720,7297,139179809,19074
+26127,1997,71,Federal Government,"Total, all industries",17,69,1995319,28918
+26127,1997,71,Local Government,"Total, all industries",41,1210,28585731,23618
+26127,1997,71,Private,"Total, all industries",662,6017,108598759,18047
+26131,1997,70,Total Covered,"Total, all industries",260,2389,56053861,23468
+26131,1997,71,Federal Government,"Total, all industries",13,62,1785273,28641
+26131,1997,71,Local Government,"Total, all industries",21,571,14607843,25605
+26131,1997,71,Private,"Total, all industries",226,1756,39660745,22590
+26139,1997,70,Total Covered,"Total, all industries",5163,108800,3158416871,29030
+26139,1997,71,Federal Government,"Total, all industries",39,504,18739787,37194
+26139,1997,71,Private,"Total, all industries",5048,97602,2815167804,28843
+26141,1997,70,Total Covered,"Total, all industries",428,3581,75151142,20987
+26141,1997,71,Federal Government,"Total, all industries",15,52,1510527,29002
+26141,1997,71,Local Government,"Total, all industries",29,663,14976273,22574
+26141,1997,71,Private,"Total, all industries",384,2865,58664342,20473
+26147,1997,70,Total Covered,"Total, all industries",3289,48747,1313959716,26955
+26147,1997,71,Federal Government,"Total, all industries",38,449,18050104,40216
+26147,1997,71,Private,"Total, all industries",3145,42381,1114382671,26294
+26151,1997,70,Total Covered,"Total, all industries",1008,13256,290701396,21930
+26151,1997,71,Federal Government,"Total, all industries",21,116,3474695,30084
+26151,1997,71,Local Government,"Total, all industries",66,2085,46014144,22066
+26151,1997,71,Private,"Total, all industries",921,11055,241212557,21819
+26153,1997,70,Total Covered,"Total, all industries",276,2570,59166145,23019
+26153,1997,71,Federal Government,"Total, all industries",8,58,1664040,28486
+26153,1997,71,Local Government,"Total, all industries",18,612,16642173,27197
+26153,1997,71,Private,"Total, all industries",250,1900,40859932,21505
+26157,1997,70,Total Covered,"Total, all industries",1079,13442,323247042,24048
+26157,1997,71,Federal Government,"Total, all industries",22,156,4750558,30534
+26157,1997,71,Private,"Total, all industries",984,10142,227345082,22416
+26159,1997,70,Total Covered,"Total, all industries",1450,20512,502477210,24497
+26159,1997,71,Federal Government,"Total, all industries",30,166,5298395,31838
+26159,1997,71,Private,"Total, all industries",1338,15963,385865684,24172
+26163,1997,70,Total Covered,"Total, all industries",35490,847153,31442867075,37116
+26163,1997,71,Federal Government,"Total, all industries",108,17737,783327839,44164
+26163,1997,71,State Government,"Total, all industries",30,15831,665601584,42045
+26163,1997,71,Local Government,"Total, all industries",378,80757,2734966993,33867
+26163,1997,71,Private,"Total, all industries",34975,732828,27258970659,37197
+27031,1997,70,Total Covered,"Total, all industries",278,2532,47147258,18624
+27031,1997,71,Federal Government,"Total, all industries",13,116,3728212,32163
+27031,1997,71,State Government,"Total, all industries",6,38,1249233,32947
+27031,1997,71,Local Government,"Total, all industries",21,386,9813787,25424
+27031,1997,71,Private,"Total, all industries",239,1992,32356026,16245
+27075,1997,70,Total Covered,"Total, all industries",308,4025,99284942,24668
+27075,1997,71,Federal Government,"Total, all industries",5,37,951266,25595
+27075,1997,71,State Government,"Total, all industries",7,206,5710573,27789
+27075,1997,71,Local Government,"Total, all industries",19,610,14791456,24252
+27075,1997,71,Private,"Total, all industries",277,3172,77831647,24535
+27137,1997,70,Total Covered,"Total, all industries",5844,90755,2300240559,25346
+27137,1997,71,Federal Government,"Total, all industries",76,2209,69694648,31546
+27137,1997,71,State Government,"Total, all industries",75,3304,117759495,35644
+27137,1997,71,Local Government,"Total, all industries",253,12499,334260805,26742
+27137,1997,71,Private,"Total, all industries",5440,72742,1778525611,24450
+28045,1997,70,Total Covered,"Total, all industries",719,12217,336861950,27574
+28045,1997,71,Federal Government,"Total, all industries",19,1546,78321936,50653
+28045,1997,71,State Government,"Total, all industries",6,55,1402495,25461
+28045,1997,71,Local Government,"Total, all industries",27,1694,34563294,20398
+28045,1997,71,Private,"Total, all industries",667,8921,222574225,24949
+28047,1997,70,Total Covered,"Total, all industries",4308,82437,1800803898,21845
+28047,1997,71,Federal Government,"Total, all industries",42,6563,207037371,31548
+28047,1997,71,State Government,"Total, all industries",26,1155,25732139,22281
+28047,1997,71,Local Government,"Total, all industries",82,8942,217268486,24298
+28047,1997,71,Private,"Total, all industries",4158,65777,1350765902,20535
+28059,1997,70,Total Covered,"Total, all industries",2259,47450,1299098679,27379
+28059,1997,71,Federal Government,"Total, all industries",25,927,37611256,40573
+28059,1997,71,State Government,"Total, all industries",16,319,7339170,23037
+28059,1997,71,Local Government,"Total, all industries",89,8087,190585868,23567
+28059,1997,71,Private,"Total, all industries",2130,38117,1063562385,27903
+33015,1997,70,Total Covered,"Total, all industries",9399,114905,3411652378,29691
+33015,1997,71,Federal Government,"Total, all industries",72,1525,61729171,40483
+33015,1997,71,State Government,"Total, all industries",95,1100,24608985,22380
+33015,1997,71,Local Government,"Total, all industries",140,9322,262820756,28194
+33015,1997,71,Private,"Total, all industries",9092,102959,3062493466,29745
+33017,1997,70,Total Covered,"Total, all industries",2524,42456,1162205760,27374
+33017,1997,71,Federal Government,"Total, all industries",26,327,12900342,39471
+33017,1997,71,State Government,"Total, all industries",43,3891,126608834,32542
+33017,1997,71,Local Government,"Total, all industries",49,3693,93951609,25442
+33017,1997,71,Private,"Total, all industries",2407,34546,928744975,26884
+34001,1997,70,Total Covered,"Total, all industries",6252,137761,4009593616,29105
+34001,1997,71,Federal Government,"Total, all industries",49,2511,133704369,53258
+34001,1997,71,State Government,"Total, all industries",9,3218,125045304,38864
+34001,1997,71,Local Government,"Total, all industries",113,12310,456544551,37089
+34001,1997,71,Private,"Total, all industries",6080,119724,3294299392,27516
+34003,1997,70,Total Covered,"Total, all industries",33026,434355,17440777117,40153
+34003,1997,71,Federal Government,"Total, all industries",61,3273,138400425,42292
+34003,1997,71,State Government,"Total, all industries",10,4182,125618435,30037
+34003,1997,71,Local Government,"Total, all industries",374,33981,1414203552,41617
+34003,1997,71,Private,"Total, all industries",32582,392919,15762554705,40117
+34005,1997,70,Total Covered,"Total, all industries",10059,166849,5498535016,32955
+34005,1997,71,Federal Government,"Total, all industries",80,5896,206364928,35002
+34005,1997,71,State Government,"Total, all industries",8,3288,150272508,45699
+34005,1997,71,Local Government,"Total, all industries",188,16716,580467115,34724
+34005,1997,71,Private,"Total, all industries",9783,140948,4561430465,32362
+34007,1997,70,Total Covered,"Total, all industries",12838,197659,6304992306,31898
+34007,1997,71,Federal Government,"Total, all industries",54,3392,145744323,42967
+34007,1997,71,State Government,"Total, all industries",11,4439,183963058,41440
+34007,1997,71,Local Government,"Total, all industries",218,24200,878660164,36309
+34007,1997,71,Private,"Total, all industries",12556,165628,5096624761,30772
+34009,1997,70,Total Covered,"Total, all industries",4030,36961,874702357,23666
+34009,1997,71,Federal Government,"Total, all industries",26,360,13725550,38135
+34009,1997,71,State Government,"Total, all industries",5,1673,51589395,30841
+34009,1997,71,Local Government,"Total, all industries",58,6371,205139682,32197
+34009,1997,71,Private,"Total, all industries",3942,28557,604247730,21160
+34011,1997,70,Total Covered,"Total, all industries",3169,56628,1642637426,29008
+34011,1997,71,Federal Government,"Total, all industries",25,760,32057596,42176
+34011,1997,71,State Government,"Total, all industries",6,4040,166120671,41118
+34011,1997,71,Local Government,"Total, all industries",76,7251,241842095,33355
+34011,1997,71,Private,"Total, all industries",3062,44577,1202617064,26978
+34013,1997,70,Total Covered,"Total, all industries",20846,352357,13943318057,39572
+34013,1997,71,Federal Government,"Total, all industries",60,9654,477883965,49502
+34013,1997,71,State Government,"Total, all industries",23,19640,821379377,41822
+34013,1997,71,Local Government,"Total, all industries",298,36860,1602696283,43480
+34013,1997,71,Private,"Total, all industries",20465,286203,11041358432,38579
+34015,1997,70,Total Covered,"Total, all industries",5440,82169,2397245746,29175
+34015,1997,71,Federal Government,"Total, all industries",40,893,29731882,33288
+34015,1997,71,State Government,"Total, all industries",4,1968,68348481,34731
+34015,1997,71,Local Government,"Total, all industries",109,11275,371895807,32984
+34015,1997,71,Private,"Total, all industries",5287,68033,1927269576,28329
+34017,1997,70,Total Covered,"Total, all industries",13170,226858,8736899425,38513
+34017,1997,71,Federal Government,"Total, all industries",34,9107,363094629,39870
+34017,1997,71,State Government,"Total, all industries",4,1883,62657391,33277
+34017,1997,71,Local Government,"Total, all industries",101,24925,1049511121,42106
+34017,1997,71,Private,"Total, all industries",13031,190943,7261636284,38030
+34023,1997,70,Total Covered,"Total, all industries",19120,375182,15089254040,40218
+34023,1997,71,Federal Government,"Total, all industries",57,3453,146592816,42459
+34023,1997,71,State Government,"Total, all industries",10,18435,762779655,41376
+34023,1997,71,Local Government,"Total, all industries",168,26167,1053355599,40255
+34023,1997,71,Private,"Total, all industries",18886,327127,13126525970,40127
+34025,1997,70,Total Covered,"Total, all industries",17879,220206,7527299394,34183
+34025,1997,71,Federal Government,"Total, all industries",82,8976,433114591,48253
+34025,1997,71,State Government,"Total, all industries",6,2345,79633901,33954
+34025,1997,71,Local Government,"Total, all industries",229,25093,942382312,37556
+34025,1997,71,Private,"Total, all industries",17562,183792,6072168590,33038
+34029,1997,70,Total Covered,"Total, all industries",10282,123646,3307423646,26749
+34029,1997,71,Federal Government,"Total, all industries",37,3105,138473377,44596
+34029,1997,71,Local Government,"Total, all industries",181,18397,662490112,36011
+34029,1997,71,Private,"Total, all industries",10063,101846,2496998136,24517
+34033,1997,70,Total Covered,"Total, all industries",1355,21477,805632259,37511
+34033,1997,71,Federal Government,"Total, all industries",22,190,6924410,36380
+34033,1997,71,Private,"Total, all industries",1260,17725,685186920,38657
+34035,1997,70,Total Covered,"Total, all industries",9140,162172,7455046204,45970
+34035,1997,71,Federal Government,"Total, all industries",35,2643,112419459,42537
+34035,1997,71,State Government,"Total, all industries",3,1345,50111177,37264
+34035,1997,71,Local Government,"Total, all industries",116,10211,396510471,38830
+34035,1997,71,Private,"Total, all industries",8986,147974,6896005097,46603
+34039,1997,70,Total Covered,"Total, all industries",14903,225712,12741175476,56449
+34039,1997,71,Federal Government,"Total, all industries",31,2151,93926373,43660
+34039,1997,71,State Government,"Total, all industries",4,2866,115203835,40204
+34039,1997,71,Local Government,"Total, all industries",126,20366,861247925,42289
+34039,1997,71,Private,"Total, all industries",14742,200329,11670797343,58258
+36005,1997,70,Total Covered,"Total, all industries",14508,204816,6171780973,30133
+36005,1997,71,Federal Government,"Total, all industries",9,8932,388662416,43514
+36005,1997,71,State Government,"Total, all industries",11,2711,102365311,37760
+36005,1997,71,Local Government,"Total, all industries",13,12927,466119465,36059
+36005,1997,71,Private,"Total, all industries",14475,180247,5214633781,28931
+36011,1997,70,Total Covered,"Total, all industries",1638,24487,615073573,25118
+36011,1997,71,Federal Government,"Total, all industries",19,117,4458549,38053
+36011,1997,71,State Government,"Total, all industries",10,1541,59900528,38871
+36011,1997,71,Local Government,"Total, all industries",64,3590,105376031,29350
+36011,1997,71,Private,"Total, all industries",1546,19238,445338465,23148
+36013,1997,70,Total Covered,"Total, all industries",3301,55824,1315693310,23569
+36013,1997,71,Federal Government,"Total, all industries",34,328,12604242,38457
+36013,1997,71,State Government,"Total, all industries",8,1583,60110157,37962
+36013,1997,71,Local Government,"Total, all industries",93,7404,207806713,28065
+36013,1997,71,Private,"Total, all industries",3166,46508,1035172198,22258
+36027,1997,70,Total Covered,"Total, all industries",6808,102946,3201476812,31099
+36027,1997,71,Federal Government,"Total, all industries",44,1939,61262108,31596
+36027,1997,71,State Government,"Total, all industries",20,7487,271485844,36263
+36027,1997,71,Local Government,"Total, all industries",107,12244,368051631,30060
+36027,1997,71,Private,"Total, all industries",6637,81276,2500677229,30768
+36029,1997,70,Total Covered,"Total, all industries",23226,449615,12734865936,28324
+36029,1997,71,Federal Government,"Total, all industries",74,8956,360655891,40268
+36029,1997,71,State Government,"Total, all industries",53,17741,665859668,37533
+36029,1997,71,Local Government,"Total, all industries",311,44229,1439834275,32554
+36029,1997,71,Private,"Total, all industries",22788,378689,10268516102,27116
+36045,1997,70,Total Covered,"Total, all industries",2542,37059,910819832,24578
+36045,1997,71,Federal Government,"Total, all industries",39,2847,82614848,29014
+36045,1997,71,State Government,"Total, all industries",12,1841,68777817,37367
+36045,1997,71,Local Government,"Total, all industries",99,5471,147032678,26874
+36045,1997,71,Private,"Total, all industries",2392,26900,612394489,22766
+36047,1997,70,Total Covered,"Total, all industries",36360,412866,11499561642,27853
+36047,1997,71,Federal Government,"Total, all industries",14,8984,381001181,42410
+36047,1997,71,State Government,"Total, all industries",15,8272,364477883,44059
+36047,1997,71,Local Government,"Total, all industries",12,15516,642622279,41417
+36047,1997,71,Private,"Total, all industries",36319,380094,10111460299,26603
+36055,1997,70,Total Covered,"Total, all industries",16689,390508,13103817870,33556
+36055,1997,71,Federal Government,"Total, all industries",49,3075,125349454,40760
+36055,1997,71,State Government,"Total, all industries",34,5195,191077763,36782
+36055,1997,71,Local Government,"Total, all industries",193,35848,1158527515,32318
+36055,1997,71,Private,"Total, all industries",16413,346390,11628863138,33572
+36059,1997,70,Total Covered,"Total, all industries",47408,570048,20053671139,35179
+36059,1997,71,Federal Government,"Total, all industries",87,8422,383564243,45541
+36059,1997,71,State Government,"Total, all industries",18,3847,156283549,40621
+36059,1997,71,Local Government,"Total, all industries",495,64652,2801821572,43337
+36059,1997,71,Private,"Total, all industries",46808,493126,16712001775,33890
+36061,1997,70,Total Covered,"Total, all industries",109904,2186303,129031392614,59018
+36061,1997,71,Federal Government,"Total, all industries",78,32846,1550182345,47196
+36061,1997,71,State Government,"Total, all industries",69,22830,1010365771,44257
+36061,1997,71,Local Government,"Total, all industries",61,362898,15244362761,42007
+36061,1997,71,Private,"Total, all industries",109696,1767730,111226481737,62921
+36063,1997,70,Total Covered,"Total, all industries",4796,78814,2246625272,28506
+36063,1997,71,Federal Government,"Total, all industries",30,1122,43395898,38666
+36063,1997,71,State Government,"Total, all industries",10,991,40526279,40881
+36063,1997,71,Local Government,"Total, all industries",82,10034,339301186,33815
+36063,1997,71,Private,"Total, all industries",4674,66666,1823401909,27351
+36071,1997,70,Total Covered,"Total, all industries",8040,110205,2895491858,26274
+36071,1997,71,Federal Government,"Total, all industries",68,5664,194297804,34301
+36071,1997,71,State Government,"Total, all industries",13,2973,118772505,39946
+36071,1997,71,Local Government,"Total, all industries",173,15764,479703224,30430
+36071,1997,71,Private,"Total, all industries",7786,85804,2102718325,24506
+36073,1997,70,Total Covered,"Total, all industries",765,11453,277648395,24242
+36073,1997,71,Federal Government,"Total, all industries",10,48,1866678,38755
+36073,1997,71,State Government,"Total, all industries",8,1311,49790822,37984
+36073,1997,71,Local Government,"Total, all industries",40,2718,74818681,27530
+36073,1997,71,Private,"Total, all industries",707,7377,151172214,20494
+36075,1997,70,Total Covered,"Total, all industries",2147,33406,945318414,28298
+36075,1997,71,Federal Government,"Total, all industries",22,144,5614941,38970
+36075,1997,71,State Government,"Total, all industries",9,2086,97963192,46958
+36075,1997,71,Local Government,"Total, all industries",110,6478,189325826,29224
+36075,1997,71,Private,"Total, all industries",2006,24697,652414455,26417
+36079,1997,70,Total Covered,"Total, all industries",2467,19370,593266750,30628
+36079,1997,71,Federal Government,"Total, all industries",11,114,4789354,42166
+36079,1997,71,Private,"Total, all industries",2420,15749,444628710,28233
+36081,1997,70,Total Covered,"Total, all industries",35263,453646,14250716202,31414
+36081,1997,71,Federal Government,"Total, all industries",23,11435,498957433,43633
+36081,1997,71,State Government,"Total, all industries",17,5775,233290245,40399
+36081,1997,71,Local Government,"Total, all industries",12,12721,492738017,38733
+36081,1997,71,Private,"Total, all industries",35211,423715,13025730507,30742
+36085,1997,70,Total Covered,"Total, all industries",6852,80632,2275691907,28223
+36085,1997,71,Federal Government,"Total, all industries",7,1272,51631486,40591
+36085,1997,71,State Government,"Total, all industries",8,2682,106256035,39612
+36085,1997,71,Local Government,"Total, all industries",8,2494,105480560,42299
+36085,1997,71,Private,"Total, all industries",6829,74184,2012323826,27126
+36087,1997,70,Total Covered,"Total, all industries",8070,98044,3301612696,33675
+36087,1997,71,Federal Government,"Total, all industries",33,682,27746276,40664
+36087,1997,71,State Government,"Total, all industries",18,5247,182476925,34778
+36087,1997,71,Local Government,"Total, all industries",111,12836,487071115,37946
+36087,1997,71,Private,"Total, all industries",7908,79279,2604318380,32850
+36103,1997,70,Total Covered,"Total, all industries",40721,521722,17438934901,33426
+36103,1997,71,Federal Government,"Total, all industries",126,10987,425450722,38725
+36103,1997,71,State Government,"Total, all industries",27,18195,689896058,37918
+36103,1997,71,Local Government,"Total, all industries",451,61945,2750364540,44400
+36103,1997,71,Private,"Total, all industries",40117,430595,13573223581,31522
+36111,1997,70,Total Covered,"Total, all industries",4366,55195,1332959358,24150
+36111,1997,71,Federal Government,"Total, all industries",42,336,13294111,39536
+36111,1997,71,State Government,"Total, all industries",14,3656,134966774,36916
+36111,1997,71,Local Government,"Total, all industries",75,8388,241338087,28771
+36111,1997,71,Private,"Total, all industries",4235,42814,943360386,22034
+36117,1997,70,Total Covered,"Total, all industries",1775,28806,713466146,24768
+36117,1997,71,Federal Government,"Total, all industries",23,106,3896706,36819
+36117,1997,71,State Government,"Total, all industries",9,1641,55028017,33538
+36117,1997,71,Local Government,"Total, all industries",72,4842,133886486,27653
+36117,1997,71,Private,"Total, all industries",1672,22218,520654937,23434
+36119,1997,70,Total Covered,"Total, all industries",32253,379834,15129364564,39832
+36119,1997,71,Federal Government,"Total, all industries",69,5691,242608758,42630
+36119,1997,71,State Government,"Total, all industries",26,6712,302035886,45001
+36119,1997,71,Local Government,"Total, all industries",223,43161,1991225458,46134
+36119,1997,71,Private,"Total, all industries",31935,324269,12593494462,38837
+37013,1997,70,Total Covered,"Total, all industries",1127,18700,414036772,22141
+37013,1997,71,Federal Government,"Total, all industries",24,128,4393924,34261
+37013,1997,71,State Government,"Total, all industries",22,676,16634840,24605
+37013,1997,71,Local Government,"Total, all industries",42,2165,49275592,22761
+37013,1997,71,Private,"Total, all industries",1040,15731,343732416,21851
+37015,1997,70,Total Covered,"Total, all industries",374,7275,129544281,17806
+37015,1997,71,Federal Government,"Total, all industries",15,105,3331982,31633
+37015,1997,71,State Government,"Total, all industries",15,143,3707282,25940
+37015,1997,71,Local Government,"Total, all industries",23,1030,22430029,21773
+37015,1997,71,Private,"Total, all industries",321,5997,100074988,16688
+37019,1997,70,Total Covered,"Total, all industries",1579,19809,473541815,23905
+37019,1997,71,Federal Government,"Total, all industries",17,344,12487075,36291
+37019,1997,71,State Government,"Total, all industries",17,204,5084395,24913
+37019,1997,71,Local Government,"Total, all industries",56,2884,67956468,23565
+37019,1997,71,Private,"Total, all industries",1489,16377,388013877,23692
+37029,1997,70,Total Covered,"Total, all industries",167,1331,26434445,19858
+37029,1997,71,Federal Government,"Total, all industries",7,12,348497,30086
+37029,1997,71,State Government,"Total, all industries",10,51,1439402,28456
+37029,1997,71,Local Government,"Total, all industries",6,300,6270172,20924
+37029,1997,71,Private,"Total, all industries",144,969,18376374,18958
+37031,1997,70,Total Covered,"Total, all industries",1821,21005,383455045,18255
+37031,1997,71,Federal Government,"Total, all industries",28,250,9368480,37549
+37031,1997,71,State Government,"Total, all industries",23,836,22594020,27018
+37031,1997,71,Local Government,"Total, all industries",44,2901,67528597,23275
+37031,1997,71,Private,"Total, all industries",1726,17018,283963948,16686
+37041,1997,70,Total Covered,"Total, all industries",363,5357,110013407,20535
+37041,1997,71,Federal Government,"Total, all industries",7,39,1278780,32580
+37041,1997,71,State Government,"Total, all industries",16,141,3280871,23227
+37041,1997,71,Local Government,"Total, all industries",14,692,15295720,22101
+37041,1997,71,Private,"Total, all industries",326,4485,90158036,20104
+37049,1997,70,Total Covered,"Total, all industries",2066,37543,927982296,24718
+37049,1997,71,Federal Government,"Total, all industries",29,6471,246425387,38079
+37049,1997,71,State Government,"Total, all industries",29,1337,29187653,21827
+37049,1997,71,Local Government,"Total, all industries",72,5375,131914192,24540
+37049,1997,71,Private,"Total, all industries",1936,24359,520455064,21366
+37053,1997,70,Total Covered,"Total, all industries",349,3373,63495918,18822
+37053,1997,71,Federal Government,"Total, all industries",13,46,1229408,26971
+37053,1997,71,Private,"Total, all industries",323,2333,40712363,17454
+37055,1997,70,Total Covered,"Total, all industries",1518,15089,272421590,18054
+37055,1997,71,Federal Government,"Total, all industries",27,220,5188756,23576
+37055,1997,71,State Government,"Total, all industries",19,459,11311153,24661
+37055,1997,71,Local Government,"Total, all industries",27,1635,42043947,25708
+37055,1997,71,Private,"Total, all industries",1446,12775,213877734,16742
+37073,1997,70,Total Covered,"Total, all industries",170,1623,31800281,19600
+37073,1997,71,Federal Government,"Total, all industries",8,31,892029,28931
+37073,1997,71,State Government,"Total, all industries",10,124,3393904,27425
+37073,1997,71,Local Government,"Total, all industries",14,438,9436091,21535
+37073,1997,71,Private,"Total, all industries",138,1030,18078257,17556
+37091,1997,70,Total Covered,"Total, all industries",572,8872,168783388,19024
+37091,1997,71,Federal Government,"Total, all industries",15,78,2675145,34151
+37091,1997,71,State Government,"Total, all industries",18,502,10557771,21014
+37091,1997,71,Local Government,"Total, all industries",23,1162,25025307,21536
+37091,1997,71,Private,"Total, all industries",516,7129,130525165,18308
+37095,1997,70,Total Covered,"Total, all industries",199,2014,35273715,17512
+37095,1997,71,Federal Government,"Total, all industries",12,42,841978,19850
+37095,1997,71,State Government,"Total, all industries",10,363,8867765,24435
+37095,1997,71,Local Government,"Total, all industries",13,355,7050859,19885
+37095,1997,71,Private,"Total, all industries",164,1254,18513113,14759
+37103,1997,70,Total Covered,"Total, all industries",185,1812,35752861,19728
+37103,1997,71,Federal Government,"Total, all industries",9,27,826499,31189
+37103,1997,71,State Government,"Total, all industries",12,84,1559989,18516
+37103,1997,71,Local Government,"Total, all industries",14,410,9169608,22365
+37103,1997,71,Private,"Total, all industries",150,1292,24196765,18735
+37129,1997,70,Total Covered,"Total, all industries",5449,79361,1991791654,25098
+37129,1997,71,Federal Government,"Total, all industries",35,847,38247741,45143
+37129,1997,71,State Government,"Total, all industries",43,2584,73405387,28406
+37129,1997,71,Local Government,"Total, all industries",64,8750,248060879,28349
+37129,1997,71,Private,"Total, all industries",5307,67179,1632077647,24294
+37133,1997,70,Total Covered,"Total, all industries",2328,36854,699622496,18984
+37133,1997,71,Federal Government,"Total, all industries",29,5245,135781322,25889
+37133,1997,71,State Government,"Total, all industries",26,938,19361197,20632
+37133,1997,71,Local Government,"Total, all industries",19,5504,129217563,23478
+37133,1997,71,Private,"Total, all industries",2255,25167,415262414,16500
+37137,1997,70,Total Covered,"Total, all industries",264,2746,47835735,17418
+37137,1997,71,Federal Government,"Total, all industries",11,32,972064,30456
+37137,1997,71,State Government,"Total, all industries",9,126,2641247,21046
+37137,1997,71,Local Government,"Total, all industries",16,547,10953241,20039
+37137,1997,71,Private,"Total, all industries",228,2042,33269183,16289
+37139,1997,70,Total Covered,"Total, all industries",880,14026,295549953,21071
+37139,1997,71,Federal Government,"Total, all industries",12,641,23163288,36122
+37139,1997,71,State Government,"Total, all industries",27,1537,37936136,24686
+37139,1997,71,Local Government,"Total, all industries",29,2759,68022563,24656
+37139,1997,71,Private,"Total, all industries",812,9089,166427966,18310
+37141,1997,70,Total Covered,"Total, all industries",732,7984,154916305,19404
+37141,1997,71,Federal Government,"Total, all industries",13,76,2100312,27545
+37141,1997,71,State Government,"Total, all industries",18,558,14167656,25379
+37141,1997,71,Local Government,"Total, all industries",23,1518,33859376,22309
+37141,1997,71,Private,"Total, all industries",677,5832,104788961,17969
+37143,1997,70,Total Covered,"Total, all industries",201,1823,31234947,17135
+37143,1997,71,Federal Government,"Total, all industries",8,37,1197432,32218
+37143,1997,71,State Government,"Total, all industries",12,85,2209644,25945
+37143,1997,71,Local Government,"Total, all industries",15,514,10230465,19888
+37143,1997,71,Private,"Total, all industries",166,1186,17597406,14837
+37147,1997,70,Total Covered,"Total, all industries",3055,59917,1489916400,24866
+37147,1997,71,Federal Government,"Total, all industries",27,374,14173443,37855
+37147,1997,71,State Government,"Total, all industries",34,5953,207678759,34888
+37147,1997,71,Local Government,"Total, all industries",65,9416,271526788,28836
+37147,1997,71,Private,"Total, all industries",2929,44174,996537410,22559
+37177,1997,70,Total Covered,"Total, all industries",99,843,14129743,16770
+37177,1997,71,Federal Government,"Total, all industries",6,18,553814,30346
+37177,1997,71,State Government,"Total, all industries",10,58,1374366,23662
+37177,1997,71,Local Government,"Total, all industries",8,264,4905624,18582
+37177,1997,71,Private,"Total, all industries",75,502,7295939,14527
+37187,1997,70,Total Covered,"Total, all industries",293,3395,65188437,19199
+37187,1997,71,Federal Government,"Total, all industries",9,51,1458540,28740
+37187,1997,71,State Government,"Total, all industries",16,210,5439103,25870
+37187,1997,71,Local Government,"Total, all industries",17,957,20169513,21074
+37187,1997,71,Private,"Total, all industries",251,2177,38121281,17508
+39007,1997,70,Total Covered,"Total, all industries",2213,33581,783372244,23328
+39007,1997,71,Federal Government,"Total, all industries",22,252,8473168,33646
+39007,1997,71,State Government,"Total, all industries",16,296,8339987,28215
+39007,1997,71,Local Government,"Total, all industries",129,4466,107384481,24044
+39007,1997,71,Private,"Total, all industries",2046,28568,659174608,23074
+39035,1997,70,Total Covered,"Total, all industries",39520,796396,25961975700,32599
+39035,1997,71,Federal Government,"Total, all industries",80,18559,851233838,45866
+39035,1997,71,State Government,"Total, all industries",60,6148,212466847,34559
+39035,1997,71,Local Government,"Total, all industries",782,75800,2334576128,30799
+39035,1997,71,Private,"Total, all industries",38598,695889,22563698887,32424
+39043,1997,70,Total Covered,"Total, all industries",2117,39382,1061083961,26943
+39043,1997,71,Federal Government,"Total, all industries",18,193,7514388,38968
+39043,1997,71,State Government,"Total, all industries",22,880,26217075,29806
+39043,1997,71,Local Government,"Total, all industries",87,3884,106035365,27298
+39043,1997,71,Private,"Total, all industries",1990,34425,921317133,26763
+39085,1997,70,Total Covered,"Total, all industries",6291,97814,2770314710,28322
+39085,1997,71,Federal Government,"Total, all industries",13,511,20622125,40396
+39085,1997,71,State Government,"Total, all industries",17,144,4632193,32187
+39085,1997,71,Local Government,"Total, all industries",180,10759,312212776,29018
+39085,1997,71,Private,"Total, all industries",6081,86400,2432847616,28158
+39093,1997,70,Total Covered,"Total, all industries",5644,101758,2930492627,28799
+39093,1997,71,Federal Government,"Total, all industries",22,1176,71714953,61004
+39093,1997,71,State Government,"Total, all industries",31,1197,41347553,34535
+39093,1997,71,Local Government,"Total, all industries",232,11434,328166775,28702
+39093,1997,71,Private,"Total, all industries",5359,87951,2489263346,28303
+39095,1997,70,Total Covered,"Total, all industries",11013,232933,6956895677,29866
+39095,1997,71,Federal Government,"Total, all industries",40,2128,91389795,42938
+39095,1997,71,State Government,"Total, all industries",48,7655,269661546,35229
+39095,1997,71,Local Government,"Total, all industries",125,18550,610587793,32917
+39095,1997,71,Private,"Total, all industries",10800,204601,5985256543,29253
+39123,1997,70,Total Covered,"Total, all industries",1146,14656,368130190,25118
+39123,1997,71,Federal Government,"Total, all industries",13,162,5588931,34535
+39123,1997,71,State Government,"Total, all industries",14,197,6530308,33177
+39123,1997,71,Local Government,"Total, all industries",63,1860,50131661,26959
+39123,1997,71,Private,"Total, all industries",1056,12438,305879290,24593
+39143,1997,70,Total Covered,"Total, all industries",1409,27040,675344699,24975
+39143,1997,71,Federal Government,"Total, all industries",11,126,4376405,34619
+39143,1997,71,State Government,"Total, all industries",19,177,5666633,32090
+39143,1997,71,Local Government,"Total, all industries",80,2988,76930641,25750
+39143,1997,71,Private,"Total, all industries",1299,23750,588371020,24774
+41007,1997,70,Total Covered,"Total, all industries",1424,15554,346034892,22248
+41007,1997,71,Federal Government,"Total, all industries",17,188,7062125,37481
+41007,1997,71,State Government,"Total, all industries",21,399,11489264,28813
+41007,1997,71,Local Government,"Total, all industries",34,1932,50184621,25979
+41007,1997,71,Private,"Total, all industries",1353,13035,277298882,21274
+41011,1997,70,Total Covered,"Total, all industries",1870,21117,489960016,23202
+41011,1997,71,Federal Government,"Total, all industries",23,391,15855500,40594
+41011,1997,71,State Government,"Total, all industries",27,533,16552333,31031
+41011,1997,71,Local Government,"Total, all industries",36,4022,105645955,26268
+41011,1997,71,Private,"Total, all industries",1784,16171,351906228,21761
+41015,1997,70,Total Covered,"Total, all industries",798,5940,119290518,20084
+41015,1997,71,Federal Government,"Total, all industries",13,133,4425426,33274
+41015,1997,71,State Government,"Total, all industries",14,125,3293329,26435
+41015,1997,71,Local Government,"Total, all industries",28,878,22051957,25130
+41015,1997,71,Private,"Total, all industries",743,4805,89519806,18632
+41019,1997,70,Total Covered,"Total, all industries",2785,36689,890335192,24267
+41019,1997,71,Federal Government,"Total, all industries",35,1576,64856625,41144
+41019,1997,71,State Government,"Total, all industries",23,639,18182928,28459
+41019,1997,71,Local Government,"Total, all industries",56,4735,117403743,24797
+41019,1997,71,Private,"Total, all industries",2672,29739,689891896,23198
+41039,1997,70,Total Covered,"Total, all industries",9729,132591,3337898991,25174
+41039,1997,71,Federal Government,"Total, all industries",56,2000,79647118,39825
+41039,1997,71,State Government,"Total, all industries",36,5461,166253938,30445
+41039,1997,71,Local Government,"Total, all industries",68,13442,402565302,29948
+41039,1997,71,Private,"Total, all industries",9570,111688,2689432633,24080
+41041,1997,70,Total Covered,"Total, all industries",1789,16736,352551768,21066
+41041,1997,71,Federal Government,"Total, all industries",21,239,8406166,35209
+41041,1997,71,State Government,"Total, all industries",17,391,12087779,30915
+41041,1997,71,Local Government,"Total, all industries",33,2712,79984976,29491
+41041,1997,71,Private,"Total, all industries",1718,13394,252072847,18820
+41057,1997,70,Total Covered,"Total, all industries",806,7656,161749332,21126
+41057,1997,71,Federal Government,"Total, all industries",18,135,4720021,35071
+41057,1997,71,State Government,"Total, all industries",17,276,8229472,29817
+41057,1997,71,Local Government,"Total, all industries",42,1218,31257747,25668
+41057,1997,71,Private,"Total, all industries",729,6028,117542092,19499
+42045,1997,70,Total Covered,"Total, all industries",12717,212299,6809118928,32073
+42045,1997,71,Federal Government,"Total, all industries",63,2337,110193298,47152
+42045,1997,71,State Government,"Total, all industries",26,2641,101382311,38388
+42045,1997,71,Local Government,"Total, all industries",206,17555,564163562,32138
+42045,1997,71,Private,"Total, all industries",12423,189767,6033379757,31794
+42049,1997,70,Total Covered,"Total, all industries",6469,124286,3351694153,26968
+42049,1997,71,Federal Government,"Total, all industries",45,1597,68642665,42993
+42049,1997,71,State Government,"Total, all industries",27,2990,110216599,36858
+42049,1997,71,Local Government,"Total, all industries",157,9572,278546570,29099
+42049,1997,71,Private,"Total, all industries",6240,110126,2894288319,26282
+42101,1997,70,Total Covered,"Total, all industries",26024,641697,22878298610,35653
+42101,1997,71,Federal Government,"Total, all industries",87,36453,1559450026,42779
+42101,1997,71,State Government,"Total, all industries",31,11511,435942395,37871
+42101,1997,71,Local Government,"Total, all industries",89,68076,2460138543,36138
+42101,1997,71,Private,"Total, all industries",25817,525656,18422767646,35047
+44001,1997,70,Total Covered,"Total, all industries",1199,12106,302891472,25019
+44001,1997,71,Federal Government,"Total, all industries",4,108,4145724,38357
+44001,1997,71,Private,"Total, all industries",1165,10595,253101008,23888
+44003,1997,70,Total Covered,"Total, all industries",4969,70275,1863072900,26511
+44003,1997,71,Federal Government,"Total, all industries",22,770,32533340,42233
+44003,1997,71,Private,"Total, all industries",4884,63362,1631551805,25750
+44005,1997,70,Total Covered,"Total, all industries",2929,33843,976735369,28861
+44005,1997,71,Federal Government,"Total, all industries",22,4214,201140749,47730
+44005,1997,71,Private,"Total, all industries",2843,26796,676367131,25241
+44007,1997,70,Total Covered,"Total, all industries",17029,278287,8268150996,29711
+44007,1997,71,Federal Government,"Total, all industries",65,4939,199421461,40380
+44007,1997,71,State Government,"Total, all industries",52,13681,491966379,35961
+44007,1997,71,Local Government,"Total, all industries",191,19236,678921985,35295
+44007,1997,71,Private,"Total, all industries",16721,240433,6897841171,28689
+44009,1997,70,Total Covered,"Total, all industries",3579,39291,1027539669,26152
+44009,1997,71,Federal Government,"Total, all industries",27,500,20195472,40404
+44009,1997,71,Private,"Total, all industries",3464,31936,793726529,24853
+45013,1997,70,Total Covered,"Total, all industries",3765,46227,1061556056,22964
+45013,1997,71,Federal Government,"Total, all industries",26,2045,57234656,27983
+45013,1997,71,State Government,"Total, all industries",21,1049,27877366,26582
+45013,1997,71,Local Government,"Total, all industries",22,4387,118300954,26964
+45013,1997,71,Private,"Total, all industries",3696,38746,858143080,22148
+45015,1997,70,Total Covered,"Total, all industries",1532,28156,726455262,25801
+45015,1997,71,Federal Government,"Total, all industries",11,263,8739682,33199
+45015,1997,71,State Government,"Total, all industries",18,1809,69420914,38377
+45015,1997,71,Local Government,"Total, all industries",46,4382,101745267,23219
+45015,1997,71,Private,"Total, all industries",1457,21702,546549399,25185
+45019,1997,70,Total Covered,"Total, all industries",9739,167907,4040483922,24064
+45019,1997,71,Federal Government,"Total, all industries",64,8857,345596350,39018
+45019,1997,71,State Government,"Total, all industries",28,14846,427708331,28810
+45019,1997,71,Local Government,"Total, all industries",52,13761,327082619,23769
+45019,1997,71,Private,"Total, all industries",9596,130443,2940096622,22539
+45029,1997,70,Total Covered,"Total, all industries",875,10732,217235820,20241
+45029,1997,71,Federal Government,"Total, all industries",7,103,3549277,34459
+45029,1997,71,State Government,"Total, all industries",15,380,9340067,24601
+45029,1997,71,Local Government,"Total, all industries",8,1657,33148594,20009
+45029,1997,71,Private,"Total, all industries",845,8593,171197882,19923
+45035,1997,70,Total Covered,"Total, all industries",1603,23648,533589482,22564
+45035,1997,71,Federal Government,"Total, all industries",8,167,5824416,34825
+45035,1997,71,State Government,"Total, all industries",16,1448,32642683,22551
+45035,1997,71,Local Government,"Total, all industries",43,3111,70121747,22540
+45035,1997,71,Private,"Total, all industries",1537,18923,425000636,22460
+45043,1997,70,Total Covered,"Total, all industries",1493,20234,435048849,21501
+45043,1997,71,Federal Government,"Total, all industries",11,97,3536547,36366
+45043,1997,71,State Government,"Total, all industries",14,541,18815301,34752
+45043,1997,71,Local Government,"Total, all industries",12,3262,73090218,22407
+45043,1997,71,Private,"Total, all industries",1456,16333,339606783,20792
+45049,1997,70,Total Covered,"Total, all industries",454,6072,136843263,22536
+45049,1997,71,Federal Government,"Total, all industries",6,375,14964739,39879
+45049,1997,71,State Government,"Total, all industries",12,189,4993351,26490
+45049,1997,71,Local Government,"Total, all industries",21,961,19340143,20122
+45049,1997,71,Private,"Total, all industries",414,4547,97545030,21451
+45051,1997,70,Total Covered,"Total, all industries",6629,88818,1739092983,19581
+45051,1997,71,Federal Government,"Total, all industries",19,407,15861739,38988
+45051,1997,71,State Government,"Total, all industries",21,2136,61869679,28966
+45051,1997,71,Local Government,"Total, all industries",18,6506,173340472,26642
+45051,1997,71,Private,"Total, all industries",6571,79769,1488021093,18654
+45053,1997,70,Total Covered,"Total, all industries",368,4145,73256193,17676
+45053,1997,71,Federal Government,"Total, all industries",5,39,1163206,29699
+45053,1997,71,State Government,"Total, all industries",10,182,4466758,24520
+45053,1997,71,Local Government,"Total, all industries",14,914,18804832,20574
+45053,1997,71,Private,"Total, all industries",338,3009,48821397,16224
+48007,1997,70,Total Covered,"Total, all industries",527,5163,101370238,19636
+48007,1997,71,Federal Government,"Total, all industries",3,27,1038093,38212
+48007,1997,71,State Government,"Total, all industries",9,123,3297171,26843
+48007,1997,71,Local Government,"Total, all industries",18,821,17630607,21475
+48007,1997,71,Private,"Total, all industries",497,4192,79404367,18944
+48039,1997,70,Total Covered,"Total, all industries",3584,71686,2310495353,32231
+48039,1997,71,Federal Government,"Total, all industries",20,440,17070045,38818
+48039,1997,71,State Government,"Total, all industries",31,2933,79416979,27077
+48039,1997,71,Local Government,"Total, all industries",109,10178,245516609,24122
+48039,1997,71,Private,"Total, all industries",3425,58135,1968491720,33861
+48057,1997,70,Total Covered,"Total, all industries",502,9970,360212566,36129
+48057,1997,71,Federal Government,"Total, all industries",8,44,1479544,33947
+48057,1997,71,State Government,"Total, all industries",14,76,2131290,27921
+48057,1997,71,Local Government,"Total, all industries",26,1198,28241772,23574
+48057,1997,71,Private,"Total, all industries",455,8652,328359960,37951
+48061,1997,70,Total Covered,"Total, all industries",5592,96403,1931404552,20035
+48061,1997,71,Federal Government,"Total, all industries",47,1627,76327894,46911
+48061,1997,71,State Government,"Total, all industries",33,3591,81428458,22674
+48061,1997,71,Local Government,"Total, all industries",102,17171,408751798,23805
+48061,1997,71,Private,"Total, all industries",5411,74014,1364896402,18441
+48071,1997,70,Total Covered,"Total, all industries",445,6175,192745523,31215
+48071,1997,71,Federal Government,"Total, all industries",9,51,1938862,38142
+48071,1997,71,State Government,"Total, all industries",14,64,1833238,28757
+48071,1997,71,Local Government,"Total, all industries",25,1298,31304714,24124
+48071,1997,71,Private,"Total, all industries",397,4763,157668709,33106
+48167,1997,70,Total Covered,"Total, all industries",4382,86275,2327393985,26977
+48167,1997,71,Federal Government,"Total, all industries",24,941,42065519,44699
+48167,1997,71,State Government,"Total, all industries",35,15125,453293104,29971
+48167,1997,71,Local Government,"Total, all industries",121,12246,297073041,24258
+48167,1997,71,Private,"Total, all industries",4203,57963,1534962321,26482
+48201,1997,70,Total Covered,"Total, all industries",81886,1682615,59975224164,35644
+48201,1997,71,Federal Government,"Total, all industries",87,24351,1147490070,47124
+48201,1997,71,State Government,"Total, all industries",72,36975,1078360339,29165
+48201,1997,71,Local Government,"Total, all industries",235,152869,4276991750,27978
+48201,1997,71,Private,"Total, all industries",81492,1468421,53472382005,36415
+48239,1997,70,Total Covered,"Total, all industries",366,5436,122012327,22444
+48239,1997,71,Federal Government,"Total, all industries",8,36,1133883,31424
+48239,1997,71,State Government,"Total, all industries",11,46,1290104,28097
+48239,1997,71,Local Government,"Total, all industries",28,943,18957246,20108
+48239,1997,71,Private,"Total, all industries",319,4412,100631094,22811
+48245,1997,70,Total Covered,"Total, all industries",5934,118332,3437353224,29048
+48245,1997,71,Federal Government,"Total, all industries",38,2464,87262324,35410
+48245,1997,71,State Government,"Total, all industries",45,4833,127904727,26466
+48245,1997,71,Local Government,"Total, all industries",105,11222,283086210,25225
+48245,1997,71,Private,"Total, all industries",5747,99812,2939099963,29446
+48261,1997,70,Total Covered,"Total, all industries",25,312,6855622,21956
+48261,1997,71,Federal Government,"Total, all industries",2,3,48979,16326
+48261,1997,71,Private,"Total, all industries",19,237,5623045,23768
+48273,1997,70,Total Covered,"Total, all industries",609,10646,213247712,20032
+48273,1997,71,Federal Government,"Total, all industries",20,718,23851131,33219
+48273,1997,71,State Government,"Total, all industries",21,1856,31802025,17136
+48273,1997,71,Local Government,"Total, all industries",32,1674,37457950,22377
+48273,1997,71,Private,"Total, all industries",537,6398,120136606,18778
+48321,1997,70,Total Covered,"Total, all industries",887,11997,350536956,29219
+48321,1997,71,Federal Government,"Total, all industries",10,96,3243322,33932
+48321,1997,71,State Government,"Total, all industries",17,130,3370802,25929
+48321,1997,71,Local Government,"Total, all industries",44,2496,56252602,22540
+48321,1997,71,Private,"Total, all industries",816,9276,287670230,31014
+48355,1997,70,Total Covered,"Total, all industries",7900,137107,3527785283,25730
+48355,1997,71,Federal Government,"Total, all industries",51,5746,243038058,42299
+48355,1997,71,State Government,"Total, all industries",52,3907,91641786,23457
+48355,1997,71,Local Government,"Total, all industries",71,16507,429771976,26035
+48355,1997,71,Private,"Total, all industries",7726,110947,2763333463,24907
+48361,1997,70,Total Covered,"Total, all industries",1405,24569,723451943,29446
+48361,1997,71,Federal Government,"Total, all industries",3,131,4739828,36321
+48361,1997,71,State Government,"Total, all industries",16,338,9245793,27327
+48361,1997,71,Local Government,"Total, all industries",44,3801,94754491,24927
+48361,1997,71,Private,"Total, all industries",1342,20299,614711831,30284
+48391,1997,70,Total Covered,"Total, all industries",235,2079,46020640,22139
+48391,1997,71,Federal Government,"Total, all industries",6,39,1346509,34526
+48391,1997,71,State Government,"Total, all industries",8,33,875174,26588
+48391,1997,71,Local Government,"Total, all industries",23,550,11778892,21419
+48391,1997,71,Private,"Total, all industries",199,1457,32020065,21979
+48409,1997,70,Total Covered,"Total, all industries",1021,14569,365169993,25066
+48409,1997,71,Federal Government,"Total, all industries",12,343,12517821,36504
+48409,1997,71,State Government,"Total, all industries",16,195,5287298,27091
+48409,1997,71,Local Government,"Total, all industries",60,3260,73109139,22426
+48409,1997,71,Private,"Total, all industries",934,10770,274255735,25464
+48469,1997,70,Total Covered,"Total, all industries",2212,34661,835620279,24108
+48469,1997,71,Federal Government,"Total, all industries",19,238,9449669,39704
+48469,1997,71,State Government,"Total, all industries",25,316,9715377,30721
+48469,1997,71,Local Government,"Total, all industries",40,5437,130994456,24094
+48469,1997,71,Private,"Total, all industries",2128,28670,685460777,23909
+48489,1997,70,Total Covered,"Total, all industries",345,3823,68107244,17816
+48489,1997,71,Federal Government,"Total, all industries",8,37,1255112,34075
+48489,1997,71,State Government,"Total, all industries",9,83,2188944,26373
+48489,1997,71,Local Government,"Total, all industries",24,1207,25081339,20787
+48489,1997,71,Private,"Total, all industries",304,2497,39581849,15855
+51001,1997,70,Total Covered,"Total, all industries",870,12392,239342600,19314
+51001,1997,71,Federal Government,"Total, all industries",19,638,27961424,43861
+51001,1997,71,State Government,"Total, all industries",16,352,9456693,26840
+51001,1997,71,Local Government,"Total, all industries",33,1375,30707682,22326
+51001,1997,71,Private,"Total, all industries",802,10027,171216801,17076
+51013,1997,70,Total Covered,"Total, all industries",6303,158743,7334222004,46202
+51013,1997,71,Federal Government,"Total, all industries",64,35011,2061443568,58880
+51013,1997,71,State Government,"Total, all industries",13,303,11440704,37717
+51013,1997,71,Local Government,"Total, all industries",39,8398,311635486,37108
+51013,1997,71,Private,"Total, all industries",6188,115030,4949702246,43030
+51033,1997,70,Total Covered,"Total, all industries",389,4227,91189943,21572
+51033,1997,71,Federal Government,"Total, all industries",15,335,11319909,33782
+51033,1997,71,State Government,"Total, all industries",13,203,5121819,25262
+51033,1997,71,Private,"Total, all industries",356,2911,57837858,19871
+51036,1997,70,Total Covered,"Total, all industries",117,1117,24661006,22081
+51036,1997,71,Federal Government,"Total, all industries",6,19,634066,33667
+51036,1997,71,Private,"Total, all industries",103,756,17037539,22544
+51041,1997,70,Total Covered,"Total, all industries",5772,97550,2708877801,27769
+51041,1997,71,Federal Government,"Total, all industries",12,3384,129073494,38142
+51041,1997,71,State Government,"Total, all industries",24,3463,95111568,27468
+51041,1997,71,Local Government,"Total, all industries",32,10200,264891542,25970
+51041,1997,71,Private,"Total, all industries",5705,80503,2219801197,27574
+51057,1997,70,Total Covered,"Total, all industries",317,3953,74025720,18728
+51057,1997,71,Federal Government,"Total, all industries",6,28,855548,31017
+51057,1997,71,Private,"Total, all industries",294,3547,63667301,17950
+51059,1997,70,Total Covered,"Total, all industries",25951,457514,18618622929,40695
+51059,1997,71,Federal Government,"Total, all industries",87,17167,855265411,49820
+51059,1997,71,State Government,"Total, all industries",30,6859,216569952,31576
+51059,1997,71,Local Government,"Total, all industries",70,36618,1271484291,34723
+51059,1997,71,Private,"Total, all industries",25765,396870,16275303275,41009
+51073,1997,70,Total Covered,"Total, all industries",765,8271,154230096,18648
+51073,1997,71,Federal Government,"Total, all industries",11,92,2747301,29889
+51073,1997,71,State Government,"Total, all industries",14,690,17626598,25558
+51073,1997,71,Local Government,"Total, all industries",19,1519,28102051,18501
+51073,1997,71,Private,"Total, all industries",721,5970,105754146,17714
+51085,1997,70,Total Covered,"Total, all industries",2483,34623,894153341,25825
+51085,1997,71,Federal Government,"Total, all industries",7,149,4905183,32829
+51085,1997,71,State Government,"Total, all industries",14,558,14809948,26545
+51085,1997,71,Local Government,"Total, all industries",31,2961,72436441,24466
+51085,1997,71,Private,"Total, all industries",2432,30955,802001769,25908
+51087,1997,70,Total Covered,"Total, all industries",7052,148830,4510799646,30309
+51087,1997,71,Federal Government,"Total, all industries",8,586,25046674,42724
+51087,1997,71,State Government,"Total, all industries",25,1697,43008248,25350
+51087,1997,71,Local Government,"Total, all industries",33,9432,278094384,29484
+51087,1997,71,Private,"Total, all industries",6986,137115,4164650340,30374
+51093,1997,70,Total Covered,"Total, all industries",520,12028,353867525,29421
+51093,1997,71,Federal Government,"Total, all industries",7,102,3470742,34055
+51093,1997,71,State Government,"Total, all industries",10,92,2591064,28240
+51093,1997,71,Local Government,"Total, all industries",8,1010,23079970,22861
+51093,1997,71,Private,"Total, all industries",495,10825,324725749,29999
+51095,1997,70,Total Covered,"Total, all industries",979,18858,424648808,22518
+51095,1997,71,Federal Government,"Total, all industries",4,26,839231,32804
+51095,1997,71,Private,"Total, all industries",938,15324,337453233,22022
+51097,1997,70,Total Covered,"Total, all industries",108,802,16537099,20613
+51097,1997,71,Federal Government,"Total, all industries",5,19,526462,27954
+51097,1997,71,Private,"Total, all industries",92,533,10768761,20223
+51099,1997,70,Total Covered,"Total, all industries",357,8327,337602357,40545
+51099,1997,71,Federal Government,"Total, all industries",9,3708,200757026,54139
+51099,1997,71,Private,"Total, all industries",334,3986,122411724,30710
+51101,1997,70,Total Covered,"Total, all industries",297,3921,120830230,30814
+51101,1997,71,Federal Government,"Total, all industries",2,21,632956,30876
+51101,1997,71,State Government,"Total, all industries",10,39,1071057,27173
+51101,1997,71,Local Government,"Total, all industries",5,550,11736654,21333
+51101,1997,71,Private,"Total, all industries",280,3311,107389563,32433
+51103,1997,70,Total Covered,"Total, all industries",457,4122,85504974,20744
+51103,1997,71,Federal Government,"Total, all industries",6,41,1178071,28559
+51103,1997,71,State Government,"Total, all industries",10,44,1318047,30242
+51103,1997,71,Local Government,"Total, all industries",6,381,7800701,20492
+51103,1997,71,Private,"Total, all industries",434,3656,75208155,20569
+51115,1997,70,Total Covered,"Total, all industries",210,1500,24906634,16600
+51115,1997,71,Federal Government,"Total, all industries",3,32,740076,23008
+51115,1997,71,Private,"Total, all industries",197,1155,18072096,15641
+51119,1997,70,Total Covered,"Total, all industries",333,2797,49831007,17817
+51119,1997,71,Federal Government,"Total, all industries",4,24,625663,26436
+51119,1997,71,State Government,"Total, all industries",8,138,3669047,26603
+51119,1997,71,Local Government,"Total, all industries",6,600,11430945,19046
+51119,1997,71,Private,"Total, all industries",315,2035,34105352,16759
+51127,1997,70,Total Covered,"Total, all industries",271,2502,46224571,18474
+51127,1997,71,Federal Government,"Total, all industries",5,33,1014937,30990
+51127,1997,71,Private,"Total, all industries",254,1978,33826065,17100
+51131,1997,70,Total Covered,"Total, all industries",350,4829,85361496,17678
+51131,1997,71,Federal Government,"Total, all industries",5,45,1339521,29548
+51131,1997,71,State Government,"Total, all industries",11,83,1709461,20700
+51131,1997,71,Local Government,"Total, all industries",10,1029,19808337,19258
+51131,1997,71,Private,"Total, all industries",324,3672,62504177,17021
+51133,1997,70,Total Covered,"Total, all industries",340,2669,49625751,18592
+51133,1997,71,Federal Government,"Total, all industries",4,30,843660,28200
+51133,1997,71,State Government,"Total, all industries",6,18,455441,25780
+51133,1997,71,Local Government,"Total, all industries",16,355,7768471,21909
+51133,1997,71,Private,"Total, all industries",315,2267,40558179,17890
+51149,1997,70,Total Covered,"Total, all industries",382,9529,283710250,29772
+51149,1997,71,Federal Government,"Total, all industries",18,4086,161703497,39572
+51149,1997,71,State Government,"Total, all industries",6,34,987686,29121
+51149,1997,71,Local Government,"Total, all industries",20,1134,25641728,22608
+51149,1997,71,Private,"Total, all industries",338,4275,95377339,22310
+51153,1997,70,Total Covered,"Total, all industries",4401,69737,1760518608,25245
+51153,1997,71,Federal Government,"Total, all industries",25,3732,135509811,36311
+51153,1997,71,State Government,"Total, all industries",23,1211,33051419,27293
+51153,1997,71,Local Government,"Total, all industries",32,11046,322282597,29176
+51153,1997,71,Private,"Total, all industries",4321,53748,1269674781,23623
+51159,1997,70,Total Covered,"Total, all industries",240,2913,62963950,21617
+51159,1997,71,Federal Government,"Total, all industries",6,27,792574,29445
+51159,1997,71,State Government,"Total, all industries",15,513,13066629,25454
+51159,1997,71,Local Government,"Total, all industries",5,291,7479747,25682
+51159,1997,71,Private,"Total, all industries",214,2081,41625000,20000
+51177,1997,70,Total Covered,"Total, all industries",1398,19204,429548983,22368
+51177,1997,71,Federal Government,"Total, all industries",6,49,1440847,29708
+51177,1997,71,State Government,"Total, all industries",11,88,2442443,27729
+51177,1997,71,Local Government,"Total, all industries",20,2798,73553211,26289
+51177,1997,71,Private,"Total, all industries",1361,16269,352112482,21643
+51179,1997,70,Total Covered,"Total, all industries",1326,18242,408550363,22396
+51179,1997,71,Federal Government,"Total, all industries",7,146,4599087,31447
+51179,1997,71,State Government,"Total, all industries",13,122,3135146,25768
+51179,1997,71,Local Government,"Total, all industries",22,3246,80016461,24651
+51179,1997,71,Private,"Total, all industries",1285,14728,320799669,21781
+51181,1997,70,Total Covered,"Total, all industries",104,2177,92889184,42660
+51181,1997,71,Federal Government,"Total, all industries",6,21,566790,27315
+51181,1997,71,State Government,"Total, all industries",7,33,657504,20128
+51181,1997,71,Local Government,"Total, all industries",6,439,9329646,21264
+51181,1997,71,Private,"Total, all industries",85,1685,82335244,48856
+51193,1997,70,Total Covered,"Total, all industries",361,3267,56065541,17160
+51193,1997,71,Federal Government,"Total, all industries",5,68,1957295,28961
+51193,1997,71,State Government,"Total, all industries",9,54,1119011,20627
+51193,1997,71,Local Government,"Total, all industries",17,604,12432790,20587
+51193,1997,71,Private,"Total, all industries",329,2542,40556445,15958
+51199,1997,70,Total Covered,"Total, all industries",1049,14095,317132394,22499
+51199,1997,71,Federal Government,"Total, all industries",8,1209,50473657,41763
+51199,1997,71,State Government,"Total, all industries",9,302,7393720,24503
+51199,1997,71,Local Government,"Total, all industries",32,2194,58481872,26654
+51199,1997,71,Private,"Total, all industries",1000,10391,200783145,19323
+51510,1997,70,Total Covered,"Total, all industries",5060,83987,3213295030,38259
+51510,1997,71,Federal Government,"Total, all industries",46,7778,414312436,53268
+51510,1997,71,State Government,"Total, all industries",19,1018,28454273,27956
+51510,1997,71,Local Government,"Total, all industries",31,6728,250328146,37209
+51510,1997,71,Private,"Total, all industries",4964,68464,2520200175,36811
+51550,1997,70,Total Covered,"Total, all industries",3916,73619,1668248530,22660
+51550,1997,71,Federal Government,"Total, all industries",13,1226,48652351,39678
+51550,1997,71,State Government,"Total, all industries",21,1548,38627036,24952
+51550,1997,71,Local Government,"Total, all industries",31,10310,271205711,26306
+51550,1997,71,Private,"Total, all industries",3851,60536,1309763432,21636
+51650,1997,70,Total Covered,"Total, all industries",2439,59046,1512454112,25615
+51650,1997,71,Federal Government,"Total, all industries",31,8502,380878465,44797
+51650,1997,71,State Government,"Total, all industries",20,1069,24707639,23120
+51650,1997,71,Local Government,"Total, all industries",31,7035,165543340,23533
+51650,1997,71,Private,"Total, all industries",2357,42441,941324668,22180
+51670,1997,70,Total Covered,"Total, all industries",529,9541,325950392,34165
+51670,1997,71,Federal Government,"Total, all industries",3,44,1693245,38925
+51670,1997,71,State Government,"Total, all industries",11,49,1556126,31543
+51670,1997,71,Local Government,"Total, all industries",21,1229,29732071,24197
+51670,1997,71,Private,"Total, all industries",495,8219,292968950,35646
+51700,1997,70,Total Covered,"Total, all industries",3587,92399,2454959497,26569
+51700,1997,71,Federal Government,"Total, all industries",23,4938,159154986,32232
+51700,1997,71,State Government,"Total, all industries",22,1291,36786620,28485
+51700,1997,71,Local Government,"Total, all industries",34,8992,227812428,25335
+51700,1997,71,Private,"Total, all industries",3508,77177,2031205463,26319
+51710,1997,70,Total Covered,"Total, all industries",5583,148739,4154004461,27928
+51710,1997,71,Federal Government,"Total, all industries",46,16920,655687806,38753
+51710,1997,71,State Government,"Total, all industries",29,5609,153195403,27313
+51710,1997,71,Local Government,"Total, all industries",29,12660,343117597,27102
+51710,1997,71,Private,"Total, all industries",5478,113550,3002003655,26438
+51735,1997,70,Total Covered,"Total, all industries",142,1506,26917025,17871
+51735,1997,71,Private,"Total, all industries",140,1022,15889264,15551
+51740,1997,70,Total Covered,"Total, all industries",1705,40305,1159702051,28773
+51740,1997,71,Federal Government,"Total, all industries",13,10430,449726279,43121
+51740,1997,71,State Government,"Total, all industries",19,803,21518687,26790
+51740,1997,71,Local Government,"Total, all industries",28,4862,126925740,26104
+51740,1997,71,Private,"Total, all industries",1645,24210,561531345,23195
+51800,1997,70,Total Covered,"Total, all industries",1128,19044,446662294,23454
+51800,1997,71,Federal Government,"Total, all industries",11,181,7526009,41504
+51800,1997,71,State Government,"Total, all industries",18,935,25170991,26933
+51800,1997,71,Local Government,"Total, all industries",29,2825,69111558,24466
+51800,1997,71,Private,"Total, all industries",1070,15104,344853736,22832
+51810,1997,70,Total Covered,"Total, all industries",9301,147838,3395176123,22966
+51810,1997,71,Federal Government,"Total, all industries",26,4628,157726825,34082
+51810,1997,71,State Government,"Total, all industries",25,1485,37616629,25340
+51810,1997,71,Local Government,"Total, all industries",35,17008,479426649,28188
+51810,1997,71,Private,"Total, all industries",9215,124717,2720406020,21813
+51830,1997,70,Total Covered,"Total, all industries",775,17105,371335192,21709
+51830,1997,71,Federal Government,"Total, all industries",5,279,9810305,35194
+51830,1997,71,Private,"Total, all industries",732,14023,275869418,19673
+53009,1997,70,Total Covered,"Total, all industries",2252,19489,454979755,23346
+53009,1997,71,Federal Government,"Total, all industries",32,474,15809161,33335
+53009,1997,71,State Government,"Total, all industries",34,1317,40605859,30828
+53009,1997,71,Local Government,"Total, all industries",34,3343,99387939,29735
+53009,1997,71,Private,"Total, all industries",2153,14355,299176796,20842
+53027,1997,70,Total Covered,"Total, all industries",2594,23019,562879631,24452
+53027,1997,71,Federal Government,"Total, all industries",36,284,9818412,34612
+53027,1997,71,State Government,"Total, all industries",29,658,19641424,29865
+53027,1997,71,Local Government,"Total, all industries",57,3967,103484972,26089
+53027,1997,71,Private,"Total, all industries",2473,18111,429934823,23738
+53029,1997,70,Total Covered,"Total, all industries",1582,13748,291895997,21232
+53029,1997,71,Federal Government,"Total, all industries",20,1496,43554218,29119
+53029,1997,71,State Government,"Total, all industries",16,351,9350206,26607
+53029,1997,71,Local Government,"Total, all industries",29,2445,66534943,27215
+53029,1997,71,Private,"Total, all industries",1518,9456,172456630,18238
+53031,1997,70,Total Covered,"Total, all industries",984,6944,141519954,20381
+53031,1997,71,Federal Government,"Total, all industries",16,168,6637992,39610
+53031,1997,71,State Government,"Total, all industries",18,197,6668974,33781
+53031,1997,71,Local Government,"Total, all industries",19,1477,34283608,23209
+53031,1997,71,Private,"Total, all industries",931,5102,93929380,18412
+53033,1997,70,Total Covered,"Total, all industries",65591,1041992,38941579649,37372
+53033,1997,71,Federal Government,"Total, all industries",169,20364,928928298,45616
+53033,1997,71,State Government,"Total, all industries",94,38524,1300227724,33751
+53033,1997,71,Local Government,"Total, all industries",248,77030,2594424255,33681
+53033,1997,71,Private,"Total, all industries",65081,906074,34117999372,37655
+53035,1997,70,Total Covered,"Total, all industries",5254,69943,1927159777,27553
+53035,1997,71,Federal Government,"Total, all industries",54,15312,718552192,46927
+53035,1997,71,State Government,"Total, all industries",34,1857,58051697,31269
+53035,1997,71,Local Government,"Total, all industries",41,8816,243127075,27577
+53035,1997,71,Private,"Total, all industries",5125,43958,907428813,20643
+53045,1997,70,Total Covered,"Total, all industries",1260,11854,280590624,23671
+53045,1997,71,Federal Government,"Total, all industries",14,111,3652713,32833
+53045,1997,71,State Government,"Total, all industries",30,944,30791745,32613
+53045,1997,71,Local Government,"Total, all industries",38,2244,62197261,27720
+53045,1997,71,Private,"Total, all industries",1179,8555,183948905,21503
+53049,1997,70,Total Covered,"Total, all industries",867,5946,118059822,19854
+53049,1997,71,Federal Government,"Total, all industries",13,61,1809885,29792
+53049,1997,71,State Government,"Total, all industries",17,298,8754665,29386
+53049,1997,71,Local Government,"Total, all industries",31,1241,31165158,25108
+53049,1997,71,Private,"Total, all industries",806,4347,76330114,17561
+53053,1997,70,Total Covered,"Total, all industries",17207,221887,5878066507,26491
+53053,1997,71,Federal Government,"Total, all industries",90,9912,320480618,32334
+53053,1997,71,State Government,"Total, all industries",73,9229,286409288,31032
+53053,1997,71,Local Government,"Total, all industries",89,26407,845478730,32017
+53053,1997,71,Private,"Total, all industries",16955,176338,4425697871,25098
+53055,1997,70,Total Covered,"Total, all industries",791,4185,81924815,19576
+53055,1997,71,Federal Government,"Total, all industries",11,66,1846422,27906
+53055,1997,71,State Government,"Total, all industries",10,79,1632792,20712
+53055,1997,71,Local Government,"Total, all industries",21,659,16743783,25398
+53055,1997,71,Private,"Total, all industries",749,3381,61701818,18251
+53057,1997,70,Total Covered,"Total, all industries",3579,38776,908999613,23442
+53057,1997,71,Federal Government,"Total, all industries",32,469,16603261,35395
+53057,1997,71,State Government,"Total, all industries",29,1235,39310364,31828
+53057,1997,71,Local Government,"Total, all industries",61,5990,160388390,26775
+53057,1997,71,Private,"Total, all industries",3457,31082,692697598,22286
+53061,1997,70,Total Covered,"Total, all industries",14492,202321,6536591403,32308
+53061,1997,71,Federal Government,"Total, all industries",63,2184,81925080,37507
+53061,1997,71,State Government,"Total, all industries",54,4289,136707285,31875
+53061,1997,71,Local Government,"Total, all industries",121,22644,733821987,32407
+53061,1997,71,Private,"Total, all industries",14254,173204,5584137051,32240
+53067,1997,70,Total Covered,"Total, all industries",5570,78750,2158521011,27410
+53067,1997,71,Federal Government,"Total, all industries",44,950,39083325,41126
+53067,1997,71,State Government,"Total, all industries",113,20998,781033628,37195
+53067,1997,71,Local Government,"Total, all industries",49,9408,246773783,26231
+53067,1997,71,Private,"Total, all industries",5364,47394,1091630275,23033
+53069,1997,70,Total Covered,"Total, all industries",133,771,17719025,22974
+53069,1997,71,Federal Government,"Total, all industries",4,15,390138,26155
+53069,1997,71,Private,"Total, all industries",117,538,11960740,22215
+53073,1997,70,Total Covered,"Total, all industries",5717,64260,1538192969,23937
+53073,1997,71,Federal Government,"Total, all industries",55,826,36369952,44018
+53073,1997,71,State Government,"Total, all industries",31,2987,60652587,20305
+53073,1997,71,Local Government,"Total, all industries",48,5999,161876834,26984
+53073,1997,71,Private,"Total, all industries",5584,54448,1279293596,23496
+55003,1997,70,Total Covered,"Total, all industries",593,8306,183855928,22137
+55003,1997,71,Federal Government,"Total, all industries",17,173,5771529,33458
+55003,1997,71,State Government,"Total, all industries",10,41,1125948,27687
+55003,1997,71,Local Government,"Total, all industries",44,1123,26642531,23726
+55003,1997,71,Private,"Total, all industries",522,6969,150315920,21568
+55007,1997,70,Total Covered,"Total, all industries",463,3725,61062301,16395
+55007,1997,71,Federal Government,"Total, all industries",13,157,3639328,23242
+55007,1997,71,Private,"Total, all industries",391,2724,40186109,14754
+55009,1997,70,Total Covered,"Total, all industries",5687,130258,3784468562,29054
+55009,1997,71,Federal Government,"Total, all industries",30,985,40619392,41224
+55009,1997,71,State Government,"Total, all industries",17,1559,52918982,33941
+55009,1997,71,Local Government,"Total, all industries",124,9635,287758428,29866
+55009,1997,71,Private,"Total, all industries",5516,118078,3403171760,28821
+55029,1997,70,Total Covered,"Total, all industries",1204,11649,224406369,19264
+55029,1997,71,Federal Government,"Total, all industries",14,80,2507200,31438
+55029,1997,71,State Government,"Total, all industries",7,74,1787445,24291
+55029,1997,71,Local Government,"Total, all industries",42,1392,33566598,24114
+55029,1997,71,Private,"Total, all industries",1141,10104,186545126,18463
+55031,1997,70,Total Covered,"Total, all industries",1215,14902,327972105,22009
+55031,1997,71,Federal Government,"Total, all industries",11,119,3834633,32156
+55031,1997,71,State Government,"Total, all industries",12,678,21858938,32248
+55031,1997,71,Local Government,"Total, all industries",51,2030,54500346,26843
+55031,1997,71,Private,"Total, all industries",1141,12074,247778188,20521
+55051,1997,70,Total Covered,"Total, all industries",243,2374,40435410,17034
+55051,1997,71,Federal Government,"Total, all industries",5,22,623441,28231
+55051,1997,71,Private,"Total, all industries",218,2037,31886007,15657
+55059,1997,70,Total Covered,"Total, all industries",2907,47874,1304203771,27242
+55059,1997,71,Federal Government,"Total, all industries",16,281,10605196,37752
+55059,1997,71,State Government,"Total, all industries",11,693,22059308,31816
+55059,1997,71,Local Government,"Total, all industries",69,6006,179879472,29949
+55059,1997,71,Private,"Total, all industries",2812,40894,1091659795,26695
+55061,1997,70,Total Covered,"Total, all industries",494,6186,130927416,21165
+55061,1997,71,Federal Government,"Total, all industries",8,78,2654875,34037
+55061,1997,71,Private,"Total, all industries",433,5196,107019499,20596
+55071,1997,70,Total Covered,"Total, all industries",1847,35546,907992975,25544
+55071,1997,71,Federal Government,"Total, all industries",22,191,6242198,32753
+55071,1997,71,State Government,"Total, all industries",9,90,2636967,29409
+55071,1997,71,Local Government,"Total, all industries",59,3792,101936584,26882
+55071,1997,71,Private,"Total, all industries",1757,31473,797177226,25329
+55075,1997,70,Total Covered,"Total, all industries",1139,18057,448398501,24833
+55075,1997,71,Federal Government,"Total, all industries",15,119,3742572,31494
+55075,1997,71,State Government,"Total, all industries",9,135,3926477,29085
+55075,1997,71,Local Government,"Total, all industries",61,1892,49262642,26043
+55075,1997,71,Private,"Total, all industries",1053,15911,391466810,24603
+55079,1997,70,Total Covered,"Total, all industries",23363,522146,16267712943,31155
+55079,1997,71,Federal Government,"Total, all industries",56,9756,406867437,41706
+55079,1997,71,State Government,"Total, all industries",28,5065,173817152,34314
+55079,1997,71,Local Government,"Total, all industries",361,43051,1485163367,34498
+55079,1997,71,Private,"Total, all industries",22918,464274,14201864987,30589
+55083,1997,70,Total Covered,"Total, all industries",730,8469,163459788,19301
+55083,1997,71,Federal Government,"Total, all industries",14,114,3161444,27752
+55083,1997,71,Private,"Total, all industries",660,6885,125286263,18198
+55089,1997,70,Total Covered,"Total, all industries",2558,36645,1058452744,28884
+55089,1997,71,Federal Government,"Total, all industries",14,165,5960326,36087
+55089,1997,71,Private,"Total, all industries",2494,33199,953186150,28711
+55101,1997,70,Total Covered,"Total, all industries",4093,77887,2383184417,30598
+55101,1997,71,Federal Government,"Total, all industries",23,437,16547946,37838
+55101,1997,71,State Government,"Total, all industries",15,1311,38151107,29108
+55101,1997,71,Local Government,"Total, all industries",94,7177,230219151,32078
+55101,1997,71,Private,"Total, all industries",3962,68963,2098266213,30426
+55117,1997,70,Total Covered,"Total, all industries",2486,56406,1534823991,27210
+55117,1997,71,Federal Government,"Total, all industries",18,236,8452203,35751
+55117,1997,71,State Government,"Total, all industries",13,479,15460748,32311
+55117,1997,71,Local Government,"Total, all industries",105,5174,145527317,28126
+55117,1997,71,Private,"Total, all industries",2351,50517,1365383723,27028
+72003,1997,70,Total Covered,"Total, all industries",391,4737,67597533,14272
+72003,1997,71,Federal Government,"Total, all industries",3,14,525718,38234
+72003,1997,71,Private,"Total, all industries",370,3013,42115774,13980
+72005,1997,70,Total Covered,"Total, all industries",779,15750,253692556,16108
+72005,1997,71,Federal Government,"Total, all industries",7,116,4947231,42496
+72005,1997,71,Private,"Total, all industries",727,10545,166615100,15800
+72011,1997,70,Total Covered,"Total, all industries",218,4849,73483112,15153
+72011,1997,71,Federal Government,"Total, all industries",1,7,289208,40829
+72011,1997,71,Private,"Total, all industries",204,3833,58786913,15335
+72013,1997,70,Total Covered,"Total, all industries",1209,22256,333151953,14969
+72013,1997,71,Federal Government,"Total, all industries",8,91,3841609,42023
+72013,1997,71,Private,"Total, all industries",1154,13204,182580602,13828
+72015,1997,70,Total Covered,"Total, all industries",122,2099,32343366,15413
+72015,1997,71,Federal Government,"Total, all industries",2,8,334329,41791
+72015,1997,71,Private,"Total, all industries",105,1047,17257698,16484
+72017,1997,70,Total Covered,"Total, all industries",180,9594,268994229,28038
+72017,1997,71,Federal Government,"Total, all industries",1,11,439585,39074
+72017,1997,71,Private,"Total, all industries",163,8202,249620238,30434
+72021,1997,70,Total Covered,"Total, all industries",3043,56415,835147447,14804
+72021,1997,71,Federal Government,"Total, all industries",6,72,2627394,36492
+72021,1997,71,Private,"Total, all industries",2997,42376,609721417,14388
+72023,1997,70,Total Covered,"Total, all industries",504,4736,55523292,11724
+72023,1997,71,Federal Government,"Total, all industries",3,38,1580999,41881
+72023,1997,71,Private,"Total, all industries",487,3345,34214339,10229
+72027,1997,70,Total Covered,"Total, all industries",299,7191,95792025,13320
+72027,1997,71,Federal Government,"Total, all industries",3,13,523363,39008
+72027,1997,71,Private,"Total, all industries",283,6083,78215417,12859
+72031,1997,70,Total Covered,"Total, all industries",1976,44471,821736948,18478
+72031,1997,71,Federal Government,"Total, all industries",7,468,16624453,35560
+72031,1997,71,Private,"Total, all industries",1934,36674,671004944,18296
+72033,1997,70,Total Covered,"Total, all industries",343,10723,207853688,19384
+72033,1997,71,Private,"Total, all industries",327,8767,175434906,20011
+72037,1997,70,Total Covered,"Total, all industries",99,3012,61837727,20528
+72037,1997,71,Federal Government,"Total, all industries",5,1345,35516535,26398
+72037,1997,71,Private,"Total, all industries",82,1034,17423817,16855
+72049,1997,70,Total Covered,"Total, all industries",32,436,5364118,12312
+72049,1997,71,Federal Government,"Total, all industries",2,5,183730,36746
+72049,1997,71,Private,"Total, all industries",17,221,2405497,10901
+72051,1997,70,Total Covered,"Total, all industries",268,6655,120466671,18102
+72051,1997,71,Federal Government,"Total, all industries",3,20,773334,38667
+72051,1997,71,Private,"Total, all industries",248,5331,99178779,18604
+72053,1997,70,Total Covered,"Total, all industries",519,11497,180960626,15740
+72053,1997,71,Federal Government,"Total, all industries",3,48,2049078,42988
+72053,1997,71,Private,"Total, all industries",490,9132,139989812,15329
+72055,1997,70,Total Covered,"Total, all industries",123,1845,23546019,12761
+72055,1997,71,Federal Government,"Total, all industries",3,12,510210,42815
+72055,1997,71,Private,"Total, all industries",104,958,10842378,11319
+72057,1997,70,Total Covered,"Total, all industries",500,12078,215472528,17840
+72057,1997,71,Federal Government,"Total, all industries",4,33,1313770,39512
+72057,1997,71,Private,"Total, all industries",457,7709,145830085,18917
+72059,1997,70,Total Covered,"Total, all industries",151,2508,41874993,16696
+72059,1997,71,Federal Government,"Total, all industries",1,7,301982,41179
+72059,1997,71,Private,"Total, all industries",135,1074,11862789,11049
+72061,1997,70,Total Covered,"Total, all industries",1725,40571,821450062,20247
+72061,1997,71,Federal Government,"Total, all industries",7,1480,49654633,33556
+72061,1997,71,Private,"Total, all industries",1704,31981,596539111,18653
+72065,1997,70,Total Covered,"Total, all industries",417,5622,67191726,11951
+72065,1997,71,Federal Government,"Total, all industries",2,10,422033,42203
+72065,1997,71,Private,"Total, all industries",401,4382,49177888,11222
+72069,1997,70,Total Covered,"Total, all industries",810,20339,360146318,17707
+72069,1997,71,Federal Government,"Total, all industries",8,54,2132844,39315
+72069,1997,71,Private,"Total, all industries",760,13970,248488667,17787
+72071,1997,70,Total Covered,"Total, all industries",414,7032,84644671,12037
+72071,1997,71,Federal Government,"Total, all industries",3,24,927672,39197
+72071,1997,71,Private,"Total, all industries",394,5365,60555690,11287
+72075,1997,70,Total Covered,"Total, all industries",274,4447,58121516,13069
+72075,1997,71,Federal Government,"Total, all industries",4,24,1027283,42953
+72075,1997,71,Private,"Total, all industries",255,2723,32886152,12076
+72079,1997,70,Total Covered,"Total, all industries",255,3771,42153453,11177
+72079,1997,71,Federal Government,"Total, all industries",2,9,366687,40743
+72079,1997,71,Private,"Total, all industries",240,2889,28396367,9830
+72087,1997,70,Total Covered,"Total, all industries",77,1548,22627409,14618
+72087,1997,71,Federal Government,"Total, all industries",6,15,538453,36922
+72087,1997,71,Private,"Total, all industries",56,511,6665135,13052
+72089,1997,70,Total Covered,"Total, all industries",139,2751,39019494,14182
+72089,1997,71,Federal Government,"Total, all industries",5,15,603685,39158
+72089,1997,71,Private,"Total, all industries",121,1916,26638522,13900
+72091,1997,70,Total Covered,"Total, all industries",552,17289,346383767,20035
+72091,1997,71,Federal Government,"Total, all industries",4,24,924612,38660
+72091,1997,71,Private,"Total, all industries",527,14401,303154138,21051
+72095,1997,70,Total Covered,"Total, all industries",60,1074,13040078,12137
+72095,1997,71,Federal Government,"Total, all industries",1,5,208389,41678
+72095,1997,71,Private,"Total, all industries",48,273,2934668,10756
+72097,1997,70,Total Covered,"Total, all industries",1684,45404,666378135,14677
+72097,1997,71,Federal Government,"Total, all industries",15,325,15286640,47108
+72097,1997,71,Private,"Total, all industries",1621,32399,411417257,12698
+72103,1997,70,Total Covered,"Total, all industries",159,2481,34122176,13752
+72103,1997,71,Federal Government,"Total, all industries",3,9,384697,42744
+72103,1997,71,Private,"Total, all industries",142,1399,18183531,12995
+72109,1997,70,Total Covered,"Total, all industries",135,2365,34106340,14421
+72109,1997,71,Federal Government,"Total, all industries",1,6,243021,40504
+72109,1997,71,Private,"Total, all industries",122,1395,18905503,13555
+72111,1997,70,Total Covered,"Total, all industries",161,3330,48368521,14523
+72111,1997,71,Federal Government,"Total, all industries",2,8,335292,44214
+72111,1997,71,State Government,"Total, all industries",11,726,12272194,16896
+72111,1997,71,Private,"Total, all industries",145,2161,31168113,14426
+72113,1997,70,Total Covered,"Total, all industries",2261,51397,789493348,15361
+72113,1997,71,Federal Government,"Total, all industries",15,296,11880874,40172
+72113,1997,71,Private,"Total, all industries",2195,36115,520555009,14414
+72115,1997,70,Total Covered,"Total, all industries",216,3403,43710860,12843
+72115,1997,71,Federal Government,"Total, all industries",1,10,343772,36187
+72115,1997,71,Private,"Total, all industries",203,2355,25445730,10805
+72117,1997,70,Total Covered,"Total, all industries",104,1635,20728150,12678
+72117,1997,71,Federal Government,"Total, all industries",2,7,290013,40943
+72117,1997,71,Private,"Total, all industries",91,878,9855861,11229
+72119,1997,70,Total Covered,"Total, all industries",268,5788,91167824,15750
+72119,1997,71,Federal Government,"Total, all industries",8,166,3959527,23877
+72119,1997,71,Private,"Total, all industries",240,3772,60240743,15970
+72123,1997,70,Total Covered,"Total, all industries",207,3864,65278888,16893
+72123,1997,71,Federal Government,"Total, all industries",5,17,991343,59779
+72123,1997,71,Private,"Total, all industries",189,1907,19844751,10407
+72127,1997,70,Total Covered,"Total, all industries",12529,315456,5904752101,18718
+72127,1997,71,Federal Government,"Total, all industries",66,8589,378896842,44116
+72127,1997,71,Private,"Total, all industries",12195,205480,3609052025,17564
+72133,1997,70,Total Covered,"Total, all industries",122,4168,56033619,13445
+72133,1997,71,Federal Government,"Total, all industries",1,7,270736,37343
+72133,1997,71,Private,"Total, all industries",106,3131,39567644,12639
+72137,1997,70,Total Covered,"Total, all industries",641,12166,209574933,17226
+72137,1997,71,Federal Government,"Total, all industries",6,82,2449016,29927
+72137,1997,71,Private,"Total, all industries",622,8818,143120821,16230
+72143,1997,70,Total Covered,"Total, all industries",220,4433,67183722,15154
+72143,1997,71,Federal Government,"Total, all industries",1,11,460398,42174
+72143,1997,71,Private,"Total, all industries",202,2722,41854806,15375
+72145,1997,70,Total Covered,"Total, all industries",488,12385,227256194,18349
+72145,1997,71,Federal Government,"Total, all industries",3,30,1148603,38609
+72145,1997,71,Private,"Total, all industries",471,9860,190299808,19300
+72147,1997,70,Total Covered,"Total, all industries",99,1400,18387564,13138
+72147,1997,71,Federal Government,"Total, all industries",2,7,269041,36687
+72147,1997,71,Private,"Total, all industries",77,596,7278173,12207
+72151,1997,70,Total Covered,"Total, all industries",241,5783,94279845,16303
+72151,1997,71,Federal Government,"Total, all industries",1,8,362976,43557
+72151,1997,71,Private,"Total, all industries",225,3660,61604138,16831
+72153,1997,70,Total Covered,"Total, all industries",545,6034,74895008,12412
+72153,1997,71,Federal Government,"Total, all industries",4,28,1145545,41656
+72153,1997,71,Private,"Total, all industries",524,3755,37457993,9976
+78010,1997,70,Total Covered,"Total, all industries",1496,17561,459205947,26149
+78010,1997,71,Federal Government,"Total, all industries",25,371,15895753,42807
+78010,1997,71,State Government,"Total, all industries",40,5855,161523055,27585
+78010,1997,71,Private,"Total, all industries",1432,11334,281787139,24862
+78020,1997,70,Total Covered,"Total, all industries",210,1590,29394159,18488
+78020,1997,71,Federal Government,"Total, all industries",6,19,719169,38186
+78020,1997,71,Private,"Total, all industries",203,1571,28674990,18252
+78030,1997,70,Total Covered,"Total, all industries",1858,22709,545932726,24040
+78030,1997,71,Federal Government,"Total, all industries",26,482,22534272,46735
+78030,1997,71,State Government,"Total, all industries",46,7036,202908454,28839
+78030,1997,71,Private,"Total, all industries",1786,15191,320490000,21097
