@@ -177,7 +177,7 @@ vars_sic <- c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplv
 
 # Define extra variables needed
 extra_sic_vars <- c("area_fips", "year","agglvl_code", "own_title",
-                    "industry_title","qtr")
+                    "industry_title","qtr","industry_code")
 
 outfile_base <- here("data","sic_extracted")
 
@@ -202,7 +202,7 @@ total_iterations <- 0
 
 # Start the loop
 
-test_years <- c(1978:2000) # years
+test_years <- c(1986:2000) # years
 test_fips <- fips #[1:452]
 
 for (this_year in test_years) {
@@ -293,7 +293,7 @@ vars_naic <- c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_empl
 
 # Define extra variables needed
 extra_naic_vars <- c("area_fips", "year","agglvl_code", "own_title",
-                    "industry_title","qtr")
+                    "industry_title","qtr","industry_code")
 
 outfile_base <- here("data","naics_extracted")
 
@@ -307,7 +307,7 @@ total_iterations <- 0
 
 # Start the loop
 
-test_years <- c(1996) # years 1990:2020
+test_years <- c(1994,1995,2021) # years 1990:2020
 test_fips <- fips #[1:452]
 
 for (this_year in test_years) {
@@ -359,7 +359,7 @@ for (this_year in test_years) {
       # Note that using subset() keeps you from having to do a third nested loop.
      
       fips_vars <- subset(fips_df_naic, select = c(extra_naic_vars,  vars_naic)) %>% 
-        filter(agglvl_code == 70 | agglvl_code == 71)  # %>% 
+        filter(agglvl_code == 73 | agglvl_code == 74)  # %>% 
       # These are the codes used on summary records produced by the Quarterly Census of Employment and Wages (QCEW) program to indicate the aggregation level of the data summarized on the record. These aggregation level codes are for QCEW records coded to the North American Industry Classification System (NAICS)
       # group_by(agglvl_code) %>% 
       # mutate(across(c(annual_avg_estabs_count:avg_annual_pay), sum))
