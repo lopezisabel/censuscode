@@ -191,7 +191,6 @@ QCEW Downloadable Files for SIC Data set
 years=1975:2000
 
 vars_sic <- c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
-
 # Calculate the maximum iterations
 
 max_iterations <-length (years)* length (fips)* length (vars_sic)
@@ -382,8 +381,61 @@ for (this_year in test_years) {
 
 ```
 Combine data sets
-```{r combine_sic_and_naic}
+```{r redefine_target_parameters}
 
-# 
+# Read previously saved coastal fips data:
+#coastal_fips <- readRDS(file = here("data","coastal_FIPS.RDS"))
+
+#target_fips <- c("01003", "01097", "22071", "12086")# coastal_fips$fips[1:4]
+target_years  <- 1975:2000 
 
 ```
+```{r define_file_patterns}
+
+sic_base <- "sic_extracted_"
+naic_base <- "naics_extracted_"
+
+output_file <- here("data","all_data.csv")
+
+```
+
+```{r loop_years_and_combine_records}
+# Before looping, create an empty dataframe that we will add more data into
+out_col_names <- c('area_fips', 'year', 'agglvl_code', 'own_title', 
+                   'industry_title','industry_code','qtrly_estabs_count',
+                   'month1_emplvl', 'month2_emplvl','month3_emplvl','qtr',             
+                  'avg_wkly_wage', 'source')
+
+all_data <- data.frame(matrix(vector(), 0, 13))
+colnames(all_data) <- out_col_names
+
+#Start loop 
+target_years <- c(1975:2000)
+
+for (this_year in target_years) {
+  sic_file <- here("data",paste0(sic_base, this_year, ".csv"))
+  print(sic_file)
+  if (file.exists(sic_file)) {
+    sic <- read_csv(sic_file, col_types = "ciiccdddd") %>%  # Specifies column type to make FIPS character
+      filter(own_title == "Private","Federal" & agglvl_code == 28) %>% 
+      mutate(source = "SIC")
+    
+    all_data <- rbind(all_data, sic)
+  }
+  naic_file <- here("data",paste0(naic_base, this_year, ".csv"))
+  print(naic_file)
+  if (file.exists(naic_file)) {
+    naic <- read_csv(naic_file, col_types = "ciiccdddd") %>%  # Specifies column type to make FIPS character
+      filter(own_title == "Private","Federal" & agglvl_code == 74) %>% 
+      mutate(source = "NAIC")
+    
+    all_data <- rbind(all_data, naic)
+  }
+}
+
+
+```
+
+
+
+                   
