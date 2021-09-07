@@ -191,7 +191,6 @@ QCEW Downloadable Files for SIC Data set
 years=1975:2000
 
 vars_sic <- c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
-
 # Calculate the maximum iterations
 
 max_iterations <-length (years)* length (fips)* length (vars_sic)
@@ -378,6 +377,7 @@ for (this_year in test_years) {
 
 ```
 Combine data sets
+
 ```{r define_target_parameters}
 
 target_fips<- c( '01003','01097','02013','02016','02020','02050','02060','02070','02100','02105','02110','02122','02130',
@@ -435,4 +435,3 @@ target_years  <- c(1975:2000)
 # saveRDS(coastal_fips, file = here("data","coastal_FIPS.RDS"))
 
 
-```
