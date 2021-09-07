@@ -36,7 +36,7 @@ total_iterations <- 0
 
 # Start the loop
 
-test_years <- c(1995) # years 1990:2020
+test_years <- c(1995,2020) # years 1990:2020
 test_fips <- fips #[1:452]
 
 for (this_year in test_years) {
@@ -112,6 +112,8 @@ for (this_year in test_years) {
   unlink(naic_local, force = TRUE) 
   toc() # Year loop
 }    
+
+length(unique(file_list$area_fips))
 
 ```
 
