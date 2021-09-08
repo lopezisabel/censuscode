@@ -1,0 +1,28 @@
+---
+title: "Plotting FIPS and Variables"
+author: "Isabel Lopez"
+date: "9/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(here)
+library(ggthemes)
+```
+
+```{r define_target_parameters}
+
+all_data <- readRDS(file = here("data","all_data.RDS"))
+
+```
+
+```{r color_line_graphs}
+
+filter(all_data, area_fips == "01003" & industry_code=="SIC_0E") %>% 
+ggplot() +
+  geom_line(aes(year,qtrly_estabs_count, color = source))
+
+```

@@ -1,0 +1,87 @@
+---
+title: "combine_data"
+author: "Isabel Lopez"
+date: "9/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+library(tidyverse)
+library(lubridate)
+library(here)
+
+
+```
+
+```{r define_target_parameters}
+
+coastal_fips <- readRDS(file = here("data","coastal_FIPS.RDS"))
+fips <- coastal_fips$fips
+target_years  <- c(1991,1992,1993,1994,1995,1996,1997,1998,1999,2000)
+
+
+```
+```{r define_file_patterns}
+sic_base <- "sic_extracted_"
+naic_base <- "naics_extracted_"
+
+output_file <- here("data","all_data.csv")
+
+
+
+```
+
+```{r loop_years_and_combine_records}
+target_years <-(1975:2020) 
+out_col_names <- c('area_fips', 'year', 'agglvl_code', 'own_title', 
+                   'industry_title','industry_code','qtrly_estabs_count',
+                   'month1_emplvl','month2_emplvl','month3_emplvl',
+                   'avg_wkly_wage','source')
+
+all_data <- data.frame(matrix(vector(), 0, 12))
+colnames(all_data) <- out_col_names
+
+for (this_year in target_years) {
+  sic_file <- here("data",paste0(sic_base, this_year, ".csv"))
+   print(sic_file)
+    if (file.exists(sic_file)) {
+    sic <- read_csv(sic_file) %>% #, col_types = "ciiccdddd")
+    #filter(own_title == "Private" & agglvl_code == 28) %>% 
+      mutate(source = "SIC")
+    
+    all_data <- rbind(all_data, sic)
+    }
+     naic_file <- here("data",paste0(naic_base, this_year, ".csv"))
+  print(naic_file)
+  if (file.exists(naic_file)) {
+    naic <- read_csv(naic_file) %>% #, col_types = "ciiccdddd") %>%  # Specifies column type to make FIPS character
+      #filter(own_title == "Private" & agglvl_code == 73) %>% 
+      mutate(source = "NAIC")
+    
+    all_data <- rbind(all_data, naic)
+  }
+}
+```
+```{r write_raw_data}
+# If there is already an output file, rename it to a backup file
+# NOTE:  This will clobber any previous backup files!!
+if(file.exists(output_file)) {
+  file.rename(output_file, paste0(output_file,".BAK"))
+}
+
+
+if(! file.exists(output_file)) {
+  headers <- paste(colnames(all_data), collapse = ", ")
+  write_lines(headers, file = output_file, append = FALSE)
+}
+write_csv(all_data, file = output_file, append = TRUE)
+
+# saveRDS(all_data, file = here("data","all_data.RDS"))
+
+```
+
+
+
