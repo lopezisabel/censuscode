@@ -20,9 +20,34 @@ all_data <- readRDS(file = here("data","all_data.RDS"))
 ```
 
 ```{r color_line_graphs}
+#	Transportation and Public Utilities Division=SIC_0E
+#Trade, transportation, and utilities= 1021, Transportation and warehousing=48-49
 
-filter(all_data, area_fips == "01003" & industry_code=="SIC_0E") %>% 
+filter(all_data, area_fips == "01003" & industry_code=="72") %>% 
 ggplot() +
   geom_line(aes(year,qtrly_estabs_count, color = source))
+
+```
+
+```{r facetted_line_graphs}
+filter(all_data, area_fips == "01003"|own) %>% 
+ggplot() +
+  geom_line(aes(year, annual_avg_estabs_count)) +
+  facet_wrap(~ source)
+
+```
+
+
+And, of course, both at the same time.  Here we color by data source and facet by FIPS
+
+```{r facetted_fips_line_graphs}
+filter(all_data, area_fips %in% target_fips) %>% 
+ggplot() +
+  geom_line(aes(year, annual_avg_estabs_count, color=source), lwd = 1.25) +
+  labs(title = "Trend in coastal work places",
+         y = "Number of Establishments",
+         x = "") +
+    facet_wrap(~ area_fips, scales = "free")
+
 
 ```
