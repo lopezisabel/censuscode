@@ -1,0 +1,132 @@
+---
+title: "Plotting FIPS and Variables"
+author: "Isabel Lopez"
+date: "9/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(tidycensus)
+library(here)
+library(ggthemes)
+```
+
+```{r define_target_parameters}
+
+all_targetdata <- readRDS(file = here("data","all_targetdata.RDS"))
+
+targetcoastal_fips <-readRDS(file = here("data","targetcoastal_FIPS.RDS"))
+fips <- targetcoastal_fips$fips
+texas_fips<- c('48007','48039','48057',
+             '48061','48071','48167','48201','48239','48245',
+             '48261','48273','48321','48355','48361','48391',
+             '48409','48469','48489')
+
+florida_fips <- c ('12005','12009','12011','12015','12017','12019',
+             '12021','12029','12031','12033','12035','12037',
+             '12045','12053','12057','12061','12065','12071',
+             '12075','12077','12081','12085','12086','12087',
+             '12089','12091','12099','12101','12103','12107',
+             '12109','12111','12113','12115','12123','12127',
+             '12129','12131')
+northcarolina_fips<- c('37013','37015','37019','37029','37031',
+             '37041','37049','37053','37055','37073','37091',
+             '37095','37103','37129','37133','37137','37139',
+             '37141','37143','37147','37177','137187')
+louisiana_fips<-c('22005','22007','22019','22023',
+             '22045','22051','22053','22057','22063','22071',
+             '22075','22087','22089','22093','22095','22099',
+             '22101','22103','22105','22109','22113')
+
+
+```
+
+```{r color_line_graphs}
+
+#Industry_Title=Retail Trade Division, Industry_Code= SIC_0G
+#Industry_Title=SIC 53 General Merchandise Stores, Industry_Code=SIC_0G53
+#Industry_Title=SIC 58 Eating and Drinking Places, Industry_Code=  SIC_0G58
+#Industry_Title=SIC 70 Hotels and Other Lodging Places, Industry_Code= SIC_0I70
+#Industry_Title=SIC 79 Amusement and Recreation Services, Industry_Code= SIC_0I79	
+#Industry_Title=SIC 20 Food and Kindred Products, Industry_Code=SIC_0D20
+#Industry_Title=SIC 23 Apparel and Other Textile Products, Industry_Code=SIC_0D23
+#Industry_Title=SIC 56 Apparel and Accessory Stores, Industry_Code= SIC_0G56
+#Industry_Title=SIC 59 Miscellaneous Retail, Industry_Code=SIC_0G59
+#Industry_Title=SIC 70 Hotels and Other Lodging Places, Industry_Code=SIC_0I70
+
+
+#Industry_Title=Accommodation and food services, Industry_Code=72
+
+
+vars <-c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
+
+filter(all_targetdata, area_fips == "12005" & industry_code=="72") %>% 
+ggplot() +
+  geom_line(aes(year,qtrly_estabs_count, color = source))
+
+```
+
+```{r facetted_line_graphs}
+#Leisure_Hospitality=1026
+
+#Quarterly Establish Count
+Leisure_Hospitality <- c(1026,72)
+filter(all_targetdata, area_fips %in% texas_fips |industry_code %in% Leisure_Hospitality) %>% 
+ggplot() +
+  geom_line(aes(year, qtrly_estabs_count)) +
+  facet_wrap(~ source)
+
+filter(all_targetdata, area_fips %in% texas_fips |industry_code %in% target_sicindustry_codes) %>% 
+ggplot() +
+  geom_line(aes(year, qtrly_estabs_count)) +
+  facet_wrap(~ source)
+
+# Average Weekly Wage
+
+Leisure_Hospitality <- c(1026,72)
+# NAIC
+#Employment level for the first month of a given quarter
+target_naic_indistrycodes<-c('72','1026')
+filter(all_targetdata, area_fips %in% texas_fips, industry_code=='1026',qtr==1) %>% 
+ggplot() +
+  geom_line(aes(year, month1_emplvl, color=source), lwd = 1.25) +
+  labs(title = "Employment Level in Texas",
+         y = "First Month in Q1",
+         x = "") +
+    facet_wrap(~ area_fips, scales = "free")
+
+
+
+## SIC DATA 
+target_sicindustry_codes<-c('SIC_0G','SIC_0G53','SIC_0G58','SIC_0I70','SIC_0I79','SIC_0D20',
+                           'SIC_0D23','SIC_0G56','SIC_0G59')
+filter(all_targetdata, area_fips %in% texas_fips, industry_code %in% target_sicindustry_codes,qtr==1) %>% 
+ggplot() +
+  geom_line(aes(year, month1_emplvl, color=source), lwd = 1.25) +
+  labs(title = "Employment Level in Texas",
+         y = "First Month in Q1",
+         x = "") +
+    facet_wrap(~ area_fips, scales = "free")
+
+
+
+```
+
+
+And, of course, both at the same time.  Here we color by data source and facet by FIPS
+
+```{r facetted_fips_line_graphs}
+
+filter(all_targetdata, area_fips %in% florida_fips) %>% 
+ggplot() +
+  geom_line(aes(year, qtrly_estabs_count, color=source), lwd = 1.25) +
+  labs(title = "Trend in coastal work places",
+         y = "Number of Establishments",
+         x = "") +
+    facet_wrap(~ area_fips, scales = "free")
+
+
+```
