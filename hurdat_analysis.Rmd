@@ -3,22 +3,79 @@ title: "HURDAT_ANALYSIS"
 author: "Isabel Lopez"
 date: "9/13/2021"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-
-
-library(tidyverse)
-library(lubridate)
-library(sf)
-library(tmap)
-library(viridis)
-library(ggthemes)
-library(tidycensus)
-library(HURDAT)
+install.packages("HURDAT")
+suppressPackageStartupMessages({
+  library(tidyverse)
+  library(lubridate)
+  library(sf)
+  library(tmap)
+  library(viridis)
+  library(ggthemes)
+  library(tidycensus)
+  library(HURDAT)
+})
 
 options(tigris_use_cache = TRUE)
 
 ```
+
+```{r download_census, include = FALSE}
+
+# Load the data, getting statewide population fore 2019
+
+county_raw  <-  get_acs(geography = "county", 
+                       variables = "B01003_001", 
+                       year = 2019, 
+                       output = "wide", 
+                       geometry = TRUE)
+```
+
+Add abbreviations, intially create temporary data frame
+```{r clean_and_project_census}
+# add abbreviations, first create a temp df then join it
+abbrevs <- cbind("state" = state.name, 
+                 "county_abb" = state.abb, 
+                 "cent_lon" = state.center$x, 
+                 "cent_lat" = state.center$y) %>% 
+  rbind(c("Puerto Rico", "PR", -66.5901, 18.2208), 
+        c("District of Columbia","DC", -77.0369, 38.9072)) %>% 
+  as.data.frame()
+
+county_pop  <-  select(county_raw, name = NAME, fips = GEOID, 
+                      totpop = B01003_001E) %>% 
+  filter(!substr(fips,1,2) %in% c("02", "15", "72") ) %>%   # Drop Alaska & Hawaii
+  separate(name, into = c("county","state"), sep = ", ") %>% 
+  mutate(county = str_replace(county," County","")) %>% 
+  left_join(abbrevs, by = 'state')
+
+st_crs(county_pop) <- 4326  # Set the projection information
+
+#Project the state data into our Albers EA projection, epsg = 5072.
+county_5072 <- st_transform(county_pop, crs = 5072)
+
+
+
+tmap_mode('plot')
+tm_shape(county_pop) +
+  tm_polygons("totpop") +
+  # tm_text("county_abb") +
+  tm_layout("State population")
+
+ggplot() +
+  geom_sf(data = county_pop, aes(fill = totpop)) +
+  # geom_text_repel(data = county_pop,
+  #                 aes(x = cent_lon, y = cent_lat, label = county_abb))+
+  # geom_sf_text(data = county_pop,
+  #                 aes(label = county_abb))+
+  scale_fill_viridis( alpha = .7, direction = 1, trans = "log10") +
+  labs(title = "County population, 2018", subtitle = "log10 scale color bar") +
+  theme_map()
+```
+
 
