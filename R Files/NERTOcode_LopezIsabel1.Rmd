@@ -421,9 +421,9 @@ target_fips<- c( '01003','01097','02013','02016','02020','02050','02060','02070'
 
 target_years  <- c(1975:2000)
 
-#Check number of counties
-# length(fips) # nchar(fips)
-# 
+Check number of counties
+length(fips) # nchar(fips)
+
 # data("fips_codes")  # This really gets the "promise" of the data.  It doesn't appear until you use it.
 # coastal_fips <- fips_codes %>%
 #   mutate(fips_full = paste0(state_code, county_code)) %>%

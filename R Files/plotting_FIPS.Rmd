@@ -89,27 +89,27 @@ ggplot() +
 Leisure_Hospitality <- c(1026,72)
 # NAIC
 #Employment level for the first month of a given quarter
-target_naic_indistrycodes<-c('72','1026')
-filter(all_targetdata, area_fips %in% texas_fips, industry_code=='1026',qtr==1) %>% 
+target_naic_industrycodes<-c('72','1026')
+filter(all_targetdata, area_fips==12087, industry_code %in% target_naic_industry_codes,qtr==1) %>% 
 ggplot() +
   geom_line(aes(year, month1_emplvl, color=source), lwd = 1.25) +
-  labs(title = "Employment Level in Texas",
+  labs(title = "Employment Level in Monroe County",
          y = "First Month in Q1",
          x = "") +
-    facet_wrap(~ area_fips, scales = "free")
+    facet_wrap(~ industry_title, scales = "free")
 
 
 
 ## SIC DATA 
 target_sicindustry_codes<-c('SIC_0G','SIC_0G53','SIC_0G58','SIC_0I70','SIC_0I79','SIC_0D20',
                            'SIC_0D23','SIC_0G56','SIC_0G59')
-filter(all_targetdata, area_fips %in% texas_fips, industry_code %in% target_sicindustry_codes,qtr==1) %>% 
+filter(all_targetdata, area_fips==12087, industry_code %in% target_sicindustry_codes,qtr==1) %>% 
 ggplot() +
   geom_line(aes(year, month1_emplvl, color=source), lwd = 1.25) +
   labs(title = "Employment Level in Texas",
          y = "First Month in Q1",
          x = "") +
-    facet_wrap(~ area_fips, scales = "free")
+    facet_wrap(~ industry_title, scales = "free")
 
 
 

@@ -1,0 +1,48 @@
+---
+title: "loopforplotting"
+author: "Isabel Lopez"
+date: "9/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(tmap)
+library(viridis)
+library(ggthemes)
+library(ggplot2)
+library(here)
+
+```
+```{r redefine_paramenters}
+
+fips <- targetcoastal_fips$fips
+texas_fips<- c('48007','48039','48057',
+             '48061','48071','48167','48201','48239','48245',
+             '48261','48273','48321','48355','48361','48391',
+             '48409','48469','48489')
+
+```
+
+```{r plot_loop}
+
+texas_fips<- c('12005')
+
+for (this_fip in texas_fips) {
+filter(all_targetdata,industry_code=="1026"& own_title=="Private" &qtr==1) %>% 
+print(ggplot() +
+  geom_line(aes(year,qtrly_estabs_count, color = source)))
+}
+
+```
+```{r facetted_line_graphs}
+
+filter(all_targetdata, area_fips %in% florida_fips) %>% 
+ggplot() +
+  geom_line(aes(year, qtrly_estabs_count, color=source), lwd = 1.25) +
+  labs(title = "Trend in coastal work places",
+         y = "Number of Establishments",
+         x = "") +
+    facet_wrap(~ area_fips, scales = "free")
