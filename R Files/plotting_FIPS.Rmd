@@ -3,20 +3,25 @@ title: "Plotting FIPS and Variables"
 author: "Isabel Lopez"
 date: "9/7/2021"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-
+suppressPackageStartupMessages({
 library(tidyverse)
 library(tidycensus)
 library(here)
 library(ggthemes)
+})  
 ```
 
 ```{r define_target_parameters}
 
-all_targetdata <- readRDS(file = here("data","all_targetdata.RDS"))
+all_targetdata <- readRDS(file = here("data","all_targetdata.RDS")) 
+  all_targetdata[all_targetdata == 0]<- NA 
+ all_targetdata2<- na.omit(all_targetdata)
 
 targetcoastal_fips <-readRDS(file = here("data","targetcoastal_FIPS.RDS"))
 fips <- targetcoastal_fips$fips
@@ -43,7 +48,25 @@ louisiana_fips<-c('22005','22007','22019','22023',
 
 
 ```
+```{r wrangle-data}
 
+target_sicindustry_codes<-c('SIC_0G','SIC_0G53','SIC_0G58','SIC_0I70','SIC_0I79','SIC_0D20',
+                           'SIC_0D23','SIC_0G56','SIC_0G59')
+
+Leisure_Hospitality <- c('1026','72')
+
+vars <-c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
+
+#all_leisuredata <- all_targetdata %>% 
+all_leisuredata3<- all_targetdata2 %>% 
+  filter(industry_code %in% c(target_sicindustry_codes,Leisure_Hospitality)) %>% 
+  group_by(area_fips, year, qtr,industry_title, source) %>% 
+  # group_by(area_fips, year, qtr, source) %>% 
+  # summarize(leisure = sum(qtrly_estabs_count)) 
+  summarize(across(vars, sum)) 
+
+
+```
 ```{r color_line_graphs}
 
 #Industry_Title=Retail Trade Division, Industry_Code= SIC_0G
@@ -63,9 +86,9 @@ louisiana_fips<-c('22005','22007','22019','22023',
 
 vars <-c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
 
-filter(all_targetdata, area_fips == "12005" & industry_code=="72") %>% 
+filter(all_leisuredata2, area_fips == "12087") %>% 
 ggplot() +
-  geom_line(aes(year,qtrly_estabs_count, color = source))
+  geom_col(aes(year,qtrly_estabs_count, color = source))
 
 ```
 
@@ -73,10 +96,15 @@ ggplot() +
 #Leisure_Hospitality=1026
 
 #Quarterly Establish Count
-Leisure_Hospitality <- c(1026,72)
-filter(all_targetdata, area_fips %in% texas_fips |industry_code %in% Leisure_Hospitality) %>% 
+
+# filter(all_leisuredata, area_fips %in% florida_fips,industry_code %in% c(target_sicindustry_codes,Leisure_Hospitality)) %>% 
+# ggplot() +
+#   geom_col(aes(year,qtrly_estabs_count)) +
+#   facet_wrap(~ source)
+
+filter(all_leisuredata2, area_fips=="12087") %>% 
 ggplot() +
-  geom_line(aes(year, qtrly_estabs_count)) +
+  geom_col(aes(year,qtrly_estabs_count)) +
   facet_wrap(~ source)
 
 filter(all_targetdata, area_fips %in% texas_fips |industry_code %in% target_sicindustry_codes) %>% 
@@ -90,20 +118,71 @@ Leisure_Hospitality <- c(1026,72)
 # NAIC
 #Employment level for the first month of a given quarter
 target_naic_industrycodes<-c('72','1026')
-filter(all_targetdata, area_fips==12087, industry_code %in% target_naic_industry_codes,qtr==1) %>% 
+filter(all_leisuredata3, area_fips==12087) %>% 
 ggplot() +
   geom_line(aes(year, month1_emplvl, color=source), lwd = 1.25) +
   labs(title = "Employment Level in Monroe County",
-         y = "First Month in Q1",
+         y = "First Month in any given Quater",
+         x = "") +
+    facet_wrap(~ industry_title, scales = "free")
+
+#Employment level for the first month of a given quarter, Q2
+
+filter(all_leisuredata3, area_fips==12087) %>% 
+ggplot() +
+  geom_line(aes(year, month2_emplvl, color=source), lwd = 1.25) +
+  labs(title = "Employment Level in Monroe County",
+         y = "Second Month in any given quater",
+         x = "") +
+    facet_wrap(~ industry_title, scales = "free")
+
+#Employment level for the first month of a given quarter, Q3
+
+filter(all_leisuredata3, area_fips==12087) %>% 
+ggplot() +
+  geom_line(aes(year, month3_emplvl, color=source), lwd = 1.25) +
+  labs(title = "Employment Level in Monroe County",
+         y = "Third Month in any given quater",
+         x = "") +
+    facet_wrap(~ industry_title, scales = "free")
+# Average Weekly Wage
+
+filter(all_leisuredata3, area_fips==12087,qtr==1) %>% 
+ggplot() +
+  geom_line(aes(year, avg_wkly_wage, color=source), lwd = 1.25) +
+  labs(title = "Average Weekly Wage for Q1",
+         y = "Average weekly wage ",
+         x = "") +
+    facet_wrap(~ industry_title, scales = "free")
+
+filter(all_leisuredata3, area_fips==12087,qtr==2) %>% 
+ggplot() +
+  geom_line(aes(year, avg_wkly_wage, color=source), lwd = 1.25) +
+  labs(title = "Average Weekly Wage for Q2",
+         y = "Average weekly wage ",
+         x = "") +
+    facet_wrap(~ industry_title, scales = "free")
+
+filter(all_leisuredata3, area_fips==12087,qtr==3) %>% 
+ggplot() +
+  geom_line(aes(year, avg_wkly_wage, color=source), lwd = 1.25) +
+  labs(title = "Average Weekly Wage for Q3",
+         y = "Average weekly wage ",
+         x = "") +
+    facet_wrap(~ industry_title, scales = "free")
+
+filter(all_leisuredata3, area_fips==12087,qtr==4) %>% 
+ggplot() +
+  geom_line(aes(year, avg_wkly_wage, color=source), lwd = 1.25) +
+  labs(title = "Average Weekly Wage for Q4",
+         y = "Average weekly wage ",
          x = "") +
     facet_wrap(~ industry_title, scales = "free")
 
 
-
 ## SIC DATA 
-target_sicindustry_codes<-c('SIC_0G','SIC_0G53','SIC_0G58','SIC_0I70','SIC_0I79','SIC_0D20',
-                           'SIC_0D23','SIC_0G56','SIC_0G59')
-filter(all_targetdata, area_fips==12087, industry_code %in% target_sicindustry_codes,qtr==1) %>% 
+
+filter(all_targetdata, area_fips==12087 & industry_code %in% target_sicindustry_codes) %>% 
 ggplot() +
   geom_line(aes(year, month1_emplvl, color=source), lwd = 1.25) +
   labs(title = "Employment Level in Texas",
@@ -130,3 +209,12 @@ ggplot() +
 
 
 ```
+```{r new_plot}
+
+filter(all_leisuredata, area_fips == '12087' ) %>% 
+ggplot() +
+  geom_col(aes(year,leisure)) +
+  facet_wrap(~ source)
+
+```
+
