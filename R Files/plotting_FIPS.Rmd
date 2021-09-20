@@ -57,9 +57,20 @@ Leisure_Hospitality <- c('1026','72')
 
 vars <-c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
 
+
+
+all_targetdata2[all_targetdata2 == "1026 Leisure and Hospitality" ] <- "Leisure and Hospitality" 
+all_targetdata2[all_targetdata2 == "NAICS 72 Accomodation and foods services" ] <- "Accomodation and foods services"
+
+all_leisuredata3[all_leisuredata3 == '1026 Leisure and Hospitality'] <- "Leisure and Hospitality"
+
+
+
+
 #all_leisuredata <- all_targetdata %>% 
 all_leisuredata3<- all_targetdata2 %>% 
-  filter(industry_code %in% c(target_sicindustry_codes,Leisure_Hospitality)) %>% 
+  filter(industry_code %in% c(target_sicindustry_codes,Leisure_Hospitality))%>% 
+  
   group_by(area_fips, year, qtr,industry_title, source) %>% 
   # group_by(area_fips, year, qtr, source) %>% 
   # summarize(leisure = sum(qtrly_estabs_count)) 
@@ -86,7 +97,7 @@ all_leisuredata3<- all_targetdata2 %>%
 
 vars <-c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
 
-filter(all_leisuredata2, area_fips == "12087") %>% 
+filter(all_leisuredata3, area_fips == "12087") %>% 
 ggplot() +
   geom_col(aes(year,qtrly_estabs_count, color = source))
 
@@ -102,12 +113,12 @@ ggplot() +
 #   geom_col(aes(year,qtrly_estabs_count)) +
 #   facet_wrap(~ source)
 
-filter(all_leisuredata2, area_fips=="12087") %>% 
+filter(all_leisuredata3, area_fips=="12087") %>% 
 ggplot() +
   geom_col(aes(year,qtrly_estabs_count)) +
   facet_wrap(~ source)
 
-filter(all_targetdata, area_fips %in% texas_fips |industry_code %in% target_sicindustry_codes) %>% 
+filter(all_targetdata2, area_fips %in% texas_fips |industry_code %in% target_sicindustry_codes) %>% 
 ggplot() +
   geom_line(aes(year, qtrly_estabs_count)) +
   facet_wrap(~ source)
@@ -117,28 +128,38 @@ ggplot() +
 Leisure_Hospitality <- c(1026,72)
 # NAIC
 #Employment level for the first month of a given quarter
+# filter(all_leisuredata3, area_fips==12087) %>% 
+# Louisiana 22045- "Iberia";22019	LA	Calcasieu
+# Texas 48167	TX	Galveston, 48469	TX	Victoria
+#Monroe County 12087
+
+
 target_naic_industrycodes<-c('72','1026')
-filter(all_leisuredata3, area_fips==12087) %>% 
+filter(all_leisuredata3, area_fips==12087,qtr==2) %>% 
 ggplot() +
-  geom_line(aes(year, month1_emplvl, color=source), lwd = 1.25) +
+  geom_line(aes(year, month2_emplvl, color=source), lwd = 1.25) +
   labs(title = "Employment Level in Monroe County",
-         y = "First Month in any given Quater",
+         y = "Second Month in any given Quater,Q2",
          x = "") +
     facet_wrap(~ industry_title, scales = "free")
 
 #Employment level for the first month of a given quarter, Q2
 
-filter(all_leisuredata3, area_fips==12087) %>% 
+filter(all_leisuredata3, area_fips==12087,qtr==4) %>% 
 ggplot() +
-  geom_line(aes(year, month2_emplvl, color=source), lwd = 1.25) +
+  geom_line(aes(year, month3_emplvl, color=source), lwd = 1.25) +
   labs(title = "Employment Level in Monroe County",
-         y = "Second Month in any given quater",
+         y = "Third Month in any given quater,Q4",
          x = "") +
+  
     facet_wrap(~ industry_title, scales = "free")
 
-#Employment level for the first month of a given quarter, Q3
 
-filter(all_leisuredata3, area_fips==12087) %>% 
+#Employment level for the first month of a given quarter, Q3
+# Florida
+# filter(all_leisuredata3, area_fips==12087) %>% 
+# Louisiana 22045- "Iberia"
+filter(all_leisuredata3, area_fips==12087) %>%   
 ggplot() +
   geom_line(aes(year, month3_emplvl, color=source), lwd = 1.25) +
   labs(title = "Employment Level in Monroe County",

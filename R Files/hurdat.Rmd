@@ -1,0 +1,283 @@
+---
+title: "HURDAT"
+author: "IsabelLopez"
+date: "9/15/2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r load_libraries, include = FALSE}
+suppressPackageStartupMessages({
+  library(tidyverse)
+  library(lubridate)
+  library(sf)
+  library(tmap)
+  library(viridis)
+  library(ggthemes)
+  library(tidycensus)
+  library(HURDAT)
+})
+
+options(tigris_use_cache = TRUE)
+
+```
+
+```{r download_census, include = FALSE}
+# Load the data, getting statewide population in 2016
+
+county_raw  <-  get_acs(geography = "county", 
+                       variables = "B01003_001", 
+                       year = 2019, 
+                       output = "wide", 
+                       geometry = TRUE)
+```
+```{r clean_and_project_census}
+# add abbreviations, first create a temp df then join it
+abbrevs <- cbind("state" = state.name, 
+                 "county_abb" = state.abb, 
+                 "cent_lon" = state.center$x, 
+                 "cent_lat" = state.center$y) %>% 
+  rbind(c("Puerto Rico", "PR", -66.5901, 18.2208), 
+        c("District of Columbia","DC", -77.0369, 38.9072)) %>% 
+  as.data.frame()
+
+county_pop  <-  select(county_raw, name = NAME, fips = GEOID, 
+                      totpop = B01003_001E) %>% 
+  filter(!substr(fips,1,2) %in% c("02", "15", "72") ) %>%   # Drop Alaska & Hawaii
+  separate(name, into = c("county","state"), sep = ", ") %>% 
+  mutate(county = str_replace(county," County","")) %>% 
+  left_join(abbrevs, by = 'state')
+
+st_crs(county_pop) <- 4326  # Set the projection information
+
+#Project the state data into our Albers EA projection, epsg = 5072.
+county_5072 <- st_transform(county_pop, crs = 5072)
+
+
+
+tmap_mode('plot')
+tm_shape(county_pop) +
+  tm_polygons("totpop") +
+  # tm_text("county_abb") +
+  tm_layout("State population")
+
+ggplot() +
+  geom_sf(data = county_pop, aes(fill = totpop)) +
+  # geom_text_repel(data = county_pop,
+  #                 aes(x = cent_lon, y = cent_lat, label = county_abb))+
+  # geom_sf_text(data = county_pop,
+  #                 aes(label = county_abb))+
+  scale_fill_viridis( alpha = .7, direction = 1, trans = "log10") +
+  labs(title = "County population, 2018", subtitle = "log10 scale color bar") +
+  theme_map()
+```
+
+
+## Atlantic Example Analysis
+
+Load the Atlantic data, calculate the Saffir-Simpson Wind Scale and calculate the number of storms by year, categorizing according to maximum wind speed as:
+
+ - Major Hurricane,
+ 
+ - Minor Hurricane,
+ 
+ - Tropical Storm, and 
+ 
+ - Tropical Disturbance.
+
+```{r retreive_HURDAT_data}
+atl <- get_hurdat(basin = "AL")
+#pac <- get_hurdat(basin = "EP")
+# atl[is.na(atl$Key) , ]$Name <-  'UNNAMED'
+# atl[is.na(atl$Key) , ]$Key <-  'AL011851'
+```
+
+
+```{r summarise_HURDAT_data}
+atl_counts <- atl %>% 
+  group_by(Key) %>%  
+  transmute(Key,
+            year = year(DateTime),
+            storm_name = paste(Name, year, sep = "_"), 
+            obs = n(), 
+            max_wind = max(Wind, na.rm = TRUE),
+            ss = case_when(
+              max_wind < 34 ~ "TD",
+              max_wind < 64 ~ "TS",
+              max_wind <= 82 ~ "H1",
+              max_wind <= 95 ~ "H2",
+              max_wind <= 112 ~ "H3",
+              max_wind <= 136 ~ "H4",
+              max_wind > 136 ~ "H5"
+            ),
+            type = case_when(
+              substr(ss,1,1) == "T" ~ ss,
+              as.integer(substr(ss,2,2)) <= 2 ~ "MI",
+              as.integer(substr(ss,2,2)) >= 3 ~ "MA"
+            )) %>% 
+  distinct() %>% 
+  ungroup()
+  
+```
+
+
+## Do some spatial analysis
+
+Let's look at hurricane strikes by state.  To do this accurately, we'll need projected data.  We'll use LAEA for CONUS and, since we are just approximating, will use it for Puerto Rico too.  Let's also omit any hurricane data East of 55 W, since it won't impact our analysis on CONUS + PR.
+
+
+First delete extra hurricane points, then convert to a {sf} object and project and buffer by 100 km
+
+```{r filter_HURDAT_and_create_sf}
+atl_us <- atl %>% 
+  filter(Lon <= -55 & Lon >= -180)
+
+atl_sf <- st_as_sf(atl_us, coords = c("Lon", "Lat"), crs = 4326)
+# class(atl_sf)
+# plot(st_geometry(atl_sf))
+```
+
+convert to linestrings based on Key
+
+```{r create_storm_strings}
+atl_line <- atl_sf %>% 
+  mutate(year = year(DateTime)) %>% 
+  group_by(year, Key) %>% 
+  summarise(max_wind = max(Wind),obs = n(), do_union=FALSE) %>%
+  filter(obs > 1) %>% # Remove linestings that only have 1 node
+  st_cast("LINESTRING")
+
+#plot(st_geometry(atl_line))
+# Project and Buffer lines
+
+atl_5072 <- st_transform(atl_line, crs = 5072)
+
+```
+
+
+```{r puzzle_out_segment_geometry}
+# atl_sf %>%
+# head(lead(atl_sf$geometry))
+```
+
+```{r create_segment_strings}
+# atl_seg <- atl_sf %>%
+#   mutate(year = year(DateTime)) %>%
+#   # group_by(Key) %>%
+#   mutate(geo = c(geometry, lead(geometry)))
+# 
+# 
+#   mutate(endLat = lead(Lat),
+#          endLon = lead(Lon))
+#   summarise(max_wind = max(Wind),obs = n(), do_union=FALSE) %>%
+#   filter(obs > 1) %>% # Remove linestings that only have 1 node
+
+```
+
+### Buffer counties
+
+Buffer counties with a 50 km buffer, then intersect that with the projected, but unbuffered, tracks.  Note that I'm buffering counties because there are fewer of them than hurricane tracks (well, sometimes).  That should make the process faster.
+
+```{r project_and_buffer}
+buff_county_5072 <- st_buffer(county_5072, 50000)
+# tm_shape( buff_county_5072) +
+#   tm_polygons()
+```
+
+
+```{r intersect_strikes}
+bcounty_strikes <- st_intersection(atl_5072, buff_county_5072)
+# tm_shape(bcounty_strikes) +
+#   tm_lines()
+```
+
+Now that Counties are buffered, intersect the buffered counties and the hurricane tracks.
+
+```{r count_strikes}
+nstrikes <- st_drop_geometry(bcounty_strikes) %>% 
+  # left_join(atl_counts, by = "Key") %>% 
+  group_by(fips, year) %>% 
+  summarise(hits = n()) %>% 
+  ungroup()
+
+decadestrikes <- nstrikes %>% 
+  mutate(decade = 10 * (year %/% 10)) %>% 
+  group_by(fips, decade) %>% 
+  summarise(dec_hits = sum(hits)) %>% 
+  mutate(tot_hits = sum(dec_hits)) %>% 
+  ungroup()
+
+sumstrikes <- nstrikes %>% 
+  group_by(fips) %>% 
+  summarise(tot_hits = sum(hits)) %>% 
+  ungroup()
+
+
+decadal_strikes <- left_join(county_5072, decadestrikes, by = "fips")
+total_strikes <- left_join(county_5072, sumstrikes, by = "fips")
+
+# tmap_mode('view')
+# tm_shape(total_strikes) +
+#   tm_polygons('tot_hits') +
+#   tm_text('tot_hits') +
+#   tm_layout(title = "Total strikes, 50-km buffered state boundaries")
+# tmap_mode('plot')
+
+```
+
+```{r plot_decadal_timeline}
+target_fips = "48167"
+filter(decadesrikes, fips == target_fips) %>% 
+  ggplot() + 
+  geom_point(aes(decade, dec_hits)) +
+  geom_smooth(aes(decade, dec_hits), method = "lm")
+```
+
+
+```{r calc_decadal_trend}
+target_fips = "48167"
+dec_trend <- filter(decadestrikes, fips == target_fips) %>% 
+  summarize(trend = list(lm(dec_hits ~ decade)))
+
+broom::tidy(((dec_trend$trend[[1]]))) 
+```
+
+
+```{r plot_nationwide_strikes}
+ggplot() +
+  geom_sf(data = total_strikes, aes(fill = tot_hits)) +
+  # geom_sf_text(data = total_strikes, aes(label = tot_hits))+
+  scale_fill_viridis( alpha = .85, direction = 1, trans = "sqrt") +
+  labs(title = "Hurricane impacts, by county",
+       subtitle = "Impact defined as storm track within 50km of county boundary",
+       fill = "Number") +
+  theme_map()
+```
+
+Plot by individual state.  Just pick one of interest; here I use Louisiana.
+
+**Note bene:**  You will need to adjust the X and Y coordinates in the last line, `theme(legend.position=c(X, Y))` to move the legend around.  Legend position will vary by state shape. `(0, 0)` is the bottom left of the entire plot window, and the coordinates that you specify are for the **center** of the **left edge** of the legend.  I don't know why, but that seems to be the location.
+
+```{r  plot_single-county_strikes}
+total_strikes %>% 
+  # filter(state == "Texas",county== "Galveston") %>% 
+  filter(state =="Florida", county=="Monroe") %>% 
+  ggplot() +
+    geom_sf(aes(fill = tot_hits)) +
+    geom_sf_text(aes(label = tot_hits))+
+    scale_fill_viridis( alpha = .85, direction = 1) + #, trans = "sqrt") +
+    labs(title = "Hurricane impacts, by county",
+         subtitle = "Impact defined as storm track within 50km of county boundary",
+         fill = "Number") +
+    theme_map() +
+    theme(legend.position=c(0.1,.2)) 
+
+
+```
+
+
+
