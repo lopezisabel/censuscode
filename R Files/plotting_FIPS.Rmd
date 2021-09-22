@@ -67,7 +67,8 @@ all_targetdata2 <- all_targetdata2 %>%
                                   "Leisure and hospitality" , industry_title),
         industry_title = ifelse (trimws(industry_title) == "NAICS 72 Accommodation and food services",
                                   "Accommodation and food services" , industry_title),
-        time = year + ((qtr*3)-1)/12 )
+        time = yq(sprintf("%4d: Q%d", 19, 2)))
+        # time = year + ((qtr*3)-1)/12 )
 
 # all_leisuredata3[all_leisuredata3 == '1026 Leisure and Hospitality'] <- "Leisure and Hospitality"
 
@@ -265,10 +266,14 @@ ggplot() +
   facet_wrap(~ source)
 
 # MONROE COUNTY
-  filter(all_leisuredata3, area_fips==12087) %>% 
-ggplot() +
-  geom_line(aes(time, qtrly_estabs_count, color=source), lwd = 1.25) +
-    geom_vline(filter(nstrikes,area_fips==12087)aes(time()))
+filter( all_leisuredata3, area_fips==12087) %>% 
+  ggplot() +
+  geom_line(aes( time, qtrly_estabs_count, color=source), lwd = 1.25) +
+#   filter(hurdat2,fips==12087)
+# geom_vline(aes(xintercept=DateTime)))
+  filter( hurdat4, fips==12087) %>% 
+  geom_vline(xintercept = year(DateTime))+
+
   labs(title = "Trend in coastal work places",
          y = "Number of Establishments",
          x = "") +

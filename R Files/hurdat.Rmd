@@ -195,7 +195,27 @@ bcounty_strikes <- st_intersection(atl_5072, buff_county_5072)
 # tm_shape(bcounty_strikes) +
 #   tm_lines()
 ```
+```{r combine and extract data sets}
+bcounty_strikes2 = subset(bcounty_strikes, 
+                          select = -c(county, state, totpop, county_abb, cent_lon, cent_lat,geometry))
+atl_us2 = subset(atl_us,select = -c(Record, Lat, Lon, Wind, Pressure, NE34, SE34, SW34,
+                                    NW34, NE50, SE50, SW50, NW50, NE64, SE64, SW64, NW64)) 
 
+# target_years <-(1975:2020) 
+# out_col_names <- c('fips', 'year', 'max_wind', 'obs', 
+#                    'Key','name','DateTime',
+#                    'Status')
+# 
+# all_targethurdat <- data.frame(matrix(vector(), 0, 8))
+# colnames(all_targethurdat) <- out_col_names
+target_fips<-fips
+hurdat1 <- merge( bcounty_strikes2, atl_us2,by="Key")
+hurdat2 = subset(hurdat1,select = -c(obs,Name,geometry,Key,max_wind))
+# filter(hurdat2, fips %in% targetcoastal_fips ) %>% 
+# filter(hurdat2, year %in% target_years) %>% 
+hurdat3 <-hurdat2 %>% filter(fips %in% target_fips)
+hurdat4 <-hurdat3 %>% filter(year %in% target_years)
+```
 Now that Counties are buffered, intersect the buffered counties and the hurricane tracks.
 
 ```{r count_strikes}

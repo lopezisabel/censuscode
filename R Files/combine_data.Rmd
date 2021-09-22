@@ -20,7 +20,7 @@ library(here)
 
 targetcoastal_fips <- readRDS(file = here("data","targetcoastal_FIPS.RDS"))
 fips <- targetcoastal_fips$fips
-target_years  <- c(1991,1992,1993,1994,1995,1996,1997,1998,1999,2000)
+target_years  <- c(1975:2020)
 
 
 ```
