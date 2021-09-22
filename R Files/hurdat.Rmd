@@ -20,6 +20,7 @@ suppressPackageStartupMessages({
   library(ggthemes)
   library(tidycensus)
   library(HURDAT)
+  library(here)
 })
 
 options(tigris_use_cache = TRUE)
@@ -203,7 +204,7 @@ nstrikes <- st_drop_geometry(bcounty_strikes) %>%
   group_by(fips, year) %>% 
   summarise(hits = n()) %>% 
   ungroup()
-
+ saveRDS(nstrikes, file = here("data","nstrikes.RDS"))
 decadestrikes <- nstrikes %>% 
   mutate(decade = 10 * (year %/% 10)) %>% 
   group_by(fips, decade) %>% 

@@ -14,7 +14,7 @@ library(tidyverse)
 library(tidycensus)
 library(here)
 library(ggthemes)
-  
+library(lubridate)  
 })  
 ```
 
@@ -63,10 +63,11 @@ vars <-c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","a
 # all_targetdata2[all_targetdata2 == "1026 Leisure and Hospitality" ] <- "Leisure and Hospitality" 
 # all_targetdata2[all_targetdata2 == "NAICS 72 Accomodation and foods services" ] <- "Accomodation and foods services"
 all_targetdata2 <- all_targetdata2 %>% 
-  mutate(industry_title2 = ifelse (grepl("hospitality", industry_title),
+  mutate(industry_title = ifelse (grepl("hospitality", industry_title),
                                   "Leisure and hospitality" , industry_title),
-        industry_title2 = ifelse (trimws(industry_title) == "NAICS 72 Accommodation and food services",
-                                  "Accommodation and food services" , industry_title))
+        industry_title = ifelse (trimws(industry_title) == "NAICS 72 Accommodation and food services",
+                                  "Accommodation and food services" , industry_title),
+        time = year + ((qtr*3)-1)/12 )
 
 # all_leisuredata3[all_leisuredata3 == '1026 Leisure and Hospitality'] <- "Leisure and Hospitality"
 
@@ -77,10 +78,11 @@ all_targetdata2 <- all_targetdata2 %>%
 all_leisuredata3<- all_targetdata2 %>% 
   filter(industry_code %in% c(target_sicindustry_codes,Leisure_Hospitality))%>% 
   
-  group_by(area_fips, year, qtr,industry_title, source) %>% 
+  group_by(area_fips, year, qtr, time, industry_title, source) %>% 
   # group_by(area_fips, year, qtr, source) %>% 
   # summarize(leisure = sum(qtrly_estabs_count)) 
-  summarize(across(vars, sum)) 
+  summarize(across(vars, sum)) %>% 
+  ungroup()
 
 
 ```
@@ -265,7 +267,8 @@ ggplot() +
 # MONROE COUNTY
   filter(all_leisuredata3, area_fips==12087) %>% 
 ggplot() +
-  geom_line(aes(year, qtrly_estabs_count, color=source), lwd = 1.25) +
+  geom_line(aes(time, qtrly_estabs_count, color=source), lwd = 1.25) +
+    geom_vline(filter(nstrikes,area_fips==12087)aes(time()))
   labs(title = "Trend in coastal work places",
          y = "Number of Establishments",
          x = "") +
