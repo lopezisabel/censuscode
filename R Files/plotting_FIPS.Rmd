@@ -75,8 +75,7 @@ all_targetdata2 <- all_targetdata2 %>%
 
 
 
-#all_leisuredata <- all_targetdata %>% 
-all_leisuredata3<- all_targetdata2 %>% 
+#all_leisuredata <- all_targetdata %>% all_leisuredata3<- all_targetdata2 %>% 
   filter(industry_code %in% c(target_sicindustry_codes,Leisure_Hospitality))%>% 
   
   group_by(area_fips, year, qtr, time, industry_title, source) %>% 
@@ -161,11 +160,11 @@ ggplot() +
 
 #Employment level for the first month of a given quarter, Q2
 
-filter(all_leisuredata3, area_fips==12087,qtr==4) %>% 
+filter(all_leisuredata3, area_fips==12087) %>% 
 ggplot() +
-  geom_line(aes(year, month3_emplvl, color=source), lwd = 1.25) +
+  geom_line(aes(time, month3_emplvl, color=source), lwd = 1.25) +
   labs(title = "Employment Level in Monroe County",
-         y = "Third Month in any given quater,Q4",
+         y = "Third Month in any given quater",
          x = "") +
   
     facet_wrap(~ industry_title, scales = "free")
@@ -268,12 +267,13 @@ ggplot() +
 # MONROE COUNTY
 filter( all_leisuredata3, area_fips==12087) %>% 
   ggplot() +
-  geom_line(aes( time, qtrly_estabs_count, color=source), lwd = 1.25) +
-#   filter(hurdat2,fips==12087)
-# geom_vline(aes(xintercept=DateTime)))
-  filter( hurdat4, fips==12087) %>% 
-  geom_vline(xintercept = year(DateTime))+
-
+  geom_line(aes(time, month1_emplvl, color=source), lwd = 1.25) +
+  # filter(hurdat2,fips==12087)
+  # geom_vline(aes(xintercept=DateTime)))
+  # filter( hurdat4, fips==12087) %>% 
+  # geom_vline(xintercept = "Time", linetype="dotted", 
+  #                 color = "blue", size=1.5)
+  geom_vline(aes(xintercept = DateTime),filter(hurdat4,fips==12087))
   labs(title = "Trend in coastal work places",
          y = "Number of Establishments",
          x = "") +
@@ -282,7 +282,7 @@ filter( all_leisuredata3, area_fips==12087) %>%
   
  filter(all_leisuredata3, area_fips==12087) %>% 
 ggplot() +
-  geom_line(aes(year,avg_wkly_wage, color=source), lwd = 1.25) +
+  geom_line(aes(time,avg_wkly_wage, color=source), lwd = 1.25) +
    labs(title = "Trend in coastal work places",
          y = "Average Weekly Wage, $",
          x = "") +
