@@ -212,12 +212,17 @@ target_fips<-targetcoastal_FIPS
 target_years <- c(1975:2020)
 hurdat1 <- merge( bcounty_strikes2, atl_us2,by="Key")
 hurdat2 = subset(hurdat1,select = -c(obs,Name,geometry,Key,max_wind))
-# filter(hurdat2, fips %in% targetcoastal_fips ) %>% 
+# hurdat3 <- hurdat2 %>%
+#   filter(fips %in% target_fips & year %in% target_years)%>% 
+hurdat3 <- filter(hurdat2, fips %in% targetcoastal_fips ) %>% 
 # filter(hurdat2, year %in% target_years) %>% 
-hurdat3 <-hurdat2 %>% filter(fips %in% target_fips)
-hurdat4 <-hurdat3 %>% filter(year %in% target_years)
 
-saveRDS(hurdat4, file = here("data","hurdat4"))
+
+# hurdat3 <- filter(hurdat2,fips %in% target_fips) %>% 
+# hurdat3 <-hurdat2 %>% filter(fips %in% target_fips)
+# hurdat4 <-hurdat3 %>% filter(year %in% target_years)
+
+saveRDS(target_hurdat, file = here("data","target_hurdat"))
 saveRDS(hurdat4, file = here("hurdat4.Rds"))
 ```
 Now that Counties are buffered, intersect the buffered counties and the hurricane tracks.

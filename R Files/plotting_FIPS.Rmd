@@ -67,15 +67,12 @@ all_targetdata2 <- all_targetdata2 %>%
                                   "Leisure and hospitality" , industry_title),
         industry_title = ifelse (trimws(industry_title) == "NAICS 72 Accommodation and food services",
                                   "Accommodation and food services" , industry_title),
-        time = yq(sprintf("%4d: Q%d", 19, 2)))
+        time = yq(sprintf("%4d: Q%d",year, qtr)))
         # time = year + ((qtr*3)-1)/12 )
 
 # all_leisuredata3[all_leisuredata3 == '1026 Leisure and Hospitality'] <- "Leisure and Hospitality"
-
-
-
-
-#all_leisuredata <- all_targetdata %>% all_leisuredata3<- all_targetdata2 %>% 
+# all_leisuredata <- all_targetdata %>% all_leisuredata3<- all_targetdata2 %>%
+  all_leisuredata <- all_targetdata2 %>%
   filter(industry_code %in% c(target_sicindustry_codes,Leisure_Hospitality))%>% 
   
   group_by(area_fips, year, qtr, time, industry_title, source) %>% 
@@ -111,9 +108,9 @@ ggplot() +
 
  
 
-filter(all_leisuredata3, area_fips == "12087") %>% 
+filter(all_leisuredata, area_fips == "12087") %>% 
 ggplot() +
-  geom_bar(aes(year,month1_emplvl, color = source))
+  geom_line(aes(time,month1_emplvl, color = source))
   
 ```
 
@@ -133,7 +130,7 @@ ggplot() +
   facet_wrap(~ source)
 
 filter(all_targetdata2, area_fips %in% texas_fips |industry_code %in% target_sicindustry_codes) %>% 
-ggplot() +
+ggplot() 
   geom_line(aes(year, qtrly_estabs_count)) +
   facet_wrap(~ source)
 
@@ -259,21 +256,43 @@ ggplot() +
 ```
 ```{r new_plot}
 
-filter(all_leisuredata3, area_fips == '12087' ) %>% 
+filter(all_leisuredata, area_fips == '12005' ) %>% 
 ggplot() +
-  geom_line(aes(year,leisure)) +
-  facet_wrap(~ source)
+  geom_line(aes(time,avg_wkly_wage, color=source), lwd=1.25) +
+     labs(title = "Trend in coastal work places",
+         y = "Average Weekly Wage, $",
+         x = "") +
+  # geom_vline(filter(targethurdat1,fips=='12029'),aes(xintercept=time))
+ facet_wrap(~ industry_title, scales = "free")
 
+vertical_lines <- filter(targethurdat1, fips=="12005")
+
+ggplot(filter(all_leisuredata,area_fips == '12005'),aes(x=time, y=avg_wkly_wage)) +
+  geom_line()+
+  geom_vline(aes(xintercept = vertical_lines))
 # MONROE COUNTY
-filter( all_leisuredata3, area_fips==12087) %>% 
+# ggp <- ggplot(filter(all_leisuredata, area_fips==12029),aes(time,avg_wkly_wage,color=source))+
+#   geom_line()
+# ggp
+# 
+# dates_vline <- as.Date(c(1975:2020))
+# dates_vline <-which(targethurdat1$Time %in% dates_vline)
+# 
+# ggp+
+#   geom_vline(xintercept=as.numeric(targethurdat1$Time[dates_vline]),
+# col="black", lwd = 2.00)
+
+  
+filter( all_leisuredata, area_fips==12029) %>% 
   ggplot() +
-  geom_line(aes(time, month1_emplvl, color=source), lwd = 1.25) +
+  geom_line(aes(time,avg_wkly_wage, color=source), lwd = 1.25) +
   # filter(hurdat2,fips==12087)
   # geom_vline(aes(xintercept=DateTime)))
-  # filter( hurdat4, fips==12087) %>% 
-  # geom_vline(xintercept = "Time", linetype="dotted", 
-  #                 color = "blue", size=1.5)
-  geom_vline(aes(xintercept = DateTime),filter(hurdat4,fips==12087))
+  # filter(targethurdat1, fips==12029) %>%
+  # geom_vline(aes(xintercept = "Time", linetype="dotted",
+  #                 color = "blue", size=1.5)) +
+  ggplot() +
+  geom_vline(filter(targethurdat1, fips==12029),xintercept = Time) +
   labs(title = "Trend in coastal work places",
          y = "Number of Establishments",
          x = "") +
