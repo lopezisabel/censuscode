@@ -255,6 +255,8 @@ ggplot() +
 
 ```
 ```{r new_plot}
+targethurdat2 <- st_drop_geometry(targethurdat1)
+plot(st_geometry(targethurdat1))
 
 filter(all_leisuredata, area_fips == '12005' ) %>% 
 ggplot() +
@@ -267,9 +269,20 @@ ggplot() +
 
 vertical_lines <- filter(targethurdat1, fips=="12005")
 
-ggplot(filter(all_leisuredata,area_fips == '12005'),aes(x=time, y=avg_wkly_wage)) +
-  geom_line()+
-  geom_vline(aes(xintercept = vertical_lines))
+ggplot() + 
+  # filter(all_leisuredata,area_fips == '12005'& (industry_title== "Retail Trade Division" | 
+  #                                                      industry_title== "Accommodation and food services"))) +
+  
+  geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Retail Trade Division"),
+            aes(x=time, y=avg_wkly_wage), color = "red")+
+  geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+            aes(x=time, y=avg_wkly_wage), color = "green")+
+  geom_vline(aes(xintercept = as.Date(time), color = type),vertical_lines)+
+  labs(title = "Title",
+       subtitle = "Subtitle",
+       x = "Year",
+       y = "Average Weekly Wage")
+
 # MONROE COUNTY
 # ggp <- ggplot(filter(all_leisuredata, area_fips==12029),aes(time,avg_wkly_wage,color=source))+
 #   geom_line()
