@@ -23,6 +23,7 @@ library(lubridate)
 all_targetdata <- readRDS(file = here("data","all_targetdata.RDS")) 
   all_targetdata[all_targetdata == 0]<- NA 
  all_targetdata2<- na.omit(all_targetdata)
+ targethurdat1[targethurdat = NA]
  targethurdat1 <- na.omit(targethurdat1)
 
 targetcoastal_fips <-readRDS(file = here("data","targetcoastal_FIPS.RDS"))
@@ -57,17 +58,20 @@ louisiana_fips<-c('22005','22007','22019','22023',
 # 
 # Leisure_Hospitality <- c('1026','72')
 
-target_sicindustry_codes<-c('SIC_0G', 'SIC_0G54','SIC_0F51', 'SIC_OD39')
+target_sicindustry_codes<-c('SIC_0G', 'SIC_0G54','SIC_0F51', 'SIC_0D39', 'SIC_0I79','SIC_0I73')
 
-target_naics_industry_codes <- c('44-45', '72', '42', '1013')
+
+target_naics_industry_codes <- c('44-45', '72', '42', '1013', '1026', '1024')
 
 vars <-c("qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","avg_wkly_wage")
 
+
  
+
 # 
 # all_targetdata2[all_targetdata2 == "1026 Leisure and Hospitality" ] <- "Leisure and Hospitality" 
 # all_targetdata2[all_targetdata2 == "NAICS 72 Accomodation and foods services" ] <- "Accomodation and foods services"
-all_targetdata2 <- all_targetdata2 %>% 
+all_targetdata3 <- all_targetdata2 %>% 
   mutate(industry_title = ifelse (grepl("hospitality", industry_title),
                                   "Leisure and hospitality" , industry_title),
         industry_title = ifelse (trimws(industry_title) == "NAICS 72 Accommodation and food services",
@@ -78,13 +82,16 @@ all_targetdata2 <- all_targetdata2 %>%
                               "Wholesale trade", industry_title),
         industry_title = ifelse (trimws(industry_title) == "1013 Manufacturing",
                               "Manufacturing", industry_title),
+         industry_title = ifelse (trimws(industry_title) == "1024 Professional and business services",
+                              "Professional and business service", industry_title),
+        
         time = yq(sprintf("%4d: Q%d",year, qtr)))
         # time = year + ((qtr*3)-1)/12 )
 
 # all_leisuredata3[all_leisuredata3 == '1026 Leisure and Hospitality'] <- "Leisure and Hospitality"
 # all_leisuredata <- all_targetdata %>% all_leisuredata3<- all_targetdata2 %>%
-  all_leisuredata <- all_targetdata2 %>%
-  filter(industry_code %in% c(target_sicindustry_codes,target_naics_industry_code))%>% 
+  all_leisuredata <- all_targetdata3 %>%
+  filter(industry_code %in% c(target_sicindustry_codes,target_naics_industry_codes))%>% 
   
   group_by(area_fips, year, qtr, time, industry_title, source) %>% 
   # group_by(area_fips, year, qtr, source) %>% 
@@ -278,22 +285,96 @@ ggplot() +
   # geom_vline(filter(targethurdat1,fips=='12029'),aes(xintercept=time))
  facet_wrap(~ industry_title, scales = "free")
 
-vertical_lines <- filter(targethurdat1, fips=="22089")
+vertical_lines <- filter(targethurdat2, fips=="22089")
+# Galveston 48167
+vertical_lines <- filter(targethurdat2, fips=="48167")
+#Monroe County, Florida 12087
+vertical_lines <- filter(targethurdat2, fips=="12087")
+
+
 
 ggplot() + 
   # filter(all_leisuredata,area_fips == '12005'& (industry_title== "Retail Trade Division" | 
   #                                                      industry_title== "Accommodation and food services"))) +
   
-  geom_line(data = filter(all_leisuredata,area_fips == '22089' & industry_title == "Retail Trade Division"),
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "Retail Trade Division"),
             aes(x=time, y=qtrly_estabs_count), color = "red")+
   # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
-    geom_line(data = filter(all_leisuredata,area_fips == '22089'& industry_title == "Leisure and hospitality"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Retail trade"),
             aes(x=time, y=qtrly_estabs_count), color = "green")+
   geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
-  labs(title = "Average Weekly Wage",
-       subtitle = "St.Charles Parish, Louisiana",
+  labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: Retail Trade",
        x = "Year",
-       y = "Quaterly Establishment Counts")
+       y = "Quaterly Establishment Count")
+
+### FOOD 
+
+ggplot() + 
+  # filter(all_leisuredata,area_fips == '12005'& (industry_title== "Retail Trade Division" | 
+  #                                                      industry_title== "Accommodation and food services"))) +
+  
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "SIC 54 Food Stores"),
+            aes(x=time, y=qtrly_estabs_count), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Accommodation and food services"),
+            aes(x=time, y=qtrly_estabs_count), color = "green")+
+  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 54 Food Stores & NAICS Accommodation and food services",
+       x = "Year",
+       y = "Quaterly Establishment Count")
+### Wholesale Trade
+ggplot() + 
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "SIC 51 Wholesale Trade Nondurable Goods"),
+            aes(x=time, y=qtrly_estabs_count), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Wholesale trade"),
+            aes(x=time, y=qtrly_estabs_count), color = "green")+
+  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+ labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 51 Whole Sale Trade Nondurable Goods & NAICS Wholesale Trade",
+       x = "Year",
+       y = "Quaterly Establishment Count")
+### Wholesale Trade
+
+## Manufacturing
+ggplot() + 
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "SIC 39 Miscellaneous Manufacturing Industries"),
+            aes(x=time, y=qtrly_estabs_count), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Manufacturing"),
+            aes(x=time, y=qtrly_estabs_count), color = "green")+
+  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: NAICS Manufacturing",
+       x = "Year",
+       y = "Quaterly Establishment Count")
+## Leisure and Recreation Services
+ggplot() + 
+  geom_line(data = filter (all_leisuredata, area_fips == '48167' & industry_title == "SIC 79 Amusement and Recreation Services"),
+            aes(x=time, y=qtrly_estabs_count), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Leisure and hospitality"),
+            aes(x=time, y=qtrly_estabs_count), color = "green")+
+  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+ labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 79 Amusement and Recreation Services & Leisure and hospitality",
+       x = "Year",
+       y = "Quaterly Establishment Count")
+
+### BUSINESS SERVICES
+ggplot() + 
+  geom_line(data = filter (all_leisuredata, area_fips == '48167' & industry_title == "SIC 73 Business Services"),
+            aes(x=time, y=qtrly_estabs_count), color = "red")+
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Professional and business services"),
+            aes(x=time, y=qtrly_estabs_count), color = "green")+
+  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+ labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 73 Business Services
+ & NAICS Professional and business services",
+       x = "Year",
+       y = "Quaterly Establishment Count")
 
 # MONROE COUNTY
 # ggp <- ggplot(filter(all_leisuredata, area_fips==12029),aes(time,avg_wkly_wage,color=source))+
@@ -308,30 +389,30 @@ ggplot() +
 # col="black", lwd = 2.00)
 
   
-filter( all_leisuredata, area_fips==12029) %>% 
-  ggplot() +
-  geom_line(aes(time,avg_wkly_wage, color=source), lwd = 1.25) +
-  # filter(hurdat2,fips==12087)
-  # geom_vline(aes(xintercept=DateTime)))
-  # filter(targethurdat1, fips==12029) %>%
-  # geom_vline(aes(xintercept = "Time", linetype="dotted",
-  #                 color = "blue", size=1.5)) +
-  ggplot() +
-  geom_vline(filter(targethurdat1, fips==12029),xintercept = Time) +
-  labs(title = "Trend in coastal work places",
-         y = "Number of Establishments",
-         x = "") +
-    facet_wrap(~ industry_title, scales = "free")
-    # facet_wrap(~ area_fips, scales = "free")
-  
- filter(all_leisuredata3, area_fips==12087) %>% 
-ggplot() +
-  geom_line(aes(time,avg_wkly_wage, color=source), lwd = 1.25) +
-   labs(title = "Trend in coastal work places",
-         y = "Average Weekly Wage, $",
-         x = "") +
-    facet_wrap(~ industry_title, scales = "free")
-    # facet_wrap(~ area_fips, scales = "free")
+# filter( all_leisuredata, area_fips==12029) %>% 
+#   ggplot() +
+#   geom_line(aes(time,avg_wkly_wage, color=source), lwd = 1.25) +
+#   # filter(hurdat2,fips==12087)
+#   # geom_vline(aes(xintercept=DateTime)))
+#   # filter(targethurdat1, fips==12029) %>%
+#   # geom_vline(aes(xintercept = "Time", linetype="dotted",
+#   #                 color = "blue", size=1.5)) +
+#   ggplot() +
+#   geom_vline(filter(targethurdat1, fips==12029),xintercept = Time) +
+#   labs(title = "Trend in coastal work places",
+#          y = "Number of Establishments",
+#          x = "") +
+#     facet_wrap(~ industry_title, scales = "free")
+#     # facet_wrap(~ area_fips, scales = "free")
+#   
+#  filter(all_leisuredata3, area_fips==12087) %>% 
+# ggplot() +
+#   geom_line(aes(time,avg_wkly_wage, color=source), lwd = 1.25) +
+#    labs(title = "Trend in coastal work places",
+#          y = "Average Weekly Wage, $",
+#          x = "") +
+#     facet_wrap(~ industry_title, scales = "free")
+#     # facet_wrap(~ area_fips, scales = "free")
 
 ```
 
