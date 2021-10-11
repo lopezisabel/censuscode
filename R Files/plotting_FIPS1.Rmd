@@ -23,8 +23,11 @@ library(lubridate)
 all_targetdata <- readRDS(file = here("data","all_targetdata.RDS")) 
   all_targetdata[all_targetdata == 0]<- NA 
  all_targetdata2<- na.omit(all_targetdata)
- targethurdat1[targethurdat = NA]
- targethurdat1 <- na.omit(targethurdat1)
+ # targethurdat1[targethurdat = NA]
+ # targethurdat1 <- filter(targethurdat1, !is.na(ss))
+ # anyNA(targethurdat1$ss)
+  targethurdat150 <- filter(targethurdat150, !is.na(ss))
+ anyNA(targethurdat150$ss)
 
 targetcoastal_fips <-readRDS(file = here("data","targetcoastal_FIPS.RDS"))
 fips <- targetcoastal_fips$fips
@@ -273,8 +276,12 @@ ggplot() +
 
 ```
 ```{r new_plot}
-targethurdat2 <- st_drop_geometry(targethurdat1)
-plot(st_geometry(targethurdat1))
+# targethurdat2 <- st_drop_geometry(targethurdat1)
+targethurdat150 <-st_drop_geometry(targethurdat_150)
+
+geom_sf(data = county_pop, aes(fill = totpop))
+plot(st_geometry(county_pop))+
+plot(st_geometry(targethurdat1))+
 
 filter(all_leisuredata, area_fips == '12005' ) %>% 
 ggplot() +
@@ -285,9 +292,9 @@ ggplot() +
   # geom_vline(filter(targethurdat1,fips=='12029'),aes(xintercept=time))
  facet_wrap(~ industry_title, scales = "free")
 
-vertical_lines <- filter(targethurdat2, fips=="22089")
+vertical_lines <- filter(targethurdat150, fips=="22089")
 # Galveston 48167
-vertical_lines <- filter(targethurdat2, fips=="48167")
+vertical_lines <- filter(targethurdat150, fips=="48167")
 #Monroe County, Florida 12087
 vertical_lines <- filter(targethurdat2, fips=="12087")
 
@@ -302,7 +309,7 @@ ggplot() +
   # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
     geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Retail trade"),
             aes(x=time, y=qtrly_estabs_count), color = "green")+
-  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
   labs(title = "Galveston,Texas",
        subtitle = "Industry Title: Retail Trade",
        x = "Year",
@@ -319,7 +326,7 @@ ggplot() +
   # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
     geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Accommodation and food services"),
             aes(x=time, y=qtrly_estabs_count), color = "green")+
-  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
   labs(title = "Galveston,Texas",
        subtitle = "Industry Title: SIC 54 Food Stores & NAICS Accommodation and food services",
        x = "Year",
@@ -331,7 +338,7 @@ ggplot() +
   # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
     geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Wholesale trade"),
             aes(x=time, y=qtrly_estabs_count), color = "green")+
-  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
  labs(title = "Galveston,Texas",
        subtitle = "Industry Title: SIC 51 Whole Sale Trade Nondurable Goods & NAICS Wholesale Trade",
        x = "Year",
@@ -345,7 +352,7 @@ ggplot() +
   # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
     geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Manufacturing"),
             aes(x=time, y=qtrly_estabs_count), color = "green")+
-  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
   labs(title = "Galveston,Texas",
        subtitle = "Industry Title: NAICS Manufacturing",
        x = "Year",
@@ -357,7 +364,7 @@ ggplot() +
   # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
     geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Leisure and hospitality"),
             aes(x=time, y=qtrly_estabs_count), color = "green")+
-  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
  labs(title = "Galveston,Texas",
        subtitle = "Industry Title: SIC 79 Amusement and Recreation Services & Leisure and hospitality",
        x = "Year",
@@ -369,7 +376,7 @@ ggplot() +
             aes(x=time, y=qtrly_estabs_count), color = "red")+
     geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Professional and business services"),
             aes(x=time, y=qtrly_estabs_count), color = "green")+
-  geom_vline(aes(xintercept = as.Date(time), color = ss),vertical_lines)+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
  labs(title = "Galveston,Texas",
        subtitle = "Industry Title: SIC 73 Business Services
  & NAICS Professional and business services",
@@ -413,6 +420,90 @@ ggplot() +
 #          x = "") +
 #     facet_wrap(~ industry_title, scales = "free")
 #     # facet_wrap(~ area_fips, scales = "free")
+```
+
+```{r avg_wkly_wage}
+
+ggplot() + 
+ 
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "Retail Trade Division"),
+            aes(x=time, y=avg_wkly_wage), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Retail trade"),
+            aes(x=time, y=avg_wkly_wage), color = "green")+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
+  labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: Retail Trade",
+       x = "Year",
+       y = "Average Weekly Wage")
+
+### FOOD 
+
+ggplot() + 
+  # filter(all_leisuredata,area_fips == '12005'& (industry_title== "Retail Trade Division" | 
+  #                                                      industry_title== "Accommodation and food services"))) +
+  
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "SIC 54 Food Stores"),
+            aes(x=time, y=avg_wkly_wage), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Accommodation and food services"),
+            aes(x=time, y=avg_wkly_wage), color = "green")+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
+  labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 54 Food Stores & NAICS Accommodation and food services",
+       x = "Year",
+       y = "Average Weekly Wage")
+### Wholesale Trade
+ggplot() + 
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "SIC 51 Wholesale Trade Nondurable Goods"),
+            aes(x=time, y=avg_wkly_wage), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Wholesale trade"),
+            aes(x=time, y=avg_wkly_wage), color = "green")+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
+ labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 51 Whole Sale Trade Nondurable Goods & NAICS Wholesale Trade",
+       x = "Year",
+       y = "Average Weekly Wage")
+### Wholesale Trade
+
+## Manufacturing
+ggplot() + 
+  geom_line(data = filter(all_leisuredata,area_fips == '48167' & industry_title == "SIC 39 Miscellaneous Manufacturing Industries"),
+            aes(x=time, y=avg_wkly_wage), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Manufacturing"),
+            aes(x=time, y=avg_wkly_wage), color = "green")+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
+  labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: NAICS Manufacturing",
+       x = "Year",
+       y = "Average Weekly Wage")
+## Leisure and Recreation Services
+ggplot() + 
+  geom_line(data = filter (all_leisuredata, area_fips == '48167' & industry_title == "SIC 79 Amusement and Recreation Services"),
+            aes(x=time, y=avg_wkly_wage), color = "red")+
+  # geom_line(data = filter(all_leisuredata,area_fips == '12005'& industry_title == "Accommodation and food services"),
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Leisure and hospitality"),
+            aes(x=time, y=avg_wkly_wage), color = "green")+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
+ labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 79 Amusement and Recreation Services & Leisure and hospitality",
+       x = "Year",
+       y = "Average Weekly Wage")
+
+### BUSINESS SERVICES
+ggplot() + 
+  geom_line(data = filter (all_leisuredata, area_fips == '48167' & industry_title == "SIC 73 Business Services"),
+            aes(x=time, y=avg_wkly_wage), color = "red")+
+    geom_line(data = filter(all_leisuredata,area_fips == '48167'& industry_title == "Professional and business services"),
+            aes(x=time, y=avg_wkly_wage), color = "green")+
+  geom_vline(aes(xintercept = as.Date(DateTime), color = ss),vertical_lines)+
+ labs(title = "Galveston,Texas",
+       subtitle = "Industry Title: SIC 73 Business Services
+ & NAICS Professional and business services",
+       x = "Year",
+       y = "Average Weekly Wage")
 
 ```
 

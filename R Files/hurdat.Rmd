@@ -150,8 +150,21 @@ atl_line <- atl_sf %>%
   group_by(year, Key) %>% 
   summarise(max_wind = max(Wind),obs = n(), do_union=FALSE) %>%
   filter(obs > 1) %>% # Remove linestings that only have 1 node
-  st_cast("LINESTRING")
-
+  st_cast("LINESTRING") %>% 
+  mutate( ss = case_when(
+    max_wind < 34 ~ "TD",
+    max_wind < 64 ~ "TS",
+    max_wind <= 82 ~ "H1",
+    max_wind <= 95 ~ "H2",
+    max_wind <= 112 ~ "H3",
+    max_wind <= 136 ~ "H4",
+    max_wind > 136 ~ "H5"
+  ),
+  type = case_when(
+    substr(ss,1,1) == "T" ~ ss,
+    as.integer(substr(ss,2,2)) <= 2 ~ "MI",
+    as.integer(substr(ss,2,2)) >= 3 ~ "MA"
+  ))
 #plot(st_geometry(atl_line))
 # Project and Buffer lines
 
@@ -184,7 +197,8 @@ atl_5072 <- st_transform(atl_line, crs = 5072)
 Buffer counties with a 50 km buffer, then intersect that with the projected, but unbuffered, tracks.  Note that I'm buffering counties because there are fewer of them than hurricane tracks (well, sometimes).  That should make the process faster.
 
 ```{r project_and_buffer}
-buff_county_5072 <- st_buffer(county_5072, 50000)
+# buff_county_5072 <- st_buffer(county_5072, 50000)
+buff_county_5072 <- st_buffer(county_5072, 150000)
 # tm_shape( buff_county_5072) +
 #   tm_polygons()
 ```
@@ -208,7 +222,7 @@ atl_us2 = subset(atl_us,select = -c(Record, Lat, Lon, Wind, Pressure, NE34, SE34
 # 
 # all_targethurdat <- data.frame(matrix(vector(), 0, 8))
 # colnames(all_targethurdat) <- out_col_names
-target_fips<-targetcoastal_FIPS
+targetcoastal_fips<-targetcoastal_FIPS$fips
 target_years <- c(1975:2020)
 hurdat1 <- merge( bcounty_strikes2, atl_us2,by="Key")
 hurdat2 = subset(hurdat1,select = -c(obs,Name,geometry,Key,max_wind))
@@ -223,9 +237,10 @@ hurdat2 = subset(hurdat1,select = -c(obs,Name,geometry,Key,max_wind))
 # hurdat3 <-hurdat2 %>% filter(fips %in% target_fips)
 # hurdat4 <-hurdat3 %>% filter(year %in% target_years)
 targethurdat <- filter(hurdat2,fips %in% targetcoastal_fips)
-targethurdat1 <- filter(targethurdat,year %in% target_years)
-saveRDS(targethurdat1, file = here("data","targethurdat1.RDS"))
-
+# targethurdat1 <- filter(targethurdat,year %in% target_years)
+targethurdat_150 <- filter(targethurdat,year %in% target_years)
+# saveRDS(targethurdat_150, file = here("data","targethurdat_150.RDS"))
+saveRDS(targethurdat_150,'C:\\Users\\isabe\\OneDrive\\Documents\\Censusdata_hurricanestrike\\censuscode\\data\\targethurdat_150.RDS')
 drops <- c("geometry")
 targethurdat1[ , !(names(targethurdat1) %in% drops)]
 ```
